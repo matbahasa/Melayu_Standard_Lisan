@@ -41,7 +41,7 @@ Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Standard Lisan_.
 |KL201731|Cerita gembira                   |Monolog  |  0:38|          67|Sabah|
 |KL201732|Cerita sedih                     |Monolog  |  1:09|         153|Sabah|
 |KL201733|Cerita rakyat (Huminodun)        |Monolog  |  1:29|         183|Sabah|
-|Jumlah  |                                 |Monolog  | 49:22|       6,161|     |
+|Jumlah  |                                 |         | 49:22|       6,161|     |
 
 ## Notasi
 
