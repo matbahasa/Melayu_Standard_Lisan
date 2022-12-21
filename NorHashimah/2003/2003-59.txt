@@ -1,0 +1,11 @@
+A1:	Berapa sehelai ni?
+B2:	Lima ringgit, boleh kurang.
+B3:	Tawarlah sikit.
+A4:	Tiga setengah.
+B5:	Empat ringgitlah... boleh untung sikit saja.
+B6:	Barang ni bukannya yang Siam tapi yang sini.
+A7:	Tiga setengahlah kak, lima puluh sen saja.
+A8:	Tak boleh tiga ringgit setengah?
+A9:	Kalau boleh tiga ringgit setengah nak tiga helai jugak ni.
+A10:	Bagilah tiga ringgit setengah, nak tiga helai ni.
+B11:	Ambiklah ...

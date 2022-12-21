@@ -1,0 +1,20 @@
+A1:	Kurang berapa ni?
+B2:	Kurang lapan belas ringgit.
+A3:	Tujuh belaslah.
+B4:	Sepatutnya dua puluh tu.
+A5:	Bagi tujuh belaslah.
+B6:	Tak boleh, bagi satu ringgit lagilah.
+B7:	Kita pun boleh sikit benar dah tu.
+B8:	Bagi lapan belas, lapan belas pun boleh sikit benar dah tu.
+A9:	Tujuh belaslah dua helai.
+A10:	Berapa yang kilat ni.
+B11:	Lima puluh.
+A12:	Tak boleh kurang lagi ke?
+B13:	'Harga spesial' dah tu, harga sebenar, kita letak tujuh puluh lima, tujuh puluh.
+A14:	Yang ni pulak berapa?
+B15:	Tiga puluh, bolehlah kurang lagi kak.
+B16:	Kita bagi dua puluh lapan.
+B17:	Kak nak banyak pasang ke?
+B18:	Ginilah kurang satu ringgit lagi.
+A19:	Yang kilat ni tak boleh kurang lagi ke?
+B20:	Kita bagi 'spesial harga' pada kak.

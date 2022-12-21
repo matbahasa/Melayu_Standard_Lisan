@@ -1,0 +1,17 @@
+A1:	Tak boleh kurang lagi ke kak?
+A2:	Ambil stoking lagi dua.
+A3:	Tiga belaslah kak.
+B4:	Tak boleh bagi sebab barang mari dah mahal.
+A5:	Kira gitulah kak... lepas tu stoking dua lagi.
+A6:	Stoking ni berapa?
+B7:	Satu ringgit setengah.
+A8:	Jadi tiga ringgitlah dua.
+B9:	Tujuh belaslah, tak boleh kurang.
+A10:	Kurang pada stokinglah.
+B11:	Tak bolehlah, sebab stoking ni dah empat hingga lima belas sedozen.
+A12:	Kita dah ambik dua tu.
+B13:	Tak boleh bagi... sen-sen yah kita boleh... kita jual cakap syiling saja.
+A14:	Jadi?
+B15:	Jadi tujuh belas.
+A16:	Enam belas
+B17:	Enam belas setengahlah dah, lima puluh sen dah tu turun.

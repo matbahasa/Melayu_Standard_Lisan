@@ -1,0 +1,35 @@
+A1:	Berapa ni kak?
+B2:	Sembilan.
+A3:	Tak boleh tawar lagi?
+B4:	Boleh, berapa adik nak?
+A5:	Kalau kak bagi lima belas, bolehlah ambik sepasang lagi.
+B6:	(Ketawa) ..., ginilah adik, kak bagi setakat lima belas, baru sampai semalam ni!
+B7:	Adik nak warna apa lagi.
+A8:	Tak boleh lagi ke kak?
+B9:	Biarlah, sebab adik nak ambik banyak pasang, kak bagi dua belas ringgitlah dik, ini akak cakap ni, modal berapa belas dah tu.
+
+10	(Beg)
+A11:	Beg sekolah ni berapa kak?
+B12:	Ginilah, kalau adik nak akak bagi tiga puluh lima, ada sebutir ni saja lagi.
+A13:	Allah, mahalnya.
+B14:	Adik, saya jual barang supermarket ni, bukan barang Siam.
+B15:	Modal mari mahal dah sebab barang yang elok.
+B16:	Kira ginilah, biarlah boleh kurang sikit lagilah.
+B17:	Bagi tiga ringgitlah kat saya, bagi tiga puluh tiga ringgit.
+A18:	Tiga puluh tiga?
+B19:	Boleh?
+A20:	Mahal lagi kak.
+B21:	Habis nak tawar berapa?
+B22:	Biarlah, saya dengar dulu.
+B23:	Modal berapa puluh dah adik oi... kalau supermarket sepuluh sen pun tak boleh tawar ni.
+B24:	Kalau tiga puluh lapan sembilan puluh, tiga puluh lapan sembilan puluh, situlah.
+B25:	Ini kita boleh jugak tawar beberapa ringgit.
+B26:	Cuba tengok kain dialah, bukannya saya nak kempen, barang elok sungguh, bukannya kain nipis... tak.
+B27:	Kita, kalau barang elok, modal berapa puluh, kita tak berani nak jual sebab kita jual barang standard saja!
+A28:	Dua puluh sembilanlah.
+B29:	Tak boleh pergi o.k., tiga puluh tigalah.
+A30:	Dua puluh sembilan boleh?
+B31:	Kesianlah pada kak, oleh sebab kak baru ambil tadi saja, biarlah buat upah tambang, tiga puluhlah.
+A32:	Dua puluh sembilan tidak boleh bagi ke?
+B33:	Tidak boleh, kesianlah kita.
+A34:	Yalah.

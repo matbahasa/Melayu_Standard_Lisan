@@ -1,0 +1,11 @@
+A1:	Berapa ni?
+B2:	Letak lapan belas, kurang lagilah, boleh tawarlah.
+B3:	Jenis kain macam ni tahan.
+A4:	Dua belas tak boleh.
+B5:	Dua belas tak bolehlah.
+A6:	Habis berapa pakcik nak?
+B7:	Kira ginilah, kita bagi lima belas.
+A8:	Mintak kurang sikit lagilah.
+B9:	Empat belaslah.
+A10:	Mintak kurang satu ringgitlah, tadi kita fikir juga nak naik sikit tu.
+B11:	Biarlah.

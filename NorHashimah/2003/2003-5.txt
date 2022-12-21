@@ -1,0 +1,8 @@
+A1:	Berapa harga setangkai ni?
+B2:	Kalau yang tu empat ringgit.
+A3:	Kenapa mahal ni?
+B4:	Taklah, itu harga biasa orang jual, bolehlah empat ringgit---pagi-pagi ni buat gori.
+A5:	Bagi tiga setengahlah saya ambik.
+B6:	Tak bolehlah dik, itu pun harga modal macam mana nak jual.
+B7:	Harga tambang pun tak boleh lagi.
+

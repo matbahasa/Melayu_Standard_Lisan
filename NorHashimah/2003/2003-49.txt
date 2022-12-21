@@ -1,0 +1,9 @@
+A1:	Berapa ni?
+B2:	Yang tu lapan belas.
+A3:	Hih... minta tawarlah.
+B4:	Hih... kita bagi empat belaslah, harga sebenar mahal tu sebab kain jojet.
+A5:	Dua belas?
+B6:	Mintak lima puluh sen lagilah.
+A7:	Alah... lima puluh sen pun nak kira.
+B8:	Nak banyak ke?
+B9:	Ni nak buat gori ni, mula-mula.

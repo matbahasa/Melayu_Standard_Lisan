@@ -1,0 +1,65 @@
+A1:	Berapa ni?
+B2:	Enam puluh.
+B3:	Boleh kurang sikit lagi.
+A4:	Berapa kurangnya?
+B5:	Kalau kak nak, bagilah setakat lima puluh.
+B6:	Boleh?
+B7:	Tinggal dua lagi ni.
+A8:	Tak ada yang lain dah ke?
+B9:	Habis dah, pasal dia kain baru.
+A10:	Empat puluh lima tak boleh?
+B11:	Lima puluhlah.
+A12:	Empat puluh limalah, pasal ini saja yang ada.
+B13:	Ginilah bagi lebih dua ringgit lagi.
+A14:	Tak naklah, empat puluh lima.
+A15:	Saya mari jauh-jauh ni.
+A16:	Saya nak empat puluh lima.
+A17:	Mari jauh-jauh ni, Terengganu nu...
+B18:	Saya pun harga boleh minum air saja.
+A19:	Empat puluh limalah... boleh dah minum air tu.
+A20:	Lebih empat, lima ringgit tu, boleh dah beli beras.
+B21:	Pokok dia pun dah lebih kak.
+A22:	Oh... orang nak balik dah... dah lewat ni, bolehlah empat puluh lima.
+A23:	Kain tuala berapa?
+B24:	Tujuh ringgit.
+A25:	Macam Terengganu jugak tujuh ringgit.
+B26:	Kita bagi enam ringgit.
+A27:	Golok kan murah, sebab dekatkan?
+B28:	Yang ni Singapura punya kak, bukan Golok.
+B29:	Nak berapa?
+A30:	Lima ringgit.
+B31:	Bagi lima ringgit setengahlah, senang.
+B32:	Minta lima puluh sen lagi kak, buat minum air, yang ni empat puluh tujuh.
+A33:	He... ni empat puluh lima, kain tuala lima ringgit jadi lima puluh.
+B34:	Mintak lima puluh senlah, yang ni minta satu ringgit lagi... empat puluh enam.
+A35:	Jadi berapa, empat puluh lima dengan lima, minta lima puluh cukuplah.
+B36:	Empat puluh lima dengan sepuluh jadi lima puluh lima.
+A37:	Bagi lima puluh cukuplah.
+B38:	Tak boleh, kalau lima puluh cukup, jatuh berapa...?
+B39:	Yang ni empat puluh lima, yang kain tuala tu lima ringgit dua jadi bagi lima puluh limalah.
+A40:	Oh, bagi satu ringgit seoranglah... lima puluh tiga.
+B41:	Tak boleh kak, itu pun harga bagi pada kak saja.
+A42:	Batik flower ni berapa?
+B43:	Batik flower dua belas, boleh kurang sikit lagi.
+A44:	Serupa juga dengan Terengganu, kat Terengganu sepuluh ringgit saja.
+B45:	Boleh kurang lagi kalau kak nak bagi sembilan ringgit setengah.
+A46:	Minta murahlah sikit.
+B47:	Serupalah kak, dia besar sikit saja, beza lima puluh sen yah tu dengan Terengganu.
+A48:	Lapan ringgitlah sebab dia kain sama saja.
+B49:	lapan ringgit tak boleh kak.
+A50:	Bolehlah, kalau lapan ringgit, ambik sungguh.
+A51:	Ambik dua.
+B52:	Dua tak boleh.
+A53:	Dah beli banyak ni.
+B54:	Sembilan setengah tu... kita boleh lima puluh sen saja.
+A55:	Sembilan ringgit.
+B56:	Tak boleh.
+A57:	Tak boleh, saya nak balik dahlah.
+B58:	Kak nak berapa helai?
+B59:	Ambik dua helai ya!
+B60:	Ambik dua helailah, saya bagi harga sembilan ringgit jadi dua---lapan belas.
+B61:	Jual kak ya!
+
+
+
+

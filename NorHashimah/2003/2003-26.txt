@@ -1,0 +1,16 @@
+A1:	Saiz kecik sikit pada ni ada?
+B2:	Yang ni padan dah dengan adik ni.
+A3:	Yang tu berapa?
+B4:	Yang tu lapan setengah, kalau yang kosong biasa dapatlah murah sikit.
+A5:	Enam ringgit tak boleh ke?
+A6:	Orang sini jugak ni.
+B7:	Kita bagi murah dah ni kak
+A8:	Eh... tak boleh kira, kalau pelancong mesti mahal-mahal lagi
+B9:	Kita jual sama saja.
+A10:	Sini dekat saja dengan Pengkalan Kubur.
+B11:	Kita bagi murah dah---lebih kurang saja dengan harga sana?
+A12:	Lepas tu, berapa boleh bagi ni?
+B13:	Yang tu lapan setengah, kalau kak nak kita bagi kuranglah sikit... kalau kecik ambik yang besar sikit la... boleh terai---puas hati sikit.
+B14:	Kalau tak padan boleh tukar selalu.
+
+

@@ -1,0 +1,78 @@
+A1:	Kain batik Jawa ni berapa?
+B2:	Dua puluh ringgit kak, dia labuh.
+A3:	Yang ni?
+B4:	Yang tu, harga saya letak tujuh belas, saya jual satu-satu lima belas.
+B5:	Ambiklah kak satu.
+A6:	Yang ni kira macam mana?
+B7:	Yang tu, saya bagi seratus lapan puluh, sehelai-sehelai saya jual sebelas ringgit.
+B8:	Yang ni saya jual satu-satu sembilan tetapi kalau saya bagi harga niaga, jatuh lapan ringgit sehelai.
+A9:	Yang ni sekodi berapa?
+B10:	Sekodi seratus lima puluh.
+A11:	Tak boleh kurang lagi ke?
+B12:	Tak boleh kak, habislah tu.
+B13:	Saya pun boleh dua, tiga puluh sen yah sehelai, bukannya boleh banyak.
+A14:	Yang ni berapa?
+B15:	Yang ni dua ratus.
+A16:	Allah, kenapa mahal sangat?
+B17:	Sebab dia empat lapis, kalau tiga lapis seratus lapan puluh, yang empat lapis lebih tebal.
+B18:	Kak nak sekodi ke?
+B19:	Kak berani berapa yang empat lapis ni?
+B20:	Saya bagi pada kak, dua ratus.
+B21:	Satu kodi saya letak sehelai-sehelai sebelas.
+B22:	Kalau boleh saya minum air, bagi.
+A23:	Kalau seratus enam puluh ringgit?
+B24:	Ginilah, saya bagi sembilan ringgit sehelai, saya pun boleh sikit saja.
+A25:	Habis saya nak jual nanti, berapa?
+B26:	Ginilah, saya bagi seratus enam puluh, kurang lima ringgit lagi.
+B27:	Tak boleh gi dah tu, saya pun boleh sikit saja.
+B28:	Niaga ni tak boleh banyak.
+B29:	Kalau kak pergi tempat lain pun, kadang tu beza dengan tempat saya sampai lima ringgit sekodi.
+B30:	Kain baru ni kak, baru sampai semalam.
+B31:	Jadi semua sekali dua ratus sembilan puluh.
+A32:	Dua ratus sembilan sajalah, itu pun lima ringgit.
+A33:	Alah lima ringgit itu pun nak kira.
+B34:	Tak dapat, itu pun boleh buat minum air saja kak.
+A35:	Lima ringgit minum air, sekejap lagi habislah.
+B36:	Bayar hasil lagi, yang ni sikit, yang tu sikit.
+B37:	Boleh sikit-sikit saja kak.
+B38:	Tak boleh banyak.
+A39:	Tiga lapis ni berapa.
+B40:	Seratus empat puluh.
+A41:	Seratus dua puluh saja.
+B42:	Seratus dua puluh tidak boleh.
+B43:	Rugi saya kalau seratus dua puluh.
+B44:	Jatuh sehelai-sehelai tujuh ringgit, tak mahal dah tu.
+B45:	Ginilah kalau kak nak, kita bagi seratus tiga puluh.
+B46:	Tak boleh pergi dah tu.
+A47:	Seratus dua puluhlah.
+B48:	Seratus dua puluh tak boleh.
+A49:	Seratus dua puluh limalah.
+B50:	Tidak boleh, itu pun bagi 'spesial harga' dah tu.
+A51:	Kita ambil yang ni sepuluh helai, enam puluh lima boleh?
+B52:	Enam puluh lima ringgit, sepuluh helai, tak apalah bagi pada kak.
+A53:	Yang satu lagi, seratus dua puluhlah, kurang lima ringgit.
+A54:	Ambik pun dah banyak ni.
+B55:	Oh, itu pun saya boleh sikit saja kak.
+B56:	Yang tu sikit, yang ni sikit, boleh buat minum air saja.
+B57:	Tak boleh untung sampai empat, lima ringgit kak.
+B58:	Boleh sikit saja.
+A59:	Cadar tu berapa?
+B60:	Seratus empat puluh.
+A61:	Mahalnya.
+B62:	Kalau kak nak, seratus tiga puluhlah.
+A63:	Orang ambik seratus saja.
+B64:	Saya ambik lebih dah seratus, di atas kain-kain.
+A65:	Habis, kain tadi seratus helai ni berapa?
+B66:	Enam puluh lima.
+A67:	Mahalnya, tak boleh lagi ke?
+A68:	Ha... takkan tak ambil untung.
+B69:	Sungguh kak, tak ambil untung ni.
+B70:	Enam puluh tigalah, potong dua ringgit, buat minum air.
+A71:	Alahai, air empat puluh sen saja.
+B72:	Itu pun sikit saja kak, saya nak bayar hasil lagi.
+A73:	Tak boleh kurang lagi.
+B74:	Tak boleh, lain kali kak mari kedai sayalah, saya bagi 'harga spesial' pada kak.
+A75:	Berapa semua?
+B76:	Tiga ratus lapan puluh lima.
+A77:	Tiga ratus lima puluh limalah.
+B78:	Tak boleh pergi kak, saya ni pun boleh sen saja ni, tak boleh banyak.

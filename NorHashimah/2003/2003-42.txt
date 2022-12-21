@@ -1,0 +1,37 @@
+A1:	Berapa ni?
+B2:	Merah ni empat puluh lima.
+A3:	Yang ni?
+B4:	Lima puluh lima, baldu dia mahal sikit, kita bagi kuranglah, kalau kak nak, baru sampai ini.
+A5:	Yang kulit tu berapa?
+B6:	Yang kulit tu tiga puluh lapan.
+A7:	Macam mana mahal sangat aa... ?
+B8:	Boleh kurang lagi harga dia, kak nak tawar berapa?
+A9:	Yang ni berapa?
+B10:	Serupa harga tiga puluh lapan.
+B11:	Kalau kak nak, boleh kurang sikit.
+B12:	Bagi tahulah kak nak bayar berapa?
+B13:	Kalau boleh bagi kita bagi.
+A14:	Beli kat Rantau Panjang dua puluh lebih saja.
+B15:	Bezalah dengan sini sebab kita bayar cukai lagi, belum tentu tahu lagi selamat tak selamat.
+B16:	Tak apalah bagi kurang sikitlah kak.
+A17:	Paling kurang berapa?
+B18:	Bagi tahulah kak, tawar molek.
+A19:	Tawar molek, lama kan kita tawar tak kena harga.
+B20:	Kak tawar tu, biar berpatutan dengan barang yang nak jual ini, bagi tahulah kak nak tawar berapa?
+A21:	Dua puluh lebih boleh ya.
+B22:	Ginilah betul-betul ya, kak nak kita bagi tiga puluh satu, kesian kita kak, tak bolehlah buat macam di Rantau Panjang tu.
+A23:	Kita cakap hak sungguh ni, beli Rantau Panjang tu dua puluh tiga saja.
+B24:	Ginilah kak, kalau kak nak, kita bagi tiga puluh cukup, kalau untung dua, tiga ringgit pun tak apa dah.
+B25:	Kalau beli dua lainlah.
+B26:	Nak sikitlah, kesian kita.
+A27:	Tak boleh dah ke, kuranglah sikit lagi.
+B28:	Kak nak berapa butir... nya.
+A29:	Satu butir saja.
+A30:	Kalau kak balik Jerteh, boleh tunjuk pulak, kalau orang berkenan.
+B31:	Molek dah tiga puluh, kalau jual kat orang lain tiga puluh dua, tiga-tiga, bagi tahu kat kak saja, tak tipu kak.
+A32:	Kurang-kurang dua puluh lapanlah.
+B33:	Harga akhirlah dua puluh sembilan, bagi kita satu ringgit lagilah.
+B34:	Tak boleh gi kak, kalau kak ambik dua buah, bolehlah kurang sikit lagi, sikitlah.
+B35:	Kesianlah kita.
+A36:	Dua puluh lapanlah dik.
+B37:	Tak bolehlah kak, kesian kita, tak boleh pergi dah, mahal di tali beg ni, dua puluh lebih dah modal kita tapi puas hatilah, barang elok ambik dua.

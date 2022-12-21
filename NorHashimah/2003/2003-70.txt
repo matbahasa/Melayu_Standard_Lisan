@@ -1,0 +1,60 @@
+A1:	Berapa kain batik ni?
+B2:	Dua puluh mak cik.
+A3:	Dua puluh?
+B4:	Bolehlah kurang sikit lagi, pagi-pagi ni.
+A5:	Lima belas.
+B6:	Lima belas tak boleh, dia panggil 'Jawa JK'.
+A7:	Lima belas bolehlah dik.
+B8:	Lima belas tak boleh, kalau nak bagi tujuh belaslah.
+B9:	Pasal nak buat gori pagi-pagi ni.
+A10:	Bolehlah lima belas.
+B11:	Lima belas tak dapat, tujuh belaslah pagi-pagi ni pasal batik Jawa ni, lima belas yang satu lagi.
+A12:	Lima belas bolehlah.
+B13:	Pasal pagi-pagi ni nak buat gori.
+A14:	Lima belaslah, banyak nak ambik ni.
+B15:	Tujuh belas mak cik, tak betul tu, kita boleh sikit saja.
+A16:	Nak ambik banyak ni.
+B17:	Lima belas tak dapat, ambik pun dah lebih.
+
+A18:	Kalau kita nak berniaga ni, bagilah kurang sikit.
+B19:	Harga berniagalah tu bagi biasa jual ni, harga tarik ni dua puluh lima, pasal pagi-pagi ni, kan.
+A20:	Boleh tu, dah enam belas saja.
+B21:	Tujuh belas, kita boleh sikit saja, buat minum air saja.
+B22:	Niaga ni tidak boleh banyak.
+B23:	Boleh empat hingga lima puluh sen saja sehelai.
+A24:	Enam belas boleh ya?
+B25:	Tujuh belaslah mak cik, itu pun boleh buat minum air saja.
+A26:	Bagilah kurang sikit, nak berniaga.
+B27:	Itu bagi harga niaga dah tu.
+A28:	Lima belas, bolehlah ambil empat helai.
+B29:	Tidak boleh, itu pun dah bagi 'spesial harga' tu.
+B30:	Harga biasa dah tu bagi.
+B31:	Yang tu tiga puluh lima.
+B32:	Bolehlah kurang sikit lagi.
+B33:	Baru sampai semalam.
+A34:	Sepasang ni berapa?
+B35:	Yang tu dua puluh, bolehlah kurang lagi.
+A36:	Takkanlah dua puluh, lapan belaslah.
+B37:	Lapan belas tu, kain yang satu lagi.
+B38:	Ginilah kalau nak, kita bagi sama dengan harga kain sarung tadi, tujuh belas ringgit.
+B39:	Boleh ke mak cik?
+B40:	Tengok-tengoklah dulu.
+B41:	(Kain cotton).
+A42:	Lima belas tidak boleh?
+B43:	Lima belas tidak boleh, itu pun saya boleh sikit saja, sebab ni Jawa empat lapis.
+A44:	Lima belas bolehlah, ambik dua helai.
+B45:	Harga saya ambik pun tidak boleh lagi.
+A46:	Bolehlah kurang sikit?
+B47:	Ginilah bagi harga sama dengan kain sarung.
+B48:	Pasal harga niaga ni sikit-sikit saja ambil.
+A49:	Bolehlah tu.
+B50:	Saya pun boleh sikit saja, empat hingga lima puluh sen saja sehelai.
+A51:	Tak apalah, lama-lama jadi bukit.
+A52:	Sikit-sikit lama-lama jadi bukit, ya tak?
+A53:	Kiralah berapa semua tu.
+B54:	Seratus lima puluh tiga, sembilan helai.
+B55:	Saya kira harga sama.
+B56:	Biasanya yang ni, saya jual lapan belas, tak apalah pasal mak cik ambik banyak.
+A57:	Bolehlah kurang tiga ringgit lagi tu.
+B58:	Yang tiga ringgit lagi tulah yang saya punya tu, tak banyak.
+B59:	Seratus ringgit lebih potong pun, boleh sikit saja.

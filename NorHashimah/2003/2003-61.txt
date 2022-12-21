@@ -1,0 +1,45 @@
+A1:	Berapa yang ni?
+B2:	Yang ni, empat puluh lebih.
+A3:	Saya beli dulu tiga puluh lima saja.
+B4:	Kat mana, mesti kain lain tu.
+A5:	Serupa dengan 'jarum emas' tetapi dekat Arked Mara.
+B6:	Tak dapat, saya ambik pun harga dia dah empat puluh lebih jugak, modal pun empat puluh lebih.
+A7:	Berapa ni?
+B8:	Yang ni, saya bagi tahu harga betullah... empat puluh lapan.
+A9:	Allah... empat puluh tak boleh.
+B10:	Saya ambik pun harga dah empat puluh lebih dah.
+A11:	Bagi empat puluhlah, yang ni lima puluh... kita ambik dua pasang.
+B12:	Tak sampai modal, tak boleh bagilah.
+A13:	Bolehlah...
+B14:	Tak sampai modal, kita nak jual macam mana.
+A15:	Bagi ya empat puluh...
+B16:	Tak sampai modal lagi.
+A17:	Bagilah, orang nak gori ni, hari dah gelap dah, orang pun dah nak balik.
+B18:	Tak sampai modal lagi.
+B19:	macam mana saya nak jual, rugi pulak.
+A20:	Bagi-bagilah, orang nak balik dah.
+A21:	Tak boleh bagi empat puluh ni?
+B22:	Tak boleh, tak sampai modal.
+A23:	Bagilah, minta jugak tu.
+B24:	Modal dah empat puluh dah ni, ini mahal.
+A25:	Kurang sikit lagi empat puluh dua dah.
+B26:	Empat puluh dua pun tak boleh pergi lagi.
+B27:	Saya letak enam puluh lima tapi kak selalu beli sini, tiap-tiap bulan saya bagi empat puluh lima.
+A28:	Bagi-bagilah, empat puluh dualah... kita bagi satu ringgit lagilah... jadi empat puluh tiga, orang kira nak gorilah tu.
+B29:	'Jarum emas' tu mahal.
+A30:	Alah, empat puluh tiga... empat ringgit pun nak ambik jugak minta dah tu.
+B31:	Ginilah yang tu empat puluh lima, yang lagi satu tu lima puluh.
+B32:	Yang ni tak boleh pergi dah.
+A33:	Biarlah yang ni minta empat puluh lima, yang satu lagi tu tiga puluh.
+B34:	Tak boleh, minta maaflah.
+A35:	Boleh-bolehlah tu, kalau ikut kita tak berkenan juga, sebab warna dia gelap sikit.
+A36:	Boleh-bolehlah... mintak jugak, kalau tidak... tak laku jugak.
+B37:	Laku.
+A38:	Tiga puluh dah, minta jugak.
+A39:	Tempat awak ni saya mari lagi.
+A40:	Kira dua pasang tu tujuh puluh lima, minta kurang lima ringgit.
+A41:	Tujuh puluh lima saya ambil dua ni.
+B42:	Tak boleh kak, yang ni mahal dah ni.
+A43:	Ginilah, empat puluh lima dengan tiga puluh dua, pergi bungkus-bungkus.
+A44:	Oh... tiga ringgit pun nak kira, beratlah gini... semua sekali kira tujuh puluh tujuh ringgit.
+B45:	Lain kali, saya tak nak jugak dengan harga gini.

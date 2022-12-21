@@ -1,0 +1,44 @@
+B1:	Yang murah sembilan ringgit sehelai ada.
+A2:	Sembilan ringgit?
+A3:	Yang ni sembilan ringgit.
+B4:	Ooh... boleh kurang lagi.
+A5:	Yang tu berapa?
+B6:	Yang tu dua belas, yang tu sepuluh, yang tu tujuh.
+B7:	Boleh kurang lagi.
+B8:	Nak banyak ke?
+B9:	Kalau nak banyak... berapa helai?
+A10:	Sekodi.
+B11:	Kalau yang ni seratus tiga puluh.
+B12:	Enam setengah sehelai.
+A13:	Mahal dah tu.
+B14:	Tak mahal dah.
+B15:	Nak berapa kodi?
+A16:	Boleh kurang lagi ya...
+B17:	Ginilah kak, kurang dua ringgit.
+B18:	Lepas tu tak boleh pergilah.
+B19:	Seratus dua puluh lapan.
+A20:	Kalau dapat murah sikit, nanti kita mari sini lagi.
+B21:	Serupa harga niaga tu bagi.
+B22:	Biasa jual tujuh bagi enam setengah.
+B23:	Saya pun boleh dua puluh sen sehelai, cakap ikhlas dah tu kak.
+A24:	Kalau enam ringgit, nak ambik yang lain lagi.
+B25:	Bagi enam ringgit tiga puluh, lepas tu tak boleh pergilah lagi.
+B26:	Pasal niaga pun dah kurang benar sekarang.
+B27:	Kalau enam ringgit rugilah saya.
+B28:	Enam ringgit tiga puluh tu tak boleh pergi dah.
+A29:	Kita kena pergi tempat lainlah pulak.
+B30:	Tak dapat kak, cakap betul.
+B31:	Kalau kak pergi tempat lain pun, tak dapat harga macam ini.
+A32:	Cakap betullah, nak ambik yang lain lagi.
+B33:	Itu bagi enam ringgit tiga puluh, special harga dah tu kak.
+A34:	Turun sepuluh senlah.
+B35:	Tak boleh.
+A36:	Enam ringgitlah, kita ambik yang lain nanti datang pula lain kali.
+B37:	Itu nak suruh kak mari pulaklah tu, cakap betul dah tu.
+A38:	Kalau enam ringgit tiga puluh berapa sekodi?
+B39:	Seratus dua puluh enam.
+A40:	Seratus dua puluh limalah.
+B41:	Sekodi?
+A42:	Ya...
+B43:	Bolehlah saya bagi pada kak seratus dua puluh lima.
+

@@ -1,0 +1,13 @@
+A1:	Berapa ni?
+B2:	Yang ni jual dua belas ringgit.
+A3:	Oh, adik bagi sepuluh cukuplah.
+A4:	Kurang dua ringgit.
+B5:	Harga boleh kurang, sepuluh ringgit setengahlah.
+A6:	Oh... lima puluh sen tu tak payahlah, ni tak mintak banyak, lima puluh sen tu nak buat tambang bas balik nanti.
+A7:	Bagi cukup teruslah yang tu.
+B8:	Jadi semua sekali dua puluh, yang tu sepuluh---sepuluh jadi empat puluh.
+A9:	Bagi tiga puluh limalah.
+B10:	Oh... bagi murah tu, kena mari pulak nanti.
+A11:	Kita pun mintak tak banyak, sikit-sikit saja tu.
+B12:	Kita pun bagi kurang dah tu.
+

@@ -1,0 +1,278 @@
+A1:	Sejam nak milo, sejam nak milo.
+A2:	Lepas tu, ½ jam kencing.
+A3:	Tak payahlah minum milo.
+A4:	Pagi dah makan nasi lemak.
+A5:	Orang makan, dia nak makan juga.
+B6:	2½ tahun... tahun 96 ye.
+C7:	Anak Mek Nah tu, dah boleh baca Quran dah, dah mengenal.
+C8:	Kakak nak kahwin, bukan nak sekolah.
+C9:	Mak nak awin Mak!
+C10:	Dia tahu kita sebut pasal kahwin.
+C11:	Bukan selalu pergi pun.
+C12:	Yang tu, yang nombor dua tu, besar dari ni.
+D13:	Berapa tahun?
+B14:	2 tahun.
+B15:	Mak Su, Da letak sini nih.
+C16:	Kenapa?
+B17:	Nanti Da ambik.
+B18:	Kalau naik ni, Mak Su bagi tahu Da ya?
+A19:	Kita hajatnya tak nak datang hari ni.
+A20:	Ingatkan nak pergi masa menghantar nanti.
+A21:	Tapi tak tahulah.
+A22:	Kalau jadi, kita pergi juga.
+B23:	Nak balik terus ke hari ini?
+A24:	Taklah!
+A25:	Ada hal.
+A26:	Kena balik esok.
+C27:	Mak pujuklah Abah nun.
+B28:	Nak balik dah?
+B29:	Kirim salam kat Mak ye.
+D30:	Mak eh, nasi dalam bekas ni, habis dah.
+A31:	Nasi apa?
+D32:	Lauk ada.
+D33:	Nasi baru nak buat tu.
+A34:	Ikutlah.
+A35:	Tak ada hal.
+A36:	Pasal cucu dok demam tuh.
+B37:	Masak yang ni, kira jadilah.
+B38:	Boleh makan panas-panas.
+B39:	Makan mee dululah.
+A40:	Tak payahlah Nab eh.
+E41:	Mi...
+E42:	Mi... nak gelang !
+C43:	Gelang?
+C44:	Gelang kaki.
+B45:	Ooo....
+B46:	Nanti Wan pergi Kota Bharu.
+B47:	Gelang kaki dia patah.
+B48:	Nanti Wan pergi pateri.
+F49:	Kakak oh kakak!
+C50:	Itulah, Mas nak pergi Kota Bharu esok.
+F51:	Cakaplah dengan Wan, nak cincin, gelang, gelang kaki.
+B52:	Nak pergi buat apa?
+C53:	Nak ambil tiket tu.
+F54:	Eh, marilah Cik Mah nak tanya ni.
+F55:	Syafiq cakap tak dengan Wan, nak apa?
+B56:	Duduk dengan Wanlah!
+B57:	Wan kata, kalau nak emas, duduk dengan Wan.
+E58:	Tak nak!
+B59:	Kalau tak nak, Wan tak nak bagi kalau tak nak duduk.
+A60:	Lepas basuh, letakkan kat situ.
+A61:	Pergi letak kat sana.
+B62:	Dalam besen, ada air.
+A63:	Letak kat sana!
+A64:	Kena sepak kat orang lalu lalang nanti.
+A65:	Apa ni, minum air, letak situ.
+A66:	Siapa ajar?
+C67:	Pergilah makan nun.
+D68:	Dah makan dah, dengan Kak Yah.
+D69:	Sejak kelmarin lagi tak makan.
+D70:	Tengah hari kelmarin makan dengan sayur pedas.
+D71:	Lepas tu, semalam tak makan lagilah.
+E72:	Abah makan nasi dengan apa?
+D73:	Abah, Mak menanak kat rumah tu.
+D74:	Dia tak nak Mak gulai apa-apa.
+D75:	Dia suruh goreng aje...
+F76:	Da nak balik bila Da?
+E77:	Hari ini... tengoklah.
+D78:	Tengok sini, nak tengok muka sikit nih.
+G79:	Heh.... ni, Tok Nab nak tengok sikit nih.
+G80:	Buat muka comel sikit gak.
+G81:	Salam dengan Tok Nab ni dulu.
+G82:	Tingginya Mak Nab tengok Dani.
+G83:	Duduk kat mana?
+E84:	Kuala Lumpur.
+D85:	Ni yang sulung ke?
+E86:	Ya.
+A87:	Nak kena pergi jemput ke?
+B88:	Ada dah orang yang pergi.
+C89:	Payung!
+C90:	Ada payung ke?
+D91:	Panggil keluarga, Mak Su!
+D92:	Hah Mak Nab!
+D93:	Pergilah ambil gambar nun.
+E94:	Mak Nab dok kat mana ni?
+D95:	Kat dapur!
+D96:	Mak Nab ni, adik-beradik dia ni.
+F97:	Na, duduk di tengah.
+G98:	Tak muatlah.
+G99:	Mari duduk atas ribalah.
+G100:	Bateri terbuka tu.
+G101:	Ke memang fesyen dia macam tu?
+A102:	Tujuh beradik semuanya.
+A103:	Marilah ambil gambar.
+B104:	Su!
+B105:	Mana bateri?
+C106:	Eh, pergi beritahu Ayah Long, suruh dia baca doa.
+C107:	Din, baca doalah seorang Din.
+B108:	Pergi berdiri kat tengah ni seorang.
+A109:	Pergi ambik pinggan 4, 5 biji kat bawah tu.
+A110:	Air mati tu, air batu dok kat luar nun.
+A111:	Pergi ambik sendirilah.
+B112:	Yah, hulur ikan goreng tu.
+C113:	Nak apa ni, daging ke?
+D114:	Nak yang tu, dalam pinggan tu.
+A115:	Mana getah seurat?
+B116:	Dekat rumah aje Som, tak payah guna getahlah.
+B117:	Pegang dengan tangan aje.
+A118:	Getah banyak eh.
+A119:	Jumpa ke?
+C120:	Ni getah nih!
+D121:	Mak Su!
+D122:	Mak Su!
+E123:	Ye, nak menghidanglah ni.
+F124:	Makan kat sini ajelah.
+E125:	Heh!
+E126:	Makan kat luar tu.
+G127:	Kak Nik, bubuh seketul.
+G128:	Guna pinggan kecil aje.
+E129:	Eh!
+E130:	Timun pengantin.
+A131:	Di luar tu dah ada.
+A132:	Mak Nab!
+A133:	Tutup api nasi tu.
+A134:	Mana kain seperah?
+B135:	Ada tu.
+B136:	Atas almari di luar tu.
+B137:	Buat pergi air tu dulu, lepas tu baru buat pergi nasi.
+B138:	Eh, gi ambil nasi kat tanah nun, ada lagi.
+B139:	Guna senduk tu.
+A140:	Nasi tambah?
+B141:	Tak bubuh lagi, ni baru nak menghidang.
+A142:	Sambal bubuh ke tidak?
+B143:	Sambal tu bubuhlah.
+C144:	Kak Ani, lalu kat belakang sikit ni Kak Ani ye.
+B145:	Zah eh, tudung ni kat mana ni?
+C146:	Belakang sink tu.
+C147:	Tak boleh ambil lagi tu Mak Nah tu.
+C148:	Biarlah dulu.
+D149:	Ma!
+B150:	Ya!
+B151:	Timah, Amat, Yah (bini Harun) tu demam!
+B152:	Bubuhlah sikit, pakat-pakat bagi.
+E153:	Wan!
+D154:	Apa, Sarah nak apa?
+D155:	Kita ikut-ikut mana pun tak apa, senang!
+D156:	Kalau dah buat kerja tu, tak apalah.
+
+B157:	Boleh ke buat kerja demo tu?
+A158:	Biarlah!
+B159:	Eh, nak naik sebentar, nak tengok katil pengantin.
+A160:	Pergilah.
+C161:	Sarah!
+C162:	Sarah balik sekali dengan Mak.
+D163:	Apa tu Kak Da?
+D164:	Tape ape?
+B165:	Tape pengantin.
+B166:	Nak buat kerja dia.
+E167:	Nak buat macam kajian, perkahwinan tulah.
+B168:	Untuk sekolah dia.
+B169:	Bahasa, bahasa.
+F170:	Mengajar kat mana?
+B171:	Dia... dok kerja kat UKM.
+B172:	Duduk di Kajang.
+B173:	Pergilah berjalan.
+E174:	Mak!
+E175:	Balik karanglah mak.
+
+B176:	Makan dah?
+C177:	Makan dengan pengantin ni.
+D178:	Biarlah.
+B179:	Eh!
+B180:	Ni anak teruna ke?
+C181:	Sibuk betul.
+C182:	Hmm... tu belum potong lembu lagi tu.
+C183:	Kalau potong lembu 3 malamlah tak tidur.
+A184:	Ni... ambil nasi ni.
+A185:	Jangan malu-malu.
+A186:	Makan kenyang-kenyang.
+A187:	Inilah masakan Kelantan, Terengganu.
+A188:	Tukang masaknya sedap lagi best.
+
+A189:	Mat eh, nasi putih ada ni.
+A190:	Nak nasi putih?
+B191:	Eh, tak payahlah.
+B192:	Nasi ni dah ada.
+A193:	Berapa hari cuti?
+B194:	Lebih kurang dua minggu.
+A195:	Balik sana, datang sini balik?
+B196:	Taklah.
+A197:	Eton kata baru ni balik.
+B198:	Kalau nak balik, kena cuti lagi sekalilah.
+A199:	Habiskan lauk tu
+C200:	Syed balik dah?
+D201:	Balik dah.
+A202:	Eh, kasut tu buang dulu, ada tahi ayam tu.
+A203:	Nakal sungguh la.
+A204:	Siapa yang tinggal kat Kajang?
+B205:	Kajang?
+B206:	Kajang kat mana?
+C207:	Taman Zamrud.
+C208:	Pergi dekat Wan.
+C209:	Sarah!
+C210:	Sarah!
+C211:	Kakak panggil tu.
+D212:	Adik!
+D213:	Adik!
+B214:	Wan panggil tu.
+B215:	Marilah.
+B216:	Alah... lama-lama tak tengok macam tulah.
+B217:	Salam dulu.
+A218:	Len, nak beli anak ayam boleh?
+B219:	Bolehlah.
+B220:	Nak cari kotak hari ini.
+B221:	Dah cakap dah kat dia, Nab nak anak ayam 2 ekor.
+C222:	Tapi tak lawa manalah anak ayam tu.
+A223:	Biarlah tak lawa pun
+A224:	Pergi kat Wan tu.
+A225:	Wan!
+A226:	Minta sikit Wan.
+A227:	Sayang pipi Wan.
+B228:	Selesema budak ni, Len.
+C229:	Ha... ah.
+C230:	Mak Nab nak balik bila?
+A231:	Esok!
+B232:	Pukul berapa?
+A233:	Tengok dululah.
+B234:	Mak Nab nak ayam, singgah dululah.
+B235:	Kalau Len tak ada, Len letak dalam kotak, Len cakaplah kat Mak.
+A236:	Yelah.
+B237:	Len baru ambil anak ayam baru.
+B238:	Nak buat guk baru pula.
+A239:	Nakmu buat tu siap dah?
+B240:	Belum lagi.
+B241:	Len sedia kotak ke, Mak Nab kena cari sendiri?
+A242:	Lenlah cari.
+A243:	Ada dah kotak kat rumah tu.
+A244:	Makanannya, makan apa hah?
+C245:	Dedak telorlah.
+C246:	Jangan dedak ayam daging Nab!
+C247:	Kalau ayam daging, gemuk kementonglah mu.
+C248:	Lepas tu, mu campur ubat yang tak nak bagi bau busuk tu.
+D249:	Nak air!
+D250:	Wan!
+D251:	Mintak sikit Wan.
+C252:	Minta dengan Tok Nablah.
+B253:	Kelmarin baru Len ambil ayam dengan kawan Len.
+B254:	Serama betul.
+C255:	Mu letak dalam guk mana?
+B256:	Tak ada guk tu.
+E257:	Eh, Che Ting, cuba mu tengok Len nak buat guk ni.
+E258:	Buat sementara aje.
+F259:	Mak!
+F260:	Ida tanya ni, Mak tak nak balik lagi ke?
+C261:	Nak balik dah ni.
+D262:	Wan!
+D263:	Wan!
+C264:	Ya, Sarah nak apa?
+G265:	Ya Allah, ada belakalah rakyat ni.
+A266:	Yah, mu nak duduk lama sini kan?
+A267:	Kira masak adik-beradik ajelah.
+A268:	Ni anak Mah ni.
+A269:	Daging 30 kilo, ayam 30 ekor.
+B270:	Banyak dah tu.
+C271:	Nak balik dah nih.
+C272:	Pergi salam dengan Tok Ngah tu.
+A273:	Mu nak ke gulai ni?
+C274:	Bawa baliklah.
+

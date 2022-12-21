@@ -1,0 +1,11 @@
+A1:	Yang ni berapa?
+B2:	Yang ni mahal sikit, tiga puluh lebih sebab barang supermarket.
+B3:	Nak berapa buah.
+A4:	Dua saja.
+A5:	Mahallah kak tak leh kurang ke?
+B6:	Tengok-tengoklah dulu, kalau boleh kita bagi kurang, yang dua ni ke?
+B7:	Macam nilah, kita bagi tiga puluh cukup.
+A8:	Sikit lagilah kak.
+B9:	Murah dah tu dik, mana-mana adik pergi pun, orang letak harga tu juga, pasal adik ambil dua, kak bagi tiga puluh ringgit.
+A10:	Bagilah kurang satu ringgit lagi.
+B11:	Biarlah tak apa, tahan kain ni, bukannya tak tahan.

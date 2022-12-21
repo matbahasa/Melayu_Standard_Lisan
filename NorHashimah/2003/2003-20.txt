@@ -1,0 +1,8 @@
+A1:	Telekung ni tak boleh kurang lagi ke?
+A2:	Bagilah lima ringgit.
+B3:	Tak boleh dah, harga mari pun lebih daripada tu.
+B4:	Lepas tu mana bahagian kita.
+A5:	Bagilah orang.
+A6:	Ni orang biasa sini ni (pelanggan tetap).
+B7:	Itupun lima ringgit bagi ke orang kitalah tu.
+B8:	Memang tu dah harga dia, murah dah.

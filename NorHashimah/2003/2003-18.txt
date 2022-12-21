@@ -1,0 +1,20 @@
+A1:	Mak cik, kira yang ni.
+B2:	Harga yang ni dua ringgit.
+B3:	Ginilah mak cik bagi satu ringgit lapan puluh, kalau orang lain dua ringgit harga tak bergerak dah (harga tetap).
+A4:	Kain ela ni?
+B5:	Kain ni empat ringgit.
+A6:	Tak boleh kurang lagi ke?
+B7:	Tak boleh dah, harga dia memang empat ringgit.
+B8:	Dengan orang lain tak boleh empat ringgit ni.
+B9:	Biasa orang jual empat ringgit dua puluh.
+A10:	Bagi tiga ringgit lapan puluhlah
+B11:	Tak bolehlah dik, lainlah kalau ambik sepuluh ela atau satu kayu ke.
+B12:	Bolehlah.
+A13:	Kain ni berapa pulak?
+B14:	Sepuluh ringgit, ambiklah sembilan ringgit setengah, boleh bagi.
+A15:	Lapan ringgit setengahlah.
+B16:	Kasihanlah kita dik---lapan setengah tu hak kita pun tak sampai lagi.
+B17:	Kita jual murah dah tak naklah pegang-pegang harga.
+A18:	Tak apalah.
+A19:	Berapa semua itu?
+

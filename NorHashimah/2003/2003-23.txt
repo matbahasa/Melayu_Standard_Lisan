@@ -1,0 +1,42 @@
+A1:	Tak boleh kurang lagi kak?
+B2:	Nak kurang macam mana lagi dik.
+B3:	Upah buatnya sudah mahal....
+B4:	Nak siapkan satu-satu helai tu ketar tangan.
+A5:	Warna dia keluarlah kak.
+B6:	Yang tu memang tak boleh cari dah... biasalah tu.
+B7:	Kain batik mana-mana pun mesti ada dera (luntur warna).
+B8:	Sebab orang yang buat---bukan mesin ni.
+B9:	Itu pun habih cekak (berhati-hati) dah.
+A10:	Yang tu berapa kak?
+B11:	Itu... seratus lapan puluh ringgit, boleh kurang sikit kalau nak gak---harga boleh turun lagi---yang ni lawa-lawa colour dia---tengoklah.
+A12:	Berapa kak?
+B13:	Seratus lapan puluh ringgit, boleh kurang lagi, lawa kain dia dik.
+A14:	Yang ni berapa boleh bagi kalau nak beli ni?
+B15:	Adik nak berapa helai---cakaplah---harga tu jangan bimbang, boleh kurang lagi.
+A16:	Berapa kak nak bagi?
+B17:	Ginilah kak bagi tiga puluh ringgit.
+A18:	Tak naklah dua puluh lapan ringgit boleh?
+B19:	Ginilah dik---bagi tiga puluh ringgit.
+A20:	Dua puluh lapan ringgitlah.
+B21:	Tak boleh dik---tiga puluh lapan ringgit tu memang harga dia dah---kain ni molek dik---tengok ni warna dia lawa.
+B22:	Ini Kak Dah baru pergi ambik.
+A23:	Dua puluh lapan ringgit boleh ya?
+B24:	Janganlah gitu dik.
+A25:	Ini berapa ela?
+B26:	Empat ela.
+A27:	Muat tak saya ni?
+B28:	Kenapa pula tak muat.
+B29:	Orang-orang Kelantan pun besar ni jugak.
+A30:	Bagi tak kak dua puluh lapan ringgit?
+B31:	Ginilah dua puluh sembilan ringgit.
+B32:	Kalau yang ni dua puluh lima ringgit.
+A33:	Kenapa yang ni murah?
+B34:	Kualiti dia lain ni... yang ni banyak lagi colour lawa-lawa ni.
+A35:	Yang ni bagi dua puluh lapan ringgit ye kak.
+A36:	Kami ambik banyak ni.
+B37:	Kasihanlah Kak Dah dik... dapat satu ringgit saja ni....
+B38:	Adik nak berapa helai?
+A39:	Ni yang ni?
+B40:	Semuanya seratus dua belas ringgit... jual ya dik harga sebanyak terima.
+
+

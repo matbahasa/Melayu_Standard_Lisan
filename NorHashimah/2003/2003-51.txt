@@ -1,0 +1,16 @@
+A1:	Berapa ni?
+B2:	Enam puluh lima, kak nak harga berapa?
+B3:	Boleh kurang lagi.
+A4:	Yang tu berapa pulak?
+B5:	Sama, enam puluh lima.
+A6:	Tak boleh kurang dah ke?
+B7:	Kurang berapa?
+B8:	Lima puluh tujuh?
+A9:	Lima puluh tak boleh?
+B10:	Lima puluh limalah kak.
+A11:	Kita minta lima puluhlah tu.
+B12:	Naik sikit lagilah.
+B13:	Kak nak banyak mana tu?
+A14:	Sehelai saja.
+B15:	Setakat tulah harga kita boleh bagi.
+A16:	Bungkus-bungkus sajalah...

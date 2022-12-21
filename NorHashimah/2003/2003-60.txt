@@ -1,0 +1,13 @@
+A1:	Berapa ni?
+B2:	Lapan belaslah.
+A3:	Sepuluh ringgit yah kita beli dulu, macam nilah corak dia.
+A4:	Tak boleh lagi ni?
+B5:	Kita boleh bagi setakat lapan belas saja.
+B6:	Habis nak tawar berapa?
+A7:	Tak reti kita nak tawar.
+A8:	Tak boleh pergi ke sepuluh ni?
+A9:	Sebelas pun tak bagi?
+A10:	Kalau sebelas, saya ambik.
+A11:	Tak bagi ke?
+B12:	Tak sampai modallah.
+B13:	Kalau setakat dua belas boleh lagi.

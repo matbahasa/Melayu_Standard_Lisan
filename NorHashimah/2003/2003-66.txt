@@ -1,0 +1,12 @@
+A1:	Berapa belas ni mak cik?
+B2:	Dua puluh tiga, nak letak mahal takut orang terkejut.
+B3:	Kain mahal dah, kita bagi setakat dua puluh dualah.
+B4:	Ambik mahal, duit Singapura sekarang ni mahal.
+B5:	Duit kita dah murah, itulah mahal kain tu.
+A6:	Kurang lagilah.
+B7:	Bagi dua puluh dualah, sikit sangat dah tu boleh.
+B8:	Dulu bolehlah lapan belas, itu lama dah, letak harga rendah-rendahlah takut orang terkejut, nanti orang lari pulak.
+A9:	Lapan belaslah.
+B10:	Tak boleh, sebab kita beli mahal dah.
+A11:	Ginilah setakat dua puluh, boleh?
+B12:	Satu ringgit lagilah bagi kita, jadi dua puluh satulah.

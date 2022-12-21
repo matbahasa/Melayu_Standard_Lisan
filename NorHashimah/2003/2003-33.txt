@@ -1,0 +1,21 @@
+A1:	Ziz, padan ke budak tingkatan satu ni?
+B2:	Padan dah ni.
+B3:	Mari nak ukur adik ni, mana besar dengan adik ni.
+A4:	Lebih kurang dah.
+B5:	Sedang molek dah, baju pakai labuh sikit.
+A6:	Lepas tu berapa ni.
+B7:	Mari nak kira, saya bagi hanya yang paling murah, harga paling istimewa ni.
+A8:	Bagi murah-murah dahlah.
+A9:	Tak nak mahal-mahal ni.
+B10:	Semuanya enam belas ringgit setengah.
+A11:	Mahalnya.
+B12:	Tak mahal dah, tiga perkara tu, kalau dengan orang lain takkan dapat harga tu.
+A13:	Berapa tadi?
+B14:	Enam belas setengah.
+A15:	Bagi cukup-cukuplah.
+B16:	Boleh berapa sen saja kita---lima puluh sen saja.
+A17:	Enam belas ringgit cukuplah.
+B18:	Bagi dah kan tadi, cukup untuk minum air yah ni---banyak dah potong, kalau dengan orang lain dua puluh ringgit lebih dah tu.
+B19:	Sen-sen aje kita ambik.
+A20:	Beli deh semua.
+B21:	Ya saya jual.

@@ -1,0 +1,86 @@
+A1:	Yang ni berapa sepasang?
+B2:	Biasa beli berapa?
+A3:	Biasa beli dua puluh tiga ringgit.
+B4:	Ambiklah dua puluh tiga ringgit---buat gori---adik nak berapa pasang?
+A5:	Yang ni?
+B6:	Yang ni broked---mahal sikit.
+A7:	Yang ni berapa sepasang?
+B8:	Yang ni paling kurang empat puluh lima ringgit---kain yoyo ni.
+B9:	Yang nilah dik---colour dia lawa-lawa ni---macam colour kain jacquard---baru sampai ni---Kak Dah nak bagi dua puluh lapan ringgit saja sepasang.
+A10:	Bunganya besar-besarlah....
+A11:	Tak boleh kurang ke kak.
+B12:	Tak boleh dah dik.
+B13:	Kak Dah upah mahal ni.
+B14:	Sebab tulah colour dia molek.
+B15:	Baru pergi ambik saja ni.
+B16:	Ada yang murah, tapi kain dia lembik, tak bersinar macam ini---bunganya pun tak banyak.
+A17:	Setakat dua puluh lapan ringgit saja ke---tak boleh kurang lagi dah.
+B18:	Tak boleh dah dik---kalau adik nak yang murah ada----nanti Kak Dah ambik.
+B19:	Adik nak yang ni hanya dua puluh lima ringgit.
+A20:	Yang tu tak nak.
+B21:	Lepas tu nak yang mana?
+B22:	---Kak Dah kalau boleh bagi murah, Kak Dah bagi.
+B23:	Tapi apa boleh buat---upah buat (tempah) mahal dah.
+B24:	Kak Dah tak nak jual mahal-mahal---bukan apa---sebab kalau boleh Kak Dah mahu adik datang tempat Kak Dah selalu---ni kain molek-molek belaka.
+B25:	Adik pilihlah yang mana adik nak.
+B26:	Yang ni dik.
+A27:	Tak naklah merah sangat.
+B28:	Nak yang mahal dik---ambik yang nilah Kak Dah bagi empat puluh lima ringgit.
+A29:	Yang tu bunganya besar-besar.
+B30:	Tengok saja macam ni.
+B31:	Bila dah jadi baju---lawa ni.
+A32:	Yang ni lawa tak?
+B33:	Lawa... kalau dah jadi baju tengok yang ni dik---lawa lagi.
+B34:	Adik ni kalau pakai warna gelap-gelap sikit comellah ni---ada sehelai tu saja lagi---bukalah adik nak tengok.
+A35:	Berapa ni kak?
+B36:	Yang tu kalau adik nak Kak Dah bagi empat puluh lima ringgit sudahlah.
+B37:	Biarlah... modalnya empat puluh lebih dik ni.
+B38:	Tengoklah dik---tempat kita tak payah berkira sangat---bagi murah-murah saja---lain kali bolehlah datang beli lagi.
+B39:	Kalau jual mahal-mahal nanti orang tak datang.
+A40:	Empat puluh ringgitlah kak.
+B41:	Tak boleh---modal mari mahal dah dik.
+B42:	Kak Dah bagi murah benar dah ni.
+A43:	Yang broked tu berapa?
+B44:	Kak Dah bagi tiga puluh ringgit.
+A45:	Tak naklah broked.
+A46:	Mudah kedut---yang ni kalau bagi empat puluh ringgit nak ni.
+B47:	Kak Dah kata tak boleh bagi dik---pasal modal mahal dah.
+B48:	Kak Dah kalau boleh bagi tak payah berkira---Kak Dah bagi selalu---sama-sama kita ni Kak Dah tak kisah sangat.
+A49:	Kurang lagi tiga ringgitlah kak.
+B50:	Tak boleh dik---modal empat puluh lebih dah ni.
+B51:	Mintak empat puluh empat biarlah Kak Dah mintak seringgit.
+A52:	Tak apalah kak ambik yang ni sajalah.
+B53:	Biarlah dik ambik empat puluh tiga ringgit---Kak Dah tak kisah dah.
+B54:	Adik mintak empat puluh tiga ringgit, Kak Dah mintak serial saja lagi---biarlah mintak buat tambang saja.
+B55:	Lain kali adik boleh datang lagi tempat Kak Dah.
+B56:	Murah benar ni Kak Dah bagi.
+B57:	Yang tu murah saja dik dua puluh lima ringgit.
+A58:	Kain apa ni?
+B59:	Kain molek jugak ni---tak kedut tu sedap pakai---kain batik jugak ni.
+A60:	Bagi dua puluh ringgitlah.
+B61:	Bertuahnya adik...
+B62:	Kak Dah bagi habis murah dah tu.
+B63:	Jangan bimbang beli tempat Kak Dah
+B64:	Kak Dah ambil samah-samah saja.
+A65:	Biarlah kak lain kali sajalah.
+B66:	Bagi dua puluh tiga ringgitlah.
+A67:	Tak nak dua puluh tiga ringgit kalau dua puluh ringgit nak.
+B68:	Dua puluh ringgit tak boleh dik.
+A69:	Kalau tak boleh tak apalah ambik yang ni saja.
+B70:	Ni yang mahal ni tak nak---sutera jacquard Kak Dah bagi seratus lima puluh ringgit saja sehelai.
+B71:	Kak Dah cakap betul pada adik.
+B72:	Di K.L.ni mahal benar ni.
+B73:	Kelmarin kawan
+B74:	Kak Dah datang beli---dia kata nak beli kat K.L. mahal.
+B75:	Yang tu yang air mas.
+A76:	Kalau yang tu lagi mahal ya?
+B77:	Yang tu dua ratus lima puluh ringgit Kak Dah bagi -baru sampai yang ni---baru tadi Kak Dah gi ambik---ambiklah sepasang.
+A78:	Tak naklah mahal sangat.
+A79:	Pakai dua tiga bulan saja dah buruk.
+B80:	Kain ni lambat buruk dik.
+A81:	Ni kak nak bayar yang ni.
+B82:	Jual ye dik---datang pulak lain kali beli kain tempat Kak Dah.
+
+
+
+

@@ -1,0 +1,8 @@
+A1:	Ni kain batik sutera jacquard?
+A2:	Berapa harga sepasang ni?
+B3:	Jual tu dua ratus lima puluh ringgit.
+A4:	Tak boleh murah lagi?
+B5:	Tak boleh dah, kalau nak yang murah ada tapi jenis lain.
+B6:	Yang ni saya boleh bagi seratus lima puluh ringgit, yang tadi jenis gold sebab tu mahal sikit.
+B7:	Kain ni biasa orang beli dengan harga nilah, pergilah mana-mana pun, inilah harganya kadang-kadang ada orang jual mahal lagi, tapi kalau murah lagi tak da.
+A8:	Tak apalah dik, tengok-tengok dulu.

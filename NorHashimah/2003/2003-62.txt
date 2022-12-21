@@ -1,0 +1,34 @@
+A1:	Berapa ni?
+B2:	Sekodi ke dua?
+B3:	Setakat sepuluhlah kalau nak banyak.
+A4:	Kurang lagilah.
+B5:	Harga tolak dah tu, harga niaga.
+A6:	Lain kali kalau laku kita ambik sini pulak.
+B7:	Tak boleh dah, kita tolak harga kodi.
+B8:	Pada orang lain, harga tu jugak tiga puluh sen yah boleh... tiga puluh sen yah sehelai.
+B9:	Kalau nak balik jual, boleh, kita bagi murah.
+A10:	Baju tu berapa sepasang?
+B11:	Harga letak lima puluh, tetapi kalau nak sehelai kurang sikit tapi kalau nak banyak kurang banyak lagi, sebab harga niaga!
+A12:	Harga niaga berapa?
+B13:	Harga niaga kita tolak tiga puluh tujuh, kita jual sini, habis kurang empat puluh lima.
+
+B14:	(Lain-lain).
+A15:	Ini tidak boleh kurang pada dua puluh lima?
+B16:	Ginilah dua puluh tiga, kurang dua ringgit.
+A17:	Genaplah.
+B18:	Tak boleh.
+A19:	Dua puluhlah.
+B20:	Dua puluhlah.
+A21:	Janganlah gitu.
+A22:	Ini berapa pulak?
+B23:	Ini empat puluh.
+A24:	Ini mahal sangat.
+B25:	Tak mahal dah, sebab kain tak payah gosok ni.
+A26:	Kuranglah.
+B27:	Tak boleh, sebab kain elok.
+B28:	Kalau tidak elok bolehlah dapat dua puluh lebih.
+A29:	Dua puluhlah kak.
+B30:	Dua puluh tak boleh, dua puluh tu zaman dulu, boleh sungguh... sekarang tak boleh dah.
+B31:	Ginilah, kalau nak jugak, kita bagi murah sikit, kita bagi dua puluh lapan.
+A32:	Bagi dua puluh limalah.
+B33:	Murah benar dah tu, sebab adik ambik banyak jadi yang ni bagi dua puluh, tak peduli dah... saja, sikit-sikit dah tu, yang ni dua puluh lapan.

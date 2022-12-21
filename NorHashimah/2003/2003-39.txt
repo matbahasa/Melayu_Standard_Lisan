@@ -1,0 +1,13 @@
+A1:	Baju ni berapa?
+B2:	Dua puluh dua.
+A3:	Takkan tak boleh tawar?
+B4:	Oh... boleh, berapa adik berani?
+A5:	Berapa mak cik nak bagi?
+B6:	Pagi-pagi ni mak cik bagi lapan belaslah, boleh?
+A7:	Tak boleh lagi ke?
+B8:	Berapa adik nak?
+A9:	Satu saja.
+B10:	Enam belaslah.
+A11:	Tak boleh dah?
+B12:	Setakat tu sajalah.
+A13:	Tak apalah, lain kali pulak.

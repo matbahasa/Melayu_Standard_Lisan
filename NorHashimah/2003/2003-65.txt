@@ -1,0 +1,10 @@
+A1:	Berapa ni?
+A2:	Kita nak tawar lagi ni.
+B3:	Dua puluh.
+A4:	Lima belaslah.
+B5:	Beli tak boleh, mari pun tak boleh, cakap yang sungguh, mari pun tidak boleh.
+A6:	Lima belaslah.
+B7:	Tidak boleh, bagi tujuh belaslah, boleh lima puluh sen yah.
+B8:	Cakap yang sungguh.
+B9:	Selalunya jual dua puluh atau sembilan belas.
+A10:	Biarlah...

@@ -1,0 +1,43 @@
+A1:	Berapa harga yang ni.
+B2:	Yang ni lima ringgit setengah---boleh kurang lagi kalau nak gak.
+A3:	Fesyen lain tak ada?
+B4:	Fesyen ni nak?
+B5:	Fesyen Hawaii---yang jenis ni pun ada.
+A6:	Berapa tu?
+B7:	Yang ni tujuh ringgit setengah, ambil yang nilah, boleh pakai dah ni.
+A8:	Tak leh (boleh) kurang lagi ke?
+B9:	Ginilah bagi enam ringgit cukup....
+B10:	Warna hijau tak nak?
+B11:	Ada warna hijau, biru kuning---ada tiga warna.
+A12:	Jalur-jalur sangat.
+B13:	Memang fesyen dia dah---baru sampai ni.
+A14:	Bagi empat ringgitlah.
+B15:	Tak boleh dah tu---pasal modal mahal dah.
+B16:	Yang ni lima ringgit setengah kecil sikit, yang tadi tu saiz besar.
+A17:	Tak boleh bagi ke empat ringgit?
+B18:	Ginilah kalau nak dua helai tu, kita bagi harga 10 ringgit boleh?
+B19:	Kira murah benar dah tu.
+B20:	Baju tak nak?
+A21:	Baju ni berapa?
+B22:	Yang ni bagi sembilan ringgit setengah.
+A23:	Padan ke ni?
+B24:	Budak umur berapa tahun?
+A25:	Darjah satu.
+B26:	Darjah satu boleh pakai dah ni.
+B27:	Nak yang mana... yang tu kain molek kak... saiz dia dah tu.
+A28:	Tak boleh kurang lagi ke?
+B29:	Tak boleh dah kak---harga paling murah saya bagi.
+A30:	Bolehlah sikit lagi.
+B31:	Ginilah kira enam setengah, minta lima puluh sen yah.
+B32:	Nak yang mana... yang ada kolar yang ni tak berkenan?
+B33:	PUMA, ramai orang pakai, orang tua, budak pakai belaka, warna biru tu comel.
+A34:	Berapa tu?
+B35:	Lima ringgit setengah.
+A36:	Mahalnya!
+B37:	Tak mahal dah kak---kalau nak kita bagi lima ringgitlah.
+A38:	Ambik yang kuninglah.
+B39:	Semuanya tiga puluh empat ringgit setengah.
+A40:	Tak boleh kurang dah ke?
+B41:	Nak kurang apa lagi---tak leh dah tu, sebab bagi kurang banyak dah---kurang lagi teruk pihak kita pulak.
+
+

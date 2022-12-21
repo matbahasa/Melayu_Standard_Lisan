@@ -1,0 +1,8 @@
+A1:	Berapa harga telekung ni?
+B2:	Lima ringgit setengah.
+A3:	Tak boleh kurang sikit ke?
+B4:	Itu harga biasa dah tu.
+A5:	Tak ada yang jenis lain ke?
+B6:	Ada, tapi yang jenis tu tak elok, kalau yang tu bolehlah murah sikit.
+A7:	Ambik yang eloklah---tahan lama---puas sikit pakai.
+

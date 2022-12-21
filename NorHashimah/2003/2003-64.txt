@@ -1,0 +1,10 @@
+A1:	Kuranglah sikit, ini ada lagi ni.
+B2:	Bagi enam belas.
+A3:	Bagi lima belaslah.
+B4:	Yang ni kira dua belas bagi sebelas.
+A5:	Kurang lagilah.
+B6:	Tak pergi dah, yang tadi dua belas, kira sebelas.
+A7:	Sepuluh ya!
+B8:	Tak bolehlah, sebab saiz dua puluh dua, kalau dua puluh satu tu boleh.
+A9:	Alah, kita tak pergi dah kedai lain, nak pergi mana lagi?
+A10:	Kedai ni kita mari dulu.

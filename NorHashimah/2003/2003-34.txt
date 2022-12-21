@@ -1,0 +1,36 @@
+B1:	Cari apa tu, singgahlah dulu.
+A2:	Baju sekolah budak-budak nilah.
+B3:	Sini ada, tengoklah.
+A4:	Acu tengok baju besar budak ni.
+B5:	Yang ni---padan dah ni.
+A6:	Berapa ni?
+B7:	Sembilan ringgit setengah.
+A8:	Kuranglah sikit, seluar---acu tengok.
+B9:	Yang ni padan?
+A10:	Berapa ni?
+B11:	Seluar ni lima belas ringgit---boleh kurang lagi.
+B12:	Ginilah bagi tiga belas ringgit setengah.
+A13:	Tak naklah mahal-mahal ni.
+B14:	Tak mahal dah mak cik.
+B15:	Yang ni ambo bagi lapan ringgit, yang ni tiga belas setengah---semuanya dua puluh satu ringgit setengah.
+A16:	Turunlah sikit lagi.
+A17:	Bagi lapan belas ringgitlah.
+A18:	Mari jauh ni.
+B19:	Tak boleh dah mak cik, mak cik dok mana?
+A20:	Ciku---Kuala Kerai nun....
+B21:	Oh... tempat kelapa sawit tu ya!
+A22:	A... a... lepas tu lagu mana---bagi lapan belas ringgit tak boleh ke, cukup dua puluh ringgitlah ya.
+B23:	Dua puluh satu ringgitlah---kurang lima puluh sen, murah dah ni berapa sen saja kita dapat ni.
+A24:	Alah... cukuplah dua puluh.
+A25:	Tak ada duit ni nak buat tambang balik lagi ni... musim sekarang ni---banyak nak pakai duit le... anak-anak sekolah, baju sekolah, buku, lepas tu yuran lagi.
+B26:	Biasalah tu mak cik---kita pun lagu tulah jugak berapa orang yang sekolah.
+A27:	Bolehlah ya dua puluh ringgit?
+B28:	Ni saja ke, stoking-stoking tak nak ke.
+B29:	Baju-baju T-shirt ni.
+A30:	Tak naklah, ramai lagi ni---tu pun kakak dia tolong beli setengah... dua puluh ringgit ya.
+B31:	Tu duit belana tu (banyak).
+A32:	Belana apa, kelapa sawit sekarang ni turun harga, tak macam dulu---tambah musim ni.
+B33:	Jual ya mak cik.
+
+
+

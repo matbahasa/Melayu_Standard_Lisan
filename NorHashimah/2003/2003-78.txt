@@ -1,0 +1,28 @@
+A1:	Berapa ni?
+B2:	Yang tu dua belas ringgit.
+A3:	Kain Kelantan pun dua belas?
+B4:	Bolehlah kurang sikit lagi, sebab empat lapis.
+A5:	Yang Terengganu tu berapa?
+B6:	Yang Terengganu tu lima belas.
+A7:	Mahalnya!
+B8:	Bolehlah kurang sikit lagi, mak cik nak berapa ringgit?
+B9:	Nak banyak helai ke?
+A10:	Hih... sehelai saja.
+A11:	Lapan ringgit tidak boleh ke?
+B12:	Lapan tidak boleh... bagi sembilan ringgitlah.
+A13:	Oh... mahalnya.
+B14:	Bagi lima puluh sen lagilah.
+A15:	Oh... susah nak lima puluh sen---lima puluh sen kalau niaga ni.
+B16:	Bagi lima puluh sen lagilah, buat minum air.
+A17:	Mahal lagi tu.
+B18:	Tidak mahal dah ni.
+A19:	Sepasang berapa kain ni?
+B20:	Dua puluh lima, boleh kurang sikit lagi.
+A21:	Lapan belaslah.
+B22:	Lapan belas tak boleh, bagi ginilah sembilan belas ringgit setengah.
+A23:	Kita beli tak susah jugak ni?
+B24:	Bagilah, boleh sikit benar ni.
+A25:	Lapan belaslah.
+B26:	Tak boleh gi, kita bagi setakat sembilan belas.
+B27:	Jadi semua semua sekali dua puluh tujuhlah.
+

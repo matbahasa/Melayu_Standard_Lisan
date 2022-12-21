@@ -1,0 +1,29 @@
+A1:	Abang, bagi berapa yang ni?
+B2:	Enam belas ringgit.
+B3:	Yang tu labuh, harga lain sikit.
+B4:	Kalau saya bagi murah, orang lain kata apa pulak?
+B5:	Yang tu mahalkan.
+A6:	Yang ni berapa?
+B7:	Yang ni mati, saya bagi sembilan belas ringgit.
+A8:	Macam mana boleh jadi, mati pulak tu?
+A9:	Kenapa tak hidupkan?
+B10:	Macam mana nak hidup... dia ada harga.
+B11:	Ginilah harga mati saya bagi lapan belas ringgit, tak boleh tawar dah, pasal lace dia panjang.
+A12:	Lima belaslah.
+B13:	Kalau macam ni, botaklah saya.
+B14:	Tak boleh tawar dah, minta maaflah tak dapat.
+B15:	Orang jual dua puluh dua atau dua puluh satu habis murah.
+B16:	Pergi carilah, saya cakap terus terang.
+B17:	Jadi semua sekali tiga puluh enam... dua helai.
+A18:	Abang ni, takkan tak dapat?
+B19:	Kalau pergi kedai lain, abang tak marah, kalau dapat harga macam saya bagi ini, datanglah balik kedai saya.
+B20:	Sebab apa, abang nak suruh adik datang balik lain kali, sebab saya nak cari kawan.
+B21:	Cubalah cari kalau dapat harga ni.
+B22:	Jadi lapan belaslah, saya biasa jual dua puluh lima, dua puluh enam.
+A23:	Jadi dua tu berapa?
+B24:	Tiga puluh enam.
+A25:	Alah tujuh belas sajalah.
+A26:	Jadi semua sekali tiga puluh empatlah.
+B27:	Tiga puluh limalah dik, mintak satu ringgitlah, kesianlah kat kita, jual dua helai ni pun nak dapat balik basil kedai adik oii...
+A28:	Tiga puluh empatlah abang.
+B29:	Minta lima puluh sen sajalah lagi, kesian saya.

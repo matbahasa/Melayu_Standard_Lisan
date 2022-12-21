@@ -1,0 +1,48 @@
+A1:	Berapa ni?
+B2:	Harga tu tiga puluh dua, boleh kurang sikit lagi mak cik.
+A3:	Lagu mana tu?
+B4:	Sekarang ni duit Siam naiklah bolehlah kurang lagi pagi-pagi ni.
+A5:	Eh, betul-betullah harga dia.
+B6:	Bagi tiga puluhlah.
+A7:	Isyy...
+B8:	Habis mak cik bagi berapa?
+B9:	Harga mak ciklah pulak.
+B10:	Kadar kita boleh bagi, kita bagi.
+A11:	Dua puluh enam dahlah.
+B12:	Dua puluh enam, modal tak dapat lagi sekarang.
+A13:	Ya ke?
+B14:	Ya, bagi dua puluh lapanlah, bagi betul-betullah tu.
+B15:	Harga hari-hari jual dua puluh lapanlah.
+B16:	Mak cik nak yang mana?
+B17:	Yang merah ke yang mana?
+B18:	Dua ke satu?
+A19:	Dua puluh enamlah.
+B20:	Tak dapat betul, dua puluh lapan tu kira harga berniagalah tu.
+B21:	Sepuluh biji orang ambil pun harga tu jugak.
+A22:	Bolehlah ya?
+B23:	Bagi dua puluh lapanlah, pagi-pagi ni.
+B24:	Mana-mana jual pun dua puluh lapan, mak cik tengok harga tu.
+A25:	Dua puluh enamlah.
+B26:	Tak boleh mak cik, modal pun dua puluh tujuh dah.
+B27:	Betul-betul cakap tu.
+A28:	Alah, takkan cakap tak betul pulak, memang betul.
+B29:	Em, berniaga ni kena cakap betul, tak baik---duit nak buat makan lagi.
+A30:	Betul ya, ambil dua, lima dua.
+B31:	Tak dapat mak cik, bukan tak nak bagi.
+B32:	Memang tak dapat bagi.
+A33:	Alah, baru pagi-pagi lagi, bolehlah.
+B34:	Tak boleh, itu harga niaga dah tu, hari-hari saya jual harga macam nilah.
+B35:	Orang ambik banyak pun harga ni.
+A36:	Bukan nak ambik banyak, cuma nak pakai saja.
+B37:	Ah... yang nak pakai tu, kita bagi harga murah tu.
+A38:	Bolehlah dua puluh tujuh ya... kalau tak dapat, satu saja.
+B39:	Semua sekali lima puluh limalah.
+A40:	Lima puluh empatlah, satu ringgit tak ada duit.
+B41:	Betul-betul ni, mintak dengan mak cik, Alah satu ringgit pun tak nak bagi.
+B42:	satu ringgit saja mak cik, mintak nak minum kopi.
+B43:	Mintak satu ringgit lagi mak cik.
+A44:	Mak cik mintak kat engkau, nak minum.
+B45:	Mintak satu ringgit lagi mak cik, mintak gori satu ringgit.
+A46:	Dah nak demam mak cik ni.
+A47:	Dah-dah kita mintak harga tu.
+

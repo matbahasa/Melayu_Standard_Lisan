@@ -1,0 +1,74 @@
+B1:	Pilih-pilihlah.
+B2:	Nak apa tu?
+A3:	Yang ni berapa?
+B4:	Enam ringgit.
+A5:	Bagi lima ringgitlah.
+B6:	Tak boleh sebab orang lain jual enam setengah belaka.
+A7:	Bagilah yang ni tiga ringgit dan yang ni dua ringgit, kain tak comel ni.
+B8:	Tak comel apa?
+B9:	Kain molek ni.
+A10:	Taklah bila dah basuh---kerecuk ni.
+B11:	Taklah kain ni makin basuh makin cerah warna dia, bukan basuh makin gelap ni.
+A12:	Tak boleh ke lima ringgit.
+B13:	Tak boleh dah---harga paling murah dah ni.
+A14:	Lima ringgit setengahlah.
+B15:	Saya bagi murah benar dah tu...
+B16:	Lepas tu nak warna apa tu?
+A17:	Yang ni kalau bagi dua ringgit nak ni---entah-entah tempat lain boleh murah lagi daripada ini.
+B18:	Gilah cari tempat lain---nak tahu berapa dia bagi tak dapat harga ni.
+A19:	Lepas tu berapa boleh bagi?
+B20:	Janganlah tawar banyak sangat, kita boleh berapa sen saja ni, kita bagi harga paling murah dah ni.
+A21:	Tak boleh dua rial---mari dua setengahlah.
+B22:	Tak boleh.
+A23:	Tak boleh biarlah---tengok seluar tadi.
+A24:	Yang ni berapa rial?
+B25:	Yang tu dua belas ringgit ada colour kuning dengan merah.
+A26:	Yang besar sikit ada?
+B27:	Besar sikit enam belas ringgit.
+B28:	Sebab dia besar jadi kena tambahlah sikit---sebab dia lain-lain ni.
+A29:	Pulak dah tak ada duit nak tambah, bagi harga tulah.
+B30:	Tak ada duit senang, baik dekat sini... tak bolehlah bagi serupa sebab barang lain-lain ni.
+A31:	Boleh pakai ke ni?
+B32:	Boleh dah, muat dah dengan dia...
+B33:	Terai sini dulu tak apa.
+A34:	Dia kata tak lawa pulak.
+B35:	Tak lawa lagi, lawa dah ni, lawa lagi, comel lagi, cantik lagi, murah lagi.
+B36:	nak colour apa, colour biru ke.
+A37:	Seluar jeans ada?
+B38:	Seluar jeans ada, saiz besar.
+B39:	Ambik jenis nilah, boleh pakai buat sehe (buat pakai hari-hari) nak gi mana-mana.
+A40:	Yang ni?
+B41:	Yang tu kecik, dia tak boleh pakai ni.
+A42:	Pakai acu nak duduk bekah (koyak) susah-susah sangat tak payahlah.
+B43:	Tak nak yang tu ambik yang lain---baju ke---rugi pulak kita kalau tak ambik.
+B44:	Ni pun merah dah ni bagi dua belas ringgit, boleh berapa sen saja atas sehelai ni bukannya boleh untung banyak.
+A45:	Ambik sajalah ye---untuk pakai balik ni, nanti lain kali beli yang lain.
+B46:	Ambiklah---tengok seluar dia pakai tu, koyak dah sikit.
+A47:	Lepas tu baju tu boleh bagi berapa?
+B48:	Tiga ringgit, tak boleh gi dua ringgit.
+B49:	Kita boleh apa sen saja ni----sama-sama kita ni saya tak jual mahal.
+A50:	Bagi dua ringgit dah.
+B51:	Mintak maaflah---saya boleh berapa sen saja ni---bukan boleh serial dua tiga rial, dua tiga sen yah.
+B52:	Harga mari dah tiga puluh ringgit sedozen.
+B53:	Jual tiga ringgit sehelai, kiralah, apa sen saya dapat.
+A54:	Yang ni tadi berapa, lima ringgit ya?
+A55:	Kurang empat ringgit setengah dah.
+A56:	Takkan tak boleh kurang sesen pun.
+A57:	Jual macam supermarket ni.
+B58:	Tak boleh dah, kita jual murah dah seluar tu kita bagi dua belas ringgit, kalau di supermarket dua puluh ringgit ke atas dah---tak kurang dah---ni kita nak bagi dua belas ringgit yah.
+A59:	Ni seluar budak ni berapa?
+B60:	Tiga ringgit.
+A61:	Tiga ringgit kita biasa beli dua ringgit setengah yah.
+B62:	Yang tu Siam punya.
+B63:	Yang ni Malaysia.
+A64:	Dua ringgit setengah tu Malaysia dah.
+A65:	Biarlah ambik yang ni dua ringgit setengah.
+B66:	Dua ringgit setengah tak boleh jual ni.
+A67:	Tak boleh tak payahlah.
+B68:	Alah... kira mudah-mudahlah dik.
+A69:	Mudah apa tak boleh kurang sesen pun.
+B70:	Pusing-pusing pulak dia... pening kepala juga kita.
+A71:	Kita pun pening kepala juga---yang ni tak boleh kurang---yang tu tak boleh kurang.
+B72:	Kasihanlah kita.
+A73:	Kiralah berapa semuanya.
+

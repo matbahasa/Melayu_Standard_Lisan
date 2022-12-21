@@ -1,0 +1,10 @@
+B1:	Bolehlah kurang, bukalah... tengoklah dulu, kalau boleh mak cik bagi kurang, baru sampai kain tu.
+B2:	Kalau adik ambik, mak cik bagilah dua belas ringgit setengah, ambiklah sepuluh helai.
+B3:	Adik nak harga berapa?
+A4:	Mak cik nak bagi berapa?
+A5:	Dua belas cukup boleh?
+B6:	Nak banyak ke?
+B7:	Adik nak bagi berapa?
+B8:	Mak cik dengar dulu.
+B9:	Kalau boleh mak cik bagi.
+A10:	Dua belas cukuplah...

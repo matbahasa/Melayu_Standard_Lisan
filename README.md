@@ -1,6 +1,11 @@
 # Korpus Variasi Bahasa Melayu: Standard Lisan
 ## Rujukan
-Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Standard Lisan_.
+- (NorHashimah)
+    - (2003)  
+      Nor Hashimah Jalaluddin. 2003. _Bahasa dalam Perniagaan: Satu Analisis Semantik dan Pragmatik_. Kuala Lumpur: Dewan Bahasa dan Pustaka.
+    - (2005)  
+      Nor Hashimah Jalaluddin, Harishon Radzi, Maslida Yusof, Raja Masittah Raja Ariffin dan Sa’adiah Ma’alip. 2005. _Sistem Panggilan dalam Keluarga Melayu: Satu Dokumentasi_. Kuala Lumpur: Dewan Bahasa dan Pustaka.
+- Hiroki Nomoto. 2018. _Korpus Variasi Bahasa Melayu: Standard Lisan_.
 
 ## Lesen
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ms)

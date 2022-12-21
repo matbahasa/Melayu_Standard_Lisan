@@ -1,0 +1,7 @@
+A1:	Seluar ni berapa rial sehelai?
+B2:	Enam ringgit setengah.
+A3:	Boleh kurang lagi?
+B4:	Tak boleh dah ni, modal pun tak sampai lagi, kita pun nak jugak buat minum sikit.
+B5:	Ginilah kalau awak nak, setakat lima ringgit bolehlah---kurang daripada tu tak boleh dah.
+
+

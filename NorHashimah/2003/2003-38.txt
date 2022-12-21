@@ -1,0 +1,11 @@
+A1:	Berapa gag ni?
+B2:	Lapan belas ringgitlah, beri harga belas-belaslah senang.
+A3:	Lima belas ringgitlah.
+B4:	Tak boleh... satu ringgit lagilah buat modal.
+A5:	Mintak lima belas ringgitlah... beli sini selalu (sokmo).
+B6:	Tak boleh gi.
+A7:	Serupa tawar tadilah.
+B8:	Tak boleh sungguh.
+B9:	Bukan tak boleh bagi, kita kalau boleh bagi, nak bagi.
+A10:	Tak apalah, ambik-ambik sajalah.
+

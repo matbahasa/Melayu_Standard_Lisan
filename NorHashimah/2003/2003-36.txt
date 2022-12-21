@@ -1,0 +1,16 @@
+A1:	Berapa ni?
+B2:	Sembilan belas, boleh kurang sikitlah.
+A3:	Kain broked Siam ni berapa satu?
+B4:	Lima puluh lima, kain ni tiga puluh ringgit bolehlah bagi dua puluh lima ringgit.
+A5:	Kalau dua puluh ringgit?
+B6:	Jual selalunya harga dia tu.
+A7:	Kain ni lembik.
+B8:	Selalunya akak jual dua puluh lima atau dua puluh lapan.
+A9:	Dua puluh tak boleh?
+B10:	Dia ada harga, selalunya dua puluh lima.
+A11:	Saya dulu dah beli kain macam ni... banyak.
+B12:	Dulu boleh... sekarang tidak boleh lagi.
+A13:	Jadi berapa?
+B14:	Dua puluh limalah.
+A15:	Kalau dua... empat puluh boleh.
+B16:	Tak dapatlah dik, kak bagi empat puluh limalah.

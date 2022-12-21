@@ -1,0 +1,17 @@
+A1:	Baju ni berapa?
+B2:	Dua belas ringgit---boleh kurang lagi kalau nak.
+B3:	Cakap sajalah nak kurang berapa, kalau tak boleh, nak buat macam mana, kira mana-mana patut.
+A4:	Nampak buruk ni?
+B5:	Apa pulak buruk, acu cium, bau kedai ni lagi.
+B6:	Kita tak jual barang buruk.
+A7:	Yang ni berapa rial?
+B8:	Yang tu saya bagi lapan belas ringgit---boleh tawar lagi.
+A9:	Bagi lima belaslah.
+B10:	Ginilah kak, kalau kak nak jugak saya bagi enam belas ringgit.
+A11:	Lima belas ringgitlah.
+A12:	Saya beli dah dulu ni lima belas ringgit saja.
+B13:	Mungkin kain jenis lain.
+B14:	Kena kain Siam ke?
+B15:	Kak nak yang mana tu, hijau ke merah, comel-comel belaka, biru pun comel jugak.
+B16:	Kuning pun biasa orang pakai.
+A17:	Ambil hak biru tulah.
