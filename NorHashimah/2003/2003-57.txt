@@ -3,7 +3,7 @@ B2:	Letak lapan belas, kurang lagilah, boleh tawarlah.
 B3:	Jenis kain macam ni tahan.
 A4:	Dua belas tak boleh.
 B5:	Dua belas tak bolehlah.
-A6:	Habis berapa pakcik nak?
+A6:	Habis berapa pak cik nak?
 B7:	Kira ginilah, kita bagi lima belas.
 A8:	Mintak kurang sikit lagilah.
 B9:	Empat belaslah.
