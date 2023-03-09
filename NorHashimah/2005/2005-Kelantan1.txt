@@ -281,4 +281,3 @@ C272:	Manis tu, madukan?
 B273:	Semuanya madu sekarang ni.
 B274:	Belimbing madu, jambu madu, nangka madu, labu pun madu.
 B275:	Siapa ni kenal ke?
-

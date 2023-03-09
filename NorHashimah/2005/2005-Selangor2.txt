@@ -255,7 +255,3 @@ Q249:	Maksudnya Pak Tua lepas tu.
 P250:	Dalam adik-beradik panggil bagaimana?
 Q251:	Saya takde adik-beradik lain, saya sorang aje.
 P252:	Anak manjalah.
-
-
-
-

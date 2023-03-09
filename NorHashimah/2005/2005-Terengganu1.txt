@@ -275,4 +275,3 @@ C271:	Nak balik dah nih.
 C272:	Pergi salam dengan Tok Ngah tu.
 A273:	Mu nak ke gulai ni?
 C274:	Bawa baliklah.
-
