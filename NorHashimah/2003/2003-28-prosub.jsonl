@@ -1,0 +1,82 @@
+{"id":0,"text":"A1:\tYang ni berapa sepasang?","label":[]}
+{"id":1,"text":"B2:\tBiasa beli berapa?","label":[]}
+{"id":2,"text":"A3:\tBiasa beli dua puluh tiga ringgit.","label":[]}
+{"id":3,"text":"B4:\tAmbiklah dua puluh tiga ringgit---buat gori---adik nak berapa pasang?","label":[[50,54,"2nd"]]}
+{"id":4,"text":"A5:\tYang ni?","label":[]}
+{"id":5,"text":"B6:\tYang ni broked---mahal sikit.","label":[]}
+{"id":6,"text":"A7:\tYang ni berapa sepasang?","label":[]}
+{"id":7,"text":"B8:\tYang ni paling kurang empat puluh lima ringgit---kain yoyo ni.","label":[]}
+{"id":8,"text":"B9:\tYang nilah dik---colour dia lawa-lawa ni---macam colour kain jacquard---baru sampai ni---Kak Dah nak bagi dua puluh lapan ringgit saja sepasang.","label":[[93,100,"1st"],[15,18,"address"]]}
+{"id":9,"text":"A10:\tBunganya besar-besarlah....","label":[]}
+{"id":10,"text":"A11:\tTak boleh kurang ke kak.","label":[[25,28,"address"]]}
+{"id":11,"text":"B12:\tTak boleh dah dik.","label":[[19,22,"address"]]}
+{"id":12,"text":"B13:\tKak Dah upah mahal ni.","label":[[5,12,"1st"]]}
+{"id":13,"text":"B14:\tSebab tulah colour dia molek.","label":[]}
+{"id":14,"text":"B15:\tBaru pergi ambik saja ni.","label":[]}
+{"id":15,"text":"B16:\tAda yang murah, tapi kain dia lembik, tak bersinar macam ini---bunganya pun tak banyak.","label":[]}
+{"id":16,"text":"A17:\tSetakat dua puluh lapan ringgit saja ke---tak boleh kurang lagi dah.","label":[]}
+{"id":17,"text":"B18:\tTak boleh dah dik---kalau adik nak yang murah ada----nanti Kak Dah ambik.","label":[[64,71,"1st"],[31,35,"2nd"],[19,22,"address"]]}
+{"id":18,"text":"B19:\tAdik nak yang ni hanya dua puluh lima ringgit.","label":[[5,9,"2nd"]]}
+{"id":19,"text":"A20:\tYang tu tak nak.","label":[]}
+{"id":20,"text":"B21:\tLepas tu nak yang mana?","label":[]}
+{"id":21,"text":"B22:\t---Kak Dah kalau boleh bagi murah, Kak Dah bagi.","label":[[8,15,"1st"],[8,15,"1st"]]}
+{"id":22,"text":"B23:\tTapi apa boleh buat---upah buat (tempah) mahal dah.","label":[]}
+{"id":23,"text":"B24:\tKak Dah tak nak jual mahal-mahal---bukan apa---sebab kalau boleh Kak Dah mahu adik datang tempat Kak Dah selalu---ni kain molek-molek belaka.","label":[[5,12,"1st"],[5,12,"1st"],[5,12,"1st"],[83,87,"2nd"]]}
+{"id":24,"text":"B25:\tAdik pilihlah yang mana adik nak.","label":[[5,9,"2nd"],[29,33,"2nd"]]}
+{"id":25,"text":"B26:\tYang ni dik.","label":[[13,16,"address"]]}
+{"id":26,"text":"A27:\tTak naklah merah sangat.","label":[]}
+{"id":27,"text":"B28:\tNak yang mahal dik---ambik yang nilah Kak Dah bagi empat puluh lima ringgit.","label":[[43,50,"1st"],[20,23,"address"]]}
+{"id":28,"text":"A29:\tYang tu bunganya besar-besar.","label":[]}
+{"id":29,"text":"B30:\tTengok saja macam ni.","label":[]}
+{"id":30,"text":"B31:\tBila dah jadi baju---lawa ni.","label":[]}
+{"id":31,"text":"A32:\tYang ni lawa tak?","label":[]}
+{"id":32,"text":"B33:\tLawa... kalau dah jadi baju tengok yang ni dik---lawa lagi.","label":[[48,51,"address"]]}
+{"id":33,"text":"B34:\tAdik ni kalau pakai warna gelap-gelap sikit comellah ni---ada sehelai tu saja lagi---bukalah adik nak tengok.","label":[[5,9,"2nd"],[98,102,"2nd"]]}
+{"id":34,"text":"A35:\tBerapa ni kak?","label":[[15,18,"address"]]}
+{"id":35,"text":"B36:\tYang tu kalau adik nak Kak Dah bagi empat puluh lima ringgit sudahlah.","label":[[28,35,"1st"],[19,23,"2nd"]]}
+{"id":36,"text":"B37:\tBiarlah... modalnya empat puluh lebih dik ni.","label":[[43,46,"address"]]}
+{"id":37,"text":"B38:\tTengoklah dik---tempat kita tak payah berkira sangat---bagi murah-murah saja---lain kali bolehlah datang beli lagi.","label":[[28,32,"1st"],[15,18,"address"]]}
+{"id":38,"text":"B39:\tKalau jual mahal-mahal nanti orang tak datang.","label":[]}
+{"id":39,"text":"A40:\tEmpat puluh ringgitlah kak.","label":[[28,31,"address"]]}
+{"id":40,"text":"B41:\tTak boleh---modal mari mahal dah dik.","label":[[38,41,"address"]]}
+{"id":41,"text":"B42:\tKak Dah bagi murah benar dah ni.","label":[[5,12,"1st"]]}
+{"id":42,"text":"A43:\tYang broked tu berapa?","label":[]}
+{"id":43,"text":"B44:\tKak Dah bagi tiga puluh ringgit.","label":[[5,12,"1st"]]}
+{"id":44,"text":"A45:\tTak naklah broked.","label":[]}
+{"id":45,"text":"A46:\tMudah kedut---yang ni kalau bagi empat puluh ringgit nak ni.","label":[]}
+{"id":46,"text":"B47:\tKak Dah kata tak boleh bagi dik---pasal modal mahal dah.","label":[[5,12,"1st"],[33,36,"address"]]}
+{"id":47,"text":"B48:\tKak Dah kalau boleh bagi tak payah berkira---Kak Dah bagi selalu---sama-sama kita ni Kak Dah tak kisah sangat.","label":[[6,12,"1st"],[5,12,"1st"],[82,86,"1st"],[5,12,"1st"]]}
+{"id":48,"text":"A49:\tKurang lagi tiga ringgitlah kak.","label":[[33,36,"address"]]}
+{"id":49,"text":"B50:\tTak boleh dik---modal empat puluh lebih dah ni.","label":[[15,18,"address"]]}
+{"id":50,"text":"B51:\tMintak empat puluh empat biarlah Kak Dah mintak seringgit.","label":[[38,45,"1st"]]}
+{"id":51,"text":"A52:\tTak apalah kak ambik yang ni sajalah.","label":[[16,19,"address"]]}
+{"id":52,"text":"B53:\tBiarlah dik ambik empat puluh tiga ringgit---Kak Dah tak kisah dah.","label":[[50,57,"1st"],[13,16,"address"]]}
+{"id":53,"text":"B54:\tAdik mintak empat puluh tiga ringgit, Kak Dah mintak serial saja lagi---biarlah mintak buat tambang saja.","label":[[5,9,"2nd"]]}
+{"id":54,"text":"B55:\tLain kali adik boleh datang lagi tempat Kak Dah.","label":[[45,52,"1st"],[15,19,"2nd"]]}
+{"id":55,"text":"B56:\tMurah benar ni Kak Dah bagi.","label":[]}
+{"id":56,"text":"B57:\tYang tu murah saja dik dua puluh lima ringgit.","label":[[24,27,"2nd"]]}
+{"id":57,"text":"A58:\tKain apa ni?","label":[]}
+{"id":58,"text":"B59:\tKain molek jugak ni---tak kedut tu sedap pakai---kain batik jugak ni.","label":[]}
+{"id":59,"text":"A60:\tBagi dua puluh ringgitlah.","label":[]}
+{"id":60,"text":"B61:\tBertuahnya adik...","label":[[16,20,"2nd"]]}
+{"id":61,"text":"B62:\tKak Dah bagi habis murah dah tu.","label":[[5,12,"1st"]]}
+{"id":62,"text":"B63:\tJangan bimbang beli tempat Kak Dah","label":[[32,39,"1st"]]}
+{"id":63,"text":"B64:\tKak Dah ambil samah-samah saja.","label":[[5,12,"1st"]]}
+{"id":64,"text":"A65:\tBiarlah kak lain kali sajalah.","label":[[13,16,"address"]]}
+{"id":65,"text":"B66:\tBagi dua puluh tiga ringgitlah.","label":[]}
+{"id":66,"text":"A67:\tTak nak dua puluh tiga ringgit kalau dua puluh ringgit nak.","label":[]}
+{"id":67,"text":"B68:\tDua puluh ringgit tak boleh dik.","label":[[33,36,"address"]]}
+{"id":68,"text":"A69:\tKalau tak boleh tak apalah ambik yang ni saja.","label":[]}
+{"id":69,"text":"B70:\tNi yang mahal ni tak nak---sutera jacquard Kak Dah bagi seratus lima puluh ringgit saja sehelai.","label":[[48,55,"1st"]]}
+{"id":70,"text":"B71:\tKak Dah cakap betul pada adik.","label":[[5,12,"1st"],[30,34,"2nd"]]}
+{"id":71,"text":"B72:\tDi K.L.ni mahal benar ni.","label":[]}
+{"id":72,"text":"B73:\tKelmarin kawan","label":[]}
+{"id":73,"text":"B74:\tKak Dah datang beli---dia kata nak beli kat K.L. mahal.","label":[[5,12,"1st"]]}
+{"id":74,"text":"B75:\tYang tu yang air mas.","label":[]}
+{"id":75,"text":"A76:\tKalau yang tu lagi mahal ya?","label":[]}
+{"id":76,"text":"B77:\tYang tu dua ratus lima puluh ringgit Kak Dah bagi -baru sampai yang ni---baru tadi Kak Dah gi ambik---ambiklah sepasang.","label":[[42,49,"1st"],[42,49,"1st"]]}
+{"id":77,"text":"A78:\tTak naklah mahal sangat.","label":[]}
+{"id":78,"text":"A79:\tPakai dua tiga bulan saja dah buruk.","label":[]}
+{"id":79,"text":"B80:\tKain ni lambat buruk dik.","label":[[26,29,"address"]]}
+{"id":80,"text":"A81:\tNi kak nak bayar yang ni.","label":[[8,11,"2nd"]]}
+{"id":81,"text":"B82:\tJual ye dik---datang pulak lain kali beli kain tempat Kak Dah.","label":[[59,66,"1st"],[13,16,"address"]]}

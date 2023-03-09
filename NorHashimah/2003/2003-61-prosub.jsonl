@@ -1,0 +1,45 @@
+{"id":0,"text":"A1:\tBerapa yang ni?","label":[]}
+{"id":1,"text":"B2:\tYang ni, empat puluh lebih.","label":[]}
+{"id":2,"text":"A3:\tSaya beli dulu tiga puluh lima saja.","label":[]}
+{"id":3,"text":"B4:\tKat mana, mesti kain lain tu.","label":[]}
+{"id":4,"text":"A5:\tSerupa dengan 'jarum emas' tetapi dekat Arked Mara.","label":[]}
+{"id":5,"text":"B6:\tTak dapat, saya ambik pun harga dia dah empat puluh lebih jugak, modal pun empat puluh lebih.","label":[]}
+{"id":6,"text":"A7:\tBerapa ni?","label":[]}
+{"id":7,"text":"B8:\tYang ni, saya bagi tahu harga betullah... empat puluh lapan.","label":[]}
+{"id":8,"text":"A9:\tAllah... empat puluh tak boleh.","label":[]}
+{"id":9,"text":"B10:\tSaya ambik pun harga dah empat puluh lebih dah.","label":[]}
+{"id":10,"text":"A11:\tBagi empat puluhlah, yang ni lima puluh... kita ambik dua pasang.","label":[]}
+{"id":11,"text":"B12:\tTak sampai modal, tak boleh bagilah.","label":[]}
+{"id":12,"text":"A13:\tBolehlah...","label":[]}
+{"id":13,"text":"B14:\tTak sampai modal, kita nak jual macam mana.","label":[]}
+{"id":14,"text":"A15:\tBagi ya empat puluh...","label":[]}
+{"id":15,"text":"B16:\tTak sampai modal lagi.","label":[]}
+{"id":16,"text":"A17:\tBagilah, orang nak gori ni, hari dah gelap dah, orang pun dah nak balik.","label":[]}
+{"id":17,"text":"B18:\tTak sampai modal lagi.","label":[]}
+{"id":18,"text":"B19:\tmacam mana saya nak jual, rugi pulak.","label":[]}
+{"id":19,"text":"A20:\tBagi-bagilah, orang nak balik dah.","label":[]}
+{"id":20,"text":"A21:\tTak boleh bagi empat puluh ni?","label":[]}
+{"id":21,"text":"B22:\tTak boleh, tak sampai modal.","label":[]}
+{"id":22,"text":"A23:\tBagilah, minta jugak tu.","label":[]}
+{"id":23,"text":"B24:\tModal dah empat puluh dah ni, ini mahal.","label":[]}
+{"id":24,"text":"A25:\tKurang sikit lagi empat puluh dua dah.","label":[]}
+{"id":25,"text":"B26:\tEmpat puluh dua pun tak boleh pergi lagi.","label":[]}
+{"id":26,"text":"B27:\tSaya letak enam puluh lima tapi kak selalu beli sini, tiap-tiap bulan saya bagi empat puluh lima.","label":[[5,9,"1st"],[75,79,"1st"],[37,40,"2nd"]]}
+{"id":27,"text":"A28:\tBagi-bagilah, empat puluh dualah... kita bagi satu ringgit lagilah... jadi empat puluh tiga, orang kira nak gorilah tu.","label":[[41,45,"1st"]]}
+{"id":28,"text":"B29:\t'Jarum emas' tu mahal.","label":[]}
+{"id":29,"text":"A30:\tAlah, empat puluh tiga... empat ringgit pun nak ambik jugak minta dah tu.","label":[]}
+{"id":30,"text":"B31:\tGinilah yang tu empat puluh lima, yang lagi satu tu lima puluh.","label":[]}
+{"id":31,"text":"B32:\tYang ni tak boleh pergi dah.","label":[]}
+{"id":32,"text":"A33:\tBiarlah yang ni minta empat puluh lima, yang satu lagi tu tiga puluh.","label":[]}
+{"id":33,"text":"B34:\tTak boleh, minta maaflah.","label":[]}
+{"id":34,"text":"A35:\tBoleh-bolehlah tu, kalau ikut kita tak berkenan juga, sebab warna dia gelap sikit.","label":[[35,39,"1st"]]}
+{"id":35,"text":"A36:\tBoleh-bolehlah... mintak jugak, kalau tidak... tak laku jugak.","label":[]}
+{"id":36,"text":"B37:\tLaku.","label":[]}
+{"id":37,"text":"A38:\tTiga puluh dah, minta jugak.","label":[]}
+{"id":38,"text":"A39:\tTempat awak ni saya mari lagi.","label":[[20,24,"1st"]]}
+{"id":39,"text":"A40:\tKira dua pasang tu tujuh puluh lima, minta kurang lima ringgit.","label":[]}
+{"id":40,"text":"A41:\tTujuh puluh lima saya ambil dua ni.","label":[[22,26,"1st"]]}
+{"id":41,"text":"B42:\tTak boleh kak, yang ni mahal dah ni.","label":[[15,18,"address"]]}
+{"id":42,"text":"A43:\tGinilah, empat puluh lima dengan tiga puluh dua, pergi bungkus-bungkus.","label":[]}
+{"id":43,"text":"A44:\tOh... tiga ringgit pun nak kira, beratlah gini... semua sekali kira tujuh puluh tujuh ringgit.","label":[]}
+{"id":44,"text":"B45:\tLain kali, saya tak nak jugak dengan harga gini.","label":[[16,20,"1st"]]}

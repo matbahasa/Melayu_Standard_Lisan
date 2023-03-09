@@ -1,0 +1,19 @@
+{"id":0,"text":"A1:\tMak cik, kira yang ni.","label":[[4,11,"address"]]}
+{"id":1,"text":"B2:\tHarga yang ni dua ringgit.","label":[]}
+{"id":2,"text":"B3:\tGinilah mak cik bagi satu ringgit lapan puluh, kalau orang lain dua ringgit harga tak bergerak dah (harga tetap).","label":[[12,19,"1st"]]}
+{"id":3,"text":"A4:\tKain ela ni?","label":[]}
+{"id":4,"text":"B5:\tKain ni empat ringgit.","label":[]}
+{"id":5,"text":"A6:\tTak boleh kurang lagi ke?","label":[]}
+{"id":6,"text":"B7:\tTak boleh dah, harga dia memang empat ringgit.","label":[]}
+{"id":7,"text":"B8:\tDengan orang lain tak boleh empat ringgit ni.","label":[]}
+{"id":8,"text":"B9:\tBiasa orang jual empat ringgit dua puluh.","label":[]}
+{"id":9,"text":"A10:\tBagi tiga ringgit lapan puluhlah","label":[]}
+{"id":10,"text":"B11:\tTak bolehlah dik, lainlah kalau ambik sepuluh ela atau satu kayu ke.","label":[[18,21,"address"]]}
+{"id":11,"text":"B12:\tBolehlah.","label":[]}
+{"id":12,"text":"A13:\tKain ni berapa pulak?","label":[]}
+{"id":13,"text":"B14:\tSepuluh ringgit, ambiklah sembilan ringgit setengah, boleh bagi.","label":[]}
+{"id":14,"text":"A15:\tLapan ringgit setengahlah.","label":[]}
+{"id":15,"text":"B16:\tKasihanlah kita dik---lapan setengah tu hak kita pun tak sampai lagi.","label":[[16,20,"1st"],[21,24,"address"]]}
+{"id":16,"text":"B17:\tKita jual murah dah tak naklah pegang-pegang harga.","label":[[5,9,"1st"]]}
+{"id":17,"text":"A18:\tTak apalah.","label":[]}
+{"id":18,"text":"A19:\tBerapa semua itu?","label":[]}

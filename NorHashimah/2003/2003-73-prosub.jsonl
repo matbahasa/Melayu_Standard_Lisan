@@ -1,0 +1,34 @@
+{"id":0,"text":"A1:\tBerapa ni kak?","label":[[14,17,"address"]]}
+{"id":1,"text":"B2:\tSembilan.","label":[]}
+{"id":2,"text":"A3:\tTak boleh tawar lagi?","label":[]}
+{"id":3,"text":"B4:\tBoleh, berapa adik nak?","label":[[18,22,"2nd"]]}
+{"id":4,"text":"A5:\tKalau kak bagi lima belas, bolehlah ambik sepasang lagi.","label":[[10,13,"2nd"]]}
+{"id":5,"text":"B6:\t(Ketawa) ..., ginilah adik, kak bagi setakat lima belas, baru sampai semalam ni!","label":[[32,35,"1st"],[26,30,"address"]]}
+{"id":6,"text":"B7:\tAdik nak warna apa lagi.","label":[[4,8,"2nd"]]}
+{"id":7,"text":"A8:\tTak boleh lagi ke kak?","label":[[22,25,"address"]]}
+{"id":8,"text":"B9:\tBiarlah, sebab adik nak ambik banyak pasang, kak bagi dua belas ringgitlah dik, ini akak cakap ni, modal berapa belas dah tu.","label":[[49,52,"1st"],[88,92,"1st"],[19,23,"2nd"],[20,23,"address"]]}
+{"id":9,"text":"10\t(Beg)","label":[]}
+{"id":10,"text":"A11:\tBeg sekolah ni berapa kak?","label":[[27,30,"address"]]}
+{"id":11,"text":"B12:\tGinilah, kalau adik nak akak bagi tiga puluh lima, ada sebutir ni saja lagi.","label":[[29,33,"1st"],[20,24,"2nd"]]}
+{"id":12,"text":"A13:\tAllah, mahalnya.","label":[]}
+{"id":13,"text":"B14:\tAdik, saya jual barang supermarket ni, bukan barang Siam.","label":[[11,15,"1st"],[5,9,"address"]]}
+{"id":14,"text":"B15:\tModal mari mahal dah sebab barang yang elok.","label":[]}
+{"id":15,"text":"B16:\tKira ginilah, biarlah boleh kurang sikit lagilah.","label":[]}
+{"id":16,"text":"B17:\tBagi tiga ringgitlah kat saya, bagi tiga puluh tiga ringgit.","label":[[30,34,"1st"]]}
+{"id":17,"text":"A18:\tTiga puluh tiga?","label":[]}
+{"id":18,"text":"B19:\tBoleh?","label":[]}
+{"id":19,"text":"A20:\tMahal lagi kak.","label":[[16,19,"address"]]}
+{"id":20,"text":"B21:\tHabis nak tawar berapa?","label":[]}
+{"id":21,"text":"B22:\tBiarlah, saya dengar dulu.","label":[[14,18,"1st"]]}
+{"id":22,"text":"B23:\tModal berapa puluh dah adik oi... kalau supermarket sepuluh sen pun tak boleh tawar ni.","label":[[28,32,"address"]]}
+{"id":23,"text":"B24:\tKalau tiga puluh lapan sembilan puluh, tiga puluh lapan sembilan puluh, situlah.","label":[]}
+{"id":24,"text":"B25:\tIni kita boleh jugak tawar beberapa ringgit.","label":[[9,13,"1st"]]}
+{"id":25,"text":"B26:\tCuba tengok kain dialah, bukannya saya nak kempen, barang elok sungguh, bukannya kain nipis... tak.","label":[[39,43,"1st"]]}
+{"id":26,"text":"B27:\tKita, kalau barang elok, modal berapa puluh, kita tak berani nak jual sebab kita jual barang standard saja!","label":[[5,9,"1st"],[50,54,"1st"],[50,54,"1st"]]}
+{"id":27,"text":"A28:\tDua puluh sembilanlah.","label":[]}
+{"id":28,"text":"B29:\tTak boleh pergi o.k., tiga puluh tigalah.","label":[]}
+{"id":29,"text":"A30:\tDua puluh sembilan boleh?","label":[]}
+{"id":30,"text":"B31:\tKesianlah pada kak, oleh sebab kak baru ambil tadi saja, biarlah buat upah tambang, tiga puluhlah.","label":[[20,23,"1st"],[20,23,"1st"]]}
+{"id":31,"text":"A32:\tDua puluh sembilan tidak boleh bagi ke?","label":[]}
+{"id":32,"text":"B33:\tTidak boleh, kesianlah kita.","label":[[28,32,"1st"]]}
+{"id":33,"text":"A34:\tYalah.","label":[]}

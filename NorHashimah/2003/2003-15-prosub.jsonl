@@ -1,0 +1,20 @@
+{"id":0,"text":"A1:\tKain batik sarung tu berapa?","label":[]}
+{"id":1,"text":"B2:\tKain batik Kelantan ke, Terengganu?","label":[]}
+{"id":2,"text":"B3:\tKain Kelantan tu lapan ringgit sehelai---adik nak yang mana... adik nak banyak ke?","label":[[45,49,"2nd"],[45,49,"2nd"]]}
+{"id":3,"text":"A4:\tNak satu kodi (dua puluh helai).","label":[]}
+{"id":4,"text":"B5:\tKalau nak sekodi, ginilah Kak Dah bagi seratus dua puluh lapan ringgit.","label":[[30,37,"1st"]]}
+{"id":5,"text":"B6:\tMurah dah tu adik---murah benar dah.","label":[[17,21,"address"]]}
+{"id":6,"text":"A7:\tElok ke kain ni?","label":[]}
+{"id":7,"text":"B8:\tKenapa pulak tak elok---ini betul kain molek bukan kain Siam---kain Siam cepat rosak, yang ni corak dia pun cantik.","label":[]}
+{"id":8,"text":"A9:\tTak boleh kurang lagi ke kak?","label":[[29,32,"address"]]}
+{"id":9,"text":"B10:\tMurah dah tu dik, adik gi tempat lain tak dapat harga ni.","label":[[23,27,"2nd"],[18,21,"address"]]}
+{"id":10,"text":"B11:\tSaya tolak harga dalam kodi dah ni.","label":[[5,9,"1st"]]}
+{"id":11,"text":"B12:\tBerapa sen kita dapat.","label":[]}
+{"id":12,"text":"A13:\tMurah-murah ni kain Kelantan ke?","label":[]}
+{"id":13,"text":"A14:\t---Saya takut kain Siam.","label":[[8,12,"1st"]]}
+{"id":14,"text":"B15:\tBetul dik, kain Kelantan murah, tapi berkualiti, Kak Dah tak berapa nak jual kain tak elok.","label":[[54,61,"1st"],[11,14,"address"]]}
+{"id":15,"text":"B16:\tNi Kak Dah jual kain Siam Cap Semut enam ringgit sehelai.","label":[[8,15,"1st"]]}
+{"id":16,"text":"B17:\tAdik boleh banding.","label":[[5,9,"2nd"]]}
+{"id":17,"text":"B18:\tKain Siam lebih ringan, kain Kelantan berat sikit.","label":[]}
+{"id":18,"text":"B19:\tKalau nak yang mahal lagi, ambik kain Terengganulah.","label":[]}
+{"id":19,"text":"A20:\tTak apalah---kira yang ni saja.","label":[]}

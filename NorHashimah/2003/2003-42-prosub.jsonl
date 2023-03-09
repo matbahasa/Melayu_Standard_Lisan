@@ -1,0 +1,37 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tMerah ni empat puluh lima.","label":[]}
+{"id":2,"text":"A3:\tYang ni?","label":[]}
+{"id":3,"text":"B4:\tLima puluh lima, baldu dia mahal sikit, kita bagi kuranglah, kalau kak nak, baru sampai ini.","label":[[44,48,"1st"],[71,74,"2nd"]]}
+{"id":4,"text":"A5:\tYang kulit tu berapa?","label":[]}
+{"id":5,"text":"B6:\tYang kulit tu tiga puluh lapan.","label":[]}
+{"id":6,"text":"A7:\tMacam mana mahal sangat aa... ?","label":[]}
+{"id":7,"text":"B8:\tBoleh kurang lagi harga dia, kak nak tawar berapa?","label":[[33,36,"2nd"]]}
+{"id":8,"text":"A9:\tYang ni berapa?","label":[]}
+{"id":9,"text":"B10:\tSerupa harga tiga puluh lapan.","label":[]}
+{"id":10,"text":"B11:\tKalau kak nak, boleh kurang sikit.","label":[[11,14,"2nd"]]}
+{"id":11,"text":"B12:\tBagi tahulah kak nak bayar berapa?","label":[[18,21,"2nd"]]}
+{"id":12,"text":"B13:\tKalau boleh bagi kita bagi.","label":[[22,26,"1st"]]}
+{"id":13,"text":"A14:\tBeli kat Rantau Panjang dua puluh lebih saja.","label":[]}
+{"id":14,"text":"B15:\tBezalah dengan sini sebab kita bayar cukai lagi, belum tentu tahu lagi selamat tak selamat.","label":[[31,35,"1st"]]}
+{"id":15,"text":"B16:\tTak apalah bagi kurang sikitlah kak.","label":[[37,40,"address"]]}
+{"id":16,"text":"A17:\tPaling kurang berapa?","label":[]}
+{"id":17,"text":"B18:\tBagi tahulah kak, tawar molek.","label":[[18,21,"address"]]}
+{"id":18,"text":"A19:\tTawar molek, lama kan kita tawar tak kena harga.","label":[[27,31,"1st"]]}
+{"id":19,"text":"B20:\tKak tawar tu, biar berpatutan dengan barang yang nak jual ini, bagi tahulah kak nak tawar berapa?","label":[[5,8,"2nd"],[81,84,"2nd"]]}
+{"id":20,"text":"A21:\tDua puluh lebih boleh ya.","label":[]}
+{"id":21,"text":"B22:\tGinilah betul-betul ya, kak nak kita bagi tiga puluh satu, kesian kita kak, tak bolehlah buat macam di Rantau Panjang tu.","label":[[37,41,"1st"],[37,41,"1st"],[29,32,"2nd"],[29,32,"address"]]}
+{"id":22,"text":"A23:\tKita cakap hak sungguh ni, beli Rantau Panjang tu dua puluh tiga saja.","label":[[5,9,"1st"]]}
+{"id":23,"text":"B24:\tGinilah kak, kalau kak nak, kita bagi tiga puluh cukup, kalau untung dua, tiga ringgit pun tak apa dah.","label":[[13,16,"2nd"],[13,16,"address"]]}
+{"id":24,"text":"B25:\tKalau beli dua lainlah.","label":[]}
+{"id":25,"text":"B26:\tNak sikitlah, kesian kita.","label":[[26,30,"1st"]]}
+{"id":26,"text":"A27:\tTak boleh dah ke, kuranglah sikit lagi.","label":[]}
+{"id":27,"text":"B28:\tKak nak berapa butir... nya.","label":[[5,8,"2nd"]]}
+{"id":28,"text":"A29:\tSatu butir saja.","label":[]}
+{"id":29,"text":"A30:\tKalau kak balik Jerteh, boleh tunjuk pulak, kalau orang berkenan.","label":[[11,14,"2nd"]]}
+{"id":30,"text":"B31:\tMolek dah tiga puluh, kalau jual kat orang lain tiga puluh dua, tiga-tiga, bagi tahu kat kak saja, tak tipu kak.","label":[[94,97,"2nd"],[94,97,"address"]]}
+{"id":31,"text":"A32:\tKurang-kurang dua puluh lapanlah.","label":[]}
+{"id":32,"text":"B33:\tHarga akhirlah dua puluh sembilan, bagi kita satu ringgit lagilah.","label":[[45,49,"1st"]]}
+{"id":33,"text":"B34:\tTak boleh gi kak, kalau kak ambik dua buah, bolehlah kurang sikit lagi, sikitlah.","label":[[18,21,"2nd"],[18,21,"address"]]}
+{"id":34,"text":"B35:\tKesianlah kita.","label":[[15,19,"1st"]]}
+{"id":35,"text":"A36:\tDua puluh lapanlah dik.","label":[[24,27,"address"]]}
+{"id":36,"text":"B37:\tTak bolehlah kak, kesian kita, tak boleh pergi dah, mahal di tali beg ni, dua puluh lebih dah modal kita tapi puas hatilah, barang elok ambik dua.","label":[[30,34,"1st"],[30,34,"1st"],[18,21,"address"]]}

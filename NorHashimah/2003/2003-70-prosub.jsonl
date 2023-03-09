@@ -1,0 +1,59 @@
+{"id":0,"text":"A1:\tBerapa kain batik ni?","label":[]}
+{"id":1,"text":"B2:\tDua puluh mak cik.","label":[[14,21,"address"]]}
+{"id":2,"text":"A3:\tDua puluh?","label":[]}
+{"id":3,"text":"B4:\tBolehlah kurang sikit lagi, pagi-pagi ni.","label":[]}
+{"id":4,"text":"A5:\tLima belas.","label":[]}
+{"id":5,"text":"B6:\tLima belas tak boleh, dia panggil 'Jawa JK'.","label":[]}
+{"id":6,"text":"A7:\tLima belas bolehlah dik.","label":[[24,27,"2nd"]]}
+{"id":7,"text":"B8:\tLima belas tak boleh, kalau nak bagi tujuh belaslah.","label":[]}
+{"id":8,"text":"B9:\tPasal nak buat gori pagi-pagi ni.","label":[]}
+{"id":9,"text":"A10:\tBolehlah lima belas.","label":[]}
+{"id":10,"text":"B11:\tLima belas tak dapat, tujuh belaslah pagi-pagi ni pasal batik Jawa ni, lima belas yang satu lagi.","label":[]}
+{"id":11,"text":"A12:\tLima belas bolehlah.","label":[]}
+{"id":12,"text":"B13:\tPasal pagi-pagi ni nak buat gori.","label":[]}
+{"id":13,"text":"A14:\tLima belaslah, banyak nak ambik ni.","label":[]}
+{"id":14,"text":"B15:\tTujuh belas mak cik, tak betul tu, kita boleh sikit saja.","label":[[40,44,"1st"],[17,24,"address"]]}
+{"id":15,"text":"A16:\tNak ambik banyak ni.","label":[]}
+{"id":16,"text":"B17:\tLima belas tak dapat, ambik pun dah lebih.","label":[]}
+{"id":17,"text":"A18:\tKalau kita nak berniaga ni, bagilah kurang sikit.","label":[[11,15,"1st"]]}
+{"id":18,"text":"B19:\tHarga berniagalah tu bagi biasa jual ni, harga tarik ni dua puluh lima, pasal pagi-pagi ni, kan.","label":[]}
+{"id":19,"text":"A20:\tBoleh tu, dah enam belas saja.","label":[]}
+{"id":20,"text":"B21:\tTujuh belas, kita boleh sikit saja, buat minum air saja.","label":[[18,22,"1st"]]}
+{"id":21,"text":"B22:\tNiaga ni tidak boleh banyak.","label":[]}
+{"id":22,"text":"B23:\tBoleh empat hingga lima puluh sen saja sehelai.","label":[]}
+{"id":23,"text":"A24:\tEnam belas boleh ya?","label":[]}
+{"id":24,"text":"B25:\tTujuh belaslah mak cik, itu pun boleh buat minum air saja.","label":[]}
+{"id":25,"text":"A26:\tBagilah kurang sikit, nak berniaga.","label":[]}
+{"id":26,"text":"B27:\tItu bagi harga niaga dah tu.","label":[]}
+{"id":27,"text":"A28:\tLima belas, bolehlah ambil empat helai.","label":[]}
+{"id":28,"text":"B29:\tTidak boleh, itu pun dah bagi 'spesial harga' tu.","label":[]}
+{"id":29,"text":"B30:\tHarga biasa dah tu bagi.","label":[]}
+{"id":30,"text":"B31:\tYang tu tiga puluh lima.","label":[]}
+{"id":31,"text":"B32:\tBolehlah kurang sikit lagi.","label":[]}
+{"id":32,"text":"B33:\tBaru sampai semalam.","label":[]}
+{"id":33,"text":"A34:\tSepasang ni berapa?","label":[]}
+{"id":34,"text":"B35:\tYang tu dua puluh, bolehlah kurang lagi.","label":[]}
+{"id":35,"text":"A36:\tTakkanlah dua puluh, lapan belaslah.","label":[]}
+{"id":36,"text":"B37:\tLapan belas tu, kain yang satu lagi.","label":[]}
+{"id":37,"text":"B38:\tGinilah kalau nak, kita bagi sama dengan harga kain sarung tadi, tujuh belas ringgit.","label":[[24,28,"1st"]]}
+{"id":38,"text":"B39:\tBoleh ke mak cik?","label":[[14,21,"address"]]}
+{"id":39,"text":"B40:\tTengok-tengoklah dulu.","label":[]}
+{"id":40,"text":"B41:\t(Kain cotton).","label":[]}
+{"id":41,"text":"A42:\tLima belas tidak boleh?","label":[]}
+{"id":42,"text":"B43:\tLima belas tidak boleh, itu pun saya boleh sikit saja, sebab ni Jawa empat lapis.","label":[[37,41,"1st"]]}
+{"id":43,"text":"A44:\tLima belas bolehlah, ambik dua helai.","label":[]}
+{"id":44,"text":"B45:\tHarga saya ambik pun tidak boleh lagi.","label":[[11,15,"1st"]]}
+{"id":45,"text":"A46:\tBolehlah kurang sikit?","label":[]}
+{"id":46,"text":"B47:\tGinilah bagi harga sama dengan kain sarung.","label":[]}
+{"id":47,"text":"B48:\tPasal harga niaga ni sikit-sikit saja ambil.","label":[]}
+{"id":48,"text":"A49:\tBolehlah tu.","label":[]}
+{"id":49,"text":"B50:\tSaya pun boleh sikit saja, empat hingga lima puluh sen saja sehelai.","label":[[5,9,"1st"]]}
+{"id":50,"text":"A51:\tTak apalah, lama-lama jadi bukit.","label":[]}
+{"id":51,"text":"A52:\tSikit-sikit lama-lama jadi bukit, ya tak?","label":[]}
+{"id":52,"text":"A53:\tKiralah berapa semua tu.","label":[]}
+{"id":53,"text":"B54:\tSeratus lima puluh tiga, sembilan helai.","label":[]}
+{"id":54,"text":"B55:\tSaya kira harga sama.","label":[[5,9,"1st"]]}
+{"id":55,"text":"B56:\tBiasanya yang ni, saya jual lapan belas, tak apalah pasal mak cik ambik banyak.","label":[[23,27,"1st"],[63,70,"2nd"]]}
+{"id":56,"text":"A57:\tBolehlah kurang tiga ringgit lagi tu.","label":[]}
+{"id":57,"text":"B58:\tYang tiga ringgit lagi tulah yang saya punya tu, tak banyak.","label":[[39,43,"1st"]]}
+{"id":58,"text":"B59:\tSeratus ringgit lebih potong pun, boleh sikit saja.","label":[]}

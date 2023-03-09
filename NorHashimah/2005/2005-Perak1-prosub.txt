@@ -1,0 +1,59 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+2005	2005-Perak1 .txt	1	4	12	Mak Ndak					1	0	0	1
+2005	2005-Perak1 .txt	2	142	150	Mak Ndak					1	0	1	0
+2005	2005-Perak1 .txt	3	281	289	Mak Yang					1	0	0	1
+2005	2005-Perak1 .txt	4	291	299	Mak Yang					1	0	0	1
+2005	2005-Perak1 .txt	5	321	328	Mak Tuk					1	0	1	0
+2005	2005-Perak1 .txt	43	341	345	kita					1	1	0	0
+2005	2005-Perak1 .txt	6	635	643	Mak Ndak					1	0	0	1
+2005	2005-Perak1 .txt	7	645	653	Mak Ndak					1	0	0	1
+2005	2005-Perak1 .txt	8	732	739	Mak Tok					1	0	0	1
+2005	2005-Perak1 .txt	10	777	780	Ina					1	0	0	1
+2005	2005-Perak1 .txt	44	789	793	kita					1	1	0	0
+2005	2005-Perak1 .txt	11	814	821	Kak Aaa					1	0	0	1
+2005	2005-Perak1 .txt	45	864	868	awak					1	0	1	0
+2005	2005-Perak1 .txt	13	1116	1124	Mak Ndak					1	0	0	1
+2005	2005-Perak1 .txt	9	1425	1428	Mon					1	0	0	1
+2005	2005-Perak1 .txt	12	1449	1452	Mon					1	0	0	1
+2005	2005-Perak1 .txt	46	1686	1690	kita					1	1	0	0
+2005	2005-Perak1 .txt	14	2311	2319	Pak Ngah					1	0	0	1
+2005	2005-Perak1 .txt	47	2656	2660	Kami					1	1	0	0
+2005	2005-Perak1 .txt	15	2692	2699	Md. Noh					1	0	0	1
+2005	2005-Perak1 .txt	48	2769	2773	kita					1	1	0	0
+2005	2005-Perak1 .txt	49	2780	2784	kita					1	1	0	0
+2005	2005-Perak1 .txt	50	3488	3496	Mak Ndak					1	0	0	1
+2005	2005-Perak1 .txt	51	3507	3511	kami					1	1	0	0
+2005	2005-Perak1 .txt	52	3547	3551	kami					1	1	0	0
+2005	2005-Perak1 .txt	53	3671	3675	kami					1	1	0	0
+2005	2005-Perak1 .txt	54	3823	3827	kami					1	1	0	0
+2005	2005-Perak1 .txt	55	4179	4183	Kami					1	1	0	0
+2005	2005-Perak1 .txt	56	4261	4265	kami					1	1	0	0
+2005	2005-Perak1 .txt	16	4424	4431	mak cik	01				1	0	0	1
+2005	2005-Perak1 .txt	17	4435	4440	abang	01				1	0	0	1
+2005	2005-Perak1 .txt	18	4452	4458	a bang	01				1	0	0	1
+2005	2005-Perak1 .txt	19	4460	4465	abang	01				1	0	0	1
+2005	2005-Perak1 .txt	37	4512	4515	Kau					1	0	1	0
+2005	2005-Perak1 .txt	38	4527	4530	kau					1	0	1	0
+2005	2005-Perak1 .txt	39	4673	4676	aku					1	1	0	0
+2005	2005-Perak1 .txt	57	5170	5174	kami					1	1	0	0
+2005	2005-Perak1 .txt	20	5260	5268	Mak Ngah					1	0	0	1
+2005	2005-Perak1 .txt	21	5340	5348	Mak Ngah					1	0	0	1
+2005	2005-Perak1 .txt	22	5608	5612	adik	01				1	0	0	1
+2005	2005-Perak1 .txt	23	5616	5624	adik Jah					1	0	0	1
+2005	2005-Perak1 .txt	40	5671	5675	saya					1	1	0	0
+2005	2005-Perak1 .txt	24	5689	5692	dik	01				1	0	0	1
+2005	2005-Perak1 .txt	25	5701	5704	Dik	01				1	0	1	0
+2005	2005-Perak1 .txt	26	6103	6105	Cu					1	0	0	1
+2005	2005-Perak1 .txt	27	6120	6122	Cu					1	0	0	1
+2005	2005-Perak1 .txt	28	6161	6164	Tun					1	0	0	1
+2005	2005-Perak1 .txt	29	6317	6320	Tun					1	0	0	1
+2005	2005-Perak1 .txt	30	7565	7573	Mak Long					1	0	0	1
+2005	2005-Perak1 .txt	58	7584	7587	Nah					1	0	0	1
+2005	2005-Perak1 .txt	31	7632	7636	Ngah					1	0	0	1
+2005	2005-Perak1 .txt	32	7651	7655	Ngah					1	0	0	1
+2005	2005-Perak1 .txt	33	8043	8048	Along					1	0	0	1
+2005	2005-Perak1 .txt	34	8063	8067	Long					1	0	0	1
+2005	2005-Perak1 .txt	35	8076	8079	Mak	01				1	0	0	1
+2005	2005-Perak1 .txt	36	8136	8139	Mak	01				1	0	1	0
+2005	2005-Perak1 .txt	42	8190	8193	Mak					1	0	0	1
+2005	2005-Perak1 .txt	41	8219	8222	Mak					1	0	1	0

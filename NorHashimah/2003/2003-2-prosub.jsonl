@@ -1,0 +1,14 @@
+{"id":0,"text":"A1:\tSkirt sekolah ada tak?","label":[]}
+{"id":1,"text":"B2:\tSkirt saya tak jual, baju kurung ada... di Kelantan tak ramai dah pakai skirt.","label":[[10,14,"1st"]]}
+{"id":2,"text":"B3:\tSeluar pendek pun macam tu jugak.","label":[]}
+{"id":3,"text":"B4:\tStok tahun lalu sampai sekarang ada lagi.","label":[]}
+{"id":4,"text":"B5:\tSekarang budak lelaki semuanya pakai seluar panjang.","label":[]}
+{"id":5,"text":"B6:\tAmbik baju kurunglah... budak sekolah di Kelantan sekarang memang pakai baju kurung.","label":[]}
+{"id":6,"text":"B7:\tAdik nanti kalau pakai skirt, semua kawan-kawan lain pakai baju kurung nanti malu pulak... ambik baju kurunglah.","label":[[4,8,"2nd"]]}
+{"id":7,"text":"A8:\tYang ni muat tak?","label":[]}
+{"id":8,"text":"B9:\tBaju kurung ni labuh sikit baru nampak comel.","label":[]}
+{"id":9,"text":"A10:\tBerapa sepasang ni?","label":[]}
+{"id":10,"text":"B11:\tSepasang harganya lima belas ringgit tapi boleh kurang lagi.","label":[]}
+{"id":11,"text":"B12:\tSaya bagi dua belas ringgit.","label":[[5,9,"1st"]]}
+{"id":12,"text":"A13:\tTak boleh kurang lagi dah.","label":[]}
+{"id":13,"text":"B14:\tTak boleh dah---sebab kain dia pun mahal seela tiga ringgit lebih dah.","label":[]}

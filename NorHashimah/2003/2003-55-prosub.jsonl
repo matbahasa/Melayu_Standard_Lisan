@@ -1,0 +1,29 @@
+{"id":0,"text":"A1:\tAbang, bagi berapa yang ni?","label":[[4,9,"address"]]}
+{"id":1,"text":"B2:\tEnam belas ringgit.","label":[]}
+{"id":2,"text":"B3:\tYang tu labuh, harga lain sikit.","label":[]}
+{"id":3,"text":"B4:\tKalau saya bagi murah, orang lain kata apa pulak?","label":[[10,14,"1st"]]}
+{"id":4,"text":"B5:\tYang tu mahalkan.","label":[]}
+{"id":5,"text":"A6:\tYang ni berapa?","label":[]}
+{"id":6,"text":"B7:\tYang ni mati, saya bagi sembilan belas ringgit.","label":[[18,22,"1st"]]}
+{"id":7,"text":"A8:\tMacam mana boleh jadi, mati pulak tu?","label":[]}
+{"id":8,"text":"A9:\tKenapa tak hidupkan?","label":[]}
+{"id":9,"text":"B10:\tMacam mana nak hidup... dia ada harga.","label":[]}
+{"id":10,"text":"B11:\tGinilah harga mati saya bagi lapan belas ringgit, tak boleh tawar dah, pasal lace dia panjang.","label":[[24,28,"1st"]]}
+{"id":11,"text":"A12:\tLima belaslah.","label":[]}
+{"id":12,"text":"B13:\tKalau macam ni, botaklah saya.","label":[[30,34,"1st"]]}
+{"id":13,"text":"B14:\tTak boleh tawar dah, minta maaflah tak dapat.","label":[]}
+{"id":14,"text":"B15:\tOrang jual dua puluh dua atau dua puluh satu habis murah.","label":[]}
+{"id":15,"text":"B16:\tPergi carilah, saya cakap terus terang.","label":[[20,24,"1st"]]}
+{"id":16,"text":"B17:\tJadi semua sekali tiga puluh enam... dua helai.","label":[]}
+{"id":17,"text":"A18:\tAbang ni, takkan tak dapat?","label":[[5,10,"address"]]}
+{"id":18,"text":"B19:\tKalau pergi kedai lain, abang tak marah, kalau dapat harga macam saya bagi ini, datanglah balik kedai saya.","label":[[29,34,"1st"],[70,74,"1st"],[70,74,"1st"]]}
+{"id":19,"text":"B20:\tSebab apa, abang nak suruh adik datang balik lain kali, sebab saya nak cari kawan.","label":[[16,21,"1st"],[67,71,"1st"],[32,36,"2nd"]]}
+{"id":20,"text":"B21:\tCubalah cari kalau dapat harga ni.","label":[]}
+{"id":21,"text":"B22:\tJadi lapan belaslah, saya biasa jual dua puluh lima, dua puluh enam.","label":[[26,30,"1st"]]}
+{"id":22,"text":"A23:\tJadi dua tu berapa?","label":[]}
+{"id":23,"text":"B24:\tTiga puluh enam.","label":[]}
+{"id":24,"text":"A25:\tAlah tujuh belas sajalah.","label":[]}
+{"id":25,"text":"A26:\tJadi semua sekali tiga puluh empatlah.","label":[]}
+{"id":26,"text":"B27:\tTiga puluh limalah dik, mintak satu ringgitlah, kesianlah kat kita, jual dua helai ni pun nak dapat balik basil kedai adik oii...","label":[[67,71,"1st"],[123,127,"2nd"],[24,27,"address"]]}
+{"id":27,"text":"A28:\tTiga puluh empatlah abang.","label":[[25,30,"1st"]]}
+{"id":28,"text":"B29:\tMinta lima puluh sen sajalah lagi, kesian saya.","label":[[47,51,"1st"]]}

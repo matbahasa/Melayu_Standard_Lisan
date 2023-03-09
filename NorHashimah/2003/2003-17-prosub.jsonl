@@ -1,0 +1,11 @@
+{"id":0,"text":"A1:\tHarga tudung ni berapa sehelai?","label":[]}
+{"id":1,"text":"B2:\tYang tu lima ringgit.","label":[]}
+{"id":2,"text":"A3:\tBagi empat ringgit.","label":[]}
+{"id":3,"text":"B4:\tKalau empat ringgit, tak adalah bahagian Kak Dah.","label":[[45,52,"1st"]]}
+{"id":4,"text":"B5:\tAdat orang berniaga, nak juga untung, tak banyak, sikit.","label":[]}
+{"id":5,"text":"B6:\tGinilah Kak Dah bagi empat ringgit setengah.","label":[[12,19,"1st"]]}
+{"id":6,"text":"B7:\tItu pun murah benar dah Kak Dah bagi.","label":[[28,35,"1st"]]}
+{"id":7,"text":"A8:\tAlah kak lima puluh sen aje lagi.","label":[[9,12,"2nd"]]}
+{"id":8,"text":"B9:\tLima puluh sen lah kak Dah mintak, empat lima kali lima puluh sen baru boleh bayar kedai, semua ni kena bayar hari-hari.","label":[[23,30,"1st"]]}
+{"id":9,"text":"A10:\tBoleh kak, kita bukan nak beli satu, tapi nak sepuluh.","label":[[16,20,"1st"],[11,14,"2nd"]]}
+{"id":10,"text":"B11:\tPilihlah adik nak warna apa... ni sebab banyak ni kak Dah bagi, kalau selai, dua helai tak boleh dah.","label":[[55,62,"1st"],[14,18,"2nd"]]}

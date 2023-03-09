@@ -1,0 +1,47 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tHarga tu tiga puluh dua, boleh kurang sikit lagi mak cik.","label":[[53,61,"address"]]}
+{"id":2,"text":"A3:\tLagu mana tu?","label":[]}
+{"id":3,"text":"B4:\tSekarang ni duit Siam naiklah bolehlah kurang lagi pagi-pagi ni.","label":[]}
+{"id":4,"text":"A5:\tEh, betul-betullah harga dia.","label":[]}
+{"id":5,"text":"B6:\tBagi tiga puluhlah.","label":[]}
+{"id":6,"text":"A7:\tIsyy...","label":[]}
+{"id":7,"text":"B8:\tHabis mak cik bagi berapa?","label":[[10,17,"2nd"]]}
+{"id":8,"text":"B9:\tHarga mak ciklah pulak.","label":[[10,17,"2nd"]]}
+{"id":9,"text":"B10:\tKadar kita boleh bagi, kita bagi.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":10,"text":"A11:\tDua puluh enam dahlah.","label":[]}
+{"id":11,"text":"B12:\tDua puluh enam, modal tak dapat lagi sekarang.","label":[]}
+{"id":12,"text":"A13:\tYa ke?","label":[]}
+{"id":13,"text":"B14:\tYa, bagi dua puluh lapanlah, bagi betul-betullah tu.","label":[]}
+{"id":14,"text":"B15:\tHarga hari-hari jual dua puluh lapanlah.","label":[]}
+{"id":15,"text":"B16:\tMak cik nak yang mana?","label":[[5,12,"2nd"]]}
+{"id":16,"text":"B17:\tYang merah ke yang mana?","label":[]}
+{"id":17,"text":"B18:\tDua ke satu?","label":[]}
+{"id":18,"text":"A19:\tDua puluh enamlah.","label":[]}
+{"id":19,"text":"B20:\tTak dapat betul, dua puluh lapan tu kira harga berniagalah tu.","label":[]}
+{"id":20,"text":"B21:\tSepuluh biji orang ambil pun harga tu jugak.","label":[]}
+{"id":21,"text":"A22:\tBolehlah ya?","label":[]}
+{"id":22,"text":"B23:\tBagi dua puluh lapanlah, pagi-pagi ni.","label":[]}
+{"id":23,"text":"B24:\tMana-mana jual pun dua puluh lapan, mak cik tengok harga tu.","label":[[41,48,"2nd"]]}
+{"id":24,"text":"A25:\tDua puluh enamlah.","label":[]}
+{"id":25,"text":"B26:\tTak boleh mak cik, modal pun dua puluh tujuh dah.","label":[[15,22,"address"]]}
+{"id":26,"text":"B27:\tBetul-betul cakap tu.","label":[]}
+{"id":27,"text":"A28:\tAlah, takkan cakap tak betul pulak, memang betul.","label":[]}
+{"id":28,"text":"B29:\tEm, berniaga ni kena cakap betul, tak baik---duit nak buat makan lagi.","label":[]}
+{"id":29,"text":"A30:\tBetul ya, ambil dua, lima dua.","label":[]}
+{"id":30,"text":"B31:\tTak dapat mak cik, bukan tak nak bagi.","label":[[15,22,"address"]]}
+{"id":31,"text":"B32:\tMemang tak dapat bagi.","label":[]}
+{"id":32,"text":"A33:\tAlah, baru pagi-pagi lagi, bolehlah.","label":[]}
+{"id":33,"text":"B34:\tTak boleh, itu harga niaga dah tu, hari-hari saya jual harga macam nilah.","label":[[50,54,"1st"]]}
+{"id":34,"text":"B35:\tOrang ambik banyak pun harga ni.","label":[]}
+{"id":35,"text":"A36:\tBukan nak ambik banyak, cuma nak pakai saja.","label":[]}
+{"id":36,"text":"B37:\tAh... yang nak pakai tu, kita bagi harga murah tu.","label":[[30,34,"1st"]]}
+{"id":37,"text":"A38:\tBolehlah dua puluh tujuh ya... kalau tak dapat, satu saja.","label":[]}
+{"id":38,"text":"B39:\tSemua sekali lima puluh limalah.","label":[]}
+{"id":39,"text":"A40:\tLima puluh empatlah, satu ringgit tak ada duit.","label":[]}
+{"id":40,"text":"B41:\tBetul-betul ni, mintak dengan mak cik, Alah satu ringgit pun tak nak bagi.","label":[[35,42,"address"]]}
+{"id":41,"text":"B42:\tsatu ringgit saja mak cik, mintak nak minum kopi.","label":[[23,30,"address"]]}
+{"id":42,"text":"B43:\tMintak satu ringgit lagi mak cik.","label":[[30,37,"address"]]}
+{"id":43,"text":"A44:\tMak cik mintak kat engkau, nak minum.","label":[[5,12,"1st"]]}
+{"id":44,"text":"B45:\tMintak satu ringgit lagi mak cik, mintak gori satu ringgit.","label":[[30,37,"address"]]}
+{"id":45,"text":"A46:\tDah nak demam mak cik ni.","label":[[19,26,"1st"]]}
+{"id":46,"text":"A47:\tDah-dah kita mintak harga tu.","label":[[13,17,"1st"]]}

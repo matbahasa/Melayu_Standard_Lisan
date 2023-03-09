@@ -1,0 +1,12 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tDua puluh lima.","label":[]}
+{"id":2,"text":"A3:\tBerapa kurang?","label":[]}
+{"id":3,"text":"B4:\tTawarlah dulu, mak cik nak dengar.","label":[[19,26,"1st"]]}
+{"id":4,"text":"A5:\tBerapa mak cik boleh bagi kurang?","label":[[11,18,"2nd"]]}
+{"id":5,"text":"A6:\tAkhir?","label":[]}
+{"id":6,"text":"B7:\tAdiklah dulu kurangnya.","label":[[4,8,"address"]]}
+{"id":7,"text":"A8:\tLapan belas.","label":[]}
+{"id":8,"text":"B9:\tMana dapat adik ooi...","label":[[15,19,"address"]]}
+{"id":9,"text":"A10:\tLapan belas tak boleh?","label":[]}
+{"id":10,"text":"A11:\tLapan belas bolehlah mak cik.","label":[[26,33,"address"]]}
+{"id":11,"text":"B12:\tBiarlah, saja mak cik bagi kurang kat adik.","label":[[19,26,"1st"],[43,47,"2nd"]]}

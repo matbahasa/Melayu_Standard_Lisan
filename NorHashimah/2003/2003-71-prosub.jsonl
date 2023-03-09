@@ -1,0 +1,39 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tYang ni empat puluh lima, yang ni murah sikit tiga puluh lima, kulit lainlah.","label":[]}
+{"id":2,"text":"B3:\tKulit lembut, yang ni kulit keras sikit.","label":[]}
+{"id":3,"text":"B4:\tYang ni tiga puluh lapan, kalau kak nak boleh bagi kuranglah.","label":[[36,39,"2nd"]]}
+{"id":4,"text":"A5:\tDua puluh lima boleh?","label":[]}
+{"id":5,"text":"B6:\tTak boleh, ginilah kalau kak nak, kita bagi tiga puluhlah.","label":[[29,32,"2nd"]]}
+{"id":6,"text":"A7:\tDua puluh limalah.","label":[]}
+{"id":7,"text":"B8:\tMana boleh kak, kalau kak beli yang kulit keras ni, boleh bagilah dua puluh lima.","label":[[15,18,"2nd"],[15,18,"address"]]}
+{"id":8,"text":"B9:\tSaya tak cakap tipu kak.","label":[[4,8,"1st"],[24,27,"address"]]}
+{"id":9,"text":"B10:\tNak cari mana kak macam ni, beg ni baru sampai tadi kak ni.","label":[[19,22,"address"],[19,22,"address"]]}
+{"id":10,"text":"A11:\tBaru sampailah, kita nak minta kurang tu.","label":[[21,25,"1st"]]}
+{"id":11,"text":"A12:\tKalau bagi dua puluh lima, kak naklah.","label":[[32,35,"1st"]]}
+{"id":12,"text":"B13:\tKesianlah kita, mana dapat kak.","label":[[15,19,"1st"],[32,35,"address"]]}
+{"id":13,"text":"B14:\tKita pun nak untung jugak sikit-sikit.","label":[]}
+{"id":14,"text":"B15:\tSikit lagilah kak.","label":[[19,22,"address"]]}
+{"id":15,"text":"A16:\tSetakat tu saja.","label":[]}
+{"id":16,"text":"B17:\tSebab dia kulit Bonia, jadi ginilah kak, kita cakap betul, kita boleh bagi setakat tiga puluh lima.","label":[[46,50,"1st"],[46,50,"1st"],[41,44,"address"]]}
+{"id":17,"text":"B18:\tDua puluh lima tak dapat sebab dia kulit-kulit Bonia mahal kak.","label":[[64,67,"address"]]}
+{"id":18,"text":"B19:\tDia bukan kulit-kulit sebarangan saja, serupa kat mana-mana pun sebab dia macam kulit betul.","label":[]}
+{"id":19,"text":"B20:\tNaik sikitlah lagi kak.","label":[[24,27,"address"]]}
+{"id":20,"text":"B21:\tBagi tiga puluh limalah.","label":[]}
+{"id":21,"text":"B22:\tBarang ni baru sampai.","label":[]}
+{"id":22,"text":"B23:\tKita pun tak bagi barang baru-baru kat orang lain harga gini.","label":[[5,9,"1st"]]}
+{"id":23,"text":"B24:\tEloklah, kulit dia lembut.","label":[]}
+{"id":24,"text":"A25:\tTak naklah","label":[]}
+{"id":25,"text":"B26:\tHabis kak nak tawar berapa?","label":[[11,14,"2nd"]]}
+{"id":26,"text":"A27:\tSetakat tulah.","label":[]}
+{"id":27,"text":"B28:\tSetakat berapa?","label":[]}
+{"id":28,"text":"A29:\tDua puluh lima.","label":[]}
+{"id":29,"text":"B30:\tNak buat gori, bagi tiga puluh cukuplah.","label":[]}
+{"id":30,"text":"B31:\tKita nak buat gori tu, barang baru sampai.","label":[[5,9,"1st"]]}
+{"id":31,"text":"B32:\tBagi tahu betul tu.","label":[]}
+{"id":32,"text":"A33:\tDua puluh limalah.","label":[]}
+{"id":33,"text":"B34:\tKalau boleh bagi, kita bagi dah tu.","label":[[23,27,"1st"]]}
+{"id":34,"text":"B35:\tItu pun harga murah benar tu, pasal barang baru sampai, nak bagi jadilah sebutir sebab barang kita tidak tinggi, sekejap lagi habislah barang ni kak.","label":[[99,103,"1st"],[150,153,"address"]]}
+{"id":35,"text":"B36:\tKira ginilah, minta dua ringgit lagilah bagi dua puluh tujuh.","label":[]}
+{"id":36,"text":"A37:\tSatu ringgit sudahlah, itupun mahal dah tu.","label":[]}
+{"id":37,"text":"B38:\tKak nak yang mana?","label":[[5,8,"2nd"]]}
+{"id":38,"text":"B39:\tMahal apa lagi kak, yang ni tiga puluh lima, itu yang kecil tu.","label":[[20,23,"address"]]}

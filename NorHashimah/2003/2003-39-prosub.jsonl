@@ -1,0 +1,13 @@
+{"id":0,"text":"A1:\tBaju ni berapa?","label":[]}
+{"id":1,"text":"B2:\tDua puluh dua.","label":[]}
+{"id":2,"text":"A3:\tTakkan tak boleh tawar?","label":[]}
+{"id":3,"text":"B4:\tOh... boleh, berapa adik berani?","label":[[24,28,"2nd"]]}
+{"id":4,"text":"A5:\tBerapa mak cik nak bagi?","label":[[11,18,"2nd"]]}
+{"id":5,"text":"B6:\tPagi-pagi ni mak cik bagi lapan belaslah, boleh?","label":[[17,24,"1st"]]}
+{"id":6,"text":"A7:\tTak boleh lagi ke?","label":[]}
+{"id":7,"text":"B8:\tBerapa adik nak?","label":[[11,15,"2nd"]]}
+{"id":8,"text":"A9:\tSatu saja.","label":[]}
+{"id":9,"text":"B10:\tEnam belaslah.","label":[]}
+{"id":10,"text":"A11:\tTak boleh dah?","label":[]}
+{"id":11,"text":"B12:\tSetakat tu sajalah.","label":[]}
+{"id":12,"text":"A13:\tTak apalah, lain kali pulak.","label":[]}

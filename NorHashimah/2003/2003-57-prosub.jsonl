@@ -1,0 +1,11 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tLetak lapan belas, kurang lagilah, boleh tawarlah.","label":[]}
+{"id":2,"text":"B3:\tJenis kain macam ni tahan.","label":[]}
+{"id":3,"text":"A4:\tDua belas tak boleh.","label":[]}
+{"id":4,"text":"B5:\tDua belas tak bolehlah.","label":[]}
+{"id":5,"text":"A6:\tHabis berapa pak cik nak?","label":[[17,24,"2nd"]]}
+{"id":6,"text":"B7:\tKira ginilah, kita bagi lima belas.","label":[[18,22,"1st"]]}
+{"id":7,"text":"A8:\tMintak kurang sikit lagilah.","label":[]}
+{"id":8,"text":"B9:\tEmpat belaslah.","label":[]}
+{"id":9,"text":"A10:\tMintak kurang satu ringgitlah, tadi kita fikir juga nak naik sikit tu.","label":[[41,45,"1st"]]}
+{"id":10,"text":"B11:\tBiarlah.","label":[]}

@@ -1,0 +1,9 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+2003	2003-34.txt	1	435	442	mak cik	02				1	0	0	1
+2003	2003-34.txt	2	652	659	mak cik	02				1	0	0	1
+2003	2003-34.txt	3	661	668	mak cik	02				1	0	0	1
+2003	2003-34.txt	7	940	944	kita					1	1	0	0
+2003	2003-34.txt	4	1168	1175	mak cik	02				1	0	0	1
+2003	2003-34.txt	8	1178	1182	kita					1	1	0	0
+2003	2003-34.txt	5	1379	1384	kakak	02				1	0	1	0
+2003	2003-34.txt	6	1570	1577	mak cik	02				1	0	0	1

@@ -1,0 +1,33 @@
+{"id":0,"text":"B1:\tCari apa tu, singgahlah dulu.","label":[]}
+{"id":1,"text":"A2:\tBaju sekolah budak-budak nilah.","label":[]}
+{"id":2,"text":"B3:\tSini ada, tengoklah.","label":[]}
+{"id":3,"text":"A4:\tAcu tengok baju besar budak ni.","label":[]}
+{"id":4,"text":"B5:\tYang ni---padan dah ni.","label":[]}
+{"id":5,"text":"A6:\tBerapa ni?","label":[]}
+{"id":6,"text":"B7:\tSembilan ringgit setengah.","label":[]}
+{"id":7,"text":"A8:\tKuranglah sikit, seluar---acu tengok.","label":[]}
+{"id":8,"text":"B9:\tYang ni padan?","label":[]}
+{"id":9,"text":"A10:\tBerapa ni?","label":[]}
+{"id":10,"text":"B11:\tSeluar ni lima belas ringgit---boleh kurang lagi.","label":[]}
+{"id":11,"text":"B12:\tGinilah bagi tiga belas ringgit setengah.","label":[]}
+{"id":12,"text":"A13:\tTak naklah mahal-mahal ni.","label":[]}
+{"id":13,"text":"B14:\tTak mahal dah mak cik.","label":[[19,26,"address"]]}
+{"id":14,"text":"B15:\tYang ni ambo bagi lapan ringgit, yang ni tiga belas setengah---semuanya dua puluh satu ringgit setengah.","label":[]}
+{"id":15,"text":"A16:\tTurunlah sikit lagi.","label":[]}
+{"id":16,"text":"A17:\tBagi lapan belas ringgitlah.","label":[]}
+{"id":17,"text":"A18:\tMari jauh ni.","label":[]}
+{"id":18,"text":"B19:\tTak boleh dah mak cik, mak cik dok mana?","label":[[19,26,"address"],[19,26,"address"]]}
+{"id":19,"text":"A20:\tCiku---Kuala Kerai nun....","label":[]}
+{"id":20,"text":"B21:\tOh... tempat kelapa sawit tu ya!","label":[]}
+{"id":21,"text":"A22:\tA... a... lepas tu lagu mana---bagi lapan belas ringgit tak boleh ke, cukup dua puluh ringgitlah ya.","label":[]}
+{"id":22,"text":"B23:\tDua puluh satu ringgitlah---kurang lima puluh sen, murah dah ni berapa sen saja kita dapat ni.","label":[[85,89,"1st"]]}
+{"id":23,"text":"A24:\tAlah... cukuplah dua puluh.","label":[]}
+{"id":24,"text":"A25:\tTak ada duit ni nak buat tambang balik lagi ni... musim sekarang ni---banyak nak pakai duit le... anak-anak sekolah, baju sekolah, buku, lepas tu yuran lagi.","label":[]}
+{"id":25,"text":"B26:\tBiasalah tu mak cik---kita pun lagu tulah jugak berapa orang yang sekolah.","label":[[27,31,"1st"],[17,24,"address"]]}
+{"id":26,"text":"A27:\tBolehlah ya dua puluh ringgit?","label":[]}
+{"id":27,"text":"B28:\tNi saja ke, stoking-stoking tak nak ke.","label":[]}
+{"id":28,"text":"B29:\tBaju-baju T-shirt ni.","label":[]}
+{"id":29,"text":"A30:\tTak naklah, ramai lagi ni---tu pun kakak dia tolong beli setengah... dua puluh ringgit ya.","label":[[40,45,"2nd"]]}
+{"id":30,"text":"B31:\tTu duit belana tu (banyak).","label":[]}
+{"id":31,"text":"A32:\tBelana apa, kelapa sawit sekarang ni turun harga, tak macam dulu---tambah musim ni.","label":[]}
+{"id":32,"text":"B33:\tJual ya mak cik.","label":[[13,20,"address"]]}

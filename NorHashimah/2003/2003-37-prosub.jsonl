@@ -1,0 +1,22 @@
+{"id":0,"text":"A1:\tToto ni berapa?","label":[]}
+{"id":1,"text":"B2:\tDua belas ringgit boleh kurang lagi.","label":[]}
+{"id":2,"text":"A3:\tNak tawar takut.","label":[]}
+{"id":3,"text":"B4:\tKita letak yah harga tu, sepuluh ringgitlah bagi kat kak.","label":[[4,8,"1st"],[57,60,"1st"]]}
+{"id":4,"text":"A5:\tTak sampai sepuluhlah, kalau sepuluh tak payah mari sini.","label":[]}
+{"id":5,"text":"B6:\tBerapa butir nak?","label":[]}
+{"id":6,"text":"A7:\tSatu butir saja, sembilan ringgitlah, serupa yang saya beli biasa.","label":[[54,58,"1st"]]}
+{"id":7,"text":"A8:\tKita selalu beli dah kain ni.","label":[[4,8,"1st"]]}
+{"id":8,"text":"A9:\tKain lampin ada?","label":[]}
+{"id":9,"text":"B10:\tDua puluh lapan ringgit.","label":[]}
+{"id":10,"text":"A11:\tKurang berapa?","label":[]}
+{"id":11,"text":"A12:\tDua puluh boleh?","label":[]}
+{"id":12,"text":"B13:\tSikit lagilah.","label":[]}
+{"id":13,"text":"A14:\tSembilan belas ringgit, ambil dua.","label":[]}
+{"id":14,"text":"B15:\tTak boleh.","label":[]}
+{"id":15,"text":"A16:\tBuat berat bawak saja, Jerteh dua puluh, mari Kota Bharu buat berat.","label":[]}
+{"id":16,"text":"B17:\tBiarlah sembilan belas.","label":[]}
+{"id":17,"text":"B18:\tJadi semua sekali empat puluh tujuh ringgit.","label":[]}
+{"id":18,"text":"A19:\tHih... empat puluh enam ringgit sajalah.","label":[]}
+{"id":19,"text":"A20:\tSatu ringgit tu kita nak buat tambang bas.","label":[[21,25,"1st"]]}
+{"id":20,"text":"B21:\tDah, kita nak minum air.","label":[[10,14,"1st"]]}
+{"id":21,"text":"A22:\tDia duduk sini, kita nak makan lagi, nak tambang lagi, bagi-bagilah.","label":[[21,25,"1st"]]}

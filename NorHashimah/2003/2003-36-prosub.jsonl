@@ -1,0 +1,16 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tSembilan belas, boleh kurang sikitlah.","label":[]}
+{"id":2,"text":"A3:\tKain broked Siam ni berapa satu?","label":[]}
+{"id":3,"text":"B4:\tLima puluh lima, kain ni tiga puluh ringgit bolehlah bagi dua puluh lima ringgit.","label":[]}
+{"id":4,"text":"A5:\tKalau dua puluh ringgit?","label":[]}
+{"id":5,"text":"B6:\tJual selalunya harga dia tu.","label":[]}
+{"id":6,"text":"A7:\tKain ni lembik.","label":[]}
+{"id":7,"text":"B8:\tSelalunya akak jual dua puluh lima atau dua puluh lapan.","label":[[14,18,"1st"]]}
+{"id":8,"text":"A9:\tDua puluh tak boleh?","label":[]}
+{"id":9,"text":"B10:\tDia ada harga, selalunya dua puluh lima.","label":[]}
+{"id":10,"text":"A11:\tSaya dulu dah beli kain macam ni... banyak.","label":[[5,9,"1st"]]}
+{"id":11,"text":"B12:\tDulu boleh... sekarang tidak boleh lagi.","label":[]}
+{"id":12,"text":"A13:\tJadi berapa?","label":[]}
+{"id":13,"text":"B14:\tDua puluh limalah.","label":[]}
+{"id":14,"text":"A15:\tKalau dua... empat puluh boleh.","label":[]}
+{"id":15,"text":"B16:\tTak dapatlah dik, kak bagi empat puluh limalah.","label":[[23,26,"1st"],[18,21,"address"]]}

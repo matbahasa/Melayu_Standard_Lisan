@@ -1,0 +1,7 @@
+{"id":0,"text":"A1:\tBerapa kain tudung ni?","label":[]}
+{"id":1,"text":"B2:\tSebelas ringgit bagi sepuluh sebab tak ada orang dah ni.","label":[]}
+{"id":2,"text":"B3:\tMak cik nak berapa?","label":[[4,11,"2nd"]]}
+{"id":3,"text":"A4:\tEnam ringgit.","label":[]}
+{"id":4,"text":"B5:\tSepuluh bolehlah.","label":[]}
+{"id":5,"text":"A6:\tBiarlah tak boleh bagi pun, kita cari tempat lain.","label":[]}
+{"id":6,"text":"B7:\tTak boleh gi sungguh mak cik oi.","label":[[25,32,"address"]]}

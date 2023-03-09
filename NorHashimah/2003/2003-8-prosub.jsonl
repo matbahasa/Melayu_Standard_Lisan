@@ -1,0 +1,21 @@
+{"id":0,"text":"A1:\tBagi ni padan tak dengan budak umur tiga tahun?","label":[]}
+{"id":1,"text":"B2:\tPadan dah tu... anak kita yang sulung umur tiga tahun, pakai saiz ni juga---padan.","label":[[25,29,"1st"]]}
+{"id":2,"text":"A3:\tBerapa ni?","label":[]}
+{"id":3,"text":"B4:\tBagi lapan ringgitlah.","label":[]}
+{"id":4,"text":"A5:\tKuranglah sikit.","label":[]}
+{"id":5,"text":"B6:\tHarga paling murah dah tu.","label":[]}
+{"id":6,"text":"A7:\tTak boleh turun lagi ke?","label":[]}
+{"id":7,"text":"B8:\tKita pun dapat lima puluh sen saja.","label":[[4,8,"1st"]]}
+{"id":8,"text":"B9:\tKalau yang ni pulak, tak sampai lima puluh sen sehelai kita boleh.","label":[[59,63,"1st"]]}
+{"id":9,"text":"A10:\tBagi lima belas ringgit, kita ambik tiga pasang.","label":[]}
+{"id":10,"text":"B11:\tHarga modal tak sampai lagi kak, lapan ringgit sepasang tu pun kira murah sangatlah tu dapat sikit saja.","label":[[33,36,"address"]]}
+{"id":11,"text":"A12:\tKain Malaysia ke ni?","label":[]}
+{"id":12,"text":"B13:\tKain Malaysia ni, basuh macam mana pun dia tahan, sebab kain molek, kita kata gitu sebab anak kita sendiri ada pakai.","label":[[73,77,"1st"],[73,77,"1st"]]}
+{"id":13,"text":"A14:\tBagi enam ringgitlah sehelai.","label":[]}
+{"id":14,"text":"B15:\tTak boleh sebab modal mari pun tujuh ringgit setengah dah, saya cakap betul ni, bukan nak tipu dak.","label":[[64,68,"1st"]]}
+{"id":15,"text":"B16:\tSaya jual kain Malaysia belaka.","label":[[5,9,"1st"]]}
+{"id":16,"text":"B17:\tTak jual kain Siam.","label":[]}
+{"id":17,"text":"A18:\tKuranglah sikit lagi.","label":[]}
+{"id":18,"text":"B19:\tMintak maaflah, kita mintak lima puluh sen, tak banyak... nak berapa helai tu.","label":[[21,25,"1st"]]}
+{"id":19,"text":"A20:\tBiarlah ambil satu sudahlah---dah tak boleh kurang dah tu.","label":[]}
+{"id":20,"text":"B21:\tKita orang berniaga ni, naklah juga sikit.","label":[[5,9,"1st"]]}

@@ -1,0 +1,27 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tYang tu dua belas ringgit.","label":[]}
+{"id":2,"text":"A3:\tKain Kelantan pun dua belas?","label":[]}
+{"id":3,"text":"B4:\tBolehlah kurang sikit lagi, sebab empat lapis.","label":[]}
+{"id":4,"text":"A5:\tYang Terengganu tu berapa?","label":[]}
+{"id":5,"text":"B6:\tYang Terengganu tu lima belas.","label":[]}
+{"id":6,"text":"A7:\tMahalnya!","label":[]}
+{"id":7,"text":"B8:\tBolehlah kurang sikit lagi, mak cik nak berapa ringgit?","label":[[36,43,"2nd"]]}
+{"id":8,"text":"B9:\tNak banyak helai ke?","label":[]}
+{"id":9,"text":"A10:\tHih... sehelai saja.","label":[]}
+{"id":10,"text":"A11:\tLapan ringgit tidak boleh ke?","label":[]}
+{"id":11,"text":"B12:\tLapan tidak boleh... bagi sembilan ringgitlah.","label":[]}
+{"id":12,"text":"A13:\tOh... mahalnya.","label":[]}
+{"id":13,"text":"B14:\tBagi lima puluh sen lagilah.","label":[]}
+{"id":14,"text":"A15:\tOh... susah nak lima puluh sen---lima puluh sen kalau niaga ni.","label":[]}
+{"id":15,"text":"B16:\tBagi lima puluh sen lagilah, buat minum air.","label":[]}
+{"id":16,"text":"A17:\tMahal lagi tu.","label":[]}
+{"id":17,"text":"B18:\tTidak mahal dah ni.","label":[]}
+{"id":18,"text":"A19:\tSepasang berapa kain ni?","label":[]}
+{"id":19,"text":"B20:\tDua puluh lima, boleh kurang sikit lagi.","label":[]}
+{"id":20,"text":"A21:\tLapan belaslah.","label":[]}
+{"id":21,"text":"B22:\tLapan belas tak boleh, bagi ginilah sembilan belas ringgit setengah.","label":[]}
+{"id":22,"text":"A23:\tKita beli tak susah jugak ni?","label":[[5,9,"1st"]]}
+{"id":23,"text":"B24:\tBagilah, boleh sikit benar ni.","label":[]}
+{"id":24,"text":"A25:\tLapan belaslah.","label":[]}
+{"id":25,"text":"B26:\tTak boleh gi, kita bagi setakat sembilan belas.","label":[[19,23,"1st"]]}
+{"id":26,"text":"B27:\tJadi semua semua sekali dua puluh tujuhlah.","label":[]}

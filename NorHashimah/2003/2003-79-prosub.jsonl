@@ -1,0 +1,12 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tYang ni jual dua belas ringgit.","label":[]}
+{"id":2,"text":"A3:\tOh, adik bagi sepuluh cukuplah.","label":[[8,12,"1st"]]}
+{"id":3,"text":"A4:\tKurang dua ringgit.","label":[]}
+{"id":4,"text":"B5:\tHarga boleh kurang, sepuluh ringgit setengahlah.","label":[]}
+{"id":5,"text":"A6:\tOh... lima puluh sen tu tak payahlah, ni tak mintak banyak, lima puluh sen tu nak buat tambang bas balik nanti.","label":[]}
+{"id":6,"text":"A7:\tBagi cukup teruslah yang tu.","label":[]}
+{"id":7,"text":"B8:\tJadi semua sekali dua puluh, yang tu sepuluh---sepuluh jadi empat puluh.","label":[]}
+{"id":8,"text":"A9:\tBagi tiga puluh limalah.","label":[]}
+{"id":9,"text":"B10:\tOh... bagi murah tu, kena mari pulak nanti.","label":[]}
+{"id":10,"text":"A11:\tKita pun mintak tak banyak, sikit-sikit saja tu.","label":[[5,9,"1st"]]}
+{"id":11,"text":"B12:\tKita pun bagi kurang dah tu.","label":[[5,9,"1st"]]}

@@ -1,0 +1,16 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tLetak tiga puluh ringgit, orang ambil dua puluh pasang pun kita jual dua puluh lapan jugak.","label":[]}
+{"id":2,"text":"A3:\tKita ambil dua ni, bagi murahlah sikit.","label":[[4,8,"1st"]]}
+{"id":3,"text":"B4:\tMurah dah tu kak.","label":[[17,20,"address"]]}
+{"id":4,"text":"A5:\tDua puluhlah.","label":[]}
+{"id":5,"text":"B6:\tDua puluh macam mana, beli tak dapat modal kita.","label":[[47,51,"1st"]]}
+{"id":6,"text":"B7:\tModal kita dua puluh lebih dah tu, kita tak cakap tipu.","label":[[10,14,"1st"],[10,14,"1st"]]}
+{"id":7,"text":"A8:\tJadi bagi berapa?","label":[]}
+{"id":8,"text":"A9:\tIkhlas tu.","label":[]}
+{"id":9,"text":"B10:\tDua puluh lapan, dua puluh lapan---jadi lima puluh enam---ikhlaslah kita.","label":[[73,77,"1st"]]}
+{"id":10,"text":"A11:\tJacquard tu berapa?","label":[]}
+{"id":11,"text":"B12:\tSeratus lapan puluh ringgit boleh kurang lagi.","label":[]}
+{"id":12,"text":"A13:\tNi bagi seratus ringgitlah.","label":[]}
+{"id":13,"text":"B14:\tSeratus tak dapat, seratus lima puluh bolehlah kita bagi.","label":[[52,56,"1st"]]}
+{"id":14,"text":"A15:\tSeratus lima puluh bolehlah, kita ambil juga ni.","label":[[34,38,"1st"]]}
+{"id":15,"text":"B16:\tAmbiklah dik---kak bagi lima puluh lima saja kat Singapore tidak boleh harga tu.","label":[[20,23,"1st"],[14,17,"address"]]}

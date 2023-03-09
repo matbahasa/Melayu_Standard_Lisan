@@ -1,0 +1,21 @@
+{"id":0,"text":"B1:\tYang ni empat belas ringgit setengah.","label":[]}
+{"id":1,"text":"A2:\tMintak sepuluh.","label":[]}
+{"id":2,"text":"B3:\tSepuluh tak dapat.","label":[]}
+{"id":3,"text":"A4:\tMintak sebelaslah dua...","label":[]}
+{"id":4,"text":"B5:\tTak boleh kak.","label":[[14,17,"address"]]}
+{"id":5,"text":"A6:\tBolehlah, akak malas nak cari kat lain lagi.","label":[[14,18,"1st"]]}
+{"id":6,"text":"B7:\tDua puluh, dua puluh satu, dua puluh dua, dua puluh tiga, dua puluh empat, dia harga lain.","label":[]}
+{"id":7,"text":"B8:\tDia tak sama kalau kita boleh bagi, kita bagi.","label":[[23,27,"1st"],[23,27,"1st"]]}
+{"id":8,"text":"A9:\tBerapa seluar ni?","label":[]}
+{"id":9,"text":"B10:\tSembilan ringgit, kalau kecil dia murah sikit, kalau besar benar, dia sebelas ringgit.","label":[]}
+{"id":10,"text":"A11:\tLima dahlah ni.","label":[]}
+{"id":11,"text":"B12:\tLima tak dapat.","label":[]}
+{"id":12,"text":"A13:\tBolehlah dik oi, sebab dah nak sangat ni kami baru balik dari Rantau Panjang ni tapi dia ni dah mengarut nak jugak.","label":[[46,50,"1st"],[14,17,"address"]]}
+{"id":13,"text":"A14:\tDi sana tadi, dia tak ingat nak beli.","label":[]}
+{"id":14,"text":"B15:\tYang ni bukan Rantau Panjang punya ni.","label":[]}
+{"id":15,"text":"B16:\tKalau yang Siam tu, kainnya tak elok.","label":[]}
+{"id":16,"text":"A17:\tBaju sekolah ni kalau sebelas ringgit kak ambik lima.","label":[[43,46,"1st"]]}
+{"id":17,"text":"A18:\tBagi lima ringgit dah adik oi... jauh cari baju sekolah, sampai ke sini.","label":[[27,31,"address"]]}
+{"id":18,"text":"B19:\tPasal dah rezeki sayalah tu.","label":[]}
+{"id":19,"text":"A20:\tKalau lima ringgit bolehlah.","label":[]}
+{"id":20,"text":"B21:\tTidak boleh bagi enam ringgitlah.","label":[]}

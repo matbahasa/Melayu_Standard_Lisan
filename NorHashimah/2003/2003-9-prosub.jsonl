@@ -1,0 +1,17 @@
+{"id":0,"text":"A1:\tBaju ni berapa?","label":[]}
+{"id":1,"text":"B2:\tDua belas ringgit---boleh kurang lagi kalau nak.","label":[]}
+{"id":2,"text":"B3:\tCakap sajalah nak kurang berapa, kalau tak boleh, nak buat macam mana, kira mana-mana patut.","label":[]}
+{"id":3,"text":"A4:\tNampak buruk ni?","label":[]}
+{"id":4,"text":"B5:\tApa pulak buruk, acu cium, bau kedai ni lagi.","label":[]}
+{"id":5,"text":"B6:\tKita tak jual barang buruk.","label":[[4,8,"1st"]]}
+{"id":6,"text":"A7:\tYang ni berapa rial?","label":[]}
+{"id":7,"text":"B8:\tYang tu saya bagi lapan belas ringgit---boleh tawar lagi.","label":[[12,16,"1st"]]}
+{"id":8,"text":"A9:\tBagi lima belaslah.","label":[]}
+{"id":9,"text":"B10:\tGinilah kak, kalau kak nak jugak saya bagi enam belas ringgit.","label":[[38,42,"1st"],[13,16,"2nd"],[13,16,"address"]]}
+{"id":10,"text":"A11:\tLima belas ringgitlah.","label":[]}
+{"id":11,"text":"A12:\tSaya beli dah dulu ni lima belas ringgit saja.","label":[[5,9,"1st"]]}
+{"id":12,"text":"B13:\tMungkin kain jenis lain.","label":[]}
+{"id":13,"text":"B14:\tKena kain Siam ke?","label":[]}
+{"id":14,"text":"B15:\tKak nak yang mana tu, hijau ke merah, comel-comel belaka, biru pun comel jugak.","label":[[5,8,"2nd"]]}
+{"id":15,"text":"B16:\tKuning pun biasa orang pakai.","label":[]}
+{"id":16,"text":"A17:\tAmbil hak biru tulah.","label":[]}

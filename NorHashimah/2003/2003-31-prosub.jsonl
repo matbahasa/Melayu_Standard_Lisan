@@ -1,0 +1,39 @@
+{"id":0,"text":"B1:\tNak apa dia tu?","label":[]}
+{"id":1,"text":"A2:\tSeluar 'askar' ada?","label":[]}
+{"id":2,"text":"B3:\tYang budak ke atau orang tua?","label":[]}
+{"id":3,"text":"A4:\tUntuk budak besar ni.","label":[]}
+{"id":4,"text":"B5:\tYang nilah","label":[]}
+{"id":5,"text":"B6:\t---Dia ke nak pakai?","label":[]}
+{"id":6,"text":"B7:\t... Yang ni padan ni, terailah tak apa, kain dia tahan ni.","label":[]}
+{"id":7,"text":"A8:\tBerapa ni?","label":[]}
+{"id":8,"text":"B9:\tLapan belas ringgit saja.","label":[]}
+{"id":9,"text":"A10:\tMahalnya!","label":[]}
+{"id":10,"text":"B11:\tLapan belas ringgit ni murah dah, kalau di gudang-gudang besar tak boleh harga ni---mahal lagi.","label":[]}
+{"id":11,"text":"A12:\tSaiz berapa ni?","label":[]}
+{"id":12,"text":"B13:\tSaiz dua puluh lapan.","label":[]}
+{"id":13,"text":"A14:\tYang tu berapa sehelai?","label":[]}
+{"id":14,"text":"B15:\tYang tu tak mahal---ada tiga saiz, dua, empat dan enam, ada tiga cahaya (warna).","label":[]}
+{"id":15,"text":"A16:\tBerapa?","label":[]}
+{"id":16,"text":"B17:\tBagi empat ringgit lapan puluh, orang lain jual enam setengah.","label":[]}
+{"id":17,"text":"A18:\tApa pula lapan puluh sen tu.","label":[]}
+{"id":18,"text":"A19:\ttolak-tolak gilah---fesyen lain tak ada?","label":[]}
+{"id":19,"text":"B20:\tTak ada dah---ni saja---gambar ninja---comel ni---nak warna apa tu ambik merahlah.","label":[]}
+{"id":20,"text":"A21:\tLepas tu yang tu boleh bagi berapa?","label":[]}
+{"id":21,"text":"B22:\tYang tu saya bagi enam belas ringgit yahlah---kurang dua ringgit.","label":[[13,17,"1st"]]}
+{"id":22,"text":"A23:\tBagi sepuluh ringgitlah.","label":[]}
+{"id":23,"text":"B24:\tEh, enam belas ringgit murah benar dah tu tak boleh sepuluh ringgit---modal lebih dari tu.","label":[]}
+{"id":24,"text":"A25:\tKalau bagi sepuluh ringgit saya ambik.","label":[[32,36,"1st"]]}
+{"id":25,"text":"B26:\tTak boleh---orang beli di sebelah luar (tempat lain seperti KL) dua puluh lima ringgit ni tapi di Kelantan ni murah saja kita jual pasal barang sini gi sebelah luar---jadi mahallah.","label":[[126,130,"1st"]]}
+{"id":26,"text":"B27:\tKalau barang sana mari sini kita pulak mahal.","label":[[33,37,"1st"]]}
+{"id":27,"text":"A28:\tKuranglah sikit lagi.","label":[]}
+{"id":28,"text":"B29:\tTak leh dah dik---modal lebih dah ni.","label":[[17,20,"address"]]}
+{"id":29,"text":"A30:\tYang ni pulak?","label":[]}
+{"id":30,"text":"B31:\tYang tu saya bagi setakat empat ringgit lebih daripada tu tak boleh dah.","label":[[13,17,"1st"]]}
+{"id":31,"text":"A32:\tSemulalah (lain kali sahajalah) .","label":[]}
+{"id":32,"text":"B33:\tSemula gak tak ada dahlah","label":[]}
+{"id":33,"text":"B34:\t---Gambar ni bukan ada selalu.","label":[]}
+{"id":34,"text":"A35:\tGambar dia pun tak molek.","label":[]}
+{"id":35,"text":"B36:\tBiasalah ni---gambar untuk budak-budak dah tu....","label":[]}
+{"id":36,"text":"B37:\tAmbik yang teballah.","label":[]}
+{"id":37,"text":"B38:\tMusim-musim ni, malam sejuk-sejuk benar malam sekarang.","label":[]}
+{"id":38,"text":"A39:\tKiralah yang ni.","label":[]}

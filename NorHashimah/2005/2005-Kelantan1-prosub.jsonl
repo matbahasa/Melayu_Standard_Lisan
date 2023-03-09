@@ -1,0 +1,275 @@
+{"id":0,"text":"A1:\tDaging ni nak siang macam mana ni Nab?","label":[[38,41,"address"]]}
+{"id":1,"text":"B2:\tBuat sekeping seoranglah.","label":[]}
+{"id":2,"text":"A3:\tNak buat gulai buku besar semua ke?","label":[]}
+{"id":3,"text":"B4:\tAgak-agak ajelah, biar boleh sebuku seorang.","label":[]}
+{"id":4,"text":"A5:\tBesen!","label":[]}
+{"id":5,"text":"A6:\tBesen nak buat bubuh daging ni.","label":[]}
+{"id":6,"text":"A7:\tMinta besen dengan Mak Su!","label":[]}
+{"id":7,"text":"B8:\tAmbil papan tu, nak lapik siang daging ni.","label":[]}
+{"id":8,"text":"C9:\tAwang!","label":[[4,9,"address"]]}
+{"id":9,"text":"C10:\tTolong angkat bekas bawang tu letak kat bawah.","label":[]}
+{"id":10,"text":"C11:\tDia orang nak tengok bawang tu banyak mana.","label":[]}
+{"id":11,"text":"C12:\tAku tak larat nak angkat sendiri.","label":[[5,8,"1st"]]}
+{"id":12,"text":"A13:\tNi hak besan bawa, orang Johar bawa.","label":[]}
+{"id":13,"text":"B14:\tYalah, malam diorang nak nikah tu, ada budak Amir tu pergi ke rumah.","label":[]}
+{"id":14,"text":"B15:\tDok memanggil-manggil Kak Long!","label":[]}
+{"id":15,"text":"B16:\tKak Long!","label":[[5,13,"address"]]}
+{"id":16,"text":"B17:\tMarilah turun sebentar.","label":[]}
+{"id":17,"text":"B18:\tAda kerja apa ni?","label":[]}
+{"id":18,"text":"B19:\tMa suruh pergi beli timun empat sumpit, kacang 600, lepas tu lada besar, lada burung nak tambah jugak.","label":[]}
+{"id":19,"text":"B20:\tAbo senyap je, sebab tahu dah sah akan beli.","label":[]}
+{"id":20,"text":"C21:\tBeruntung demo ni berbesan, tak payah beli barang-barang.","label":[]}
+{"id":21,"text":"C22:\tLepas tu gak, barulah kelam-kabut nak semuanya.","label":[]}
+{"id":22,"text":"B23:\tYalah, dinihari pukul 5.30 lagi dok tunggu atas bukit dah.","label":[]}
+{"id":23,"text":"C24:\tNak gi mana?","label":[]}
+{"id":24,"text":"B25:\tPasar Sabtu nilah, Pasar Tani.","label":[]}
+{"id":25,"text":"A26:\tAloh.... Slimnya dia.","label":[]}
+{"id":26,"text":"A27:\tDiet ke?","label":[]}
+{"id":27,"text":"B28:\tYalah!","label":[]}
+{"id":28,"text":"B29:\tOrang lain pun berisi jugak, dia pulak makin kurus, makin kecik.","label":[]}
+{"id":29,"text":"B30:\tYang kita ni, tak larat dah nak makan teh kurus, habis banyak mana dah.","label":[[10,14,"1st"]]}
+{"id":30,"text":"B31:\tSakit dah bontot ni dok buat ulang berak!","label":[]}
+{"id":31,"text":"B32:\tHa!","label":[]}
+{"id":32,"text":"B33:\tHa!","label":[]}
+{"id":33,"text":"B34:\tHa!","label":[]}
+{"id":34,"text":"A35:\tTubuh Wani pun besar jugak dah sekarang ni.","label":[]}
+{"id":35,"text":"B36:\tDia datang esok taulah.","label":[]}
+{"id":36,"text":"B37:\tEsok, ketiga-tiganya tu datang semua tu.","label":[]}
+{"id":37,"text":"B38:\tDiorang tak pelah, senang disuruh.","label":[]}
+{"id":38,"text":"B39:\tKalau takde dia orang tu, macam takde bahu sebelahlah jawabnya.","label":[]}
+{"id":39,"text":"C40:\tKat mana diorang tu sekarang ni?","label":[]}
+{"id":40,"text":"A41:\tDok kerja kat situ jugak.","label":[]}
+{"id":41,"text":"A42:\tNoor kerja kat Sara lagi.","label":[]}
+{"id":42,"text":"A43:\tLiza pula dok kerja rumah Cikgu Mat lagi.","label":[]}
+{"id":43,"text":"C44:\tPagi-pagi tu selalu juga jumpa dengan dia, naik kereta Kancil.","label":[]}
+{"id":44,"text":"A45:\tHa, yalah kereta Kancil merah.","label":[]}
+{"id":45,"text":"A46:\tHari tu, Liza dengan Wani, duduk di kedai Mek Yah.","label":[]}
+{"id":46,"text":"A47:\tKatanya Liza, Kak Ta tak tegur dia, pergi tegur Wani seorang je.","label":[]}
+{"id":47,"text":"A48:\tAku kata, mestilah Kak Ta tak cam mu.","label":[[5,8,"1st"],[39,41,"2nd"]]}
+{"id":48,"text":"A49:\tYalah, besar-besar dah semua.","label":[]}
+{"id":49,"text":"D50:\tHabis licin dah?","label":[]}
+{"id":50,"text":"A51:\tHah, habis licin diorang siang bawang ni semalam.","label":[]}
+{"id":51,"text":"D52:\tRamai ke orang semalam?","label":[]}
+{"id":52,"text":"A53:\tRamai....","label":[]}
+{"id":53,"text":"A54:\tNi air tuak ke ni?","label":[]}
+{"id":54,"text":"B55:\tEh, ni air yang diorang buat perangkap lalat tu.","label":[]}
+{"id":55,"text":"A56:\tPasang lilinlah.","label":[]}
+{"id":56,"text":"A57:\tLalat ni dok hinggap kat daging ni.","label":[]}
+{"id":57,"text":"C58:\tEh, ni yang mana bahagian nak, yang mana bahagian tak mahu nih.","label":[]}
+{"id":58,"text":"B59:\tNak belaka tu.","label":[]}
+{"id":59,"text":"D60:\tEh, hak ni tak mahu nih.","label":[]}
+{"id":60,"text":"C61:\tKalau tak mahu, letak dalam bekas suku.","label":[]}
+{"id":61,"text":"A62:\tLetak kat situ ajelah.","label":[]}
+{"id":62,"text":"E63:\tHiris daging yang elok tu, buat mari sini.","label":[]}
+{"id":63,"text":"E64:\tYang tak elok tu, demo ambillah buat dalca.","label":[]}
+{"id":64,"text":"A65:\tNak buat buku besar ke ni?","label":[]}
+{"id":65,"text":"D66:\tBesar pun taklah besar sangat, biar sedang elok aje.","label":[]}
+{"id":66,"text":"D67:\tSesuai untuk makan jamu selerak.","label":[]}
+{"id":67,"text":"A68:\tHiris hak daging molek tu.","label":[]}
+{"id":68,"text":"F69:\tYang Abanglah tu, bukan main bersungguh lagi, tapi ambil kerusi duduk.","label":[]}
+{"id":69,"text":"A70:\tHuh, bukan mari nak buat kerja dia tu, mari nak hisap rokok aje tu.","label":[]}
+{"id":70,"text":"F71:\tEleh, mengata orang.","label":[]}
+{"id":71,"text":"F72:\tYang dia tu, baru je sudah makan sebentar tadi.","label":[]}
+{"id":72,"text":"D73:\tYalah, baru keluar je tu.","label":[]}
+{"id":73,"text":"D74:\tIngatkah, demo ni semua pergi mana, ke pergi tidur kat mana.","label":[]}
+{"id":74,"text":"D75:\tAtau dok terlelap kat pinggan nasi lagi.","label":[]}
+{"id":75,"text":"A76:\tAlah... kita orang Melayu ni, orang Islam... kenalah sembahyang jugak.","label":[[13,17,"1st"]]}
+{"id":76,"text":"D77:\tOrang lain pun sembahyang jugak.","label":[]}
+{"id":77,"text":"A78:\tHak ni nak buat lagu mana nih?","label":[]}
+{"id":78,"text":"D79:\tHak tu hiris halus-haluslah.","label":[]}
+{"id":79,"text":"F80:\tDuduklah!","label":[]}
+{"id":80,"text":"F81:\tDuduklah!","label":[]}
+{"id":81,"text":"F82:\tLuas lagi tu.","label":[]}
+{"id":82,"text":"F83:\tMari masa mana demo ni?","label":[]}
+{"id":83,"text":"G84:\tBaru je.","label":[]}
+{"id":84,"text":"F85:\tMana kata tiga beradik tu, tak mari-mari lagi nih.","label":[]}
+{"id":85,"text":"F86:\tKita nak berhenti dah ni, nak bergilir pulak.","label":[]}
+{"id":86,"text":"A87:\tJali tak mari ke?","label":[]}
+{"id":87,"text":"A88:\tAda?","label":[]}
+{"id":88,"text":"A89:\tAda dia sedap sikit.","label":[]}
+{"id":89,"text":"D90:\tKalau ada dia pun, senyak jugak.","label":[]}
+{"id":90,"text":"A91:\tDia tu sedap tu, banyak modal.","label":[]}
+{"id":91,"text":"D92:\tPak Aji tu, bila nak ada modal?","label":[]}
+{"id":92,"text":"A93:\tHarun nama sebenar Wahabnya.","label":[]}
+{"id":93,"text":"B94:\tOh, Harun.","label":[]}
+{"id":94,"text":"B95:\tHabis tu kenapa panggil Wahab?","label":[]}
+{"id":95,"text":"A96:\tTak tahu, tak sesuai agaknya.","label":[]}
+{"id":96,"text":"C97:\tMasa Pak Cik dok kerja kat rumah Alias hari tu, dia kata Harun dok kerja di Kuala Baru.","label":[]}
+{"id":97,"text":"A98:\tBukan ke dia tu adik-beradik Jawiyah?","label":[]}
+{"id":98,"text":"C99:\tJawiyah mana?","label":[]}
+{"id":99,"text":"A100:\tAdik-beradik Wak Yoh.","label":[]}
+{"id":100,"text":"C101:\tYalah....","label":[]}
+{"id":101,"text":"C102:\tAmbo tahulah sebab dia tu dua pupu bini kita.","label":[[46,50,"1st"]]}
+{"id":102,"text":"C103:\tAda sampai juga surat dia tu, mengajak pergi ke rumah.","label":[]}
+{"id":103,"text":"D104:\tBilanya?","label":[]}
+{"id":104,"text":"C105:\tKena gulai?","label":[]}
+{"id":105,"text":"E106:\tMana?","label":[]}
+{"id":106,"text":"C107:\tRumah Pak Man.","label":[]}
+{"id":107,"text":"E108:\tEsok ke?","label":[]}
+{"id":108,"text":"C109:\tEh, esok baru 3 hari bulan, lusalah 4 hari bulan.","label":[]}
+{"id":109,"text":"C110:\tSurat dia ada kat rumah tu.","label":[]}
+{"id":110,"text":"F111:\tRumah siapanya?","label":[]}
+{"id":111,"text":"F112:\tRumah Wahab ke?","label":[]}
+{"id":112,"text":"F113:\tTak kena rumah kita tu.","label":[[21,25,"1st"]]}
+{"id":113,"text":"C114:\tAlah... tak jumpa cari rumah agaknya tu.","label":[]}
+{"id":114,"text":"A115:\tBuat buku besarlah pulak daging tu, banyak dah hak halus nih, Pak Su.","label":[[68,74,"address"]]}
+{"id":115,"text":"C116:\tNak hisap rokok dululah.","label":[]}
+{"id":116,"text":"G117:\tTak pergi makan gulai ke?","label":[]}
+{"id":117,"text":"C118:\tPergi dah.","label":[]}
+{"id":118,"text":"C119:\tAmbo sampai tu, terus angkat gulai.","label":[]}
+{"id":119,"text":"C120:\tDah ada dah dua, tiga hidang.","label":[]}
+{"id":120,"text":"C121:\tOrang baru nak mula.","label":[]}
+{"id":121,"text":"C122:\tPergi malam gak, tak makan gulai kerbaulah.","label":[]}
+{"id":122,"text":"G123:\tKerbau ke?","label":[]}
+{"id":123,"text":"C124:\tKerbau....","label":[]}
+{"id":124,"text":"A125:\tTulang-tulang tak potong lagi tu Pak Su.","label":[[39,45,"address"]]}
+{"id":125,"text":"C126:\tNak potong dengan apa?","label":[]}
+{"id":126,"text":"A127:\tTu kapak ada tu.","label":[]}
+{"id":127,"text":"B128:\tAir tak minum-minum lagi tu.","label":[]}
+{"id":128,"text":"C129:\tHabis dah....","label":[]}
+{"id":129,"text":"A130:\tEh, tulang tu potong biar sudahlah.","label":[]}
+{"id":130,"text":"A131:\tOrang perempuan tak larat nak kerat tu.","label":[]}
+{"id":131,"text":"C132:\tMari minum air ni, tak luak lagi ni.","label":[]}
+{"id":132,"text":"E133:\tLemak ni nak kena buang ke?","label":[]}
+{"id":133,"text":"C134:\tEh, tak pelah, lemak tu boleh makan tu.","label":[]}
+{"id":134,"text":"E135:\tTolong ambil surat khabar tu, nak bubuh nih.","label":[]}
+{"id":135,"text":"E136:\tAmbil surat khabar yang hari nilah, yang lama-lama tak nak.","label":[]}
+{"id":136,"text":"F137:\tNakalnya... yalah, kalau yang hari ni bolehlah sambil-sambil bacakan?","label":[]}
+{"id":137,"text":"A138:\tPak Din!","label":[[6,13,"address"]]}
+{"id":138,"text":"A139:\tKapak ada kat situ?","label":[]}
+{"id":139,"text":"B140:\tAda tu, takkan tak ada pula.","label":[]}
+{"id":140,"text":"B141:\tBeritahu budak-budak, suruh pergi cari kapak tu.","label":[]}
+{"id":141,"text":"A142:\tCepatlah woi!","label":[]}
+{"id":142,"text":"A143:\tOrang dah nak balik ni.","label":[]}
+{"id":143,"text":"C144:\tPak Cik tu dah nak balik dah?","label":[]}
+{"id":144,"text":"A145:\tTak bolehlah, ambo nak balik, pergi ke dalam blok pulak.","label":[]}
+{"id":145,"text":"B146:\tAlah... sibuk nak ke dalam blok pulak dah.","label":[]}
+{"id":146,"text":"B147:\tPergi esok ajelah... malam-malam karang ko.","label":[]}
+{"id":147,"text":"A148:\tKita dah janji dah.","label":[[6,10,"1st"]]}
+{"id":148,"text":"B149:\tTok Aji tak ada tu, pergi ke Guchil.","label":[]}
+{"id":149,"text":"B150:\tKalau dah balik tu, tentu dia mari lepas Isyak karang pulak.","label":[]}
+{"id":150,"text":"B151:\tUdin pergi ekspo pula dah?","label":[]}
+{"id":151,"text":"C152:\tBuat kerja biar selesai dulu.","label":[]}
+{"id":152,"text":"C153:\tLepas tu, kita pakat pergi beramai-ramai.","label":[[16,20,"1st"]]}
+{"id":153,"text":"A154:\tAda ekspo ke sekarang ni?","label":[]}
+{"id":154,"text":"B155:\tAda.","label":[]}
+{"id":155,"text":"B156:\tRumah aku tu ada dah ayam serama.","label":[[12,15,"1st"]]}
+{"id":156,"text":"B157:\tEh, bukan ayam serama, ayam kapan.","label":[]}
+{"id":157,"text":"C158:\tHah!","label":[]}
+{"id":158,"text":"C159:\tTu kapak dah sampai dah.","label":[]}
+{"id":159,"text":"C160:\tBagi kat Wak Yeh, Wak Yeh yang nak kapak tu.","label":[]}
+{"id":160,"text":"C161:\tMak Nik, ambil dulu ni, nak minum airlah seteguk dulu.","label":[[6,13,"address"]]}
+{"id":161,"text":"A162:\tTi!","label":[]}
+{"id":162,"text":"A163:\tTak payahlah buat keluar lagi, yang ada ni pun tak habis-habis lagi.","label":[]}
+{"id":163,"text":"A164:\tEh, Mak Cik, Mak Nik tak makan-makan lagi ni.","label":[[10,17,"address"]]}
+{"id":164,"text":"A165:\tOrang dah makan dah.","label":[]}
+{"id":165,"text":"B166:\tElah, malu tu.","label":[]}
+{"id":166,"text":"C167:\tTakde malu-malunya.","label":[]}
+{"id":167,"text":"A168:\tCuba letak dekat-dekat dia, habis licin tu.","label":[]}
+{"id":168,"text":"B169:\tAloh... lembu ke kuda ni, keras betul.","label":[]}
+{"id":169,"text":"C170:\tYang ni asyik dok mengilai aje dari tadi, buat kerjanya tidak","label":[]}
+{"id":170,"text":"A171:\tYa Rabbi, tercabut pulak kapak ni.","label":[]}
+{"id":171,"text":"B172:\tBaji dululah, tak baji kan tercabut balik.","label":[]}
+{"id":172,"text":"A173:\tKelmarin, Yah dengan Nah ada datang.","label":[]}
+{"id":173,"text":"B174:\tOh!","label":[]}
+{"id":174,"text":"B175:\tSekarang ni diorang pergi mana?","label":[]}
+{"id":175,"text":"A176:\tTak tahulah, agaknya pergi menziarah rumah arwah Raja.","label":[]}
+{"id":176,"text":"B177:\tKak Chik, makan nasi ni Kak Chik.","label":[[6,14,"address"],[6,14,"address"]]}
+{"id":177,"text":"B178:\tMari makan dengan Kak Mah ni.","label":[]}
+{"id":178,"text":"A179:\tAyam pun tak ada dah.","label":[]}
+{"id":179,"text":"A180:\tEsok pulak sampai.","label":[]}
+{"id":180,"text":"B181:\tLaa... tak sampai habis lagi?","label":[]}
+{"id":181,"text":"A182:\tTak.","label":[]}
+{"id":182,"text":"A183:\tEh, kenapa yang dia tu datang sayup-sayup aje.","label":[]}
+{"id":183,"text":"A184:\tOrang lain dah selesai makan dah ni.","label":[]}
+{"id":184,"text":"C185:\tDia baru masuk tu.","label":[]}
+{"id":185,"text":"B186:\tEh, marilah makan nasi ni.","label":[]}
+{"id":186,"text":"C187:\tNak buat samballah.","label":[]}
+{"id":187,"text":"A188:\tSambal dah buat dah.","label":[]}
+{"id":188,"text":"C189:\tKak Mah nak buat apa ni?","label":[[6,13,"2nd"]]}
+{"id":189,"text":"D190:\tNak buat taucu.","label":[]}
+{"id":190,"text":"C191:\tMolek lada-lada ni, lada baru agaknya ni.","label":[]}
+{"id":191,"text":"A192:\tRM4 sekilo tu.","label":[]}
+{"id":192,"text":"B193:\tNi buah ni berapa sekarang?","label":[]}
+{"id":193,"text":"B194:\tBunyi katanya kat Kata Bharu mahal.","label":[]}
+{"id":194,"text":"A195:\tTak tahulah berapa, ni beli kat Bachok ni.","label":[]}
+{"id":195,"text":"A196:\tRasanya hak dari kampung, tak ada biji.","label":[]}
+{"id":196,"text":"B197:\tKata Bharu baru ni, sebelum cuti tu, 3 - 4 gitu aje, yang dah dibuang tangkainya.","label":[]}
+{"id":197,"text":"A198:\tKertas ada dah 2.","label":[]}
+{"id":198,"text":"B199:\tCukup dah ni.","label":[]}
+{"id":199,"text":"A200:\tCukup dengan Kak Mah seorang ajelah menggulai.","label":[]}
+{"id":200,"text":"C201:\tTolong hampar kertas!","label":[]}
+{"id":201,"text":"D202:\tOh....","label":[]}
+{"id":202,"text":"D203:\tSambal siap dah.","label":[]}
+{"id":203,"text":"D204:\tTaucu pun dah buat jugak.","label":[]}
+{"id":204,"text":"A205:\tLepas tu, Kak Mah nak tidur kat mana ni?","label":[[16,23,"2nd"]]}
+{"id":205,"text":"A206:\tBilik atas tu ada 2 yang kosong.","label":[]}
+{"id":206,"text":"C207:\tEh, kena balik rumah.","label":[]}
+{"id":207,"text":"C208:\tBudak-budak ni payahlah.","label":[]}
+{"id":208,"text":"A209:\tPukul berapa nak balik?","label":[]}
+{"id":209,"text":"A210:\t3 atau 4 malam karang?","label":[]}
+{"id":210,"text":"C211:\tBudak-budak ni ada, pergi hantarlah sekejap.","label":[]}
+{"id":211,"text":"C212:\tRisau takut-takut diorang nak pergi ambil mesin kelapa pula, nanti tak ada orang kat rumah.","label":[]}
+{"id":212,"text":"B213:\t2 buah tak cukup lagi ke?","label":[]}
+{"id":213,"text":"C214:\tNak pergi Machang ni, singgahlah ambil rumah Mak Cik dah satu, rumah Mak Nik satu.","label":[]}
+{"id":214,"text":"E215:\tAlah... ambo pulak naik bisul sini, 2, 3 malam dah tak boleh tidur.","label":[]}
+{"id":215,"text":"D216:\tNi bawang nak buat apa banyak ni?","label":[]}
+{"id":216,"text":"A217:\tNak buat ayam tu.","label":[]}
+{"id":217,"text":"B218:\tEh, makanlah nasi tu.","label":[]}
+{"id":218,"text":"F219:\tTak naklah.","label":[]}
+{"id":219,"text":"B220:\tPak Su!","label":[[6,12,"address"]]}
+{"id":220,"text":"B221:\tPak Su!","label":[[6,12,"address"]]}
+{"id":221,"text":"B222:\tPanggillah Pak Saudara tu makan nasi.","label":[]}
+{"id":222,"text":"G223:\tMakan dah.","label":[]}
+{"id":223,"text":"G224:\tDiorang tu pergi betahlil tadi.","label":[]}
+{"id":224,"text":"A225:\tMah!","label":[[6,9,"address"]]}
+{"id":225,"text":"A226:\tLada merah ni nak relaikan jugak ke?","label":[]}
+{"id":226,"text":"B227:\tBoleh jugak, tapi jangan campurlah.","label":[]}
+{"id":227,"text":"A228:\tEh, hisap curut juga?","label":[]}
+{"id":228,"text":"A229:\tIngatkan duduk Kuala Lumpur tak hisap lagi dah.","label":[]}
+{"id":229,"text":"A230:\tHabis dah ayam?","label":[]}
+{"id":230,"text":"B231:\tAda sikit lagi.","label":[]}
+{"id":231,"text":"B232:\tKain kelubung jatuh pun tak sedar.","label":[]}
+{"id":232,"text":"A233:\tJatuh kat mana Yah?","label":[]}
+{"id":233,"text":"B234:\tTak tahu, cari pun tak jumpa.","label":[]}
+{"id":234,"text":"A235:\tSerupa Pak Pandirlah mu ni.","label":[[27,29,"2nd"]]}
+{"id":235,"text":"A236:\tMu ni ada nyawa ke tidak Yah?","label":[[6,8,"2nd"]]}
+{"id":236,"text":"A237:\tMacam patunglah pulak.","label":[]}
+{"id":237,"text":"B238:\tAlah... nak makan pinanglah pula.","label":[]}
+{"id":238,"text":"B239:\tPergi cari Ti kat mana.","label":[]}
+{"id":239,"text":"B240:\tKalau balik malam ni, bolehlah bawa mari 2, 3 susun sikit.","label":[]}
+{"id":240,"text":"B241:\tBiasa tempat kenduri besar macam ni, ada sedia dengan bekas pinang.","label":[]}
+{"id":241,"text":"A242:\tDengar tu.","label":[]}
+{"id":242,"text":"B243:\tSekarang ni, orang tua moden.","label":[]}
+{"id":243,"text":"A244:\tSirih ada rumah Mek tu.","label":[]}
+{"id":244,"text":"A245:\tBelakang rumah tu banyak betul pinang aje yang tak ada.","label":[]}
+{"id":245,"text":"B246:\tKapur ada dah.","label":[]}
+{"id":246,"text":"B247:\tBuat rendam buah labu tadi.","label":[]}
+{"id":247,"text":"B248:\tGambir, kapur, sirih, biar cukup syarat.","label":[]}
+{"id":248,"text":"B249:\tMari duduk dulu.","label":[]}
+{"id":249,"text":"C250:\tMak Cik tak apa tak duduk pun.","label":[]}
+{"id":250,"text":"A251:\tPerlahan-lahanlah.","label":[]}
+{"id":251,"text":"A252:\tLambat lagi tu.","label":[]}
+{"id":252,"text":"A253:\t12 jam hari ini.","label":[]}
+{"id":253,"text":"A254:\tLepas tu esok 12 jam pulak.","label":[]}
+{"id":254,"text":"B255:\tMana penyejat ni?","label":[]}
+{"id":255,"text":"A256:\tMek dok basuh tu.","label":[]}
+{"id":256,"text":"B257:\tAmbil tudung periuk tu, lapik kat bawah ni.","label":[]}
+{"id":257,"text":"A258:\tGuna papan nilah, rosak pulak tudung periuk orang nanti.","label":[]}
+{"id":258,"text":"B259:\tLabu madu ni Wak Yeh.","label":[]}
+{"id":259,"text":"A260:\tManis ke?","label":[]}
+{"id":260,"text":"A261:\tNak cuba.","label":[]}
+{"id":261,"text":"A262:\tHmm... rangup.","label":[]}
+{"id":262,"text":"B263:\tRangguplah yang orang nak.","label":[]}
+{"id":263,"text":"A264:\tCuba mari dekat-dekat sikit, ni ambil bahagian mu ni, pergi basuh.","label":[]}
+{"id":264,"text":"B265:\tAlaa... sihatnya dia.","label":[]}
+{"id":265,"text":"C266:\tAlong!","label":[[6,11,"address"]]}
+{"id":266,"text":"C267:\tPergi salam dengan Mak tu.","label":[]}
+{"id":267,"text":"B268:\tMak Nab tak datang ke?","label":[]}
+{"id":268,"text":"A269:\tTak tahulah, dengar khabarnya dia nak marl.","label":[]}
+{"id":269,"text":"B270:\tPak Cik, tak nak ke?","label":[[6,13,"address"]]}
+{"id":270,"text":"C271:\tMakanlah dulu.","label":[]}
+{"id":271,"text":"C272:\tManis tu, madukan?","label":[]}
+{"id":272,"text":"B273:\tSemuanya madu sekarang ni.","label":[]}
+{"id":273,"text":"B274:\tBelimbing madu, jambu madu, nangka madu, labu pun madu.","label":[]}
+{"id":274,"text":"B275:\tSiapa ni kenal ke?","label":[]}

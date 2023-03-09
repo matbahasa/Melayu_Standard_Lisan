@@ -1,0 +1,15 @@
+{"id":0,"text":"A1:\tBerapa beg ni pak cik?","label":[[18,25,"address"]]}
+{"id":1,"text":"B2:\tYang ni dua puluh enam.","label":[]}
+{"id":2,"text":"A3:\tDua puluh cukuplah.","label":[]}
+{"id":3,"text":"B4:\tTak boleh, tak boleh dua puluh.","label":[]}
+{"id":4,"text":"A5:\tGorilah pak cik.","label":[[12,19,"address"]]}
+{"id":5,"text":"B6:\tOh... pak cik buat gori dah tu, banyak butir dah pak cik buat gori, tak boleh beli harga tu tak boleh kata buat gori, gori dah.","label":[[10,17,"1st"],[10,17,"2nd"]]}
+{"id":6,"text":"A7:\tBagilah dua puluh.","label":[]}
+{"id":7,"text":"B8:\tDua puluh tak boleh gilah, tengok baranglah dulu, kain beg ni tahan.","label":[]}
+{"id":8,"text":"A9:\tKalau beri, kita ambil dua.","label":[[16,20,"1st"]]}
+{"id":9,"text":"B10:\tTak boleh dua puluh, beginilah kita pun malas dah, setakat dua puluh empat, dua.","label":[[36,40,"1st"]]}
+{"id":10,"text":"B11:\tKalau nak boleh, kalau tak nak, tak ada arah dah.","label":[]}
+{"id":11,"text":"B12:\tKita bagi murah dah tu.","label":[[5,9,"1st"]]}
+{"id":12,"text":"B13:\tKita dok jual dua puluh tiga habis kurang.","label":[[5,9,"1st"]]}
+{"id":13,"text":"B14:\tKita tak nak tengok ke harga, kita tengok ke barang tu, barang elok.","label":[[5,9,"1st"],[35,39,"1st"]]}
+{"id":14,"text":"B15:\tBarang jenis plastik tu murahlah, bolehlah harga tu.","label":[]}

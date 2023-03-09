@@ -1,0 +1,60 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+2005	2005-Terengganu1.txt	1	256	261	Kakak					1	1	0	0
+2005	2005-Terengganu1.txt	2	310	313	Mak					1	0	0	1
+2005	2005-Terengganu1.txt	3	329	333	kita					1	1	0	0
+2005	2005-Terengganu1.txt	59	470	476	Mak Su					1	0	0	1
+2005	2005-Terengganu1.txt	4	551	557	Mak Su					1	0	1	0
+2005	2005-Terengganu1.txt	5	580	584	Kita					1	1	0	0
+2005	2005-Terengganu1.txt	6	705	709	kita					1	1	0	0
+2005	2005-Terengganu1.txt	7	887	890	Mak					1	0	0	1
+2005	2005-Terengganu1.txt	8	1167	1169	Mi					1	0	0	1
+2005	2005-Terengganu1.txt	9	1178	1180	Mi					1	0	0	1
+2005	2005-Terengganu1.txt	10	1336	1341	Kakak					1	0	0	1
+2005	2005-Terengganu1.txt	11	1345	1350	kakak					1	0	0	1
+2005	2005-Terengganu1.txt	12	1549	1555	Syafiq					1	0	1	0
+2005	2005-Terengganu1.txt	13	2140	2144	Abah					1	0	1	0
+2005	2005-Terengganu1.txt	14	2173	2177	Abah					1	0	0	1
+2005	2005-Terengganu1.txt	16	2275	2277	Da					1	0	1	0
+2005	2005-Terengganu1.txt	15	2293	2295	Da					1	0	1	0
+2005	2005-Terengganu1.txt	17	2711	2717	Mak Su					1	0	0	1
+2005	2005-Terengganu1.txt	18	2728	2735	Mak Nab					1	0	0	1
+2005	2005-Terengganu1.txt	19	2820	2827	Mak Nab					1	0	0	1
+2005	2005-Terengganu1.txt	20	2858	2860	Na					1	0	0	1
+2005	2005-Terengganu1.txt	60	3053	3055	Su					1	0	0	1
+2005	2005-Terengganu1.txt	61	3138	3141	Din					1	0	0	1
+2005	2005-Terengganu1.txt	62	3163	3166	Din					1	0	0	1
+2005	2005-Terengganu1.txt	21	3610	3616	Mak Su					1	0	0	1
+2005	2005-Terengganu1.txt	22	3624	3630	Mak Su					1	0	0	1
+2005	2005-Terengganu1.txt	23	3735	3742	Kak Nik					1	0	0	1
+2005	2005-Terengganu1.txt	24	3854	3861	Mak Nab					1	0	0	1
+2005	2005-Terengganu1.txt	25	4215	4222	Kak Ani					1	0	0	1
+2005	2005-Terengganu1.txt	26	4251	4258	Kak Ani					1	0	1	0
+2005	2005-Terengganu1.txt	27	4392	4394	Ma					1	0	0	1
+2005	2005-Terengganu1.txt	28	4498	4501	Wan					1	0	0	1
+2005	2005-Terengganu1.txt	29	4535	4539	Kita					1	1	0	0
+2005	2005-Terengganu1.txt	30	4749	4754	Sarah					1	0	0	1
+2005	2005-Terengganu1.txt	31	4762	4767	Sarah					1	0	1	0
+2005	2005-Terengganu1.txt	32	5084	5087	Mak					1	0	0	1
+2005	2005-Terengganu1.txt	33	5111	5114	mak					1	0	0	1
+2005	2005-Terengganu1.txt	34	6036	6041	Sarah					1	0	0	1
+2005	2005-Terengganu1.txt	35	6049	6054	Sarah					1	0	0	1
+2005	2005-Terengganu1.txt	36	6086	6090	Adik					1	0	0	1
+2005	2005-Terengganu1.txt	37	6098	6102	Adik					1	0	0	1
+2005	2005-Terengganu1.txt	38	6213	6216	Len					1	0	0	1
+2005	2005-Terengganu1.txt	39	6445	6448	Wan					1	0	0	1
+2005	2005-Terengganu1.txt	40	6468	6471	Wan					1	0	1	0
+2005	2005-Terengganu1.txt	41	6491	6494	Wan					1	0	1	0
+2005	2005-Terengganu1.txt	42	6521	6524	Len					1	0	0	1
+2005	2005-Terengganu1.txt	43	6548	6555	Mak Nab					1	0	1	0
+2005	2005-Terengganu1.txt	44	7194	7197	Wan					1	0	0	1
+2005	2005-Terengganu1.txt	45	7218	7220	Wa					1	0	0	1
+2005	2005-Terengganu1.txt	46	7333	7335	Mu					1	0	1	0
+2005	2005-Terengganu1.txt	47	7390	7398	Che Ting					1	0	0	1
+2005	2005-Terengganu1.txt	48	7405	7407	mu					1	0	1	0
+2005	2005-Terengganu1.txt	49	7468	7471	Mak					1	0	0	1
+2005	2005-Terengganu1.txt	50	7493	7496	Mak					1	0	1	0
+2005	2005-Terengganu1.txt	51	7550	7553	Wan					1	0	0	1
+2005	2005-Terengganu1.txt	52	7561	7564	Wan					1	0	0	1
+2005	2005-Terengganu1.txt	53	7576	7581	Sarah					1	0	1	0
+2005	2005-Terengganu1.txt	54	7643	7645	mu					1	0	1	0
+2005	2005-Terengganu1.txt	55	7857	7859	Mu					1	0	1	0

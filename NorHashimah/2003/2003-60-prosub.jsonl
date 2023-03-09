@@ -1,0 +1,13 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tLapan belaslah.","label":[]}
+{"id":2,"text":"A3:\tSepuluh ringgit yah kita beli dulu, macam nilah corak dia.","label":[[24,28,"1st"]]}
+{"id":3,"text":"A4:\tTak boleh lagi ni?","label":[]}
+{"id":4,"text":"B5:\tKita boleh bagi setakat lapan belas saja.","label":[[4,8,"1st"]]}
+{"id":5,"text":"B6:\tHabis nak tawar berapa?","label":[]}
+{"id":6,"text":"A7:\tTak reti kita nak tawar.","label":[[13,17,"1st"]]}
+{"id":7,"text":"A8:\tTak boleh pergi ke sepuluh ni?","label":[]}
+{"id":8,"text":"A9:\tSebelas pun tak bagi?","label":[]}
+{"id":9,"text":"A10:\tKalau sebelas, saya ambik.","label":[[20,24,"1st"]]}
+{"id":10,"text":"A11:\tTak bagi ke?","label":[]}
+{"id":11,"text":"B12:\tTak sampai modallah.","label":[]}
+{"id":12,"text":"B13:\tKalau setakat dua belas boleh lagi.","label":[]}

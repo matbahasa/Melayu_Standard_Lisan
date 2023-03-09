@@ -1,0 +1,16 @@
+{"id":0,"text":"A1:\tBerapa ni?","label":[]}
+{"id":1,"text":"B2:\tEnam puluh lima, kak nak harga berapa?","label":[[21,24,"2nd"]]}
+{"id":2,"text":"B3:\tBoleh kurang lagi.","label":[]}
+{"id":3,"text":"A4:\tYang tu berapa pulak?","label":[]}
+{"id":4,"text":"B5:\tSama, enam puluh lima.","label":[]}
+{"id":5,"text":"A6:\tTak boleh kurang dah ke?","label":[]}
+{"id":6,"text":"B7:\tKurang berapa?","label":[]}
+{"id":7,"text":"B8:\tLima puluh tujuh?","label":[]}
+{"id":8,"text":"A9:\tLima puluh tak boleh?","label":[]}
+{"id":9,"text":"B10:\tLima puluh limalah kak.","label":[[24,27,"address"]]}
+{"id":10,"text":"A11:\tKita minta lima puluhlah tu.","label":[[5,9,"1st"]]}
+{"id":11,"text":"B12:\tNaik sikit lagilah.","label":[]}
+{"id":12,"text":"B13:\tKak nak banyak mana tu?","label":[[5,8,"2nd"]]}
+{"id":13,"text":"A14:\tSehelai saja.","label":[]}
+{"id":14,"text":"B15:\tSetakat tulah harga kita boleh bagi.","label":[[25,29,"1st"]]}
+{"id":15,"text":"A16:\tBungkus-bungkus sajalah...","label":[]}

@@ -1,0 +1,34 @@
+{"id":0,"text":"A1:\tYang ni berapa ni?","label":[]}
+{"id":1,"text":"B2:\tYang ni tiga ratus ringgit sepasang.","label":[]}
+{"id":2,"text":"B3:\tTapi boleh kurang lagi kalau nak.","label":[]}
+{"id":3,"text":"A4:\tBerapa boleh kurang?","label":[]}
+{"id":4,"text":"B5:\tKalau kak nak, saya boleh bagi dua ratus tujuh puluh ringgit.","label":[[19,23,"1st"],[10,13,"2nd"]]}
+{"id":5,"text":"A6:\tDua ratus lima puluh ringgitlah.","label":[]}
+{"id":6,"text":"B7:\tTak boleh kak.","label":[[14,17,"address"]]}
+{"id":7,"text":"B8:\tPaling kurang saya boleh bagi dua ratus enam puluh ringgit.","label":[[18,22,"1st"]]}
+{"id":8,"text":"B9:\tBiasa saya jual dua ratus tujuh puluh ringgit, dua ratus lapan puluh ringgit.","label":[[10,14,"1st"]]}
+{"id":9,"text":"B10:\tKalau nak banding dengan dulu mahal lagi ni.","label":[]}
+{"id":10,"text":"B11:\tSaya sendiri jual tiga ratus ringgit lebih.","label":[[5,9,"1st"]]}
+{"id":11,"text":"B12:\tTapi masa tu upah buat mahal padan dengan harganya.","label":[]}
+{"id":12,"text":"B13:\tSekarang pun mahal upahnya ni---tapi boleh kira sikitlah dari dulu.","label":[]}
+{"id":13,"text":"A14:\tYang tiga ratus ringgit lebih tu fesyen mana?","label":[]}
+{"id":14,"text":"B15:\tSama dengan yang ni---tapi modal dulu dengan sekarang tak sama.","label":[]}
+{"id":15,"text":"B16:\tNak yang mana tu.","label":[]}
+{"id":16,"text":"B17:\tNi yang hijau muda ni lawa jugak.","label":[]}
+{"id":17,"text":"B18:\tTak berkenan ke?","label":[]}
+{"id":18,"text":"A19:\tTak ada bunga besar-besar.","label":[]}
+{"id":19,"text":"B20:\tSekarang kak, ramai orang suka bunga kecik-kecik sebab tu banyak kain bunga jenis ni....","label":[[14,17,"address"]]}
+{"id":20,"text":"B21:\tYang ni pun lawa... saya sendiri pun berkenan yang ni tapi lain orang lain rasa.","label":[[25,29,"1st"]]}
+{"id":21,"text":"B22:\tHati orang berbeza-beza.","label":[]}
+{"id":22,"text":"B23:\tSebab tu saya jual banyak jenis fesyen ni.","label":[[14,18,"1st"]]}
+{"id":23,"text":"B24:\tSebenarnya saya malas main harga ni, kira saya cakap harga betul selalu, senang....","label":[[16,20,"1st"],[16,20,"1st"]]}
+{"id":24,"text":"B25:\tSekarang ni ramai orang beli buat berniaga.","label":[]}
+{"id":25,"text":"B26:\tKak kalau nak berniaga boleh ambik tempat saya---bolehlah saya bagi murah sikit.","label":[[47,51,"1st"],[47,51,"1st"],[5,8,"2nd"]]}
+{"id":26,"text":"B27:\tSebab beli banyak bolehlah murah.","label":[]}
+{"id":27,"text":"A28:\tBoleh untung ke?","label":[]}
+{"id":28,"text":"B29:\tBoleh untung kak, ramai orang ambik tempat saya untuk berniaga.","label":[[48,52,"1st"],[18,21,"address"]]}
+{"id":29,"text":"B30:\tOrang KL., Singapore.","label":[]}
+{"id":30,"text":"B31:\tBarang ini barang laku sekarang.","label":[]}
+{"id":31,"text":"B32:\tKalau setakat untuk tambang bas tu boleh sangatlah.","label":[]}
+{"id":32,"text":"A33:\tTak apalah, saya ambik yang nilah dulu.","label":[[17,21,"1st"]]}
+{"id":33,"text":"A34:\tBuat-buat sampel.","label":[]}
