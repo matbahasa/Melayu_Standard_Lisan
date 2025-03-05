@@ -1,0 +1,21 @@
+{"id": 0, "text": "A1:\tZiz, padan ke budak tingkatan satu ni?", "label": []}
+{"id": 1, "text": "B2:\tPadan dah ni.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 2, "text": "B3:\tMari nak ukur adik ni, mana besar dengan adik ni.", "label": [[9, 12, "1st"], [9, 12, "S"], [38, 44, "3rd"], [38, 44, "S"]]}
+{"id": 3, "text": "A4:\tLebih kurang dah.", "label": []}
+{"id": 4, "text": "B5:\tSedang molek dah, baju pakai labuh sikit.", "label": [[27, 32, "2nd2"], [27, 32, "S2"], [4, 10, "3rd"], [4, 10, "S"], [27, 32, "3rd"], [27, 32, "P"]]}
+{"id": 5, "text": "A6:\tLepas tu berapa ni.", "label": []}
+{"id": 6, "text": "B7:\tMari nak kira, saya bagi hanya yang paling murah, harga paling istimewa ni.", "label": [[9, 12, "1st"], [9, 12, "S"], [29, 34, "2nd"], [29, 34, "IO"], [17, 18, "3rd"], [17, 18, "DO"]]}
+{"id": 7, "text": "A8:\tBagi murah-murah dahlah.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 14, "1st"], [9, 14, "IO"]]}
+{"id": 8, "text": "A9:\tTak nak mahal-mahal ni.", "label": [[4, 7, "1st"], [4, 7, "S"]]}
+{"id": 9, "text": "B10:\tSemuanya enam belas ringgit setengah.", "label": []}
+{"id": 10, "text": "A11:\tMahalnya.", "label": []}
+{"id": 11, "text": "B12:\tTak mahal dah, tiga perkara tu, kalau dengan orang lain takkan dapat harga tu.", "label": [[61, 67, "2nd"], [61, 67, "S"], [5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 12, "text": "A13:\tBerapa tadi?", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
+{"id": 13, "text": "B14:\tEnam belas setengah.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 14, "text": "A15:\tBagi cukup-cukuplah.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 24, "1st"], [10, 24, "IO"]]}
+{"id": 15, "text": "B16:\tBoleh berapa sen saja kita---lima puluh sen saja.", "label": []}
+{"id": 16, "text": "A17:\tEnam belas ringgit cukuplah.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 17, "text": "B18:\tBagi dah kan tadi, cukup untuk minum air yah ni---banyak dah potong, kalau dengan orang lain dua puluh ringgit lebih dah tu.", "label": [[5, 9, "1st"], [5, 9, "S"], [10, 13, "2nd"], [10, 13, "DO"], [55, 61, "1st"], [55, 61, "S"], [72, 73, "3rd"], [72, 73, "DO"], [98, 101, "3rd"], [98, 101, "S"], [24, 29, "3rd"], [24, 29, "S"]]}
+{"id": 18, "text": "B19:\tSen-sen aje kita ambik.", "label": []}
+{"id": 19, "text": "A20:\tBeli deh semua.", "label": [[5, 9, "1st"], [5, 9, "S"]]}
+{"id": 20, "text": "B21:\tYa saya jual.", "label": []}

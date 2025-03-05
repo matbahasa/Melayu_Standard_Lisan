@@ -1,0 +1,12 @@
+{"id": 0, "text": "A1:\tBerapa ni?", "label": []}
+{"id": 1, "text": "B2:\tDua puluh lima.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 2, "text": "A3:\tBerapa kurang?", "label": []}
+{"id": 3, "text": "B4:\tTawarlah dulu, mak cik nak dengar.", "label": [[4, 12, "2nd"], [4, 12, "S"], [13, 17, "3rd"], [13, 17, "DO"]]}
+{"id": 4, "text": "A5:\tBerapa mak cik boleh bagi kurang?", "label": [[30, 36, "2nd"], [30, 36, "DO"]]}
+{"id": 5, "text": "A6:\tAkhir?", "label": []}
+{"id": 6, "text": "B7:\tAdiklah dulu kurangnya.", "label": []}
+{"id": 7, "text": "A8:\tLapan belas.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 8, "text": "B9:\tMana dapat adik ooi...", "label": [[9, 14, "1st"], [9, 14, "S"]]}
+{"id": 9, "text": "A10:\tLapan belas tak boleh?", "label": [[17, 20, "2nd"], [17, 20, "S"], [5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 10, "text": "A11:\tLapan belas bolehlah mak cik.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 11, "text": "B12:\tBiarlah, saja mak cik bagi kurang kat adik.", "label": []}

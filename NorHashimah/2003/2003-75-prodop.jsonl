@@ -1,0 +1,20 @@
+{"id": 0, "text": "A1:\tKurang berapa ni?", "label": [[4, 10, "2nd"], [4, 10, "S"], [11, 17, "3rd"], [11, 17, "DO"]]}
+{"id": 1, "text": "B2:\tKurang lapan belas ringgit.", "label": [[4, 10, "1st"], [4, 10, "S"], [11, 16, "3rd"], [11, 16, "DO"]]}
+{"id": 2, "text": "A3:\tTujuh belaslah.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 3, "text": "B4:\tSepatutnya dua puluh tu.", "label": [[4, 14, "3rd"], [4, 14, "S"]]}
+{"id": 4, "text": "A5:\tBagi tujuh belaslah.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 14, "1st"], [9, 14, "IO"], [9, 14, "3rd2"], [9, 14, "DO2"]]}
+{"id": 5, "text": "B6:\tTak boleh, bagi satu ringgit lagilah.", "label": [[4, 7, "1st"], [4, 7, "S"], [15, 19, "1st"], [15, 19, "S"], [20, 24, "3rd"], [20, 24, "IO"]]}
+{"id": 6, "text": "B7:\tKita pun boleh sikit benar dah tu.", "label": []}
+{"id": 7, "text": "B8:\tBagi lapan belas, lapan belas pun boleh sikit benar dah tu.", "label": [[4, 8, "1st"], [4, 8, "S"], [9, 14, "2nd"], [9, 14, "IO"], [38, 43, "1st"], [38, 43, "S"], [9, 14, "3rd2"], [9, 14, "DO2"]]}
+{"id": 8, "text": "A9:\tTujuh belaslah dua helai.", "label": []}
+{"id": 9, "text": "A10:\tBerapa yang kilat ni.", "label": []}
+{"id": 10, "text": "B11:\tLima puluh.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 11, "text": "A12:\tTak boleh kurang lagi ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
+{"id": 12, "text": "B13:\t'Harga spesial' dah tu, harga sebenar, kita letak tujuh puluh lima, tujuh puluh.", "label": [[55, 60, "3rd"], [55, 60, "DO"], [42, 43, "3rd"], [42, 43, "P"]]}
+{"id": 13, "text": "A14:\tYang ni pulak berapa?", "label": []}
+{"id": 14, "text": "B15:\tTiga puluh, bolehlah kurang lagi kak.", "label": [[17, 25, "1st"], [17, 25, "S"], [33, 37, "3rd"], [33, 37, "DO"], [5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 15, "text": "B16:\tKita bagi dua puluh lapan.", "label": [[15, 18, "2nd"], [15, 18, "IO"]]}
+{"id": 16, "text": "B17:\tKak nak banyak pasang ke?", "label": []}
+{"id": 17, "text": "B18:\tGinilah kurang satu ringgit lagi.", "label": [[13, 19, "1st"], [13, 19, "S"], [20, 24, "3rd"], [20, 24, "DO"]]}
+{"id": 18, "text": "A19:\tYang kilat ni tak boleh kurang lagi ke?", "label": [[19, 22, "2nd"], [19, 22, "S"], [36, 40, "3rd"], [36, 40, "DO"]]}
+{"id": 19, "text": "B20:\tKita bagi 'spesial harga' pada kak.", "label": []}

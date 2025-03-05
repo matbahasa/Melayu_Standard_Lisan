@@ -1,0 +1,4 @@
+{"id": 0, "text": "A1:\tLima belas tak boleh?", "label": [[15, 18, "2nd"], [15, 18, "S"], [4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 1, "text": "B2:\tLima belas tak boleh pergi.", "label": [[15, 18, "1st"], [15, 18, "S"], [4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 2, "text": "B3:\tEnam belas cukuplah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 3, "text": "B4:\tKalau mak cik ambik yang tidak ada span tu bolehlah bagi lima belas, tapi tak elok sebab nanti nak melecur, enam belas cukuplah.", "label": [[78, 81, "3rd"], [78, 81, "S"], [99, 102, "2nd"], [99, 102, "S"], [47, 55, "1st"], [47, 55, "S"], [112, 116, "3rd"], [112, 116, "S"], [61, 65, "2nd"], [61, 65, "IO"], [61, 65, "3rd2"], [61, 65, "DO2"]]}

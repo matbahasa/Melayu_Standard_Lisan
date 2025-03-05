@@ -1,0 +1,14 @@
+{"id": 0, "text": "A1:\tSkirt sekolah ada tak?", "label": []}
+{"id": 1, "text": "B2:\tSkirt saya tak jual, baju kurung ada... di Kelantan tak ramai dah pakai skirt.", "label": [[37, 40, "1st"], [37, 40, "S"]]}
+{"id": 2, "text": "B3:\tSeluar pendek pun macam tu jugak.", "label": []}
+{"id": 3, "text": "B4:\tStok tahun lalu sampai sekarang ada lagi.", "label": [[9, 14, "3rd"], [9, 14, "P"]]}
+{"id": 4, "text": "B5:\tSekarang budak lelaki semuanya pakai seluar panjang.", "label": []}
+{"id": 5, "text": "B6:\tAmbik baju kurunglah... budak sekolah di Kelantan sekarang memang pakai baju kurung.", "label": [[4, 9, "2nd"], [4, 9, "S"]]}
+{"id": 6, "text": "B7:\tAdik nanti kalau pakai skirt, semua kawan-kawan lain pakai baju kurung nanti malu pulak... ambik baju kurunglah.", "label": [[81, 85, "2nd"], [81, 85, "S"], [95, 100, "2nd"], [95, 100, "S"], [21, 26, "2nd"], [21, 26, "S"], [52, 56, "2nd"], [52, 56, "P"]]}
+{"id": 7, "text": "A8:\tYang ni muat tak?", "label": [[12, 16, "3rd"], [12, 16, "S"]]}
+{"id": 8, "text": "B9:\tBaju kurung ni labuh sikit baru nampak comel.", "label": [[36, 42, "3rd"], [36, 42, "S"]]}
+{"id": 9, "text": "A10:\tBerapa sepasang ni?", "label": []}
+{"id": 10, "text": "B11:\tSepasang harganya lima belas ringgit tapi boleh kurang lagi.", "label": [[47, 52, "1st"], [47, 52, "S"], [60, 64, "3rd"], [60, 64, "DO"]]}
+{"id": 11, "text": "B12:\tSaya bagi dua belas ringgit.", "label": [[15, 18, "3rd"], [15, 18, "IO"]]}
+{"id": 12, "text": "A13:\tTak boleh kurang lagi dah.", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
+{"id": 13, "text": "B14:\tTak boleh dah---sebab kain dia pun mahal seela tiga ringgit lebih dah.", "label": [[5, 8, "1st"], [5, 8, "S"]]}

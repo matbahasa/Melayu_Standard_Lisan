@@ -1,0 +1,15 @@
+{"id": 0, "text": "A1:\tBerapa beg ni pak cik?", "label": []}
+{"id": 1, "text": "B2:\tYang ni dua puluh enam.", "label": []}
+{"id": 2, "text": "A3:\tDua puluh cukuplah.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 3, "text": "B4:\tTak boleh, tak boleh dua puluh.", "label": [[4, 7, "1st"], [4, 7, "S"], [15, 18, "1st"], [15, 18, "S"], [25, 28, "3rd"], [25, 28, "S"]]}
+{"id": 4, "text": "A5:\tGorilah pak cik.", "label": []}
+{"id": 5, "text": "B6:\tOh... pak cik buat gori dah tu, banyak butir dah pak cik buat gori, tak boleh beli harga tu tak boleh kata buat gori, gori dah.", "label": [[72, 75, "2nd"], [72, 75, "S"], [96, 99, "2nd"], [96, 99, "S"], [111, 115, "1st"], [111, 115, "S"], [122, 126, "1st"], [122, 126, "S"], [87, 92, "3rd"], [87, 92, "DO"]]}
+{"id": 6, "text": "A7:\tBagilah dua puluh.", "label": [[4, 11, "2nd"], [4, 11, "S"], [12, 15, "1st"], [12, 15, "IO"], [12, 15, "3rd2"], [12, 15, "DO2"]]}
+{"id": 7, "text": "B8:\tDua puluh tak boleh gilah, tengok baranglah dulu, kain beg ni tahan.", "label": [[14, 17, "1st"], [14, 17, "S"], [31, 37, "2nd"], [31, 37, "S"], [4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 8, "text": "A9:\tKalau beri, kita ambil dua.", "label": [[27, 30, "3rd"], [27, 30, "IO"], [10, 14, "2nd"], [10, 14, "S"], [14, 15, "3rd"], [14, 15, "DO"]]}
+{"id": 9, "text": "B10:\tTak boleh dua puluh, beginilah kita pun malas dah, setakat dua puluh empat, dua.", "label": [[5, 8, "1st"], [5, 8, "S"], [15, 18, "3rd"], [15, 18, "S"], [56, 63, "3rd"], [56, 63, "S"]]}
+{"id": 10, "text": "B11:\tKalau nak boleh, kalau tak nak, tak ada arah dah.", "label": [[11, 14, "2nd"], [11, 14, "S"], [15, 20, "3rd"], [15, 20, "DO"], [28, 31, "2nd"], [28, 31, "S"], [35, 36, "3rd"], [35, 36, "DO"], [37, 40, "1st"], [37, 40, "S"], [15, 20, "2nd2"], [15, 20, "S2"]]}
+{"id": 11, "text": "B12:\tKita bagi murah dah tu.", "label": [[15, 20, "2nd"], [15, 20, "IO"]]}
+{"id": 12, "text": "B13:\tKita dok jual dua puluh tiga habis kurang.", "label": [[19, 22, "3rd"], [19, 22, "DO"], [34, 39, "3rd"], [34, 39, "S"]]}
+{"id": 13, "text": "B14:\tKita tak nak tengok ke harga, kita tengok ke barang tu, barang elok.", "label": [[61, 67, "3rd"], [61, 67, "S"], [33, 34, "3rd"], [33, 34, "P"]]}
+{"id": 14, "text": "B15:\tBarang jenis plastik tu murahlah, bolehlah harga tu.", "label": [[39, 47, "2nd"], [39, 47, "S"]]}

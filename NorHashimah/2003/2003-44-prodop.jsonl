@@ -1,0 +1,6 @@
+{"id": 0, "text": "A1:\tBerapa ni?", "label": []}
+{"id": 1, "text": "B2:\tDua belaslah sebab yang ni yang elok, kurang dah sikit.", "label": [[42, 48, "1st"], [42, 48, "S"], [4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 2, "text": "B3:\tBerapa adik nak, gelap ni tak ada orang.", "label": [[19, 20, "3rd"], [19, 20, "DO"]]}
+{"id": 3, "text": "B4:\tYang ni tebal belaka sebab kak tak jual yang nipis.", "label": []}
+{"id": 4, "text": "A5:\tSepuluh ringgitlah.", "label": [[4, 11, "3rd"], [4, 11, "S"]]}
+{"id": 5, "text": "B6:\tAmbik-ambiklah.", "label": [[4, 18, "2nd"], [4, 18, "S"]]}

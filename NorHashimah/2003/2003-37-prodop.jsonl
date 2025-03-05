@@ -1,0 +1,22 @@
+{"id": 0, "text": "A1:\tToto ni berapa?", "label": []}
+{"id": 1, "text": "B2:\tDua belas ringgit boleh kurang lagi.", "label": [[22, 27, "1st"], [22, 27, "S"], [4, 7, "3rd"], [4, 7, "S"], [35, 39, "3rd"], [35, 39, "DO"]]}
+{"id": 2, "text": "A3:\tNak tawar takut.", "label": [[4, 7, "1st"], [4, 7, "S"], [14, 19, "2nd"], [14, 19, "DO"], [14, 19, "1st2"], [14, 19, "S2"]]}
+{"id": 3, "text": "B4:\tKita letak yah harga tu, sepuluh ringgitlah bagi kat kak.", "label": [[48, 52, "1st"], [48, 52, "S"]]}
+{"id": 4, "text": "A5:\tTak sampai sepuluhlah, kalau sepuluh tak payah mari sini.", "label": [[4, 7, "3rd"], [4, 7, "S"], [33, 40, "3rd"], [33, 40, "S"], [41, 44, "1st"], [41, 44, "S"]]}
+{"id": 5, "text": "B6:\tBerapa butir nak?", "label": [[17, 20, "2nd"], [17, 20, "S"]]}
+{"id": 6, "text": "A7:\tSatu butir saja, sembilan ringgitlah, serupa yang saya beli biasa.", "label": [[21, 29, "3rd"], [21, 29, "S"], [42, 48, "3rd"], [42, 48, "S"]]}
+{"id": 7, "text": "A8:\tKita selalu beli dah kain ni.", "label": []}
+{"id": 8, "text": "A9:\tKain lampin ada?", "label": []}
+{"id": 9, "text": "B10:\tDua puluh lapan ringgit.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 10, "text": "A11:\tKurang berapa?", "label": [[5, 11, "2nd"], [5, 11, "S"], [12, 18, "3rd"], [12, 18, "DO"]]}
+{"id": 11, "text": "A12:\tDua puluh boleh?", "label": [[15, 20, "2nd"], [15, 20, "S"], [5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 12, "text": "B13:\tSikit lagilah.", "label": []}
+{"id": 13, "text": "A14:\tSembilan belas ringgit, ambil dua.", "label": [[29, 34, "1st"], [29, 34, "S"]]}
+{"id": 14, "text": "B15:\tTak boleh.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 15, "text": "A16:\tBuat berat bawak saja, Jerteh dua puluh, mari Kota Bharu buat berat.", "label": [[16, 21, "1st"], [16, 21, "S"], [46, 50, "1st"], [46, 50, "S"], [62, 66, "3rd"], [62, 66, "S"], [22, 26, "3rd"], [22, 26, "DO"], [5, 9, "3rd"], [5, 9, "S"], [35, 38, "3rd"], [35, 38, "S"]]}
+{"id": 16, "text": "B17:\tBiarlah sembilan belas.", "label": [[13, 21, "3rd"], [13, 21, "S"]]}
+{"id": 17, "text": "B18:\tJadi semua sekali empat puluh tujuh ringgit.", "label": []}
+{"id": 18, "text": "A19:\tHih... empat puluh enam ringgit sajalah.", "label": [[12, 17, "3rd"], [12, 17, "S"]]}
+{"id": 19, "text": "A20:\tSatu ringgit tu kita nak buat tambang bas.", "label": []}
+{"id": 20, "text": "B21:\tDah, kita nak minum air.", "label": []}
+{"id": 21, "text": "A22:\tDia duduk sini, kita nak makan lagi, nak tambang lagi, bagi-bagilah.", "label": [[42, 45, "1st"], [42, 45, "S"], [60, 72, "2nd"], [60, 72, "S"]]}

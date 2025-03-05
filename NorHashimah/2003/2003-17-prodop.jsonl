@@ -1,0 +1,11 @@
+{"id": 0, "text": "A1:\tHarga tudung ni berapa sehelai?", "label": []}
+{"id": 1, "text": "B2:\tYang tu lima ringgit.", "label": []}
+{"id": 2, "text": "A3:\tBagi empat ringgit.", "label": [[9, 14, "3rd"], [9, 14, "IO"], [4, 8, "2nd"], [4, 8, "S"]]}
+{"id": 3, "text": "B4:\tKalau empat ringgit, tak adalah bahagian Kak Dah.", "label": [[10, 15, "3rd"], [10, 15, "S"]]}
+{"id": 4, "text": "B5:\tAdat orang berniaga, nak juga untung, tak banyak, sikit.", "label": [[25, 28, "1st"], [25, 28, "S"], [42, 45, "3rd"], [42, 45, "S"], [54, 59, "3rd"], [54, 59, "S"]]}
+{"id": 5, "text": "B6:\tGinilah Kak Dah bagi empat ringgit setengah.", "label": [[25, 30, "2nd"], [25, 30, "IO"], [25, 30, "3rd2"], [25, 30, "DO2"]]}
+{"id": 6, "text": "B7:\tItu pun murah benar dah Kak Dah bagi.", "label": []}
+{"id": 7, "text": "A8:\tAlah kak lima puluh sen aje lagi.", "label": []}
+{"id": 8, "text": "B9:\tLima puluh sen lah kak Dah mintak, empat lima kali lima puluh sen baru boleh bayar kedai, semua ni kena bayar hari-hari.", "label": [[37, 38, "2nd"], [37, 38, "DO"], [103, 107, "1st"], [103, 107, "S"], [70, 74, "1st"], [70, 74, "S"]]}
+{"id": 9, "text": "A10:\tBoleh kak, kita bukan nak beli satu, tapi nak sepuluh.", "label": [[47, 50, "1st"], [47, 50, "S"]]}
+{"id": 10, "text": "B11:\tPilihlah adik nak warna apa... ni sebab banyak ni kak Dah bagi, kalau selai, dua helai tak boleh dah.", "label": [[92, 95, "1st"], [92, 95, "S"], [67, 68, "2nd"], [67, 68, "DO"], [5, 13, "2nd"], [5, 13, "S"]]}

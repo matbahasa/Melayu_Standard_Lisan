@@ -1,0 +1,10 @@
+{"id": 0, "text": "A1:\tKuranglah sikit, ini ada lagi ni.", "label": [[4, 13, "2nd"], [4, 13, "S"], [14, 19, "3rd"], [14, 19, "IO"]]}
+{"id": 1, "text": "B2:\tBagi enam belas.", "label": [[4, 8, "1st"], [4, 8, "S"], [9, 13, "2nd"], [9, 13, "IO"], [9, 13, "3rd2"], [9, 13, "DO2"]]}
+{"id": 2, "text": "A3:\tBagi lima belaslah.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 13, "1st"], [9, 13, "IO"], [9, 13, "3rd2"], [9, 13, "DO2"]]}
+{"id": 3, "text": "B4:\tYang ni kira dua belas bagi sebelas.", "label": [[12, 16, "1st"], [12, 16, "S"], [17, 20, "3rd"], [17, 20, "IO"], [27, 31, "1st"], [27, 31, "S"], [32, 39, "2nd"], [32, 39, "IO"], [32, 39, "3rd2"], [32, 39, "DO2"]]}
+{"id": 4, "text": "A5:\tKurang lagilah.", "label": [[4, 10, "2nd"], [4, 10, "S"], [11, 18, "3rd"], [11, 18, "DO"]]}
+{"id": 5, "text": "B6:\tTak pergi dah, yang tadi dua belas, kira sebelas.", "label": [[29, 32, "3rd"], [29, 32, "S"], [40, 44, "1st"], [40, 44, "S"], [45, 52, "3rd"], [45, 52, "IO"], [4, 7, "1st"], [4, 7, "S"]]}
+{"id": 6, "text": "A7:\tSepuluh ya!", "label": [[4, 11, "3rd"], [4, 11, "S"]]}
+{"id": 7, "text": "B8:\tTak bolehlah, sebab saiz dua puluh dua, kalau dua puluh satu tu boleh.", "label": [[4, 7, "1st"], [4, 7, "S"], [29, 32, "3rd"], [29, 32, "P"], [68, 73, "1st"], [68, 73, "S"]]}
+{"id": 8, "text": "A9:\tAlah, kita tak pergi dah kedai lain, nak pergi mana lagi?", "label": [[41, 44, "1st"], [41, 44, "S"]]}
+{"id": 9, "text": "A10:\tKedai ni kita mari dulu.", "label": []}

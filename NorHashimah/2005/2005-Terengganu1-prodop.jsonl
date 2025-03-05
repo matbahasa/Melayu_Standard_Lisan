@@ -1,0 +1,274 @@
+{"id": 0, "text": "A1:\tSejam nak milo, sejam nak milo.", "label": [[10, 13, "3rd"], [10, 13, "S"], [26, 29, "3rd"], [26, 29, "S"]]}
+{"id": 1, "text": "A2:\tLepas tu, ½ jam kencing.", "label": [[20, 27, "3rd"], [20, 27, "S"]]}
+{"id": 2, "text": "A3:\tTak payahlah minum milo.", "label": [[4, 7, "2nd"], [4, 7, "S"]]}
+{"id": 3, "text": "A4:\tPagi dah makan nasi lemak.", "label": [[9, 12, "1st"], [9, 12, "S"]]}
+{"id": 4, "text": "A5:\tOrang makan, dia nak makan juga.", "label": []}
+{"id": 5, "text": "B6:\t2½ tahun... tahun 96 ye.", "label": [[4, 6, "3rd"], [4, 6, "S"], [16, 21, "3rd"], [16, 21, "S"]]}
+{"id": 6, "text": "C7:\tAnak Mek Nah tu, dah boleh baca Quran dah, dah mengenal.", "label": [[21, 24, "3rd"], [21, 24, "S"], [47, 50, "3rd"], [47, 50, "S"]]}
+{"id": 7, "text": "C8:\tKakak nak kahwin, bukan nak sekolah.", "label": [[28, 31, "1st"], [28, 31, "S"]]}
+{"id": 8, "text": "C9:\tMak nak awin Mak!", "label": [[8, 11, "1st"], [8, 11, "S"]]}
+{"id": 9, "text": "C10:\tDia tahu kita sebut pasal kahwin.", "label": []}
+{"id": 10, "text": "C11:\tBukan selalu pergi pun.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 11, "text": "C12:\tYang tu, yang nombor dua tu, besar dari ni.", "label": [[34, 39, "3rd"], [34, 39, "S"]]}
+{"id": 12, "text": "D13:\tBerapa tahun?", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
+{"id": 13, "text": "B14:\t2 tahun.", "label": [[5, 6, "3rd"], [5, 6, "S"]]}
+{"id": 14, "text": "B15:\tMak Su, Da letak sini nih.", "label": [[22, 26, "3rd"], [22, 26, "IO"]]}
+{"id": 15, "text": "C16:\tKenapa?", "label": []}
+{"id": 16, "text": "B17:\tNanti Da ambik.", "label": []}
+{"id": 17, "text": "B18:\tKalau naik ni, Mak Su bagi tahu Da ya?", "label": [[11, 15, "2nd"], [11, 15, "S"]]}
+{"id": 18, "text": "A19:\tKita hajatnya tak nak datang hari ni.", "label": []}
+{"id": 19, "text": "A20:\tIngatkan nak pergi masa menghantar nanti.", "label": [[5, 13, "1st"], [5, 13, "S"], [29, 39, "2nd"], [29, 39, "S"]]}
+{"id": 20, "text": "A21:\tTapi tak tahulah.", "label": [[10, 13, "1st"], [10, 13, "S"]]}
+{"id": 21, "text": "A22:\tKalau jadi, kita pergi juga.", "label": [[11, 15, "2nd"], [11, 15, "S"]]}
+{"id": 22, "text": "B23:\tNak balik terus ke hari ini?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
+{"id": 23, "text": "A24:\tTaklah!", "label": [[5, 11, "1st"], [5, 11, "S"]]}
+{"id": 24, "text": "A25:\tAda hal.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 25, "text": "A26:\tKena balik esok.", "label": [[5, 9, "1st"], [5, 9, "S"]]}
+{"id": 26, "text": "C27:\tMak pujuklah Abah nun.", "label": []}
+{"id": 27, "text": "B28:\tNak balik dah?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
+{"id": 28, "text": "B29:\tKirim salam kat Mak ye.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 29, "text": "D30:\tMak eh, nasi dalam bekas ni, habis dah.", "label": [[34, 39, "3rd"], [34, 39, "S"]]}
+{"id": 30, "text": "A31:\tNasi apa?", "label": []}
+{"id": 31, "text": "D32:\tLauk ada.", "label": []}
+{"id": 32, "text": "D33:\tNasi baru nak buat tu.", "label": [[10, 14, "1st"], [10, 14, "S"]]}
+{"id": 33, "text": "A34:\tIkutlah.", "label": []}
+{"id": 34, "text": "A35:\tTak ada hal.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 35, "text": "A36:\tPasal cucu dok demam tuh.", "label": [[16, 19, "1st"], [16, 19, "P"]]}
+{"id": 36, "text": "B37:\tMasak yang ni, kira jadilah.", "label": [[20, 24, "1st"], [20, 24, "S"], [5, 10, "2nd"], [5, 10, "S"], [25, 32, "3rd"], [25, 32, "DO"]]}
+{"id": 37, "text": "B38:\tBoleh makan panas-panas.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 38, "text": "B39:\tMakan mee dululah.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 39, "text": "A40:\tTak payahlah Nab eh.", "label": []}
+{"id": 40, "text": "E41:\tMi...", "label": []}
+{"id": 41, "text": "E42:\tMi... nak gelang !", "label": [[11, 14, "1st"], [11, 14, "S"]]}
+{"id": 42, "text": "C43:\tGelang?", "label": []}
+{"id": 43, "text": "C44:\tGelang kaki.", "label": []}
+{"id": 44, "text": "B45:\tOoo....", "label": []}
+{"id": 45, "text": "B46:\tNanti Wan pergi Kota Bharu.", "label": []}
+{"id": 46, "text": "B47:\tGelang kaki dia patah.", "label": []}
+{"id": 47, "text": "B48:\tNanti Wan pergi pateri.", "label": []}
+{"id": 48, "text": "F49:\tKakak oh kakak!", "label": []}
+{"id": 49, "text": "C50:\tItulah, Mas nak pergi Kota Bharu esok.", "label": []}
+{"id": 50, "text": "F51:\tCakaplah dengan Wan, nak cincin, gelang, gelang kaki.", "label": [[26, 29, "2nd"], [26, 29, "S"], [5, 13, "2nd"], [5, 13, "S"]]}
+{"id": 51, "text": "B52:\tNak pergi buat apa?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
+{"id": 52, "text": "C53:\tNak ambil tiket tu.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 53, "text": "F54:\tEh, marilah Cik Mah nak tanya ni.", "label": [[35, 37, "2nd"], [35, 37, "IO"]]}
+{"id": 54, "text": "F55:\tSyafiq cakap tak dengan Wan, nak apa?", "label": [[34, 37, "2nd"], [34, 37, "S"]]}
+{"id": 55, "text": "B56:\tDuduk dengan Wanlah!", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 56, "text": "B57:\tWan kata, kalau nak emas, duduk dengan Wan.", "label": [[21, 24, "2nd"], [21, 24, "S"], [31, 36, "2nd"], [31, 36, "S"]]}
+{"id": 57, "text": "E58:\tTak nak!", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 58, "text": "B59:\tKalau tak nak, Wan tak nak bagi kalau tak nak duduk.", "label": [[11, 14, "2nd"], [11, 14, "S"], [43, 46, "2nd"], [43, 46, "S"]]}
+{"id": 59, "text": "A60:\tLepas basuh, letakkan kat situ.", "label": [[11, 16, "2nd"], [11, 16, "S"], [18, 26, "2nd"], [18, 26, "S"], [16, 17, "3rd"], [16, 17, "DO"], [27, 30, "3rd"], [27, 30, "DO"]]}
+{"id": 60, "text": "A61:\tPergi letak kat sana.", "label": [[5, 10, "2nd"], [5, 10, "S"], [17, 20, "3rd"], [17, 20, "DO"]]}
+{"id": 61, "text": "B62:\tDalam besen, ada air.", "label": []}
+{"id": 62, "text": "A63:\tLetak kat sana!", "label": [[5, 10, "1st"], [5, 10, "S"], [11, 14, "3rd"], [11, 14, "DO"]]}
+{"id": 63, "text": "A64:\tKena sepak kat orang lalu lalang nanti.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 64, "text": "A65:\tApa ni, minum air, letak situ.", "label": [[13, 18, "2nd"], [13, 18, "S"], [24, 29, "2nd"], [24, 29, "S"], [30, 34, "3rd"], [30, 34, "DO"]]}
+{"id": 65, "text": "A66:\tSiapa ajar?", "label": []}
+{"id": 66, "text": "C67:\tPergilah makan nun.", "label": [[5, 13, "2nd"], [5, 13, "S"]]}
+{"id": 67, "text": "D68:\tDah makan dah, dengan Kak Yah.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 68, "text": "D69:\tSejak kelmarin lagi tak makan.", "label": [[25, 28, "2nd"], [25, 28, "S"]]}
+{"id": 69, "text": "D70:\tTengah hari kelmarin makan dengan sayur pedas.", "label": [[26, 31, "1st"], [26, 31, "S"]]}
+{"id": 70, "text": "D71:\tLepas tu, semalam tak makan lagilah.", "label": [[23, 26, "1st"], [23, 26, "S"]]}
+{"id": 71, "text": "E72:\tAbah makan nasi dengan apa?", "label": []}
+{"id": 72, "text": "D73:\tAbah, Mak menanak kat rumah tu.", "label": [[23, 26, "3rd"], [23, 26, "DO"]]}
+{"id": 73, "text": "D74:\tDia tak nak Mak gulai apa-apa.", "label": []}
+{"id": 74, "text": "D75:\tDia suruh goreng aje...", "label": [[15, 21, "2nd"], [15, 21, "S"]]}
+{"id": 75, "text": "F76:\tDa nak balik bila Da?", "label": []}
+{"id": 76, "text": "E77:\tHari ini... tengoklah.", "label": [[17, 26, "1st"], [17, 26, "S"]]}
+{"id": 77, "text": "D78:\tTengok sini, nak tengok muka sikit nih.", "label": [[5, 11, "2nd"], [5, 11, "S"], [18, 21, "1st"], [18, 21, "S"], [34, 39, "2nd"], [34, 39, "P"]]}
+{"id": 78, "text": "G79:\tHeh.... ni, Tok Nab nak tengok sikit nih.", "label": [[36, 41, "2nd"], [36, 41, "P"]]}
+{"id": 79, "text": "G80:\tBuat muka comel sikit gak.", "label": [[5, 9, "2nd"], [5, 9, "S"]]}
+{"id": 80, "text": "G81:\tSalam dengan Tok Nab ni dulu.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 81, "text": "G82:\tTingginya Mak Nab tengok Dani.", "label": []}
+{"id": 82, "text": "G83:\tDuduk kat mana?", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 83, "text": "E84:\tKuala Lumpur.", "label": []}
+{"id": 84, "text": "D85:\tNi yang sulung ke?", "label": []}
+{"id": 85, "text": "E86:\tYa.", "label": []}
+{"id": 86, "text": "A87:\tNak kena pergi jemput ke?", "label": [[5, 8, "1st"], [5, 8, "S"], [27, 29, "3rd"], [27, 29, "DO"]]}
+{"id": 87, "text": "B88:\tAda dah orang yang pergi.", "label": []}
+{"id": 88, "text": "C89:\tPayung!", "label": []}
+{"id": 89, "text": "C90:\tAda payung ke?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
+{"id": 90, "text": "D91:\tPanggil keluarga, Mak Su!", "label": [[5, 12, "2nd"], [5, 12, "S"], [21, 22, "2nd"], [21, 22, "P"]]}
+{"id": 91, "text": "D92:\tHah Mak Nab!", "label": []}
+{"id": 92, "text": "D93:\tPergilah ambil gambar nun.", "label": [[5, 13, "2nd"], [5, 13, "S"]]}
+{"id": 93, "text": "E94:\tMak Nab dok kat mana ni?", "label": []}
+{"id": 94, "text": "D95:\tKat dapur!", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 95, "text": "D96:\tMak Nab ni, adik-beradik dia ni.", "label": []}
+{"id": 96, "text": "F97:\tNa, duduk di tengah.", "label": [[9, 14, "2nd"], [9, 14, "S"]]}
+{"id": 97, "text": "G98:\tTak muatlah.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 98, "text": "G99:\tMari duduk atas ribalah.", "label": [[5, 9, "2nd"], [5, 9, "S"], [25, 28, "1st"], [25, 28, "P"]]}
+{"id": 99, "text": "G100:\tBateri terbuka tu.", "label": [[13, 20, "3rd"], [13, 20, "P"]]}
+{"id": 100, "text": "G101:\tKe memang fesyen dia macam tu?", "label": []}
+{"id": 101, "text": "A102:\tTujuh beradik semuanya.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 102, "text": "A103:\tMarilah ambil gambar.", "label": [[6, 13, "2nd"], [6, 13, "S"]]}
+{"id": 103, "text": "B104:\tSu!", "label": []}
+{"id": 104, "text": "B105:\tMana bateri?", "label": []}
+{"id": 105, "text": "C106:\tEh, pergi beritahu Ayah Long, suruh dia baca doa.", "label": [[10, 15, "2nd"], [10, 15, "S"]]}
+{"id": 106, "text": "C107:\tDin, baca doalah seorang Din.", "label": []}
+{"id": 107, "text": "B108:\tPergi berdiri kat tengah ni seorang.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 108, "text": "A109:\tPergi ambik pinggan 4, 5 biji kat bawah tu.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 109, "text": "A110:\tAir mati tu, air batu dok kat luar nun.", "label": []}
+{"id": 110, "text": "A111:\tPergi ambik sendirilah.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 111, "text": "B112:\tYah, hulur ikan goreng tu.", "label": [[11, 16, "2nd"], [11, 16, "S"]]}
+{"id": 112, "text": "C113:\tNak apa ni, daging ke?", "label": [[6, 9, "2nd"], [6, 9, "S"]]}
+{"id": 113, "text": "D114:\tNak yang tu, dalam pinggan tu.", "label": [[6, 9, "1st"], [6, 9, "S"], [19, 24, "3rd"], [19, 24, "S"]]}
+{"id": 114, "text": "A115:\tMana getah seurat?", "label": []}
+{"id": 115, "text": "B116:\tDekat rumah aje Som, tak payah guna getahlah.", "label": [[27, 30, "2nd"], [27, 30, "S"], [18, 21, "1st"], [18, 21, "P"], [6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 116, "text": "B117:\tPegang dengan tangan aje.", "label": [[6, 12, "2nd"], [6, 12, "S"], [27, 30, "1st"], [27, 30, "P"]]}
+{"id": 117, "text": "A118:\tGetah banyak eh.", "label": []}
+{"id": 118, "text": "A119:\tJumpa ke?", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 119, "text": "C120:\tNi getah nih!", "label": []}
+{"id": 120, "text": "D121:\tMak Su!", "label": []}
+{"id": 121, "text": "D122:\tMak Su!", "label": []}
+{"id": 122, "text": "E123:\tYe, nak menghidanglah ni.", "label": [[10, 13, "1st"], [10, 13, "S"]]}
+{"id": 123, "text": "F124:\tMakan kat sini ajelah.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 124, "text": "E125:\tHeh!", "label": []}
+{"id": 125, "text": "E126:\tMakan kat luar tu.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 126, "text": "G127:\tKak Nik, bubuh seketul.", "label": [[15, 20, "2nd"], [15, 20, "S"]]}
+{"id": 127, "text": "G128:\tGuna pinggan kecil aje.", "label": [[6, 10, "1st"], [6, 10, "S"]]}
+{"id": 128, "text": "E129:\tEh!", "label": []}
+{"id": 129, "text": "E130:\tTimun pengantin.", "label": []}
+{"id": 130, "text": "A131:\tDi luar tu dah ada.", "label": []}
+{"id": 131, "text": "A132:\tMak Nab!", "label": []}
+{"id": 132, "text": "A133:\tTutup api nasi tu.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 133, "text": "A134:\tMana kain seperah?", "label": []}
+{"id": 134, "text": "B135:\tAda tu.", "label": []}
+{"id": 135, "text": "B136:\tAtas almari di luar tu.", "label": [[6, 10, "3rd"], [6, 10, "S"]]}
+{"id": 136, "text": "B137:\tBuat pergi air tu dulu, lepas tu baru buat pergi nasi.", "label": [[6, 10, "2nd"], [6, 10, "S"], [44, 48, "2nd"], [44, 48, "S"]]}
+{"id": 137, "text": "B138:\tEh, gi ambil nasi kat tanah nun, ada lagi.", "label": [[10, 12, "2nd"], [10, 12, "S"], [39, 42, "3rd"], [39, 42, "S"]]}
+{"id": 138, "text": "B139:\tGuna senduk tu.", "label": [[6, 10, "2nd"], [6, 10, "S"]]}
+{"id": 139, "text": "A140:\tNasi tambah?", "label": [[11, 17, "1st"], [11, 17, "S"]]}
+{"id": 140, "text": "B141:\tTak bubuh lagi, ni baru nak menghidang.", "label": [[6, 9, "1st"], [6, 9, "S"], [25, 29, "1st"], [25, 29, "S"], [16, 20, "3rd"], [16, 20, "DO"]]}
+{"id": 141, "text": "A142:\tSambal bubuh ke tidak?", "label": [[13, 18, "1st"], [13, 18, "S"]]}
+{"id": 142, "text": "B143:\tSambal tu bubuhlah.", "label": [[16, 24, "2nd"], [16, 24, "S"]]}
+{"id": 143, "text": "C144:\tKak Ani, lalu kat belakang sikit ni Kak Ani ye.", "label": [[15, 19, "1st"], [15, 19, "S"]]}
+{"id": 144, "text": "B145:\tZah eh, tudung ni kat mana ni?", "label": []}
+{"id": 145, "text": "C146:\tBelakang sink tu.", "label": []}
+{"id": 146, "text": "C147:\tTak boleh ambil lagi tu Mak Nah tu.", "label": [[6, 9, "2nd2"], [6, 9, "S2"]]}
+{"id": 147, "text": "C148:\tBiarlah dulu.", "label": [[6, 13, "2nd"], [6, 13, "S"], [14, 18, "3rd"], [14, 18, "DO"]]}
+{"id": 148, "text": "D149:\tMa!", "label": []}
+{"id": 149, "text": "B150:\tYa!", "label": []}
+{"id": 150, "text": "B151:\tTimah, Amat, Yah (bini Harun) tu demam!", "label": []}
+{"id": 151, "text": "B152:\tBubuhlah sikit, pakat-pakat bagi.", "label": [[6, 14, "2nd"], [6, 14, "S"], [22, 33, "1st"], [22, 33, "S"], [15, 20, "3rd"], [15, 20, "DO"]]}
+{"id": 152, "text": "E153:\tWan!", "label": []}
+{"id": 153, "text": "D154:\tApa, Sarah nak apa?", "label": []}
+{"id": 154, "text": "D155:\tKita ikut-ikut mana pun tak apa, senang!", "label": [[39, 45, "1st"], [39, 45, "S"]]}
+{"id": 155, "text": "D156:\tKalau dah buat kerja tu, tak apalah.", "label": [[12, 15, "2nd"], [12, 15, "S"]]}
+{"id": 156, "text": "B157:\tBoleh ke buat kerja demo tu?", "label": [[15, 19, "1st"], [15, 19, "S"]]}
+{"id": 157, "text": "A158:\tBiarlah!", "label": [[6, 13, "1st"], [6, 13, "S"]]}
+{"id": 158, "text": "B159:\tEh, nak naik sebentar, nak tengok katil pengantin.", "label": [[10, 13, "1st"], [10, 13, "S"], [29, 32, "1st"], [29, 32, "S"]]}
+{"id": 159, "text": "A160:\tPergilah.", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
+{"id": 160, "text": "C161:\tSarah!", "label": []}
+{"id": 161, "text": "C162:\tSarah balik sekali dengan Mak.", "label": []}
+{"id": 162, "text": "D163:\tApa tu Kak Da?", "label": []}
+{"id": 163, "text": "D164:\tTape ape?", "label": []}
+{"id": 164, "text": "B165:\tTape pengantin.", "label": []}
+{"id": 165, "text": "B166:\tNak buat kerja dia.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 166, "text": "E167:\tNak buat macam kajian, perkahwinan tulah.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 167, "text": "B168:\tUntuk sekolah dia.", "label": []}
+{"id": 168, "text": "B169:\tBahasa, bahasa.", "label": []}
+{"id": 169, "text": "F170:\tMengajar kat mana?", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
+{"id": 170, "text": "B171:\tDia... dok kerja kat UKM.", "label": []}
+{"id": 171, "text": "B172:\tDuduk di Kajang.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 172, "text": "B173:\tPergilah berjalan.", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
+{"id": 173, "text": "E174:\tMak!", "label": []}
+{"id": 174, "text": "E175:\tBalik karanglah mak.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 175, "text": "B176:\tMakan dah?", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 176, "text": "C177:\tMakan dengan pengantin ni.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 177, "text": "D178:\tBiarlah.", "label": []}
+{"id": 178, "text": "B179:\tEh!", "label": []}
+{"id": 179, "text": "B180:\tNi anak teruna ke?", "label": [[21, 23, "2nd"], [21, 23, "P"]]}
+{"id": 180, "text": "C181:\tSibuk betul.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 181, "text": "C182:\tHmm... tu belum potong lembu lagi tu.", "label": [[16, 21, "2nd"], [16, 21, "S"]]}
+{"id": 182, "text": "C183:\tKalau potong lembu 3 malamlah tak tidur.", "label": [[36, 39, "2nd"], [36, 39, "S"], [12, 18, "2nd"], [12, 18, "S"]]}
+{"id": 183, "text": "A184:\tNi... ambil nasi ni.", "label": [[12, 17, "2nd"], [12, 17, "S"]]}
+{"id": 184, "text": "A185:\tJangan malu-malu.", "label": [[6, 12, "2nd"], [6, 12, "S"]]}
+{"id": 185, "text": "A186:\tMakan kenyang-kenyang.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 186, "text": "A187:\tInilah masakan Kelantan, Terengganu.", "label": []}
+{"id": 187, "text": "A188:\tTukang masaknya sedap lagi best.", "label": []}
+{"id": 188, "text": "A189:\tMat eh, nasi putih ada ni.", "label": []}
+{"id": 189, "text": "A190:\tNak nasi putih?", "label": [[6, 9, "2nd"], [6, 9, "S"]]}
+{"id": 190, "text": "B191:\tEh, tak payahlah.", "label": [[10, 13, "2nd"], [10, 13, "S"]]}
+{"id": 191, "text": "B192:\tNasi ni dah ada.", "label": []}
+{"id": 192, "text": "A193:\tBerapa hari cuti?", "label": [[18, 22, "2nd"], [18, 22, "S"]]}
+{"id": 193, "text": "B194:\tLebih kurang dua minggu.", "label": []}
+{"id": 194, "text": "A195:\tBalik sana, datang sini balik?", "label": [[6, 11, "2nd"], [6, 11, "S"], [18, 24, "2nd"], [18, 24, "S"]]}
+{"id": 195, "text": "B196:\tTaklah.", "label": [[6, 12, "1st"], [6, 12, "S"]]}
+{"id": 196, "text": "A197:\tEton kata baru ni balik.", "label": [[16, 20, "3rd"], [16, 20, "S"]]}
+{"id": 197, "text": "B198:\tKalau nak balik, kena cuti lagi sekalilah.", "label": [[12, 15, "3rd"], [12, 15, "S"], [23, 27, "3rd"], [23, 27, "S"]]}
+{"id": 198, "text": "A199:\tHabiskan lauk tu", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
+{"id": 199, "text": "C200:\tSyed balik dah?", "label": []}
+{"id": 200, "text": "D201:\tBalik dah.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 201, "text": "A202:\tEh, kasut tu buang dulu, ada tahi ayam tu.", "label": [[19, 24, "2nd"], [19, 24, "S"], [25, 29, "3rd"], [25, 29, "DO"]]}
+{"id": 202, "text": "A203:\tNakal sungguh la.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 203, "text": "A204:\tSiapa yang tinggal kat Kajang?", "label": []}
+{"id": 204, "text": "B205:\tKajang?", "label": []}
+{"id": 205, "text": "B206:\tKajang kat mana?", "label": []}
+{"id": 206, "text": "C207:\tTaman Zamrud.", "label": []}
+{"id": 207, "text": "C208:\tPergi dekat Wan.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 208, "text": "C209:\tSarah!", "label": []}
+{"id": 209, "text": "C210:\tSarah!", "label": []}
+{"id": 210, "text": "C211:\tKakak panggil tu.", "label": [[20, 22, "2nd"], [20, 22, "DO"]]}
+{"id": 211, "text": "D212:\tAdik!", "label": []}
+{"id": 212, "text": "D213:\tAdik!", "label": []}
+{"id": 213, "text": "B214:\tWan panggil tu.", "label": [[18, 20, "2nd"], [18, 20, "DO"]]}
+{"id": 214, "text": "B215:\tMarilah.", "label": [[6, 13, "2nd"], [6, 13, "S"]]}
+{"id": 215, "text": "B216:\tAlah... lama-lama tak tengok macam tulah.", "label": [[24, 27, "1st"], [24, 27, "S"], [35, 40, "3rd"], [35, 40, "DO"], [14, 23, "3rd"], [14, 23, "S"], [35, 40, "3rd2"], [35, 40, "S2"]]}
+{"id": 216, "text": "B217:\tSalam dulu.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 217, "text": "A218:\tLen, nak beli anak ayam boleh?", "label": [[11, 14, "1st"], [11, 14, "S"], [30, 35, "2nd"], [30, 35, "P"]]}
+{"id": 218, "text": "B219:\tBolehlah.", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
+{"id": 219, "text": "B220:\tNak cari kotak hari ini.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 220, "text": "B221:\tDah cakap dah kat dia, Nab nak anak ayam 2 ekor.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 221, "text": "C222:\tTapi tak lawa manalah anak ayam tu.", "label": []}
+{"id": 222, "text": "A223:\tBiarlah tak lawa pun", "label": [[14, 17, "3rd"], [14, 17, "S"]]}
+{"id": 223, "text": "A224:\tPergi kat Wan tu.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 224, "text": "A225:\tWan!", "label": []}
+{"id": 225, "text": "A226:\tMinta sikit Wan.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 226, "text": "A227:\tSayang pipi Wan.", "label": [[6, 12, "1st"], [6, 12, "S"]]}
+{"id": 227, "text": "B228:\tSelesema budak ni, Len.", "label": []}
+{"id": 228, "text": "C229:\tHa... ah.", "label": []}
+{"id": 229, "text": "C230:\tMak Nab nak balik bila?", "label": []}
+{"id": 230, "text": "A231:\tEsok!", "label": []}
+{"id": 231, "text": "B232:\tPukul berapa?", "label": []}
+{"id": 232, "text": "A233:\tTengok dululah.", "label": [[6, 12, "1st"], [6, 12, "S"], [13, 20, "3rd"], [13, 20, "DO"]]}
+{"id": 233, "text": "B234:\tMak Nab nak ayam, singgah dululah.", "label": [[24, 31, "2nd"], [24, 31, "S"]]}
+{"id": 234, "text": "B235:\tKalau Len tak ada, Len letak dalam kotak, Len cakaplah kat Mak.", "label": [[35, 40, "3rd"], [35, 40, "DO"], [23, 24, "3rd"], [23, 24, "DO"]]}
+{"id": 235, "text": "A236:\tYelah.", "label": []}
+{"id": 236, "text": "B237:\tLen baru ambil anak ayam baru.", "label": []}
+{"id": 237, "text": "B238:\tNak buat guk baru pula.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 238, "text": "A239:\tNakmu buat tu siap dah?", "label": []}
+{"id": 239, "text": "B240:\tBelum lagi.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 240, "text": "B241:\tLen sedia kotak ke, Mak Nab kena cari sendiri?", "label": [[44, 51, "3rd"], [44, 51, "DO"]]}
+{"id": 241, "text": "A242:\tLenlah cari.", "label": []}
+{"id": 242, "text": "A243:\tAda dah kotak kat rumah tu.", "label": [[30, 32, "1st"], [30, 32, "P"]]}
+{"id": 243, "text": "A244:\tMakanannya, makan apa hah?", "label": [[18, 23, "3rd"], [18, 23, "S"]]}
+{"id": 244, "text": "C245:\tDedak telorlah.", "label": []}
+{"id": 245, "text": "C246:\tJangan dedak ayam daging Nab!", "label": []}
+{"id": 246, "text": "C247:\tKalau ayam daging, gemuk kementonglah mu.", "label": []}
+{"id": 247, "text": "C248:\tLepas tu, mu campur ubat yang tak nak bagi bau busuk tu.", "label": [[49, 52, "3rd"], [49, 52, "DO"]]}
+{"id": 248, "text": "D249:\tNak air!", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 249, "text": "D250:\tWan!", "label": []}
+{"id": 250, "text": "D251:\tMintak sikit Wan.", "label": [[6, 12, "1st"], [6, 12, "S"]]}
+{"id": 251, "text": "C252:\tMinta dengan Tok Nablah.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 252, "text": "B253:\tKelmarin baru Len ambil ayam dengan kawan Len.", "label": []}
+{"id": 253, "text": "B254:\tSerama betul.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 254, "text": "C255:\tMu letak dalam guk mana?", "label": [[15, 20, "3rd"], [15, 20, "DO"]]}
+{"id": 255, "text": "B256:\tTak ada guk tu.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 256, "text": "E257:\tEh, Che Ting, cuba mu tengok Len nak buat guk ni.", "label": []}
+{"id": 257, "text": "E258:\tBuat sementara aje.", "label": [[6, 10, "3rd"], [6, 10, "S"]]}
+{"id": 258, "text": "F259:\tMak!", "label": []}
+{"id": 259, "text": "F260:\tIda tanya ni, Mak tak nak balik lagi ke?", "label": []}
+{"id": 260, "text": "C261:\tNak balik dah ni.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 261, "text": "D262:\tWan!", "label": []}
+{"id": 262, "text": "D263:\tWan!", "label": []}
+{"id": 263, "text": "C264:\tYa, Sarah nak apa?", "label": []}
+{"id": 264, "text": "G265:\tYa Allah, ada belakalah rakyat ni.", "label": []}
+{"id": 265, "text": "A266:\tYah, mu nak duduk lama sini kan?", "label": []}
+{"id": 266, "text": "A267:\tKira masak adik-beradik ajelah.", "label": [[6, 10, "1st"], [6, 10, "S"]]}
+{"id": 267, "text": "A268:\tNi anak Mah ni.", "label": []}
+{"id": 268, "text": "A269:\tDaging 30 kilo, ayam 30 ekor.", "label": []}
+{"id": 269, "text": "B270:\tBanyak dah tu.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 270, "text": "C271:\tNak balik dah nih.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 271, "text": "C272:\tPergi salam dengan Tok Ngah tu.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 272, "text": "A273:\tMu nak ke gulai ni?", "label": []}
+{"id": 273, "text": "C274:\tBawa baliklah.", "label": [[6, 10, "1st"], [6, 10, "S"]]}

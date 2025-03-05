@@ -1,0 +1,8 @@
+{"id": 0, "text": "A1:\tTelekung ni tak boleh kurang lagi ke?", "label": [[16, 19, "2nd"], [16, 19, "S"], [33, 37, "3rd"], [33, 37, "DO"]]}
+{"id": 1, "text": "A2:\tBagilah lima ringgit.", "label": [[4, 11, "2nd"], [4, 11, "S"], [12, 16, "3rd"], [12, 16, "IO"]]}
+{"id": 2, "text": "B3:\tTak boleh dah, harga mari pun lebih daripada tu.", "label": [[4, 7, "1st"], [4, 7, "S"], [25, 29, "3rd"], [25, 29, "P"]]}
+{"id": 3, "text": "B4:\tLepas tu mana bahagian kita.", "label": []}
+{"id": 4, "text": "A5:\tBagilah orang.", "label": [[4, 11, "2nd"], [4, 11, "S"]]}
+{"id": 5, "text": "A6:\tNi orang biasa sini ni (pelanggan tetap).", "label": []}
+{"id": 6, "text": "B7:\tItupun lima ringgit bagi ke orang kitalah tu.", "label": [[24, 28, "1st"], [24, 28, "S"]]}
+{"id": 7, "text": "B8:\tMemang tu dah harga dia, murah dah.", "label": [[29, 34, "3rd"], [29, 34, "S"]]}

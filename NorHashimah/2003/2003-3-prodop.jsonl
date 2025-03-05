@@ -1,0 +1,7 @@
+{"id": 0, "text": "A1:\tBerapa harga telekung ni?", "label": []}
+{"id": 1, "text": "B2:\tLima ringgit setengah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 2, "text": "A3:\tTak boleh kurang sikit ke?", "label": [[4, 7, "2nd"], [4, 7, "S"], [21, 26, "3rd"], [21, 26, "DO"]]}
+{"id": 3, "text": "B4:\tItu harga biasa dah tu.", "label": []}
+{"id": 4, "text": "A5:\tTak ada yang jenis lain ke?", "label": []}
+{"id": 5, "text": "B6:\tAda, tapi yang jenis tu tak elok, kalau yang tu bolehlah murah sikit.", "label": [[52, 60, "3rd"], [52, 60, "S"]]}
+{"id": 6, "text": "A7:\tAmbik yang eloklah---tahan lama---puas sikit pakai.", "label": [[4, 9, "1st"], [4, 9, "S"], [25, 30, "3rd"], [25, 30, "S"], [38, 42, "1st"], [38, 42, "S"], [49, 54, "1st"], [49, 54, "S"]]}

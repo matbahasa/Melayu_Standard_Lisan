@@ -1,0 +1,482 @@
+{"id": 0, "text": "P1:\tAssalamualaikum cikgu.", "label": []}
+{"id": 1, "text": "C2:\tWaalaikumussalam.", "label": []}
+{"id": 2, "text": "P3:\tSaya ni nak dapatkan sedikit maklumat daripada cikgu.", "label": []}
+{"id": 3, "text": "P4:\tKami ada buat kajian tentang kata panggilan dalam keluarga, keluarga Melayu sahaja.", "label": [[64, 72, "3rd"], [64, 72, "S"]]}
+{"id": 4, "text": "P5:\tJadi saya jumpa cikgu ni dalam majlis ni, saya di KL ni, saya dengar cikgu datang ke majlis ni dari utara ye?", "label": []}
+{"id": 5, "text": "C6:\tDari Pulau Pinang.", "label": [[4, 8, "1st"], [4, 8, "S"]]}
+{"id": 6, "text": "P7:\tKalau boleh cikgu cerita sedikit tentang panggilan dalam keluarga, bapa, ayah, emak, adik-beradik cikgu, anak sedara menakan macam mana.", "label": []}
+{"id": 7, "text": "P8:\tCikgu ni umur berapa tahun?", "label": []}
+{"id": 8, "text": "C9:\t71 tahun.", "label": [[4, 6, "1st"], [4, 6, "S"]]}
+{"id": 9, "text": "P10:\tJadi mungkin generasi cikgu panggilan berlainan, mungkin dalam adik-beradik cikgu, anak-anak cikgu lain pulak.", "label": []}
+{"id": 10, "text": "P11:\tKalau boleh cikgu cerita sikit macam mana.", "label": [[36, 41, "3rd"], [36, 41, "S"]]}
+{"id": 11, "text": "C12:\tSaya, keturunan saya berdarah campuran, keluarga bapak saya ni, dia keturunan Benggali sedikit.", "label": []}
+{"id": 12, "text": "C13:\tKeturunan babuci.", "label": [[15, 21, "1st"], [15, 21, "P"]]}
+{"id": 13, "text": "C14:\tSebab tu nama saya ada nama Ahmad Babuci, atuk saya, datang dari India.", "label": [[58, 64, "3rd"], [58, 64, "S"]]}
+{"id": 14, "text": "C15:\tMak saya pulak orang Melayu Pulau Pinang.", "label": []}
+{"id": 15, "text": "C16:\tSebab kami di PP banyak, sedikit darah keturunan Keling.", "label": [[44, 53, "1st"], [44, 53, "P"]]}
+{"id": 16, "text": "C17:\tJadi panggilan saya kepada bapak saya, saya panggil Ba, banyak orang darah keturunan India dia panggil Ba.", "label": [[57, 59, "3rd"], [57, 59, "IO"]]}
+{"id": 17, "text": "C18:\tOrang Melayu sana panggil Bapak, ada juga panggil Ayah/Abah.", "label": []}
+{"id": 18, "text": "C19:\tJadi selepas saya, saya tak mahu menggunakan perkataan Ba tu sebab tak nampak Melayunya.", "label": [[72, 75, "1st"], [72, 75, "S"]]}
+{"id": 19, "text": "C20:\tSebab tu anak-anak saya suka/suruh panggil Bapak.", "label": [[48, 53, "1st"], [48, 53, "IO"], [29, 39, "1st"], [29, 39, "S"]]}
+{"id": 20, "text": "P21:\tJadi anak-anak cikgu panggil cikgu Bapaklah.", "label": []}
+{"id": 21, "text": "C22:\tJadi cucu saya panggil Bapa anak, ada panggil Abah, ada panggil Ayah, ada panggil Bapak.", "label": [[37, 38, "1st"], [37, 38, "P"]]}
+{"id": 22, "text": "C23:\tTakda satu pun setuju/tak bagi panggil Ba.", "label": [[20, 30, "1st"], [20, 30, "S"], [36, 43, "3rd"], [36, 43, "IO"]]}
+{"id": 23, "text": "C24:\tMungkin saya bahasa Melayu dapat keturunan saya.", "label": []}
+{"id": 24, "text": "C25:\tSaya lari ke Melayu.", "label": []}
+{"id": 25, "text": "C26:\tTetapi saya tak mahu panggil Bak.", "label": [[26, 33, "3rd"], [26, 33, "S"]]}
+{"id": 26, "text": "C27:\tSaya tak suka panggilan Abah sebab panggil abah, sebab saya rasa abah tak Melayu.", "label": [[40, 47, "1st"], [40, 47, "S"], [75, 78, "1st"], [75, 78, "P"]]}
+{"id": 27, "text": "C28:\tYang Melayu tu macam ayah, bapak, itu saya rasa lebih Melayu.", "label": []}
+{"id": 28, "text": "C29:\tSebab orang-orang kampung, dia orang lebih banyak panggil bapak, dia panggil Ayah.", "label": []}
+{"id": 29, "text": "C30:\tAbah ni saya rasa lebih ke Arab sikit.", "label": [[23, 28, "3rd"], [23, 28, "S"]]}
+{"id": 30, "text": "C31:\tSebab ke Arab sikit lebih suka panggil Abah.", "label": [[25, 30, "1st"], [25, 30, "S"], [11, 13, "3rd"], [11, 13, "S"]]}
+{"id": 31, "text": "P32:\tJadi cikgu panggil Bah ajelah ye?", "label": []}
+{"id": 32, "text": "C33:\tBah.", "label": []}
+{"id": 33, "text": "C34:\tSebab tu, panggilan Benggali.", "label": [[15, 24, "3rd"], [15, 24, "S"]]}
+{"id": 34, "text": "C35:\tOrang Benggali panggil Ba, Bu banyak panggilan keluarga.", "label": [[35, 41, "3rd"], [35, 41, "S"]]}
+{"id": 35, "text": "C36:\tIsteri saya, kami tak de Melayu.", "label": []}
+{"id": 36, "text": "C37:\tJadi saya cuba panggilan saya kepada cucu saya panggilan orang Melayu.", "label": []}
+{"id": 37, "text": "P38:\tEmak bagaimana pula?", "label": []}
+{"id": 38, "text": "C39:\tEmak ada juga panggil Ibu.", "label": []}
+{"id": 39, "text": "C40:\tEmak biasanya emak ibu, itu di sebelah PP.", "label": []}
+{"id": 40, "text": "C41:\tKalau kawasan PP, saya kawasan daerah Tanjung, kawasan Tanjung banyak peratus darah Melayunya kurang.", "label": []}
+{"id": 41, "text": "C42:\tSebelah Kedah, betul-betul memang kawasan Melayu, bangsa Melayu, Pulau.", "label": [[20, 31, "3rd"], [20, 31, "S"]]}
+{"id": 42, "text": "C43:\tSelain daripada tu, macam saya bahasanya banyak kacukan kalau tanya Maini, saya tahu Maini tu kakak ke atau kakak ipar ke tu panggil Maini.", "label": [[67, 72, "2nd"], [67, 72, "S"], [130, 137, "1st"], [130, 137, "S"], [73, 78, "1st"], [73, 78, "IO"]]}
+{"id": 43, "text": "C44:\tPanggil Mamu, pak sedara Mamu.", "label": [[5, 12, "1st"], [5, 12, "S"], [30, 34, "1st"], [30, 34, "P"]]}
+{"id": 44, "text": "P45:\tPak sedara sebelah bapak atau emak?", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 45, "text": "C46:\tSebelah bapak, sebelah emak panggil mamu.", "label": [[18, 19, "1st"], [18, 19, "P"], [33, 40, "1st"], [33, 40, "P"], [33, 40, "1st2"], [33, 40, "S2"], [5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 46, "text": "C47:\tKalau sebelah perempuan panggil mami.", "label": [[29, 36, "1st"], [29, 36, "S"]]}
+{"id": 47, "text": "C48:\tJadi pada saya, saya tak mahu itu.", "label": []}
+{"id": 48, "text": "C49:\tJadi mungkin saya kalau ada jenis keluarga macam tu, apa sebab dibuang tu.", "label": []}
+{"id": 49, "text": "C50:\tSaya nak anak-anak saya berat pada Melayu.", "label": []}
+{"id": 50, "text": "P51:\tKalau sebelah tuk macam mana?", "label": [[23, 28, "2nd"], [23, 28, "P"]]}
+{"id": 51, "text": "P52:\tKalau panggil tuk perempuan atau atuk lelaki panggilan macam mana?", "label": [[11, 18, "2nd"], [11, 18, "S"], [50, 59, "2nd"], [50, 59, "P"], [60, 65, "2nd"], [60, 65, "P"]]}
+{"id": 52, "text": "C53:\tTuk sebelah kepada mak saya, saya panggil Tuk Ayah.", "label": [[47, 50, "3rd"], [47, 50, "IO"]]}
+{"id": 53, "text": "C54:\tTuk Ayah kepada lelaki.", "label": []}
+{"id": 54, "text": "C55:\tBapak kepada mak saya, saya panggil Tuk Ayah, mak kepada mak saya, saya panggil Mak Tuk, sebelah bapa saya, mak kepada bapa saya, saya panggil Dadi.", "label": []}
+{"id": 55, "text": "P56:\tMacam mana orang putih pula ye?", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 56, "text": "C57:\tBukan, itu Arab.", "label": []}
+{"id": 57, "text": "C58:\tSebab Dadi ni bahasa Sanskrit sebab dia ada dadi untuk datuk perempuan.", "label": []}
+{"id": 58, "text": "C59:\tKalau pada datuk lelaki dipanggil Dada.", "label": []}
+{"id": 59, "text": "C60:\tContohnya ada orang Melayu kita gunakan Dada -minta maaf jika saya sebut nama.", "label": [[51, 56, "1st"], [51, 56, "S"]]}
+{"id": 60, "text": "C61:\tPerkataan dada tu juga ada digunakan pada orang Melayu kita dalam memanggil nama.", "label": []}
+{"id": 61, "text": "C62:\tPada datuk lelaki, orang India, yang ada keturunan Benggali sikit-sikit tu, dia panggil Dadi.", "label": []}
+{"id": 62, "text": "C63:\tJadi saya panggil mak kepada bapak saya tu Dadi.", "label": []}
+{"id": 63, "text": "C64:\tBapa kepada bapak saya, saya tak jumpa.", "label": []}
+{"id": 64, "text": "C65:\tTetapi biasanya orang panggil Dada.", "label": []}
+{"id": 65, "text": "C66:\tJadi ada orang gunakan Dada.", "label": []}
+{"id": 66, "text": "C67:\tKemudian ada tuk perempuan, tu panggilan orang India sebelah Keling dia kata Nani (tuk perempuan).", "label": []}
+{"id": 67, "text": "C68:\tTuk lelaki dipanggil Nana, sedangkan biasanya kita tahu Nana ni panggilan abang pada orang Tamil.", "label": []}
+{"id": 68, "text": "C69:\tTetapi ada satu kaum daripada India tu, Nani tu tuk perempuan sebab ada orang kampung saya panggil Tuk Nani.", "label": []}
+{"id": 69, "text": "C70:\tDan nana yang saya tahu ni, ada satu guru Melayu anak dia panggil kepada dia nana.", "label": []}
+{"id": 70, "text": "C71:\tAda orang lain panggil nana tu, gaya tu macam tuk-tuk sedara.", "label": []}
+{"id": 71, "text": "C72:\tJadi anak dia pun dengar orang panggil bapak dia Nana, dia panggil bapak dia nana, orang Melayu kita.", "label": []}
+{"id": 72, "text": "C73:\tDia kata, mana bapak awak, mana nana awak?", "label": []}
+{"id": 73, "text": "C74:\tDia kata nana pergi pekan.", "label": []}
+{"id": 74, "text": "C75:\tDia panggil bapa dia nana kemudian bapa dia punya cucu sedara tu panggil dia nana.", "label": []}
+{"id": 75, "text": "C76:\tDia tu tuklah.", "label": []}
+{"id": 76, "text": "C77:\tNana lawannya Nani, Dada lawannya Dadi, saudara lawan sedarilah.", "label": []}
+{"id": 77, "text": "C78:\tTu kaedah biasa tu.", "label": []}
+{"id": 78, "text": "C79:\tItu kaedah bahasa sanskrit tu, lelakinya bunyi /a/, perempuan bunyi /i/, saudara-saudari, siswa-siswi.", "label": []}
+{"id": 79, "text": "C80:\tltu yang biasa digunakan dan sekarang ni.", "label": []}
+{"id": 80, "text": "C81:\tPada saya pula, cucu saya panggil saya Tok Wan.", "label": []}
+{"id": 81, "text": "P82:\tCucu panggil cikgu Tok wanlah.", "label": [[10, 17, "2nd"], [10, 17, "P"]]}
+{"id": 82, "text": "C83:\tTok laki-laki dan Tok Wan, pada Tok perempuan panggil Tok sahaja.", "label": [[51, 58, "3rd"], [51, 58, "S"]]}
+{"id": 83, "text": "C84:\tJadi ada tempat pulak, Tok wan tu disebut pada datuk sebelah perempuan.", "label": []}
+{"id": 84, "text": "C85:\tYang lelaki panggil atuk pulak.", "label": [[17, 24, "3rd"], [17, 24, "S"]]}
+{"id": 85, "text": "C86:\tMacam di sebelah selatan panggil atuk perempuan, panggil Opah bukan?", "label": [[54, 61, "3rd"], [54, 61, "S"]]}
+{"id": 86, "text": "P87:\tOrang Perak tu orang Perak.", "label": []}
+{"id": 87, "text": "C88:\tOrang Perak ka, sana Opah tak reti.", "label": []}
+{"id": 88, "text": "C89:\tDia tengok gambar opah, dia orang tak tahu apa makna Opah kecuali kena belajar bahasa.", "label": [[71, 75, "3rd"], [71, 75, "S"]]}
+{"id": 89, "text": "C90:\tSaya rasa sepatunya terutamanya macam badan-badan yang ada kaitan dengan perkembangan bahasa, menyusur supaya apakah panggilan untuk bapak, berapa banyak panggilan untuk abah/bapak, Ayah, Dadi, Mami.", "label": []}
+{"id": 90, "text": "C91:\tTetapi mami di PP, kata anak mami tulah, mati tu macam mak sedara atau auntie, macam Indonesia panggil Tanter.", "label": []}
+{"id": 91, "text": "C92:\tTulah di PP panggil Mami.", "label": [[17, 24, "3rd"], [17, 24, "S"]]}
+{"id": 92, "text": "C93:\tMamak ni sebenarnya kita panggil mamak, sedangkan macam orang Melayu maksudnya mamak ni, sama ada Jawa atau sebagainya.", "label": []}
+{"id": 93, "text": "C94:\tTetapi memandangkan mamak sama makna serupa kakang dengan kakak, serupa ibung dengan ibu/ading dengan adik.", "label": []}
+{"id": 94, "text": "P95:\tDari segi tatatingkat tu ada perbezaan kata.", "label": []}
+{"id": 95, "text": "C96:\tSaya rasa ada pengaruh Jawa.", "label": []}
+{"id": 96, "text": "C97:\tKata kakang tetapi kita panggil kakak.", "label": []}
+{"id": 97, "text": "P98:\tAdakah/ada tak bahasa halus atau bahasa kasar.", "label": []}
+{"id": 98, "text": "C99:\tTak kasar, kakang dalam bahasa Jawa, maksudnya yang lebih tua, tak pun kakak tu yang lebih tua.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 99, "text": "C100:\tTetapi sekarang ni berubah kepada perempuan juga kalau lelaki dia kata abang, dan abang gelaran dan bukannya abang tu maknanya brother, bukan.", "label": [[142, 147, "3rd"], [142, 147, "S"], [25, 32, "3rd"], [25, 32, "S"]]}
+{"id": 100, "text": "C101:\tAbang satu gelaran kehormatan macam di Brunei.", "label": []}
+{"id": 101, "text": "C102:\tDi Brunei banyak nama abang.", "label": []}
+{"id": 102, "text": "C103:\tKita abang di sini maksudnya the brother.", "label": []}
+{"id": 103, "text": "C104:\tSekarang dalam bahasa Melayu the brother dan the sister tu kakak.", "label": []}
+{"id": 104, "text": "C105:\tJawanya Kakang, sebab tu kakanda tu kakangda bukan kakanda, adingda bukan adikda, bahasa kita dulu.", "label": [[88, 94, "3rd"], [88, 94, "S"]]}
+{"id": 105, "text": "P106:\tMacam dalam adik-beradik cikgu.", "label": []}
+{"id": 106, "text": "P107:\tDi kalangan adik-beradik lingkungan umur lebih kurang begitu, dalam sistem panggilan dalam adik-beradik cikgu bagaimana yang sulung dipanggil apa, cik anak apa....", "label": [[31, 41, "2nd"], [31, 41, "S"]]}
+{"id": 107, "text": "C108:\tYang sulung, saya ni kampung yang duduk di kawasan pinggir bandar.", "label": []}
+{"id": 108, "text": "C109:\tPanggilan kurang digunakan.", "label": []}
+{"id": 109, "text": "C110:\tPerkataan andak, anjang, angah, along tu tak de....", "label": []}
+{"id": 110, "text": "C111:\tSemua abang, kakak.", "label": []}
+{"id": 111, "text": "P112:\tSebut namalah.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
+{"id": 112, "text": "C113:\tSebut nama, biasanyanya kami lebih manja panggil nama.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 113, "text": "P114:\tLebih mesra.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
+{"id": 114, "text": "P115:\tPanggil Man, kalau adik saya.", "label": [[6, 13, "1st"], [6, 13, "S"]]}
+{"id": 115, "text": "P116:\tAdik saya panggil Nana @ abang.", "label": [[24, 28, "1st"], [24, 28, "IO"]]}
+{"id": 116, "text": "P117:\tKalau panggil Nana tu orang tahu dia tu keturunan India sikit.", "label": [[12, 19, "3rd"], [12, 19, "S"], [20, 24, "1st"], [20, 24, "IO"]]}
+{"id": 117, "text": "P118:\tPanggil Nana.", "label": [[6, 13, "3rd"], [6, 13, "S"]]}
+{"id": 118, "text": "P119:\tKalau Aci lebih teruk sikit kalau panggil Aci.", "label": [[40, 47, "1st"], [40, 47, "S"]]}
+{"id": 119, "text": "P120:\tBiasanya orang India masih 60/70% dia punya aci nama.", "label": []}
+{"id": 120, "text": "P121:\tBila dia mai 40/50% panggilan nana ada, Aci dah kurang dah.", "label": []}
+{"id": 121, "text": "P122:\tAci ni kakaklah.", "label": []}
+{"id": 122, "text": "P123:\tJadi oleh sebab cikgu kata dalam keluarga cikgu ada keturunan India sedikit, jadi mungkin panggilan tu agak berbeza daripada keluarga Melayu lain.", "label": []}
+{"id": 123, "text": "P124:\tJadi apabila cikgu sudah berumah tangga dengan orang Melayu, cikgu pun orang Melayu sebenarnya kan.", "label": []}
+{"id": 124, "text": "P125:\tJadi anak-anak cikgu... berapa orang anak-anak cikgu.", "label": []}
+{"id": 125, "text": "C126:\t8 orang anak.", "label": []}
+{"id": 126, "text": "P127:\tAlhamdulillah.", "label": []}
+{"id": 127, "text": "P128:\tJadi yang lapan orang ini dari segi panggilan adik-beradik diorang ni macam mana?", "label": []}
+{"id": 128, "text": "C129:\tKebanyakan sebut nama.", "label": [[17, 22, "3rd"], [17, 22, "S"]]}
+{"id": 129, "text": "P130:\tSebut nama, takde panggil Along?", "label": [[6, 11, "3rd"], [6, 11, "S"], [18, 23, "3rd"], [18, 23, "S"]]}
+{"id": 130, "text": "C131:\tTakde langsung kecuali cucu saya.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 131, "text": "C132:\tAda cucu yang mak diorang sebelah ke Balik Pulau.", "label": [[15, 19, "1st"], [15, 19, "P"]]}
+{"id": 132, "text": "C133:\tJadi dia hendak cara dia.", "label": []}
+{"id": 133, "text": "C134:\tYang si bapak ni (anak saya) dia katalah orang KL dengan orang Serdang.", "label": []}
+{"id": 134, "text": "C135:\tKalau duduk KL dia cakap KLlah.", "label": []}
+{"id": 135, "text": "C136:\tKalau kat Serdang tu pakai cara Serdanglah.", "label": [[27, 32, "3rd"], [27, 32, "S"]]}
+{"id": 136, "text": "P137:\tYang duduk di Serdang ni....", "label": []}
+{"id": 137, "text": "C138:\tDia banyak Along, Angah apa semua, dia sebutlah tu.", "label": []}
+{"id": 138, "text": "C139:\tAdik beradik keluarga anak tu, dia panggil Ayah, Abang Long, Abang Ngah.", "label": [[33, 35, "1st"], [33, 35, "P"]]}
+{"id": 139, "text": "P140:\tJadi kalau yang Serdang ni yang sekarang ni ada di KL, memanggil yang pertama tu bagaimana, anak sulung panggil bagaimana?", "label": [[110, 117, "3rd"], [110, 117, "S"], [61, 70, "3rd"], [61, 70, "S"]]}
+{"id": 140, "text": "C141:\tDia panggil Along biasanya, yang sulung, Angah yang kedua.", "label": []}
+{"id": 141, "text": "C142:\tSelain daripada tu dia orang sendiri pun tak tahu.", "label": []}
+{"id": 142, "text": "C143:\tSebenarnya Along, Angah kemudian busu.", "label": []}
+{"id": 143, "text": "P144:\tBusu yang nombor 3.", "label": []}
+{"id": 144, "text": "P145:\tBusu.", "label": []}
+{"id": 145, "text": "C146:\tDia ada 3.", "label": []}
+{"id": 146, "text": "C147:\t1, 2, 3 habis... kalau ada lagi.", "label": []}
+{"id": 147, "text": "C148:\tBiasanya Along, Angah.", "label": []}
+{"id": 148, "text": "C149:\tMereka tak reti nak bubuh apa.", "label": []}
+{"id": 149, "text": "C150:\tDia tengok kalau yang tua tu, Anjang dia letak, yang tu Andak, pendek, Andak.", "label": []}
+{"id": 150, "text": "P151:\tAndak tu nombor berapa?", "label": []}
+{"id": 151, "text": "C152:\tJadi dia cari yang muda.", "label": []}
+{"id": 152, "text": "C153:\tMuda daripada yang tua.", "label": []}
+{"id": 153, "text": "C154:\tSebab tadi ada 1, 2, 3, Along, Angah, Usu kalau tiga.", "label": []}
+{"id": 154, "text": "C155:\tTetapi kalau 4, yang ini masuk celah mana tak tahu.", "label": [[48, 51, "1st"], [48, 51, "S"]]}
+{"id": 155, "text": "C156:\tSaya sendiri tak tahu bubuh ikut celah mana.", "label": []}
+{"id": 156, "text": "C157:\tKalau sekarang ada 7 beradik, nombor 1 Along, nombor 4 bubuh Angah misalnya, dah salah.", "label": [[21, 24, "1st"], [21, 24, "S"], [83, 86, "3rd"], [83, 86, "S"]]}
+{"id": 157, "text": "C158:\tOrang Melayu, nombor 1 along, nombor 2 Angah, sebab nombor 3 Busu.", "label": []}
+{"id": 158, "text": "C159:\tTetapi kalau datang 4, celah mana nak masuk.", "label": [[40, 43, "3rd"], [40, 43, "S"]]}
+{"id": 159, "text": "C160:\tAda bubuh alang kudu, anjang, a... ah Along, Alang, sebab Alang tu kekadang tinggi.", "label": []}
+{"id": 160, "text": "C161:\tKalau Anjang, Anjang lebih tinggi lagilah.", "label": []}
+{"id": 161, "text": "C162:\tSama ada Alang, kemudian Anjang, kemudian kalau Anjang, yang andak takde, tak kira Anjang, sebab dia bawah dia pendek.", "label": [[80, 83, "3rd"], [80, 83, "S"]]}
+{"id": 162, "text": "C163:\tKalau 5 Along dia tinggi bawah lagi tu mungkin uda... muda.", "label": []}
+{"id": 163, "text": "C164:\tMacam bunyi tempat saya tu, dekat tempat pak sedara saya tua, tu saya panggik Pak Caq.", "label": [[84, 87, "3rd"], [84, 87, "IO"]]}
+{"id": 164, "text": "C165:\tPak Caq tu besaq, bapak besaq.", "label": []}
+{"id": 165, "text": "C166:\tBila besaq maknanya dia mesti senior.", "label": [[11, 16, "3rd"], [11, 16, "S"]]}
+{"id": 166, "text": "C167:\tKalau pak uda, pak utih, pak sedara saya yang muda saya panggil Pak Utih.", "label": []}
+{"id": 167, "text": "C168:\tSebab Pak Utih lebih muda daripada Pak Itam.", "label": []}
+{"id": 168, "text": "C169:\tPak Itam lebih tua.", "label": []}
+{"id": 169, "text": "C170:\tKalau Pak Uda dia lebih muda daripada Pak Wa.", "label": []}
+{"id": 170, "text": "C171:\tPa Wa lebih tua.", "label": []}
+{"id": 171, "text": "C172:\tItulah kedudukannya.", "label": []}
+{"id": 172, "text": "C173:\tTetapi nak dimasukkan nombor tu, saya sendiri tak cermin.", "label": []}
+{"id": 173, "text": "C174:\tCuma saya, antara yang tengah-tengah tu Angahlah.", "label": []}
+{"id": 174, "text": "C175:\tYang nombor 1 along.", "label": []}
+{"id": 175, "text": "C176:\tDia antara Along nak mai kat Angah tu berapa lagi saya tak tahu.", "label": []}
+{"id": 176, "text": "C177:\tTetapi dia mesti ada yang tua yang muda ke bawah semua sebelum pergi ke busu, yang masuk kawasan antara ayah dengan Busu ni, Uda, Andak, Pak Cik, semua tu bawah daripada yang tengah.", "label": [[69, 74, "3rd"], [69, 74, "S"], [115, 121, "1st"], [115, 121, "P"]]}
+{"id": 177, "text": "C178:\tYang atas daripada yang tengah, bawah daripada yang sulung, Along, Anjang, Pak Tam, Pak Besaq, Pak Caq.", "label": []}
+{"id": 178, "text": "C179:\tItu ada 2 seksyen.", "label": []}
+{"id": 179, "text": "C180:\tEntah nak susun 1 hingga 7 misalnya, tak dapat nak cari.", "label": [[43, 46, "1st"], [43, 46, "S"], [12, 15, "1st"], [12, 15, "S"]]}
+{"id": 180, "text": "C181:\tSaya cuba juga.", "label": []}
+{"id": 181, "text": "C182:\tSelalunya dalam Kamus Dewan, kamus moden bahasa Indonesia, saya ambil nama-nama Melayu dalam kitab dulu, kitab nama-nama Melayu dan gelaran tak dapat dipastikan.", "label": []}
+{"id": 182, "text": "C183:\tYang saya pasti tu yang nombor 1 Along, nombor 2 Angah, yang kecil sekali Bongsu.", "label": []}
+{"id": 183, "text": "C184:\tTetapi Pak Uda nak letak mana saya tak tahu.", "label": []}
+{"id": 184, "text": "C185:\tSebab kalau ada Pak Uda, Pak Wa mesti atas daripada yang tengah.", "label": []}
+{"id": 185, "text": "C186:\tSebab Uda dengan tua, Pak Wa, Pak Uda sepasang.", "label": []}
+{"id": 186, "text": "C187:\tPak Anjang dengan Pak Andak dia berpasang.", "label": []}
+{"id": 187, "text": "C188:\tPak Caq dengan Pak Cik dia berpasang, yang pasang besaq, tua/kanan tu semua sebelah atas.", "label": []}
+{"id": 188, "text": "P189:\tAdakah disebabkan nak mengelakkan daripada kekeliruan yang mana satu, Angah ke, Anjang ke menyebabkan dalam keluarga cikgu ni mereka gunakan panggilan tu sebut nama sahaja.", "label": [[24, 27, "3rd"], [24, 27, "S"]]}
+{"id": 189, "text": "C190:\tSebut nama sahaja, yang pak sedara pula, cucu-cucu sayalah, anak saya yang nombor satu, dia orang panggil pak long/mak long, yang lain-lain Pak Long /Mak Long.", "label": [[6, 11, "1st"], [6, 11, "S"], [112, 115, "2nd"], [112, 115, "IO"]]}
+{"id": 190, "text": "P191:\tPak manakan dialah.", "label": []}
+{"id": 191, "text": "C192:\tYe, pak manakan dia.", "label": []}
+{"id": 192, "text": "C193:\tAnak saya yang sulung.", "label": []}
+{"id": 193, "text": "C194:\tAnak saya nombor 2 perempuan, dia kahwin, jadi dua-dua dipanggil Pak Caq/Mak Caq.", "label": []}
+{"id": 194, "text": "C195:\tPak Besaq/Mak Besaq ni cucu-cucu saya yang lain.", "label": []}
+{"id": 195, "text": "C196:\tYang nombor 3 laki-laki, dia panggil Pak Ngah.", "label": []}
+{"id": 196, "text": "C197:\tPak Ngah/ Mak Ngah, itu yang nombor 3.", "label": []}
+{"id": 197, "text": "C198:\tNombor 4 laki-laki juga, dia orang panggil Pak Anjang/Mak Anjang.", "label": []}
+{"id": 198, "text": "C199:\tNombor 5 perempuan, dia orang panggil Pak Teh/Mak Teh.", "label": []}
+{"id": 199, "text": "C200:\tNombor 6 laki-laki.", "label": []}
+{"id": 200, "text": "C201:\tEntah macam mana dia suruh panggil Mamu pada dia.", "label": [[33, 40, "3rd"], [33, 40, "S"]]}
+{"id": 201, "text": "C202:\tSemua panggil Mamu.", "label": [[20, 24, "3rd"], [20, 24, "IO"]]}
+{"id": 202, "text": "C203:\tMamu tu dalam bahasa India tu... pak sedara.", "label": []}
+{"id": 203, "text": "C204:\tKemudian nombor 7 laki-laki, dia orang panggil Pak Cik, dah kahwin Pak Cik/Mak Cik.", "label": []}
+{"id": 204, "text": "C205:\tJadi yang Mamu tadi yang perempuan panggil Mak Cik juga.", "label": [[41, 48, "3rd"], [41, 48, "S"]]}
+{"id": 205, "text": "C206:\tBahasa budak-budak juga.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 206, "text": "C207:\tPanggil Mamu...", "label": [[6, 13, "3rd"], [6, 13, "S"], [14, 18, "3rd"], [14, 18, "IO"]]}
+{"id": 207, "text": "C208:\tMamulah dan panggil Mak Cik, panggil Mak Ciklah.", "label": [[18, 25, "3rd"], [18, 25, "S"], [35, 42, "3rd"], [35, 42, "S"]]}
+{"id": 208, "text": "C209:\tAsalkan dia tahu yang Mamu tu siapa yang Mak Cik tu siapa.", "label": []}
+{"id": 209, "text": "C210:\tPak Sedara dia hormat sebagai Pak Sedara.", "label": []}
+{"id": 210, "text": "C211:\tYang nombor 7, Pak Cik kahwin dengan orang Perlis...", "label": [[29, 35, "1st"], [29, 35, "P"]]}
+{"id": 211, "text": "C212:\tMak Cik.", "label": []}
+{"id": 212, "text": "C213:\tYang nombor 8, Mak Su... belum kahwin.", "label": [[31, 36, "3rd"], [31, 36, "S"]]}
+{"id": 213, "text": "P214:\tMacam sebelah isteri cikgu bagaimana?", "label": []}
+{"id": 214, "text": "P215:\tAda panggilan juga atau berbeza dengan cikgu ataupun....", "label": []}
+{"id": 215, "text": "C216:\tSaya tak berapa berbeza, begitulah.", "label": []}
+{"id": 216, "text": "C217:\tSemua ada panggil Ayah, Uda, Pak Su/Mak Su, yang tahu Pak Long, Pak Cik, Pak Su, Pak Ngah/Mak Ngah, yang tu yang lazim.", "label": [[55, 59, "1st"], [55, 59, "S"]]}
+{"id": 217, "text": "C218:\tPak Anjang, Pak Andak, kalau sebelah kawasan saya tak berapa mahir, yang luar daripada bandar banyak gunakan tu, Pak Anjang, Pak Andak yang pada saya lazimnya Pak Long, Pak Su, Pak Caq, Pak Cik gitulah.", "label": []}
+{"id": 218, "text": "P219:\tMungkinlah cikgu rasa dengan generasi muda akan datang ni, panggilan-panggilan tadi akan pupus atau masih lagi mereka amalkan panggilan-panggilan dalam keluarga Melayu kita.", "label": []}
+{"id": 219, "text": "C220:\tltu saya rasa terpulang pada penggunaannya.", "label": []}
+{"id": 220, "text": "C221:\tSebelah ke arah kampung atau bandar kecil-kecil, dia akan kekal.", "label": []}
+{"id": 221, "text": "C222:\tSebab orang tua saya tulah sedapnya.", "label": []}
+{"id": 222, "text": "C223:\tOrang ke bandar sikit, dia panggil Mummy, Daddy aje, Uncle, Untie.", "label": []}
+{"id": 223, "text": "C224:\tSaya ada sorang panggil Uncle, dia tak kena panggil Uncle.", "label": [[22, 29, "3rd"], [22, 29, "S"]]}
+{"id": 224, "text": "C225:\tSaya panggil Pak Cik.", "label": [[19, 22, "3rd"], [19, 22, "IO"]]}
+{"id": 225, "text": "C226:\tSayid-sayid dia apa nama.", "label": []}
+{"id": 226, "text": "C227:\tSaya tahu yang panggil Uncle saya orang bandar.", "label": [[29, 34, "1st"], [29, 34, "IO"]]}
+{"id": 227, "text": "C228:\tDia hormat saya sebagai Uncle.", "label": []}
+{"id": 228, "text": "P229:\tBukan dari keluarga cikgu sendirilah... orang luar yang tidak dikenalilah.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 229, "text": "C230:\tAda orang panggil saya Pak Cik, Tok, Atuk, biasanya dia orang panggil Pak Cik.", "label": [[76, 79, "1st"], [76, 79, "IO"]]}
+{"id": 230, "text": "C231:\tBila panggil Atuk nampak tua sangat.", "label": [[11, 18, "3rd"], [11, 18, "S"], [19, 23, "1st"], [19, 23, "IO"], [31, 34, "1st"], [31, 34, "S"]]}
+{"id": 231, "text": "P232:\tNak rasa muda sekali-sekala tu.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 232, "text": "C233:\tSaya panggil Atuk pun tak mengapa, memang saya dah atuk dah.", "label": [[11, 18, "3rd"], [11, 18, "S"]]}
+{"id": 233, "text": "C234:\tTinggal belum bercicit lagi.", "label": [[6, 13, "1st"], [6, 13, "S"]]}
+{"id": 234, "text": "C235:\tJadi pada saya, panggilan ni, kecuali kita adakan suatu meter, misalnya di Perancis dia buat satu sukatan meter tu, disukatkan kat situ itulah kata panjang meter sampai sekarang, tak boleh dah.", "label": [[185, 188, "3rd"], [185, 188, "S"]]}
+{"id": 235, "text": "C236:\tJadi untuk refer balik, nak tahu tentang meter, betul atau salah, refer.", "label": [[17, 22, "1st"], [17, 22, "S"], [30, 33, "1st"], [30, 33, "S"], [72, 77, "1st"], [72, 77, "S"]]}
+{"id": 236, "text": "C237:\tJadi sepatutnya panggilan ni pun kita buat satu tempat, supaya kalau keluarga Melayu dalam bahasa Melayu dari zaman dahulu sampai sekarang, kalau tiga beradik 1, 2, 3 begini, bermakna Along, Angah, Busu, 3 beradik.", "label": []}
+{"id": 237, "text": "C238:\tKalau 4 beradik, nak masuk tang mana, biasanya Along, Angah tu nombor 3 Busu.", "label": [[23, 26, "3rd"], [23, 26, "S"]]}
+{"id": 238, "text": "C239:\tKemudian yang lagi banyak yang 4 beradik tu, ikut lepas Along, Angah, tang sini.", "label": [[51, 55, "3rd"], [51, 55, "S"]]}
+{"id": 239, "text": "C240:\tSebab panggilan melekat pulak, Along, Angah.", "label": [[22, 29, "3rd"], [22, 29, "P"]]}
+{"id": 240, "text": "C241:\tLepas tu adik-beradik mai yang Along, Angah tak boleh nak buang.", "label": []}
+{"id": 241, "text": "C242:\tSampai 7 beradik pun, Along, Angah, Along, Angah.", "label": []}
+{"id": 242, "text": "C243:\tJadi semua masuk celah ni sahaja.", "label": []}
+{"id": 243, "text": "C244:\tMungkin sebab boleh Anjang boleh duduk atas daripada Angah atau Angah memang nombor dua pun.", "label": []}
+{"id": 244, "text": "C245:\tKalau nak kata Angah tu jawatan nombor 2, nescaya bukan kata Angah.", "label": [[12, 15, "1st"], [12, 15, "S"], [56, 61, "3rd"], [56, 61, "S"]]}
+{"id": 245, "text": "C246:\tSebab Angah jawatan di tengah-tengah mesti ada sesuatu di atas, sesuatu di tengah.", "label": [[26, 28, "3rd"], [26, 28, "P"]]}
+{"id": 246, "text": "C247:\tTapi kalau dah 4, 5, 6, 7 beradik, dia sepatutnya masih di tengah.", "label": []}
+{"id": 247, "text": "C248:\tKatalah 5... 1, 2 yang ketiga Angahlah.", "label": [[6, 13, "1st"], [6, 13, "S"], [14, 15, "3rd"], [14, 15, "S"]]}
+{"id": 248, "text": "C249:\tTetapi yang ni dah---Angah pada masa yang kedua, yang ketiga lagi nak tukar tak boleh.", "label": [[82, 85, "3rd"], [82, 85, "DO"], [72, 75, "1st"], [72, 75, "S"], [82, 85, "1st2"], [82, 85, "S2"]]}
+{"id": 249, "text": "C250:\tMana tau, kalau 7 orang, dia masih Angah juga, kita nak katakan Angah nombor 2, salah bahasanya.", "label": [[6, 10, "1st"], [6, 10, "S"]]}
+{"id": 250, "text": "C251:\tAngah tu maksudnya tengah.", "label": []}
+{"id": 251, "text": "P252:\tKalau 10, yang kelimalah gitu, misalnya 5 tu yang dipanggil tengah.", "label": []}
+{"id": 252, "text": "C253:\tTu kalau 11 ambil 6 lah, 6 dipanggil Angah.", "label": []}
+{"id": 253, "text": "C254:\tTetapi silapnya Angah dah diambil untuk nombor 2 tu pada awal-awal lagi.", "label": []}
+{"id": 254, "text": "C255:\tNak tukar tak boleh.", "label": [[6, 9, "1st"], [6, 9, "S"], [16, 19, "3rd"], [16, 19, "DO"], [16, 19, "1st2"], [16, 19, "S2"]]}
+{"id": 255, "text": "C256:\tKalau kita nak tukar, nak adjust, dah tak boleh nak adjust dah.", "label": [[28, 31, "1st"], [28, 31, "S"], [40, 43, "1st"], [40, 43, "S"], [26, 27, "3rd"], [26, 27, "DO"], [38, 39, "3rd"], [38, 39, "DO"], [65, 68, "3rd"], [65, 68, "DO"]]}
+{"id": 256, "text": "C257:\tJadi sebab tu, saya tak tabu nak buat macam mana.", "label": []}
+{"id": 257, "text": "C258:\tDah cucu saya tanya, saya kena jawablah.", "label": [[25, 26, "1st"], [25, 26, "DO"]]}
+{"id": 258, "text": "C259:\tSaya kira siapa dia 11 beradik, yang ke-3 tu anak.", "label": []}
+{"id": 259, "text": "C260:\tDia kata macam mana ni Tok Wan.", "label": []}
+{"id": 260, "text": "C261:\tDia Tok Wan kaji ni, angka ni dia punya graf.", "label": []}
+{"id": 261, "text": "C262:\tAwak susunlah balik.", "label": []}
+{"id": 262, "text": "C263:\tAwak panggil nombor 2 Angah, panggilan tu salah.", "label": []}
+{"id": 263, "text": "P264:\tJadi kalau lebih daripada 10 tu, macam mana, katalah adik-beradik yang kecil sekali, 5 bongsu sekali, yang 11 selalu bongsu.", "label": []}
+{"id": 264, "text": "C265:\tBongsulah.", "label": []}
+{"id": 265, "text": "C266:\tTetapi sebelum mana kita tahu nombor 11 tu bongsu.", "label": []}
+{"id": 266, "text": "C267:\tTakkan nombor 7 tu bongsu.", "label": []}
+{"id": 267, "text": "C268:\tAda yang nombor 5 bongsu dan sebagainya bongsu, macam mana kita nak adjust tak boleh.", "label": [[81, 84, "3rd"], [81, 84, "DO"], [81, 84, "1st2"], [81, 84, "S2"]]}
+{"id": 268, "text": "C269:\tLastly sampai 9 bongsu semua.", "label": []}
+{"id": 269, "text": "C270:\tJadi tu masalah tu bagaimana saya tak tahu caranya.", "label": []}
+{"id": 270, "text": "C271:\tSerupa dengan Anjang, cuma yang saya tahu daripada yang ditetapkan, kalau Anjang di sebelah atas, di sebelah tengah, kalau dia 5 beradik, dia mungkin 2 atau tiga.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 271, "text": "C272:\tDia tidak boleh duduk nombor 4 atau 5, sebab dia Anjang dan lawannya Andak.", "label": []}
+{"id": 272, "text": "C273:\tSerupa juga dengan Pak Caq dan Pak Cik, Uda dengan Pak Wa.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 273, "text": "C274:\tPak Wa tu tua, mesti atas.", "label": [[21, 26, "3rd"], [21, 26, "S"]]}
+{"id": 274, "text": "C275:\tDia lawannya Uda.", "label": []}
+{"id": 275, "text": "C276:\tKalau Pak Tam, Pak Teh, Pak Itam tu hitamlah, biasanya besar sikit hitamlah.", "label": [[61, 66, "3rd"], [61, 66, "S"]]}
+{"id": 276, "text": "C277:\tKecik-kecik putihlah.", "label": [[6, 17, "3rd"], [6, 17, "S"]]}
+{"id": 277, "text": "C278:\tJadi Pak Teh panggil yang muda, Pak Tam yang tua.", "label": [[19, 26, "3rd"], [19, 26, "S"]]}
+{"id": 278, "text": "P279:\tJadi, maknanya panggilan Pak Tam, Pak Teh tu bukanlah menunjukkan warna kulit agaknya.", "label": []}
+{"id": 279, "text": "C280:\tItu boleh jadi kemungkinan.", "label": []}
+{"id": 280, "text": "C281:\tTetapi kalau nak kata kemungkinan, masa Pak Tam tu, yalah nak mai masuk Pak Teh atau Pak Tam tu, dia hitam sikit daripada kakak dia, dipanggil Pak Tam yang datang lagi tu hitamlah.", "label": [[19, 22, "1st"], [19, 22, "S"], [64, 67, "3rd"], [64, 67, "S"], [139, 148, "3rd"], [139, 148, "S"]]}
+{"id": 281, "text": "C282:\tJadi saya rasa yang Itam dengan Pak Teh tu bukan kerana warna tetapi kedudukan diorang.", "label": []}
+{"id": 282, "text": "C283:\tJadi kalau yang Itam tu dah teruk sikit kerjanya, dah tua, hitamlah.", "label": [[56, 59, "3rd"], [56, 59, "S"]]}
+{"id": 283, "text": "C284:\tYang muda-muda sikitlah.", "label": []}
+{"id": 284, "text": "C285:\tKalau dia ada Pak Tam, dia bubuh Pak Teh, kalau ada Pak Caq dia bubuh Pak Cik, dia ada Pak Wa.", "label": [[54, 57, "3rd"], [54, 57, "S"]]}
+{"id": 285, "text": "C286:\tSesetengah Wa tu yang kemudian, kalau dia makin ada banyak beradik, gelaran akhirnya Wa.", "label": []}
+{"id": 286, "text": "C287:\tJadi saya rasa... minta maaflah... biasanya kita jarang gunakan secara terperinci.", "label": []}
+{"id": 287, "text": "C288:\tKita ada sejengkal, sehasta, sedepa, berapa panjang tak berani nak tetapkan.", "label": [[58, 61, "1st"], [58, 61, "S"]]}
+{"id": 288, "text": "C289:\tTetapi itulah ukuran orang Melayu serupa.", "label": []}
+{"id": 289, "text": "C290:\tSebab tu saya biasa orang kata time Melayu, itu bukan salah time Melayu.", "label": []}
+{"id": 290, "text": "C291:\tTime orang Melayu dulu mana ada jam, tetapi orang putih ada jam.", "label": []}
+{"id": 291, "text": "C292:\tJadi kalau dia kata, orang suruh dia datang pukul 8, dia datang pukul 8.30, dia tak salah.", "label": []}
+{"id": 292, "text": "C293:\tKalau nak jumpa kat hospital tu, nurse kata datang pukul 8.00.", "label": [[12, 15, "3rd"], [12, 15, "S"]]}
+{"id": 293, "text": "C294:\tPada dia tu pukul 8.00 macam mana, matahari naik sejengkallah.", "label": []}
+{"id": 294, "text": "C295:\tItulah pada dia pukul 8.00 macam mana.", "label": []}
+{"id": 295, "text": "C296:\tMatahari tinggi segalah tu, 7.30 hingga 8.00, 8.30.", "label": []}
+{"id": 296, "text": "C297:\tJadi, kalau dia datang pukul 8.00, orang kata betullah.", "label": []}
+{"id": 297, "text": "C298:\tSharplah.", "label": []}
+{"id": 298, "text": "C299:\tTetapi kalau datang 8.30, lalailah.", "label": [[19, 25, "3rd"], [19, 25, "S"], [32, 40, "3rd"], [32, 40, "S"]]}
+{"id": 299, "text": "C300:\tDia tak salah.", "label": []}
+{"id": 300, "text": "C301:\tDia punya time tu matahari terbit, matahari tinggi segalah, masa antara 7.30 hingga 9.30, itu tinggi segalah, panjang segalah.", "label": [[116, 123, "3rd"], [116, 123, "S"]]}
+{"id": 301, "text": "C302:\tKalau datang pukul 11.00 atau 11.30 pada orang Melayu tu tengah hari muda.", "label": [[12, 18, "3rd"], [12, 18, "S"]]}
+{"id": 302, "text": "C303:\tDia suka datang tepat, pukul 12.00.", "label": []}
+{"id": 303, "text": "C304:\tKalau dia datang pukul 12.30 pun tengah hari lagi tu.", "label": []}
+{"id": 304, "text": "C305:\tTetapi 11.30 tu tengah hari muda.", "label": []}
+{"id": 305, "text": "C306:\tSama juga dengan gelaran-gelaran ni, dia tak pi kena Sharp, yang pertama kena ni, yang kedua ni, tak dak.", "label": [[103, 106, "3rd"], [103, 106, "S"]]}
+{"id": 306, "text": "C307:\tDia boleh fleksibel.", "label": []}
+{"id": 307, "text": "C308:\tSebaiknya orang Melayu kena tetapkan.", "label": []}
+{"id": 308, "text": "C309:\tIni gunakan ini... ini gunakan ini yang menyebabkan kacau, kita guna kaedah bahasa Inggeris.", "label": []}
+{"id": 309, "text": "C310:\tTak ikut bahasa Melayu.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 310, "text": "C311:\tSatu contoh... minta maaf... mungkin orang marah.", "label": [[21, 26, "1st"], [21, 26, "S"]]}
+{"id": 311, "text": "C312:\tTetapi saya sendiri pakai begitu.", "label": []}
+{"id": 312, "text": "C313:\tKita sedang melakukan satu kesalahan dengan mengatakan selamat malam.", "label": []}
+{"id": 313, "text": "C314:\tMengikut istilah sekarang, selamat malam ialah berpisah pada masa malam.", "label": []}
+{"id": 314, "text": "C315:\tKalau pukul 8 .00 pun, selamat malam, tidur dulu.", "label": [[44, 49, "1st"], [44, 49, "S"]]}
+{"id": 315, "text": "C316:\tKalau ucap pagi-pagi kita ucap selamat pagilah, kalau jumpa tengah hari, selamat tengah hari, petang... petanglah lepas tu malam balik... mana salah... kalau jumpa waktu pagi, senanglah... selamat pagi... kalau jumpa tengah hari... selamat tengah hari, kalau petang... selamat petang, kalau malam, selamat malamlah.", "label": [[164, 169, "1st"], [164, 169, "S"], [12, 16, "1st"], [12, 16, "S"], [60, 65, "1st"], [60, 65, "S"], [217, 222, "1st"], [217, 222, "S"], [144, 148, "1st"], [144, 148, "S"], [182, 191, "1st"], [182, 191, "S"]]}
+{"id": 316, "text": "C317:\tSaya baru jumpa kawan malam tu, pukul 9.00 malam... dia ucap selamat malam... baru jumpa tu selamat malam... apalah... saya ke salah.", "label": [[84, 88, "1st"], [84, 88, "S"], [28, 33, "1st"], [28, 33, "P"]]}
+{"id": 317, "text": "C318:\tBahasa Malaysia salah.", "label": []}
+{"id": 318, "text": "C319:\tSebab saya ikut buat apa bahasa tu.", "label": []}
+{"id": 319, "text": "C320:\tSebab saya kena kata selamat malam jumpa masa tu.", "label": [[41, 46, "1st"], [41, 46, "S"]]}
+{"id": 320, "text": "C321:\tTetapi kerana bahasa bukan dipunyai oleh satu orang, tetapi digunakan oleh satu masyarakat yang gunakan bahasa tu, semuanya kata itu, itulah.", "label": []}
+{"id": 321, "text": "P322:\tDiterima pakai.", "label": [[6, 14, "3rd"], [6, 14, "S"]]}
+{"id": 322, "text": "C323:\tDiterima pakailah, tetapi saya dari segi -,kalau orang tanya balik tu salah.", "label": [[6, 14, "3rd"], [6, 14, "S"], [67, 72, "1st"], [67, 72, "IO"]]}
+{"id": 323, "text": "C324:\tTetapi kita dah guna sekarang ni, nak buat macam mana.", "label": [[40, 43, "1st"], [40, 43, "S"], [27, 35, "3rd"], [27, 35, "DO"]]}
+{"id": 324, "text": "C325:\tSama juga dengan perkataan tuan.", "label": []}
+{"id": 325, "text": "C326:\tKalau saya panggil orang yang saya jumpa perempuan... tuan, orang lain terpandang senyum, mana orang tua ni mai ni.", "label": []}
+{"id": 326, "text": "C327:\tOrang tua ni mai dari Tanjung Rambutan ka... atau dari Tampoi kaa....", "label": [[56, 60, "3rd"], [56, 60, "S"]]}
+{"id": 327, "text": "C328:\tApa khabar tuan, orang gelak.", "label": []}
+{"id": 328, "text": "C329:\tTetapi itulah bahasa sebenarnya.", "label": []}
+{"id": 329, "text": "C330:\tDia hormat pada orang tu.", "label": []}
+{"id": 330, "text": "C331:\tDia hormat pada tuan puteri... sebutan tuan puteri dia tak sebut puan puteri.", "label": []}
+{"id": 331, "text": "C332:\tDia hormat pada raja.", "label": []}
+{"id": 332, "text": "C333:\tDia kata tuanku... tuan aku.", "label": []}
+{"id": 333, "text": "C334:\tDia kena tuan juga.", "label": []}
+{"id": 334, "text": "C335:\tPerkataan tua, tuaan, itu tuan.", "label": []}
+{"id": 335, "text": "C336:\tTetapi sekarang ni apa yang saya jumpa seorang perempuan....", "label": []}
+{"id": 336, "text": "C337:\tApa khabar tuan?", "label": []}
+{"id": 337, "text": "C338:\tOrang kata saya keluar dari jawatanlah.", "label": []}
+{"id": 338, "text": "C339:\tTetapi semua orang kata begitu.", "label": []}
+{"id": 339, "text": "C340:\tSaya pun terpaksa kata begitu juga... saya tak boleh sebut apa-apa tuan.", "label": []}
+{"id": 340, "text": "C341:\tJadi di mana salah... bahasa tak salah... kita tak salah.", "label": [[24, 25, "1st"], [24, 25, "P"]]}
+{"id": 341, "text": "C342:\tKita lihat keadaan di mana dunia, masa, tempat.", "label": []}
+{"id": 342, "text": "C343:\tSekarang ni kena beritahu mereka, yang tuan ni begini, yang puan ni bukanlah asalnya begitu, tetapi sekarang telah digunakan terlebih dahulu.", "label": [[18, 22, "1st"], [18, 22, "S"], [115, 120, "3rd"], [115, 120, "S"]]}
+{"id": 343, "text": "C344:\tKalau tidak kita nanti, manalah ni tak boleh pakai dah.", "label": [[41, 44, "3rd"], [41, 44, "S"]]}
+{"id": 344, "text": "C345:\tDia ada sistem, dia ada kaedah.", "label": []}
+{"id": 345, "text": "C346:\tTua tu asalnya Uwa, tu dia ada pak we... pak we... uwa tu lebih tua... uwa... telah uwa tu tualah.", "label": []}
+{"id": 346, "text": "C347:\tMengapa pinta mengapa minta... mengapa esok... mengapa besok, mengapa alah... mengapa kalah, di mana alah... di mana kalah... tetapi bahan tak mencukupi ni terpaksa yang saya tahu cuma kalau mula dengan 's' dia menunjukkan persamaan.", "label": []}
+{"id": 347, "text": "C348:\tKalau sini tu sama dengan situ... sama dengan sana.", "label": []}
+{"id": 348, "text": "C349:\tSaya ada jumpa perkataan ana atau nana dalam bahagian Sanskrit... berada di merata tempat.", "label": [[72, 78, "3rd"], [72, 78, "S"]]}
+{"id": 349, "text": "C350:\tKalau dijadikan perbuatan macam ini jadi minum... orang Jawa kata mangan.", "label": []}
+{"id": 350, "text": "C351:\tLakukan makan... tetapi kalau bahan yang dimakan tu dikatakan pangan... bahan atau benda.", "label": [[6, 13, "1st"], [6, 13, "S"]]}
+{"id": 351, "text": "C352:\tJadi kalau malang tu, alang tu sekat, malang tu menjadi sekatan, palang tu benda yang diguna untuk sekat....", "label": []}
+{"id": 352, "text": "C353:\tDaripada itu saya dapati ada perkataan sana, mana.", "label": []}
+{"id": 353, "text": "C354:\tPerkataan mana tu berada di mana-mana, di mana.", "label": []}
+{"id": 354, "text": "C355:\tJadi dia ada di mana ni perkataan umum.", "label": []}
+{"id": 355, "text": "C356:\tKemudian tempat tu dah ditentukan sama dengan sana tu... sana.", "label": []}
+{"id": 356, "text": "C357:\tSana dia tempat mana... atau sana.", "label": []}
+{"id": 357, "text": "C358:\tKalu situ... itu, tak boleh kata saya tinggal di rumah sana... tak boleh... rumah situ... dan saya tinggal di situ... kerana di sana tempat tu umum... tu kadangkala ada orang kata, rumah kami tidur di KL, maknanya dia memang tidur sanalah... boleh.", "label": [[69, 72, "1st"], [69, 72, "S"], [248, 253, "3rd"], [248, 253, "S"], [24, 27, "1st"], [24, 27, "S"]]}
+{"id": 358, "text": "C359:\tTetapi saya nak pergi... tujuan saya nak pergi ke KL.", "label": []}
+{"id": 359, "text": "C360:\tHah di situlah saya nanti akan cari pergi.", "label": []}
+{"id": 360, "text": "C361:\tSebab kata nak gi KL... situ... itu... itu... ini... sini.", "label": [[12, 16, "1st"], [12, 16, "S"]]}
+{"id": 361, "text": "C362:\tBanyak lagi saya jumpa perkataan itu sekarang... senang saya kumpul.", "label": []}
+{"id": 362, "text": "C363:\tKalau mula dengan saya kutip dalam dictionary... beratus-ratus perkataan.", "label": [[12, 16, "1st"], [12, 16, "S"], [55, 68, "3rd"], [55, 68, "S"]]}
+{"id": 363, "text": "C364:\tKemudian cari yang bawa makna sama.", "label": [[15, 19, "1st"], [15, 19, "S"]]}
+{"id": 364, "text": "C365:\tMisalnya perkataan ambil... kalau dia lalu... dia ambil... sama dengan lalu tu... dia ambil.", "label": [[65, 69, "3rd"], [65, 69, "S"]]}
+{"id": 365, "text": "C366:\tDia sambil... sambil lalu... dia melakukan sesuatu.", "label": [[20, 26, "3rd"], [20, 26, "S"]]}
+{"id": 366, "text": "C367:\tDaripada perkataan ambil... saya ambil.", "label": []}
+{"id": 367, "text": "C368:\tBanyak lagi.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 368, "text": "C369:\tTarget akan datang, saya akan cuba... saya rasa kita banyak mengambil daripada bahasa Jawa.", "label": [[13, 17, "1st"], [13, 17, "P"]]}
+{"id": 369, "text": "C370:\tSaya bodoh sejarah.", "label": []}
+{"id": 370, "text": "C371:\tKita ambil bahasa Jawa dan bahasa Jawa tu... dia ambil daripada bahasa kita... macam bahasa Srivijaya... dia ambil daripada bahasa Srivijaya.", "label": [[85, 90, "3rd"], [85, 90, "S"]]}
+{"id": 371, "text": "C372:\tKemudian Melayu ambil daripada bahasa Jawa....", "label": []}
+{"id": 372, "text": "C373:\tMajapahit dan bahasa Melayu tu pergi ke bahasa Riau.", "label": []}
+{"id": 373, "text": "C374:\tKemudian Indonesia ambil pulak, Indonesia lihat bahasa Melayu Riau lebih maju, dia pula ambil bahasa Melayu Riau, dia gunakan bahasa Indonesia.", "label": []}
+{"id": 374, "text": "C375:\tSatu masa nanti, tak tahulah, 50 tahun, 1000 tahun lagi dari sekarang kalau orang Melayu bangkit, dia jadi Melayu Rayalah.", "label": [[23, 26, "1st"], [23, 26, "S"]]}
+{"id": 375, "text": "C376:\tIndonesia... dia akan gunakan bahasa Indonesia, dia tak akan gunakan bahasa Melayu Riau.", "label": []}
+{"id": 376, "text": "C377:\tItu pendapat saya... katalah 500 tahun lagi, Indonesia bangun haru-biru, kerajaan Malaysia jadi kerajaan kukuh, dia dapat beli Pulau-pulau Bangka, Belitong.", "label": []}
+{"id": 377, "text": "C378:\tDia boleh beli... apa..., Kalimantan pun dia boleh beli, dia akan jadi Melayu Raya, misalnya.", "label": []}
+{"id": 378, "text": "C379:\tDia akan gunakan bahasa bukanlah macam sekarang.", "label": []}
+{"id": 379, "text": "C380:\tDia akan gunakan bahasa Indonesia.", "label": []}
+{"id": 380, "text": "C381:\tSebab bahasa Indonesia sekarang ni bahasa Indonesia ambil daripada bahasa Melayu Riau.", "label": []}
+{"id": 381, "text": "C382:\tBahasa Melayu ambil daripada bahasa Jawa, Majapahit ambil daripada Srivijaya.", "label": []}
+{"id": 382, "text": "C383:\tMasa Srivijaya punya empayar, Majapahit menduduki siaran di sebelah pantai Pulau Bali.", "label": []}
+{"id": 383, "text": "C384:\tSebab tu sebelah barat, bahasa Jawa itu terkulun.", "label": []}
+{"id": 384, "text": "C385:\tKulun dia ada imbuhan dalam tu.", "label": []}
+{"id": 385, "text": "C386:\tDia punya 'un' tu, dia ada 'u' dan 'an', laku...an----lakun, bum...an-buman, wadu...an... wadu tu kahwin, wadu tu isteri... isteri... waduan... tu makna perempuan.", "label": []}
+{"id": 386, "text": "C387:\tJadi perkataan kulun, ulu... an -ulun... keuluan... ini pendapat saya... saya bukan pakar bahasa Jawa... tak reti bahasa Jawa tetapi lebih kurang daripada contoh-contoh tadi, dia mungkin keuluan jadi kulun.", "label": [[111, 114, "1st"], [111, 114, "S"]]}
+{"id": 387, "text": "C388:\tSebab dia cakap kulun tu, kerajaan Jawa ada 3/4 diri, apakah kecik-kecik di pantai sebelah sana, jadi datang ke ulu... bukit-bukitlah.", "label": [[108, 114, "3rd"], [108, 114, "S"]]}
+{"id": 388, "text": "C389:\tBukit ululah.", "label": []}
+{"id": 389, "text": "C390:\tJadi kata kulun tu keuluan....", "label": [[11, 15, "3rd"], [11, 15, "S"]]}
+{"id": 390, "text": "C391:\tKemudian kalah tetapi Cina... kita ambil selatan.", "label": [[15, 20, "3rd"], [15, 20, "S"]]}
+{"id": 391, "text": "C392:\tSelatan tu pada mulanya asalnya selat... duri... durian... rambut... rambutan, laut... lautan... darat... daratan.", "label": []}
+{"id": 392, "text": "C393:\tJadi selat... selatan.", "label": []}
+{"id": 393, "text": "C394:\tSebab tu Singapura, daripada Riau berlari ke arah selatan... arah selat, mesti banyak pulau-pulau....", "label": [[26, 34, "3rd"], [26, 34, "S"]]}
+{"id": 394, "text": "C395:\tPulau Belitong, Riau... Bangka.", "label": []}
+{"id": 395, "text": "C396:\tJadi arah tu banyak selat... arah banyak selat... selatan.", "label": []}
+{"id": 396, "text": "C397:\tKalau banyak ke hulu, arah ke hulu... arah keulun.", "label": [[12, 18, "3rd"], [12, 18, "S"]]}
+{"id": 397, "text": "C398:\tAnak saya-pendapat saya dengan cara banding....", "label": [[49, 50, "3rd"], [49, 50, "DO"]]}
+{"id": 398, "text": "C399:\tSebab tu saya hendakkan kamus-kamus ni.", "label": []}
+{"id": 399, "text": "C400:\tBila bercanggah pendapat satu, saya cari balik.", "label": [[11, 21, "1st"], [11, 21, "S"], [47, 52, "3rd"], [47, 52, "IO"]]}
+{"id": 400, "text": "C401:\tKemudian kalau... i bunyi i... an, dia bunyi 'en', contohnya Radin.", "label": []}
+{"id": 401, "text": "C402:\tRadin tu daripada perkataan rak... ati... an.", "label": []}
+{"id": 402, "text": "C403:\tKata bahasa Jawa kata darah... adi... tinggi... an... orang darah tinggi tu rak di an... rak din... radin.", "label": []}
+{"id": 403, "text": "C404:\tSantri, belajar sekolah agama tu santrilah.", "label": [[14, 21, "3rd"], [14, 21, "S"]]}
+{"id": 404, "text": "C405:\tKalau tempat belajar tu dipanggil santren....", "label": []}
+{"id": 405, "text": "C406:\tApa saya kata ni, saya nak buktikan yang ada bukti.", "label": [[47, 50, "3rd"], [47, 50, "S"]]}
+{"id": 406, "text": "C407:\tMamak tu pak sedara... kalau bahasa Jawa dipanggil Maman.", "label": []}
+{"id": 407, "text": "C408:\tPasal tu orang Melayu kita ambil perkataan maman tu untuk panggil PM, Bendahara, dipanggil Mamak Bendahara.", "label": [[87, 96, "3rd"], [87, 96, "S"]]}
+{"id": 408, "text": "C409:\tMamak Gahara.", "label": []}
+{"id": 409, "text": "C410:\tHajat bin Mamandak.", "label": []}
+{"id": 410, "text": "C411:\tMamanda menteri gelaran Mamanda tu pak penakan.", "label": []}
+{"id": 411, "text": "C412:\tMak kita panggil Mamak.", "label": [[23, 28, "3rd"], [23, 28, "IO"]]}
+{"id": 412, "text": "C413:\tOrang Indonesia panggil Maman.", "label": []}
+{"id": 413, "text": "P414:\tTetapi ada juga beberapa orang kawan saya.", "label": []}
+{"id": 414, "text": "P415:\tMungkin dia dari keturunan Minangkabau.", "label": []}
+{"id": 415, "text": "P416:\tMungkin dari sekitar situlah, dia memanggil bapak sedara dia Mamak.", "label": [[14, 18, "3rd"], [14, 18, "S"]]}
+{"id": 416, "text": "P417:\tDia panggil Mamak.", "label": []}
+{"id": 417, "text": "P418:\tAda tak panggilan tu dalam bahasa Melayu.", "label": []}
+{"id": 418, "text": "C419:\tMamak betullah.", "label": [[12, 20, "3rd"], [12, 20, "S"]]}
+{"id": 419, "text": "C420:\tMemang ada dalam bahasa Melayu.", "label": [[6, 12, "3rd"], [6, 12, "S"]]}
+{"id": 420, "text": "C421:\tBukan bahasa Keling.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 421, "text": "C422:\tBukan orang India panggil Mamak.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 422, "text": "C423:\tTetapi Jawanya maman.", "label": []}
+{"id": 423, "text": "C424:\tKita ambil perkataan 'da' tu bahasa Sanskritlah.", "label": []}
+{"id": 424, "text": "C425:\tKalau misalnya kakangda... kekanda... 'g'nya drop.", "label": []}
+{"id": 425, "text": "C426:\tKalau ibung sama dengan mak... ibu atau ibung jadi ibunda, 'i' hilang jadi bunda... bukan bonda... bunda... kalau ibung... ibunda... adik... ading... adik sahaja... 'ng' drop sama juga mamang dia panggil Mamanda.", "label": [[90, 95, "3rd"], [90, 95, "S"], [105, 110, "3rd"], [105, 110, "S"]]}
+{"id": 426, "text": "C427:\tKalau kita tahu cara beza dia.", "label": []}
+{"id": 427, "text": "C428:\tSebab tu benda tu saya kumpul.", "label": []}
+{"id": 428, "text": "C429:\t5/6 benda saya cari, bukak kamus.", "label": [[27, 32, "1st"], [27, 32, "S"]]}
+{"id": 429, "text": "C430:\tMungkin satu masa ada orang... saya teringat...", "label": []}
+{"id": 430, "text": "C431:\tla orang buat kajian apa ni ditulis Johor kata member.", "label": []}
+{"id": 431, "text": "C432:\tDia punya tulisan dulu dikaji balik.", "label": []}
+{"id": 432, "text": "C433:\tSayid Syeikh al-Hadi, Abdullah Munsyi.", "label": []}
+{"id": 433, "text": "C434:\tBenda tu kadangkala ada benda-benda yang boleh dianalisis balik dan digunakan.", "label": []}
+{"id": 434, "text": "C435:\tMacam buku warisan tentang hubungan kata, tulisan Jawa... jadi dikaji.", "label": [[64, 68, "3rd"], [64, 68, "S"]]}
+{"id": 435, "text": "C436:\tMungkin pada masa saya sekarang, saya himpun-himpun dan beritahu pada anak saya mungkin masa ni, nak buat tesis ke... mungkin sebab pada masa diorang nanti, banyak kemudahan ada.", "label": [[103, 106, "2nd"], [103, 106, "S"]]}
+{"id": 436, "text": "C437:\tMungkin pada masa depan tu pakai CD aje... bubuh CD.", "label": [[33, 38, "3rd"], [33, 38, "S"], [49, 54, "3rd"], [49, 54, "S"]]}
+{"id": 437, "text": "C438:\tJadi saya kutip saya simpan.", "label": []}
+{"id": 438, "text": "C439:\tBerapa banyak bahasa Melayu yang kita silau.", "label": []}
+{"id": 439, "text": "C440:\tOrang yang buat Kamus Dewan, ditulis perkataan tu jerigi, itu salah....", "label": []}
+{"id": 440, "text": "C441:\tHanya salah dalam ni, ada pengarang ambil tu.", "label": []}
+{"id": 441, "text": "P442:\tJadi kesalahan itu berterusan.", "label": []}
+{"id": 442, "text": "C443:\tPerkataan jerigi tetapi orang yang banyak kelulusan belajar cara bahasa Inggeris 'gi 'bunyi 'ji', dulu ideologi, 'gi' lah, ideologi bukan, sosiologi apa semua, semua 'gi'.", "label": []}
+{"id": 443, "text": "C444:\tJadi geogologi dia jeiugi.", "label": []}
+{"id": 444, "text": "C445:\tSilap tu dibuat apabila orang nak cuba buku Riau... buku bahasa Riau.", "label": []}
+{"id": 445, "text": "C446:\tDi tu adat Semenda, adat gitu, macam sajak-sajak.", "label": [[37, 42, "3rd"], [37, 42, "S"]]}
+{"id": 446, "text": "C447:\tDaripada situ saya rasa perkataan benderang asalnya bendang.", "label": []}
+{"id": 447, "text": "C448:\tBenderang itu ialah kata yang dihubung yang maksudnya terang benderang.", "label": []}
+{"id": 448, "text": "C449:\tKata dasar yang sebenarnya ialah bendang.", "label": []}
+{"id": 449, "text": "C450:\tBunyi 'ang' di belakang gendang... benderang....", "label": []}
+{"id": 450, "text": "C451:\tMungkin saya cuba cari bendang tu apa makna.", "label": []}
+{"id": 451, "text": "C452:\tBendang tu sawahlah.", "label": []}
+{"id": 452, "text": "C453:\tRupanya bendang tu bukan makna sawah.", "label": []}
+{"id": 453, "text": "C454:\tSawah tu tempat tanam padi.", "label": []}
+{"id": 454, "text": "C455:\tRupanya bendang tu yang kata laut-laut bendang-bendang.", "label": []}
+{"id": 455, "text": "C456:\tApa guna dian.", "label": []}
+{"id": 456, "text": "C457:\tDan kemudian ada salah satunya yang nyata tu bendang-bendang.", "label": []}
+{"id": 457, "text": "C458:\tMaksudnya yang nyalanya tu bukan sikit... macam nyalanya yang bendang-bendanglah....", "label": [[48, 53, "3rd"], [48, 53, "S"]]}
+{"id": 458, "text": "P459:\tMenyeluruhlah ye?", "label": [[6, 19, "3rd"], [6, 19, "S"]]}
+{"id": 459, "text": "C460:\tHah macam menyeluruh.", "label": [[10, 15, "3rd"], [10, 15, "S"]]}
+{"id": 460, "text": "C461:\tJadi perkataan bendang tu maknanya meluas, menyeluruh, bukan sekelompok sikit.", "label": [[61, 66, "3rd"], [61, 66, "S"]]}
+{"id": 461, "text": "C462:\tBila terang benderang itu maknanya.", "label": []}
+{"id": 462, "text": "C463:\tTetapi malangnya ada pakarlah masukkan @ perkataan berganda berubah @ berganda yang huruf ± dia jadi bmb... terang... erang ada lagi.", "label": []}
+{"id": 463, "text": "C464:\tJadi huruf konsonan t ditukar menjadi bend... yang sebenarnya bukan itu, dia terang... benderang... jadi terang bendang-bendanglah.", "label": []}
+{"id": 464, "text": "C465:\tNyala bendang-bendang.", "label": []}
+{"id": 465, "text": "C466:\tMacam perkataan cengkang menjadi cangkerang.", "label": []}
+{"id": 466, "text": "C467:\tCangkerang menggunakan perkataan untuk menerangkan... tak lepas dah... tu yang tak bagi cangkerang.", "label": [[60, 63, "3rd"], [60, 63, "S"]]}
+{"id": 467, "text": "C468:\tSo bagi gendam dan genderang... genderang perkataan macam gendang tetapi cara dia lain sikit.", "label": [[9, 13, "1st"], [9, 13, "S"]]}
+{"id": 468, "text": "C469:\tItu guna sisipan yang diakhir banyak perkataan yang kata pertama tetapi yang suku kata akhir tak kurang juga... macam perkataan cenderung asalnya di tu condong... cendeng tu condong... conderung... condong menjadi cenderung... itu yang sebetulnya... itu sisipan pada suku kata akhir.", "label": []}
+{"id": 469, "text": "C470:\tDi suku kata akhir ada sisipan tak banyak.", "label": []}
+{"id": 470, "text": "C471:\tMacam gendang... genderang... condong... conderung... cengkam... cangkerang... cengkang... cangkerang... kulit cengkerang tu kulit yang cengkam... kulit yang keras.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
+{"id": 471, "text": "C472:\tBinatang yang kulit cangkerang, tu yang ada kulit yang kerang, kepala, siput... tu dia cangkerang.", "label": []}
+{"id": 472, "text": "C473:\tAsalnya cengkang.", "label": [[6, 13, "3rd"], [6, 13, "S"]]}
+{"id": 473, "text": "C474:\tBahasa yang datang dalam bahasa Jawa banyak.", "label": []}
+{"id": 474, "text": "C475:\tla sama ada sebut ba @ bi.", "label": []}
+{"id": 475, "text": "C476:\tKadang banyak sebut semberot banyak tu kalau semak balik kita akan jumpa.", "label": []}
+{"id": 476, "text": "C477:\tItu sebab kena buat kajian.", "label": [[16, 20, "1st"], [16, 20, "S"]]}
+{"id": 477, "text": "P478:\tSaya rasa setakat tu dulu tentang kata panggilan atau sapaan dalam keluarga.", "label": []}
+{"id": 478, "text": "P479:\tJadi saya ucapkan ribuan terima kasih pada cikgu.", "label": []}
+{"id": 479, "text": "P480:\tKalau ada rezeki, panjang umur kita jumpa lagi.", "label": []}
+{"id": 480, "text": "C481:\tInsya-Allah.", "label": []}
+{"id": 481, "text": "P482:\tTerima kasih cikgu ye.", "label": []}

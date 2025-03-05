@@ -1,0 +1,18 @@
+{"id": 0, "text": "B1:\tTengok-tengoklah dik....", "label": [[4, 20, "2nd"], [4, 20, "S"]]}
+{"id": 1, "text": "B2:\tNak apa tu, nak kain ke?", "label": [[4, 7, "2nd"], [4, 7, "S"], [16, 19, "2nd"], [16, 19, "S"]]}
+{"id": 2, "text": "B3:\t... Ambik yang nilah sehelai dik.", "label": [[8, 13, "2nd"], [8, 13, "S"]]}
+{"id": 3, "text": "B4:\tNak bagi murah-murah yah.", "label": [[4, 7, "1st"], [4, 7, "S"], [13, 24, "2nd"], [13, 24, "IO"]]}
+{"id": 4, "text": "B5:\tPagi-pagi ni nak gori.", "label": [[17, 20, "1st"], [17, 20, "S"]]}
+{"id": 5, "text": "B6:\tJangan bimbang pasal harga, harga boleh berunding.", "label": [[4, 10, "2nd"], [4, 10, "S"], [30, 31, "3rd"], [30, 31, "P"], [38, 43, "3rd"], [38, 43, "P"], [38, 43, "1st2"], [38, 43, "S2"]]}
+{"id": 6, "text": "A7:\tPasal hargalah yang saya bimbang.", "label": []}
+{"id": 7, "text": "B8:\tAlah... sama-sama kita ni, tak apalah... yang hijau tu cantik dik.", "label": []}
+{"id": 8, "text": "B9:\tAda sepasang saja lagi.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 9, "text": "B10:\tBukalah tengok, buka baru boleh tahu comel---tak comel.", "label": [[5, 12, "2nd"], [5, 12, "S"], [21, 25, "2nd"], [21, 25, "S"], [19, 20, "3rd"], [19, 20, "DO"], [42, 47, "3rd"], [42, 47, "S"], [26, 30, "3rd"], [26, 30, "DO"], [26, 30, "2nd2"], [26, 30, "S2"]]}
+{"id": 10, "text": "A11:\tYang ni berapa?", "label": []}
+{"id": 11, "text": "B12:\tYang tu empat puluh ringgit, mahallah sikit yang tu, fesyen baru, cara buat dia pun lain.", "label": [[58, 64, "3rd"], [58, 64, "S"]]}
+{"id": 12, "text": "A13:\tYang ni?", "label": []}
+{"id": 13, "text": "B14:\tDua puluh lapan ringgit.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 14, "text": "A15:\tYang warna putih berkaki ada tak?", "label": [[30, 33, "2nd"], [30, 33, "S"]]}
+{"id": 15, "text": "B16:\tTak ada dik, sekarang ni warna-warna macam ni yang laris, warna merah, warna hijau, warna putih cepat kotor, Kak Dah pun tak jual.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 16, "text": "A17:\tTak bolehlah sebab orang kirim, dia nak putih....", "label": [[35, 36, "1st"], [35, 36, "DO"], [5, 8, "1st"], [5, 8, "S"]]}
+{"id": 17, "text": "A18:\tTak apalah kak, cuba cari tempat lain lagi.", "label": [[21, 25, "1st"], [21, 25, "S"]]}

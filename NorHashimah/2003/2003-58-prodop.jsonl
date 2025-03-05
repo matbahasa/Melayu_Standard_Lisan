@@ -1,0 +1,8 @@
+{"id": 0, "text": "A1:\tKain ni berapa kak?", "label": []}
+{"id": 1, "text": "B2:\tKita letak enam puluh lima, nak kita boleh kurang lagi.", "label": [[15, 19, "3rd"], [15, 19, "IO"], [32, 35, "2nd"], [32, 35, "S"], [36, 40, "3rd"], [36, 40, "DO"], [54, 58, "3rd"], [54, 58, "DO"]]}
+{"id": 2, "text": "A3:\tBerapa?", "label": [[4, 10, "3rd"], [4, 10, "S"]]}
+{"id": 3, "text": "B4:\tBagi empat puluh lima.", "label": [[4, 8, "1st"], [4, 8, "S"], [9, 14, "3rd"], [9, 14, "IO"]]}
+{"id": 4, "text": "A5:\tTak boleh empat puluh.", "label": [[4, 7, "1st"], [4, 7, "S"]]}
+{"id": 5, "text": "B6:\tTak boleh dah.", "label": [[4, 7, "1st"], [4, 7, "S"]]}
+{"id": 6, "text": "A7:\tEmpat puluh tak boleh kak?", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 7, "text": "B8:\tIkhlas kita kata sebab dia jenis jarum emas... mahal.", "label": [[51, 56, "3rd"], [51, 56, "S"], [21, 26, "3rd"], [21, 26, "DO"]]}

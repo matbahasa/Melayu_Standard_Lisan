@@ -1,0 +1,11 @@
+{"id": 0, "text": "A1:\tYang ni berapa?", "label": []}
+{"id": 1, "text": "B2:\tYang ni mahal sikit, tiga puluh lebih sebab barang supermarket.", "label": [[48, 54, "3rd"], [48, 54, "S"], [25, 29, "3rd"], [25, 29, "S"]]}
+{"id": 2, "text": "B3:\tNak berapa buah.", "label": [[4, 7, "2nd"], [4, 7, "S"], [8, 14, "3rd"], [8, 14, "IO"]]}
+{"id": 3, "text": "A4:\tDua saja.", "label": []}
+{"id": 4, "text": "A5:\tMahallah kak tak leh kurang ke?", "label": [[32, 34, "3rd"], [32, 34, "DO"], [4, 12, "3rd"], [4, 12, "S"]]}
+{"id": 5, "text": "B6:\tTengok-tengoklah dulu, kalau boleh kita bagi kurang, yang dua ni ke?", "label": [[4, 20, "2nd"], [4, 20, "S"], [49, 55, "2nd"], [49, 55, "IO"], [21, 25, "3rd"], [21, 25, "DO"]]}
+{"id": 6, "text": "B7:\tMacam nilah, kita bagi tiga puluh cukup.", "label": [[27, 31, "2nd"], [27, 31, "IO"], [27, 31, "3rd2"], [27, 31, "DO2"]]}
+{"id": 7, "text": "A8:\tSikit lagilah kak.", "label": []}
+{"id": 8, "text": "B9:\tMurah dah tu dik, mana-mana adik pergi pun, orang letak harga tu juga, pasal adik ambil dua, kak bagi tiga puluh ringgit.", "label": [[60, 65, "3rd"], [60, 65, "DO"], [92, 95, "3rd"], [92, 95, "IO"], [106, 110, "2nd"], [106, 110, "IO"], [106, 110, "3rd2"], [106, 110, "DO2"]]}
+{"id": 9, "text": "A10:\tBagilah kurang satu ringgit lagi.", "label": [[5, 12, "2nd"], [5, 12, "S"], [13, 19, "1st"], [13, 19, "IO"], [13, 19, "3rd2"], [13, 19, "DO2"]]}
+{"id": 10, "text": "B11:\tBiarlah tak apa, tahan kain ni, bukannya tak tahan.", "label": [[5, 12, "1st"], [5, 12, "S"], [46, 49, "3rd"], [46, 49, "S"]]}

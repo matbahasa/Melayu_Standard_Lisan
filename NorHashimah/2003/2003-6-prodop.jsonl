@@ -1,0 +1,21 @@
+{"id": 0, "text": "A1:\tBaju sekolah tangan pendek ada tak?", "label": []}
+{"id": 1, "text": "B2:\tAda, yang ni padan (muat/sesuai).", "label": [[4, 7, "3rd"], [4, 7, "S"], [17, 22, "3rd"], [17, 22, "S"]]}
+{"id": 2, "text": "A3:\tSingkat ni.", "label": []}
+{"id": 3, "text": "B4:\tBoleh dah ni mak cik.", "label": []}
+{"id": 4, "text": "B5:\t-Dia pakai seluar, baju ni orang letak dalam seluar....", "label": []}
+{"id": 5, "text": "B6:\tBoleh dah ni.", "label": []}
+{"id": 6, "text": "A7:\tBaju sekolah untuk budak tadika?", "label": []}
+{"id": 7, "text": "B8:\tBaju putih?", "label": []}
+{"id": 8, "text": "A9:\tA... a... berapa rial tu?", "label": []}
+{"id": 9, "text": "B10:\tEnam ringgit.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 10, "text": "A11:\tBuatan mana ni?", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
+{"id": 11, "text": "B12:\tYang buatan Malaysia.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 12, "text": "B13:\tBarang-barang sekolah tempat ambo yang Malaysia belaka.", "label": []}
+{"id": 13, "text": "B14:\tBaju-baju sekolah ambo tak hak Siam.", "label": []}
+{"id": 14, "text": "B15:\tCari apa tu dik?", "label": []}
+{"id": 15, "text": "C16:\tKain tudung.", "label": []}
+{"id": 16, "text": "B17:\tYang ni boleh dik, cantik ni.", "label": []}
+{"id": 17, "text": "C18:\tBerapa rial ni?", "label": []}
+{"id": 18, "text": "B19:\tYang ni bagi enam setengah yah (aje).", "label": [[13, 17, "1st"], [13, 17, "S"], [18, 22, "3rd"], [18, 22, "IO"]]}
+{"id": 19, "text": "C20:\tTak boleh kurang ke ni?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
+{"id": 20, "text": "B21:\tTak leh dah dik, saya pun boleh lima puluh sen saja ni.", "label": [[5, 8, "1st"], [5, 8, "S"]]}

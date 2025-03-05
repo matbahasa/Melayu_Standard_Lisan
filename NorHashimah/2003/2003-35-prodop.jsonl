@@ -1,0 +1,16 @@
+{"id": 0, "text": "A1:\tBerapa ni?", "label": []}
+{"id": 1, "text": "B2:\tLetak tiga puluh ringgit, orang ambil dua puluh pasang pun kita jual dua puluh lapan jugak.", "label": [[4, 9, "1st"], [4, 9, "S"], [10, 14, "3rd"], [10, 14, "IO"], [73, 76, "3rd"], [73, 76, "DO"]]}
+{"id": 2, "text": "A3:\tKita ambil dua ni, bagi murahlah sikit.", "label": [[23, 27, "2nd"], [23, 27, "S"], [28, 36, "1st"], [28, 36, "IO"]]}
+{"id": 3, "text": "B4:\tMurah dah tu kak.", "label": []}
+{"id": 4, "text": "A5:\tDua puluhlah.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 5, "text": "B6:\tDua puluh macam mana, beli tak dapat modal kita.", "label": [[26, 30, "2nd"], [26, 30, "S"], [31, 34, "3rd"], [31, 34, "DO"], [31, 34, "1st2"], [31, 34, "S2"]]}
+{"id": 6, "text": "B7:\tModal kita dua puluh lebih dah tu, kita tak cakap tipu.", "label": []}
+{"id": 7, "text": "A8:\tJadi bagi berapa?", "label": [[9, 13, "2nd"], [9, 13, "S"], [14, 20, "1st"], [14, 20, "IO"]]}
+{"id": 8, "text": "A9:\tIkhlas tu.", "label": [[4, 10, "2nd"], [4, 10, "S"]]}
+{"id": 9, "text": "B10:\tDua puluh lapan, dua puluh lapan---jadi lima puluh enam---ikhlaslah kita.", "label": [[40, 44, "3rd"], [40, 44, "S"], [5, 8, "3rd"], [5, 8, "S"], [22, 25, "3rd"], [22, 25, "S"]]}
+{"id": 10, "text": "A11:\tJacquard tu berapa?", "label": []}
+{"id": 11, "text": "B12:\tSeratus lapan puluh ringgit boleh kurang lagi.", "label": [[33, 38, "1st"], [33, 38, "S"], [5, 12, "3rd"], [5, 12, "S"], [46, 50, "3rd"], [46, 50, "DO"]]}
+{"id": 12, "text": "A13:\tNi bagi seratus ringgitlah.", "label": [[8, 12, "1st"], [8, 12, "S"], [13, 20, "3rd"], [13, 20, "IO"]]}
+{"id": 13, "text": "B14:\tSeratus tak dapat, seratus lima puluh bolehlah kita bagi.", "label": [[13, 16, "1st"], [13, 16, "S"]]}
+{"id": 14, "text": "A15:\tSeratus lima puluh bolehlah, kita ambil juga ni.", "label": [[24, 32, "1st"], [24, 32, "S"], [5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 15, "text": "B16:\tAmbiklah dik---kak bagi lima puluh lima saja kat Singapore tidak boleh harga tu.", "label": [[29, 33, "2nd"], [29, 33, "IO"], [64, 69, "3rd"], [64, 69, "S"], [29, 33, "3rd2"], [29, 33, "DO2"], [5, 13, "2nd"], [5, 13, "S"]]}

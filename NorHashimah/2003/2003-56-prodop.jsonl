@@ -1,0 +1,9 @@
+{"id": 0, "text": "A1:\tTak kurang lagi harga ini?", "label": [[4, 7, "2nd"], [4, 7, "S"]]}
+{"id": 1, "text": "B2:\tBiar kita kurang dululah, nanti tak jadi, ambik barang, tak pasal-pasal pulak, tak boleh bagi.", "label": [[21, 28, "3rd"], [21, 28, "DO"], [36, 39, "3rd"], [36, 39, "S"], [83, 86, "1st"], [83, 86, "S"], [46, 51, "2nd"], [46, 51, "S"], [4, 8, "2nd"], [4, 8, "S"]]}
+{"id": 2, "text": "A3:\tYang ni berapa ni?", "label": []}
+{"id": 3, "text": "B4:\tGinilah, yang ini, kita bagi enam belas setengah, yang satu lagi sembilan belas.", "label": [[33, 37, "2nd"], [33, 37, "IO"], [33, 37, "3rd2"], [33, 37, "DO2"]]}
+{"id": 4, "text": "A5:\tTak boleh lima belas?", "label": [[4, 7, "2nd"], [4, 7, "S"], [14, 18, "3rd"], [14, 18, "S"]]}
+{"id": 5, "text": "B6:\tYang itu kita bagi lima belas, tolak ansur benar dah tu.", "label": [[23, 27, "3rd"], [23, 27, "IO"], [35, 40, "1st"], [35, 40, "S"]]}
+{"id": 6, "text": "A7:\tTak boleh lagi ke?", "label": [[4, 7, "2nd"], [4, 7, "S"]]}
+{"id": 7, "text": "B8:\tBiarlah, kita potong yang tu enam belas, lepas tu yang satu lagi tu lima belas.", "label": []}
+{"id": 8, "text": "A9:\tJadi semua sekali tiga puluh satulah.", "label": []}

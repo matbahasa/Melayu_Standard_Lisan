@@ -1,0 +1,78 @@
+{"id": 0, "text": "A1:\tKain batik Jawa ni berapa?", "label": []}
+{"id": 1, "text": "B2:\tDua puluh ringgit kak, dia labuh.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 2, "text": "A3:\tYang ni?", "label": []}
+{"id": 3, "text": "B4:\tYang tu, harga saya letak tujuh belas, saya jual satu-satu lima belas.", "label": [[19, 23, "3rd"], [19, 23, "P"], [53, 62, "3rd"], [53, 62, "IO"]]}
+{"id": 4, "text": "B5:\tAmbiklah kak satu.", "label": [[13, 16, "3rd"], [13, 16, "IO"]]}
+{"id": 5, "text": "A6:\tYang ni kira macam mana?", "label": [[12, 16, "2nd"], [12, 16, "S"]]}
+{"id": 6, "text": "B7:\tYang tu, saya bagi seratus lapan puluh, sehelai-sehelai saya jual sebelas ringgit.", "label": [[23, 30, "3rd"], [23, 30, "IO"], [70, 77, "3rd"], [70, 77, "IO"]]}
+{"id": 7, "text": "B8:\tYang ni saya jual satu-satu sembilan tetapi kalau saya bagi harga niaga, jatuh lapan ringgit sehelai.", "label": [[22, 31, "3rd"], [22, 31, "DO"], [64, 69, "2nd"], [64, 69, "IO"], [77, 82, "3rd"], [77, 82, "S"]]}
+{"id": 8, "text": "A9:\tYang ni sekodi berapa?", "label": []}
+{"id": 9, "text": "B10:\tSekodi seratus lima puluh.", "label": []}
+{"id": 10, "text": "A11:\tTak boleh kurang lagi ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
+{"id": 11, "text": "B12:\tTak boleh kak, habislah tu.", "label": [[5, 8, "1st"], [5, 8, "S"], [20, 28, "3rd"], [20, 28, "S"]]}
+{"id": 12, "text": "B13:\tSaya pun boleh dua, tiga puluh sen yah sehelai, bukannya boleh banyak.", "label": [[68, 74, "3rd"], [68, 74, "IO"], [62, 67, "1st"], [62, 67, "S"]]}
+{"id": 13, "text": "A14:\tYang ni berapa?", "label": []}
+{"id": 14, "text": "B15:\tYang ni dua ratus.", "label": []}
+{"id": 15, "text": "A16:\tAllah, kenapa mahal sangat?", "label": [[19, 24, "3rd"], [19, 24, "S"]]}
+{"id": 16, "text": "B17:\tSebab dia empat lapis, kalau tiga lapis seratus lapan puluh, yang empat lapis lebih tebal.", "label": [[45, 52, "3rd"], [45, 52, "S"]]}
+{"id": 17, "text": "B18:\tKak nak sekodi ke?", "label": []}
+{"id": 18, "text": "B19:\tKak berani berapa yang empat lapis ni?", "label": []}
+{"id": 19, "text": "B20:\tSaya bagi pada kak, dua ratus.", "label": [[15, 19, "3rd"], [15, 19, "DO"]]}
+{"id": 20, "text": "B21:\tSatu kodi saya letak sehelai-sehelai sebelas.", "label": [[26, 41, "3rd"], [26, 41, "DO"]]}
+{"id": 21, "text": "B22:\tKalau boleh saya minum air, bagi.", "label": [[33, 37, "1st"], [33, 37, "S"]]}
+{"id": 22, "text": "A23:\tKalau seratus enam puluh ringgit?", "label": [[11, 18, "3rd"], [11, 18, "S"]]}
+{"id": 23, "text": "B24:\tGinilah, saya bagi sembilan ringgit sehelai, saya pun boleh sikit saja.", "label": [[24, 32, "2nd"], [24, 32, "IO"], [24, 32, "3rd2"], [24, 32, "DO2"]]}
+{"id": 24, "text": "A25:\tHabis saya nak jual nanti, berapa?", "label": [[25, 30, "3rd"], [25, 30, "DO"]]}
+{"id": 25, "text": "B26:\tGinilah, saya bagi seratus enam puluh, kurang lima ringgit lagi.", "label": [[24, 31, "2nd"], [24, 31, "IO"], [44, 50, "1st"], [44, 50, "S"], [51, 55, "3rd"], [51, 55, "DO"], [24, 31, "3rd2"], [24, 31, "DO2"]]}
+{"id": 26, "text": "B27:\tTak boleh gi dah tu, saya pun boleh sikit saja.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 27, "text": "B28:\tNiaga ni tak boleh banyak.", "label": [[14, 17, "1st"], [14, 17, "S"]]}
+{"id": 28, "text": "B29:\tKalau kak pergi tempat lain pun, kadang tu beza dengan tempat saya sampai lima ringgit sekodi.", "label": [[48, 52, "3rd"], [48, 52, "S"], [72, 78, "3rd"], [72, 78, "S"]]}
+{"id": 29, "text": "B30:\tKain baru ni kak, baru sampai semalam.", "label": [[23, 27, "3rd"], [23, 27, "S"]]}
+{"id": 30, "text": "B31:\tJadi semua sekali dua ratus sembilan puluh.", "label": []}
+{"id": 31, "text": "A32:\tDua ratus sembilan sajalah, itu pun lima ringgit.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
+{"id": 32, "text": "A33:\tAlah lima ringgit itu pun nak kira.", "label": [[31, 34, "2nd"], [31, 34, "S"]]}
+{"id": 33, "text": "B34:\tTak dapat, itu pun boleh buat minum air saja kak.", "label": [[5, 8, "1st"], [5, 8, "S"], [24, 29, "1st"], [24, 29, "S"]]}
+{"id": 34, "text": "A35:\tLima ringgit minum air, sekejap lagi habislah.", "label": [[42, 50, "3rd"], [42, 50, "S"]]}
+{"id": 35, "text": "B36:\tBayar hasil lagi, yang ni sikit, yang tu sikit.", "label": [[5, 10, "1st"], [5, 10, "S"]]}
+{"id": 36, "text": "B37:\tBoleh sikit-sikit saja kak.", "label": [[5, 10, "1st"], [5, 10, "S"]]}
+{"id": 37, "text": "B38:\tTak boleh banyak.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 38, "text": "A39:\tTiga lapis ni berapa.", "label": []}
+{"id": 39, "text": "B40:\tSeratus empat puluh.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 40, "text": "A41:\tSeratus dua puluh saja.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 41, "text": "B42:\tSeratus dua puluh tidak boleh.", "label": [[23, 28, "1st"], [23, 28, "S"], [5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 42, "text": "B43:\tRugi saya kalau seratus dua puluh.", "label": [[21, 28, "3rd"], [21, 28, "S"]]}
+{"id": 43, "text": "B44:\tJatuh sehelai-sehelai tujuh ringgit, tak mahal dah tu.", "label": [[5, 10, "3rd"], [5, 10, "S"], [42, 45, "3rd"], [42, 45, "S"]]}
+{"id": 44, "text": "B45:\tGinilah kalau kak nak, kita bagi seratus tiga puluh.", "label": [[26, 27, "3rd"], [26, 27, "DO"], [38, 45, "2nd"], [38, 45, "IO"], [38, 45, "3rd2"], [38, 45, "DO2"]]}
+{"id": 45, "text": "B46:\tTak boleh pergi dah tu.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 46, "text": "A47:\tSeratus dua puluhlah.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 47, "text": "B48:\tSeratus dua puluh tak boleh.", "label": [[23, 26, "1st"], [23, 26, "S"], [5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 48, "text": "A49:\tSeratus dua puluh limalah.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 49, "text": "B50:\tTidak boleh, itu pun bagi 'spesial harga' dah tu.", "label": [[5, 10, "1st"], [5, 10, "S"], [32, 39, "2nd"], [32, 39, "IO"]]}
+{"id": 50, "text": "A51:\tKita ambil yang ni sepuluh helai, enam puluh lima boleh?", "label": [[55, 60, "2nd"], [55, 60, "S"]]}
+{"id": 51, "text": "B52:\tEnam puluh lima ringgit, sepuluh helai, tak apalah bagi pada kak.", "label": [[56, 60, "1st"], [56, 60, "S"], [5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 52, "text": "A53:\tYang satu lagi, seratus dua puluhlah, kurang lima ringgit.", "label": [[43, 49, "1st"], [43, 49, "S"], [50, 54, "3rd"], [50, 54, "IO"]]}
+{"id": 53, "text": "A54:\tAmbik pun dah banyak ni.", "label": [[5, 10, "1st"], [5, 10, "S"], [11, 14, "3rd"], [11, 14, "DO"], [15, 18, "3rd"], [15, 18, "S"]]}
+{"id": 54, "text": "B55:\tOh, itu pun saya boleh sikit saja kak.", "label": []}
+{"id": 55, "text": "B56:\tYang tu sikit, yang ni sikit, boleh buat minum air saja.", "label": [[35, 40, "1st"], [35, 40, "S"]]}
+{"id": 56, "text": "B57:\tTak boleh untung sampai empat, lima ringgit kak.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 57, "text": "B58:\tBoleh sikit saja.", "label": [[5, 10, "1st"], [5, 10, "S"]]}
+{"id": 58, "text": "A59:\tCadar tu berapa?", "label": []}
+{"id": 59, "text": "B60:\tSeratus empat puluh.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 60, "text": "A61:\tMahalnya.", "label": []}
+{"id": 61, "text": "B62:\tKalau kak nak, seratus tiga puluhlah.", "label": [[18, 19, "3rd"], [18, 19, "DO"], [20, 27, "3rd"], [20, 27, "S"]]}
+{"id": 62, "text": "A63:\tOrang ambik seratus saja.", "label": [[17, 24, "3rd"], [17, 24, "DO"]]}
+{"id": 63, "text": "B64:\tSaya ambik lebih dah seratus, di atas kain-kain.", "label": [[16, 21, "3rd"], [16, 21, "DO"], [35, 37, "3rd"], [35, 37, "S"]]}
+{"id": 64, "text": "A65:\tHabis, kain tadi seratus helai ni berapa?", "label": []}
+{"id": 65, "text": "B66:\tEnam puluh lima.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 66, "text": "A67:\tMahalnya, tak boleh lagi ke?", "label": [[15, 18, "2nd"], [15, 18, "S"]]}
+{"id": 67, "text": "A68:\tHa... takkan tak ambil untung.", "label": [[18, 21, "1st"], [18, 21, "S"]]}
+{"id": 68, "text": "B69:\tSungguh kak, tak ambil untung ni.", "label": [[18, 21, "2nd"], [18, 21, "S"]]}
+{"id": 69, "text": "B70:\tEnam puluh tigalah, potong dua ringgit, buat minum air.", "label": [[45, 49, "1st"], [45, 49, "S"], [5, 9, "3rd"], [5, 9, "S"], [25, 31, "1st"], [25, 31, "S"], [32, 35, "3rd"], [32, 35, "IO"]]}
+{"id": 70, "text": "A71:\tAlahai, air empat puluh sen saja.", "label": []}
+{"id": 71, "text": "B72:\tItu pun sikit saja kak, saya nak bayar hasil lagi.", "label": []}
+{"id": 72, "text": "A73:\tTak boleh kurang lagi.", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
+{"id": 73, "text": "B74:\tTak boleh, lain kali kak mari kedai sayalah, saya bagi 'harga spesial' pada kak.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
+{"id": 74, "text": "A75:\tBerapa semua?", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
+{"id": 75, "text": "B76:\tTiga ratus lapan puluh lima.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 76, "text": "A77:\tTiga ratus lima puluh limalah.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 77, "text": "B78:\tTak boleh pergi kak, saya ni pun boleh sen saja ni, tak boleh banyak.", "label": [[5, 8, "1st"], [5, 8, "S"], [57, 60, "1st"], [57, 60, "S"]]}

@@ -1,0 +1,8 @@
+{"id": 0, "text": "A1:\tKira lima belaslah, dua helai.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 13, "3rd"], [9, 13, "DO"]]}
+{"id": 1, "text": "B2:\tTujuh belas memang betul harga, mak cik selalu datang sini, saya bukan letak harga banyak, cuba tanya tempat lain dulu, macam mana barganya.", "label": [[34, 35, "3rd"], [34, 35, "P"], [95, 99, "2nd"], [95, 99, "S"], [87, 93, "3rd"], [87, 93, "P"]]}
+{"id": 2, "text": "A3:\tEnam belas, tujuh belas lawannya lima belas.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 3, "text": "B4:\tKita letak harga tak tinggi sangat.", "label": [[21, 24, "3rd"], [21, 24, "P"]]}
+{"id": 4, "text": "B5:\tKita potong lagi.", "label": [[16, 20, "3rd"], [16, 20, "DO"]]}
+{"id": 5, "text": "B6:\tPada mak cik saja saya bagi harga tu, saya dapat sikit sangat.", "label": []}
+{"id": 6, "text": "A7:\tTiga puluh satulah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 7, "text": "B8:\tTiga puluh dualah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}

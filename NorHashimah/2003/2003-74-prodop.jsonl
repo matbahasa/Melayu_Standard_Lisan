@@ -1,0 +1,11 @@
+{"id": 0, "text": "A1:\tBerapa ni?", "label": []}
+{"id": 1, "text": "B2:\tTiga puluh lima.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 2, "text": "A3:\tDua puluh lima tak boleh?", "label": [[19, 22, "2nd"], [19, 22, "S"], [4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 3, "text": "B4:\t(Ketawa)... ginilah kita bagi setakat tiga puluh tetapi puas hatilah kak.", "label": [[34, 41, "3rd"], [34, 41, "IO"]]}
+{"id": 4, "text": "B5:\tDua, tiga tahun tahan, padanlah dengan harga.", "label": [[27, 35, "3rd"], [27, 35, "S"], [20, 25, "3rd"], [20, 25, "S"]]}
+{"id": 5, "text": "B6:\tBeli yang dua, tiga belas ringgit pun, dua, tiga bulan pulaklah.", "label": [[4, 8, "1st"], [4, 8, "S"]]}
+{"id": 6, "text": "B7:\tIni kain elok.", "label": []}
+{"id": 7, "text": "B8:\tKalau kain macam ni, mahal belaka.", "label": [[25, 30, "3rd"], [25, 30, "S"]]}
+{"id": 8, "text": "B9:\tBolehlah setakat tiga puluh.", "label": [[4, 12, "1st"], [4, 12, "S"], [13, 20, "3rd"], [13, 20, "S"]]}
+{"id": 9, "text": "B10:\tIni orang dok ambil dua, tiga biji harga ni.", "label": [[25, 28, "3rd"], [25, 28, "DO"]]}
+{"id": 10, "text": "B11:\tBoleh bagi dah tu.", "label": [[5, 10, "1st"], [5, 10, "S"], [16, 19, "2nd"], [16, 19, "IO"]]}

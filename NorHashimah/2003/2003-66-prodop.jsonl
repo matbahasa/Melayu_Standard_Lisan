@@ -1,0 +1,12 @@
+{"id": 0, "text": "A1:\tBerapa belas ni mak cik?", "label": []}
+{"id": 1, "text": "B2:\tDua puluh tiga, nak letak mahal takut orang terkejut.", "label": [[20, 23, "1st"], [20, 23, "S"], [30, 35, "3rd"], [30, 35, "DO"], [36, 41, "1st"], [36, 41, "S"], [4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 2, "text": "B3:\tKain mahal dah, kita bagi setakat dua puluh dualah.", "label": [[30, 37, "3rd"], [30, 37, "IO"], [9, 14, "3rd"], [9, 14, "P"]]}
+{"id": 3, "text": "B4:\tAmbik mahal, duit Singapura sekarang ni mahal.", "label": [[4, 9, "1st"], [4, 9, "S"], [10, 15, "3rd"], [10, 15, "DO"]]}
+{"id": 4, "text": "B5:\tDuit kita dah murah, itulah mahal kain tu.", "label": []}
+{"id": 5, "text": "A6:\tKurang lagilah.", "label": [[4, 10, "2nd"], [4, 10, "S"]]}
+{"id": 6, "text": "B7:\tBagi dua puluh dualah, sikit sangat dah tu boleh.", "label": [[4, 8, "1st"], [4, 8, "S"], [9, 12, "3rd"], [9, 12, "IO"], [47, 52, "1st"], [47, 52, "S"]]}
+{"id": 7, "text": "B8:\tDulu bolehlah lapan belas, itu lama dah, letak harga rendah-rendahlah takut orang terkejut, nanti orang lari pulak.", "label": [[9, 17, "1st"], [9, 17, "S"], [45, 50, "1st"], [45, 50, "S"], [57, 73, "3rd"], [57, 73, "IO"], [74, 79, "1st"], [74, 79, "S"]]}
+{"id": 8, "text": "A9:\tLapan belaslah.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 9, "text": "B10:\tTak boleh, sebab kita beli mahal dah.", "label": [[32, 37, "3rd"], [32, 37, "DO"], [5, 8, "1st"], [5, 8, "S"]]}
+{"id": 10, "text": "A11:\tGinilah setakat dua puluh, boleh?", "label": [[32, 37, "2nd"], [32, 37, "S"], [13, 20, "3rd"], [13, 20, "S"]]}
+{"id": 11, "text": "B12:\tSatu ringgit lagilah bagi kita, jadi dua puluh satulah.", "label": [[26, 30, "2nd"], [26, 30, "S"], [37, 41, "3rd"], [37, 41, "S"]]}

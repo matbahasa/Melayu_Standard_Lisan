@@ -1,0 +1,8 @@
+{"id": 0, "text": "A1:\tNi kain batik sutera jacquard?", "label": []}
+{"id": 1, "text": "A2:\tBerapa harga sepasang ni?", "label": []}
+{"id": 2, "text": "B3:\tJual tu dua ratus lima puluh ringgit.", "label": [[4, 8, "1st"], [4, 8, "S"]]}
+{"id": 3, "text": "A4:\tTak boleh murah lagi?", "label": [[4, 7, "2nd"], [4, 7, "S"]]}
+{"id": 4, "text": "B5:\tTak boleh dah, kalau nak yang murah ada tapi jenis lain.", "label": [[4, 7, "1st"], [4, 7, "S"], [25, 28, "2nd"], [25, 28, "S"], [49, 54, "3rd"], [49, 54, "S"]]}
+{"id": 5, "text": "B6:\tYang ni saya boleh bagi seratus lima puluh ringgit, yang tadi jenis gold sebab tu mahal sikit.", "label": [[28, 35, "2nd"], [28, 35, "IO"], [86, 91, "3rd"], [86, 91, "S"], [28, 35, "3rd2"], [28, 35, "DO2"]]}
+{"id": 6, "text": "B7:\tKain ni biasa orang beli dengan harga nilah, pergilah mana-mana pun, inilah harganya kadang-kadang ada orang jual mahal lagi, tapi kalau murah lagi tak da.", "label": [[49, 57, "2nd"], [49, 57, "S"], [118, 123, "3rd"], [118, 123, "DO"], [152, 155, "3rd"], [152, 155, "S"]]}
+{"id": 7, "text": "A8:\tTak apalah dik, tengok-tengok dulu.", "label": [[20, 33, "1st"], [20, 33, "S"], [34, 38, "3rd"], [34, 38, "DO"]]}

@@ -1,0 +1,4 @@
+{"id": 0, "text": "A1:\tSeluar ni berapa rial sehelai?", "label": []}
+{"id": 1, "text": "B2:\tEnam ringgit setengah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 2, "text": "A3:\tBoleh kurang lagi?", "label": [[4, 9, "2nd"], [4, 9, "S"], [17, 21, "3rd"], [17, 21, "DO"]]}
+{"id": 3, "text": "B4:\tTak boleh dah ni, modal pun tak sampai lagi, kita pun nak jugak buat minum sikit. B5:\tGinilah kalau awak nak, setakat lima ringgit bolehlah---kurang daripada tu tak boleh dah", "label": [[165, 168, "1st"], [165, 168, "S"], [28, 31, "3rd"], [28, 31, "P"], [135, 143, "1st"], [135, 143, "S"], [112, 113, "3rd"], [112, 113, "DO"], [146, 152, "3rd"], [146, 152, "S"]]}

@@ -1,0 +1,19 @@
+{"id": 0, "text": "A1:\tMak cik, kira yang ni.", "label": []}
+{"id": 1, "text": "B2:\tHarga yang ni dua ringgit.", "label": []}
+{"id": 2, "text": "B3:\tGinilah mak cik bagi satu ringgit lapan puluh, kalau orang lain dua ringgit harga tak bergerak dah (harga tetap).", "label": [[86, 89, "3rd"], [86, 89, "P"], [25, 29, "2nd"], [25, 29, "IO"], [25, 29, "3rd2"], [25, 29, "DO2"]]}
+{"id": 3, "text": "A4:\tKain ela ni?", "label": []}
+{"id": 4, "text": "B5:\tKain ni empat ringgit.", "label": []}
+{"id": 5, "text": "A6:\tTak boleh kurang lagi ke?", "label": [[4, 7, "2nd"], [4, 7, "S"], [21, 25, "3rd"], [21, 25, "DO"]]}
+{"id": 6, "text": "B7:\tTak boleh dah, harga dia memang empat ringgit.", "label": [[4, 7, "1st"], [4, 7, "S"]]}
+{"id": 7, "text": "B8:\tDengan orang lain tak boleh empat ringgit ni.", "label": [[22, 25, "3rd"], [22, 25, "S"]]}
+{"id": 8, "text": "B9:\tBiasa orang jual empat ringgit dua puluh.", "label": [[21, 26, "3rd"], [21, 26, "DO"]]}
+{"id": 9, "text": "A10:\tBagi tiga ringgit lapan puluhlah", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 14, "3rd"], [10, 14, "IO"]]}
+{"id": 10, "text": "B11:\tTak bolehlah dik, lainlah kalau ambik sepuluh ela atau satu kayu ke.", "label": [[37, 42, "2nd"], [37, 42, "DO"], [43, 50, "3rd"], [43, 50, "DO"], [5, 8, "1st"], [5, 8, "S"]]}
+{"id": 11, "text": "B12:\tBolehlah.", "label": [[5, 13, "1st"], [5, 13, "S"]]}
+{"id": 12, "text": "A13:\tKain ni berapa pulak?", "label": []}
+{"id": 13, "text": "B14:\tSepuluh ringgit, ambiklah sembilan ringgit setengah, boleh bagi.", "label": [[22, 30, "2nd"], [22, 30, "DO"], [58, 63, "1st"], [58, 63, "S"], [31, 39, "3rd"], [31, 39, "DO"], [5, 12, "3rd"], [5, 12, "S"]]}
+{"id": 14, "text": "A15:\tLapan ringgit setengahlah.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 15, "text": "B16:\tKasihanlah kita dik---lapan setengah tu hak kita pun tak sampai lagi.", "label": [[5, 15, "2nd"], [5, 15, "S"]]}
+{"id": 16, "text": "B17:\tKita jual murah dah tak naklah pegang-pegang harga.", "label": [[15, 20, "3rd"], [15, 20, "DO"], [25, 28, "1st"], [25, 28, "S"]]}
+{"id": 17, "text": "A18:\tTak apalah.", "label": []}
+{"id": 18, "text": "A19:\tBerapa semua itu?", "label": []}

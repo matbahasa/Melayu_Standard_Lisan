@@ -1,0 +1,14 @@
+{"id": 0, "text": "A1:\tSaiz kecik sikit pada ni ada?", "label": []}
+{"id": 1, "text": "B2:\tYang ni padan dah dengan adik ni.", "label": []}
+{"id": 2, "text": "A3:\tYang tu berapa?", "label": []}
+{"id": 3, "text": "B4:\tYang tu lapan setengah, kalau yang kosong biasa dapatlah murah sikit.", "label": [[52, 60, "2nd"], [52, 60, "S"]]}
+{"id": 4, "text": "A5:\tEnam ringgit tak boleh ke?", "label": [[17, 20, "2nd"], [17, 20, "S"]]}
+{"id": 5, "text": "A6:\tOrang sini jugak ni.", "label": [[4, 9, "1st"], [4, 9, "S"]]}
+{"id": 6, "text": "B7:\tKita bagi murah dah ni kak", "label": []}
+{"id": 7, "text": "A8:\tEh... tak boleh kira, kalau pelancong mesti mahal-mahal lagi", "label": [[10, 13, "2nd"], [10, 13, "S"], [42, 47, "3rd"], [42, 47, "S"]]}
+{"id": 8, "text": "B9:\tKita jual sama saja.", "label": [[14, 18, "3rd"], [14, 18, "DO"]]}
+{"id": 9, "text": "A10:\tSini dekat saja dengan Pengkalan Kubur.", "label": []}
+{"id": 10, "text": "B11:\tKita bagi murah dah---lebih kurang saja dengan harga sana?", "label": [[15, 20, "2nd"], [15, 20, "IO"], [27, 32, "3rd"], [27, 32, "S"]]}
+{"id": 11, "text": "A12:\tLepas tu, berapa boleh bagi ni?", "label": [[22, 27, "2nd"], [22, 27, "S"], [33, 35, "1st"], [33, 35, "IO"]]}
+{"id": 12, "text": "B13:\tYang tu lapan setengah, kalau kak nak kita bagi kuranglah sikit... kalau kecik ambik yang besar sikit la... boleh terai---puas hati sikit.", "label": [[84, 89, "2nd"], [84, 89, "S"], [78, 83, "3rd"], [78, 83, "S"], [113, 118, "2nd"], [113, 118, "S"], [53, 62, "2nd"], [53, 62, "IO"], [127, 131, "2nd"], [127, 131, "S"], [43, 47, "3rd"], [43, 47, "DO"], [124, 127, "3rd"], [124, 127, "DO"]]}
+{"id": 13, "text": "B14:\tKalau tak padan boleh tukar selalu.", "label": [[11, 14, "2nd"], [11, 14, "S"], [33, 39, "3rd"], [33, 39, "DO"], [21, 26, "3rd"], [21, 26, "DO"], [21, 26, "2nd2"], [21, 26, "S2"]]}

@@ -1,0 +1,17 @@
+{"id": 0, "text": "A1:\tBaju ni berapa?", "label": []}
+{"id": 1, "text": "B2:\tDua belas ringgit---boleh kurang lagi kalau nak.", "label": [[24, 29, "1st"], [24, 29, "S"], [48, 51, "2nd"], [48, 51, "S"], [4, 7, "3rd"], [4, 7, "S"], [37, 41, "3rd"], [37, 41, "DO"]]}
+{"id": 2, "text": "B3:\tCakap sajalah nak kurang berapa, kalau tak boleh, nak buat macam mana, kira mana-mana patut.", "label": [[4, 9, "2nd"], [4, 9, "S"], [18, 21, "2nd"], [18, 21, "S"], [43, 46, "1st"], [43, 46, "S"], [54, 57, "1st"], [54, 57, "S"], [75, 79, "1st"], [75, 79, "S"], [22, 28, "1st"], [22, 28, "IO"], [29, 35, "3rd"], [29, 35, "DO"]]}
+{"id": 3, "text": "A4:\tNampak buruk ni?", "label": [[4, 10, "1st"], [4, 10, "S"], [11, 16, "3rd"], [11, 16, "DO"]]}
+{"id": 4, "text": "B5:\tApa pulak buruk, acu cium, bau kedai ni lagi.", "label": [[14, 19, "3rd"], [14, 19, "S"], [31, 34, "3rd"], [31, 34, "S"]]}
+{"id": 5, "text": "B6:\tKita tak jual barang buruk.", "label": []}
+{"id": 6, "text": "A7:\tYang ni berapa rial?", "label": []}
+{"id": 7, "text": "B8:\tYang tu saya bagi lapan belas ringgit---boleh tawar lagi.", "label": [[22, 27, "2nd"], [22, 27, "IO"], [44, 49, "2nd"], [44, 49, "S"], [22, 27, "3rd2"], [22, 27, "DO2"]]}
+{"id": 8, "text": "A9:\tBagi lima belaslah.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 13, "1st"], [9, 13, "IO"]]}
+{"id": 9, "text": "B10:\tGinilah kak, kalau kak nak jugak saya bagi enam belas ringgit.", "label": [[48, 52, "2nd"], [48, 52, "IO"], [32, 37, "3rd"], [32, 37, "DO"], [48, 52, "3rd2"], [48, 52, "DO2"]]}
+{"id": 10, "text": "A11:\tLima belas ringgitlah.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 11, "text": "A12:\tSaya beli dah dulu ni lima belas ringgit saja.", "label": [[15, 18, "3rd"], [15, 18, "DO"], [27, 31, "3rd"], [27, 31, "S"]]}
+{"id": 12, "text": "B13:\tMungkin kain jenis lain.", "label": [[18, 23, "2nd"], [18, 23, "P"]]}
+{"id": 13, "text": "B14:\tKena kain Siam ke?", "label": [[5, 9, "2nd"], [5, 9, "S"]]}
+{"id": 14, "text": "B15:\tKak nak yang mana tu, hijau ke merah, comel-comel belaka, biru pun comel jugak.", "label": [[43, 54, "3rd"], [43, 54, "S"]]}
+{"id": 15, "text": "B16:\tKuning pun biasa orang pakai.", "label": []}
+{"id": 16, "text": "A17:\tAmbil hak biru tulah.", "label": [[5, 10, "1st"], [5, 10, "S"]]}

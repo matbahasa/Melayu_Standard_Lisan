@@ -1,0 +1,29 @@
+{"id": 0, "text": "A1:\tAbang, bagi berapa yang ni?", "label": []}
+{"id": 1, "text": "B2:\tEnam belas ringgit.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 2, "text": "B3:\tYang tu labuh, harga lain sikit.", "label": [[25, 29, "3rd"], [25, 29, "P"]]}
+{"id": 3, "text": "B4:\tKalau saya bagi murah, orang lain kata apa pulak?", "label": [[20, 25, "2nd"], [20, 25, "DO"]]}
+{"id": 4, "text": "B5:\tYang tu mahalkan.", "label": []}
+{"id": 5, "text": "A6:\tYang ni berapa?", "label": []}
+{"id": 6, "text": "B7:\tYang ni mati, saya bagi sembilan belas ringgit.", "label": [[28, 36, "3rd"], [28, 36, "IO"]]}
+{"id": 7, "text": "A8:\tMacam mana boleh jadi, mati pulak tu?", "label": [[15, 20, "3rd"], [15, 20, "S"]]}
+{"id": 8, "text": "A9:\tKenapa tak hidupkan?", "label": [[11, 14, "2nd"], [11, 14, "S"]]}
+{"id": 9, "text": "B10:\tMacam mana nak hidup... dia ada harga.", "label": [[16, 19, "3rd"], [16, 19, "S"]]}
+{"id": 10, "text": "B11:\tGinilah harga mati saya bagi lapan belas ringgit, tak boleh tawar dah, pasal lace dia panjang.", "label": [[34, 39, "2nd"], [34, 39, "IO"], [71, 74, "3rd"], [71, 74, "DO"], [55, 58, "2nd"], [55, 58, "S"], [34, 39, "3rd2"], [34, 39, "DO2"]]}
+{"id": 11, "text": "A12:\tLima belaslah.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 12, "text": "B13:\tKalau macam ni, botaklah saya.", "label": []}
+{"id": 13, "text": "B14:\tTak boleh tawar dah, minta maaflah tak dapat.", "label": [[5, 8, "2nd"], [5, 8, "S"], [40, 43, "1st"], [40, 43, "S"], [26, 31, "1st"], [26, 31, "S"], [21, 24, "3rd"], [21, 24, "DO"]]}
+{"id": 14, "text": "B15:\tOrang jual dua puluh dua atau dua puluh satu habis murah.", "label": [[16, 19, "3rd"], [16, 19, "DO"]]}
+{"id": 15, "text": "B16:\tPergi carilah, saya cakap terus terang.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 16, "text": "B17:\tJadi semua sekali tiga puluh enam... dua helai.", "label": []}
+{"id": 17, "text": "A18:\tAbang ni, takkan tak dapat?", "label": [[22, 25, "1st"], [22, 25, "S"]]}
+{"id": 18, "text": "B19:\tKalau pergi kedai lain, abang tak marah, kalau dapat harga macam saya bagi ini, datanglah balik kedai saya.", "label": [[11, 16, "2nd"], [11, 16, "S"], [44, 45, "2nd"], [44, 45, "DO"], [52, 57, "2nd"], [52, 57, "S"], [85, 94, "2nd"], [85, 94, "S"], [64, 69, "3rd"], [64, 69, "P"]]}
+{"id": 19, "text": "B20:\tSebab apa, abang nak suruh adik datang balik lain kali, sebab saya nak cari kawan.", "label": []}
+{"id": 20, "text": "B21:\tCubalah cari kalau dapat harga ni.", "label": [[5, 12, "2nd"], [5, 12, "S"], [18, 23, "3rd"], [18, 23, "DO"], [24, 29, "2nd"], [24, 29, "S"]]}
+{"id": 21, "text": "B22:\tJadi lapan belaslah, saya biasa jual dua puluh lima, dua puluh enam.", "label": [[42, 45, "3rd"], [42, 45, "DO"], [10, 15, "3rd"], [10, 15, "S"]]}
+{"id": 22, "text": "A23:\tJadi dua tu berapa?", "label": []}
+{"id": 23, "text": "B24:\tTiga puluh enam.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 24, "text": "A25:\tAlah tujuh belas sajalah.", "label": [[10, 15, "3rd"], [10, 15, "S"]]}
+{"id": 25, "text": "A26:\tJadi semua sekali tiga puluh empatlah.", "label": []}
+{"id": 26, "text": "B27:\tTiga puluh limalah dik, mintak satu ringgitlah, kesianlah kat kita, jual dua helai ni pun nak dapat balik basil kedai adik oii...", "label": [[29, 35, "1st"], [29, 35, "S"], [36, 40, "2nd"], [36, 40, "DO"], [73, 77, "1st"], [73, 77, "S"], [78, 81, "3rd"], [78, 81, "DO"], [95, 98, "1st"], [95, 98, "S"], [53, 62, "2nd"], [53, 62, "S"], [5, 9, "3rd"], [5, 9, "S"], [123, 127, "1st"], [123, 127, "P"]]}
+{"id": 27, "text": "A28:\tTiga puluh empatlah abang.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
+{"id": 28, "text": "B29:\tMinta lima puluh sen sajalah lagi, kesian saya.", "label": [[5, 10, "1st"], [5, 10, "S"], [11, 15, "2nd"], [11, 15, "IO"]]}

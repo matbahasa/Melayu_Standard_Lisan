@@ -1,0 +1,39 @@
+{"id": 0, "text": "B1:\tNak apa dia tu?", "label": []}
+{"id": 1, "text": "A2:\tSeluar 'askar' ada?", "label": [[19, 22, "2nd"], [19, 22, "S"]]}
+{"id": 2, "text": "B3:\tYang budak ke atau orang tua?", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 3, "text": "A4:\tUntuk budak besar ni.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 4, "text": "B5:\tYang nilah", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 5, "text": "B6:\t---Dia ke nak pakai?", "label": []}
+{"id": 6, "text": "B7:\t... Yang ni padan ni, terailah tak apa, kain dia tahan ni.", "label": [[35, 38, "3rd"], [35, 38, "DO"], [26, 34, "2nd"], [26, 34, "S"]]}
+{"id": 7, "text": "A8:\tBerapa ni?", "label": []}
+{"id": 8, "text": "B9:\tLapan belas ringgit saja.", "label": [[4, 9, "3rd"], [4, 9, "S"]]}
+{"id": 9, "text": "A10:\tMahalnya!", "label": []}
+{"id": 10, "text": "B11:\tLapan belas ringgit ni murah dah, kalau di gudang-gudang besar tak boleh harga ni---mahal lagi.", "label": [[89, 94, "3rd"], [89, 94, "S"], [68, 71, "3rd"], [68, 71, "S"]]}
+{"id": 11, "text": "A12:\tSaiz berapa ni?", "label": [[10, 16, "3rd"], [10, 16, "P"]]}
+{"id": 12, "text": "B13:\tSaiz dua puluh lapan.", "label": [[10, 13, "3rd"], [10, 13, "P"]]}
+{"id": 13, "text": "A14:\tYang tu berapa sehelai?", "label": []}
+{"id": 14, "text": "B15:\tYang tu tak mahal---ada tiga saiz, dua, empat dan enam, ada tiga cahaya (warna).", "label": [[25, 28, "3rd"], [25, 28, "S"], [61, 64, "3rd"], [61, 64, "S"]]}
+{"id": 15, "text": "A16:\tBerapa?", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
+{"id": 16, "text": "B17:\tBagi empat ringgit lapan puluh, orang lain jual enam setengah.", "label": [[5, 9, "1st"], [5, 9, "S"], [10, 15, "3rd"], [10, 15, "IO"], [53, 57, "3rd"], [53, 57, "DO"]]}
+{"id": 17, "text": "A18:\tApa pula lapan puluh sen tu.", "label": []}
+{"id": 18, "text": "A19:\ttolak-tolak gilah---fesyen lain tak ada?", "label": [[5, 16, "2nd"], [5, 16, "S"], [37, 40, "2nd"], [37, 40, "S"], [17, 22, "3rd"], [17, 22, "DO"]]}
+{"id": 19, "text": "B20:\tTak ada dah---ni saja---gambar ninja---comel ni---nak warna apa tu ambik merahlah.", "label": [[5, 8, "1st"], [5, 8, "S"], [55, 58, "2nd"], [55, 58, "S"], [72, 77, "2nd"], [72, 77, "S"], [13, 16, "3rd"], [13, 16, "DO"], [29, 35, "3rd"], [29, 35, "S"]]}
+{"id": 20, "text": "A21:\tLepas tu yang tu boleh bagi berapa?", "label": [[22, 27, "2nd"], [22, 27, "S"], [33, 39, "3rd"], [33, 39, "DO"]]}
+{"id": 21, "text": "B22:\tYang tu saya bagi enam belas ringgit yahlah---kurang dua ringgit.", "label": [[23, 28, "3rd"], [23, 28, "IO"], [51, 57, "1st"], [51, 57, "S"], [58, 61, "3rd"], [58, 61, "IO"]]}
+{"id": 22, "text": "A23:\tBagi sepuluh ringgitlah.", "label": [[10, 17, "3rd"], [10, 17, "IO"], [5, 9, "2nd"], [5, 9, "S"]]}
+{"id": 23, "text": "B24:\tEh, enam belas ringgit murah benar dah tu tak boleh sepuluh ringgit---modal lebih dari tu.", "label": [[81, 86, "3rd"], [81, 86, "P"], [47, 50, "3rd"], [47, 50, "S"], [9, 13, "3rd"], [9, 13, "S"]]}
+{"id": 24, "text": "A25:\tKalau bagi sepuluh ringgit saya ambik.", "label": [[11, 15, "2nd"], [11, 15, "S"], [16, 23, "3rd"], [16, 23, "IO"]]}
+{"id": 25, "text": "B26:\tTak boleh---orang beli di sebelah luar (tempat lain seperti KL) dua puluh lima ringgit ni tapi di Kelantan ni murah saja kita jual pasal barang sini gi sebelah luar---jadi mahallah.", "label": [[5, 8, "1st"], [5, 8, "S"], [172, 176, "3rd"], [172, 176, "S"], [136, 141, "3rd"], [136, 141, "DO"], [28, 30, "3rd"], [28, 30, "DO"]]}
+{"id": 26, "text": "B27:\tKalau barang sana mari sini kita pulak mahal.", "label": []}
+{"id": 27, "text": "A28:\tKuranglah sikit lagi.", "label": [[5, 14, "2nd"], [5, 14, "S"], [15, 20, "3rd"], [15, 20, "DO"]]}
+{"id": 28, "text": "B29:\tTak leh dah dik---modal lebih dah ni.", "label": [[29, 34, "3rd"], [29, 34, "P"], [5, 8, "1st"], [5, 8, "S"]]}
+{"id": 29, "text": "A30:\tYang ni pulak?", "label": []}
+{"id": 30, "text": "B31:\tYang tu saya bagi setakat empat ringgit lebih daripada tu tak boleh dah.", "label": [[63, 66, "1st"], [63, 66, "S"], [23, 30, "3rd"], [23, 30, "IO"]]}
+{"id": 31, "text": "A32:\tSemulalah (lain kali sahajalah) .", "label": []}
+{"id": 32, "text": "B33:\tSemula gak tak ada dahlah", "label": [[16, 19, "3rd"], [16, 19, "S"]]}
+{"id": 33, "text": "B34:\t---Gambar ni bukan ada selalu.", "label": []}
+{"id": 34, "text": "A35:\tGambar dia pun tak molek.", "label": []}
+{"id": 35, "text": "B36:\tBiasalah ni---gambar untuk budak-budak dah tu....", "label": []}
+{"id": 36, "text": "B37:\tAmbik yang teballah.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 37, "text": "B38:\tMusim-musim ni, malam sejuk-sejuk benar malam sekarang.", "label": []}
+{"id": 38, "text": "A39:\tKiralah yang ni.", "label": [[5, 12, "2nd"], [5, 12, "S"]]}

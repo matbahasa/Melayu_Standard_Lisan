@@ -1,0 +1,15 @@
+{"id": 0, "text": "A1:\tYang ni berapa rial sehelai?", "label": []}
+{"id": 1, "text": "B2:\tDua ringgit sehelai.", "label": [[4, 7, "3rd"], [4, 7, "S"]]}
+{"id": 2, "text": "A3:\tBagi tiga ringgit dua helailah", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 13, "3rd"], [9, 13, "IO"]]}
+{"id": 3, "text": "B4:\tTak boleh kak, ambo bagi harga niaga dah ni.", "label": [[29, 34, "2nd"], [29, 34, "DO"], [4, 7, "1st"], [4, 7, "S"]]}
+{"id": 4, "text": "B5:\tTak kita dapat.", "label": []}
+{"id": 5, "text": "B6:\tKasihanlah juga kita.", "label": [[4, 14, "2nd"], [4, 14, "S"]]}
+{"id": 6, "text": "A7:\tYang ni berapa?", "label": []}
+{"id": 7, "text": "B8:\tYang tu lapan ringgit setengah, orang lain letak harga dua belas ringgit ni.", "label": [[59, 62, "3rd"], [59, 62, "P"]]}
+{"id": 8, "text": "B9:\tKita kira bagi harga kena (harga sesuai dengan barang) selalulah.", "label": [[19, 24, "2nd"], [19, 24, "DO"]]}
+{"id": 9, "text": "A10:\tLapan ringgit tak boleh ke?", "label": [[19, 22, "2nd"], [19, 22, "S"], [5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 10, "text": "B11:\tTak boleh dahlah, sebab lima puluh tulah hak kita, kalau kurang lagi gak, nyaya (teruk) kita pulak modal ni dah mahal.", "label": [[5, 8, "1st"], [5, 8, "S"], [62, 68, "1st"], [62, 68, "S"], [69, 73, "3rd"], [69, 73, "DO"]]}
+{"id": 11, "text": "A12:\tLepas tu berapa semua?", "label": []}
+{"id": 12, "text": "B13:\tHarga semuanya sembilan belas ringgit setengah.", "label": []}
+{"id": 13, "text": "A14:\tAlah... cukuplah.", "label": [[13, 21, "2nd"], [13, 21, "S"]]}
+{"id": 14, "text": "B15:\tEm... tak apalah -bagi dia lima puluh sen buat minum air bawah.", "label": [[23, 27, "1st"], [23, 27, "S"]]}
