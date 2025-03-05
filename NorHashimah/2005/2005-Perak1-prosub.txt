@@ -16,6 +16,7 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Perak1 .txt	9	1425	1428	Mon					1	0	0	1
 2005	2005-Perak1 .txt	12	1449	1452	Mon					1	0	0	1
 2005	2005-Perak1 .txt	46	1686	1690	kita					1	1	0	0
+2005	2005-Perak1 .txt	60	2279	2283	hang					1	0	1	0
 2005	2005-Perak1 .txt	14	2311	2319	Pak Ngah					1	0	0	1
 2005	2005-Perak1 .txt	47	2656	2660	Kami					1	1	0	0
 2005	2005-Perak1 .txt	15	2692	2699	Md. Noh					1	0	0	1
@@ -48,9 +49,10 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Perak1 .txt	28	6161	6164	Tun					1	0	0	1
 2005	2005-Perak1 .txt	29	6317	6320	Tun					1	0	0	1
 2005	2005-Perak1 .txt	30	7565	7573	Mak Long					1	0	0	1
-2005	2005-Perak1 .txt	58	7584	7587	Nah					1	0	0	1
 2005	2005-Perak1 .txt	31	7632	7636	Ngah					1	0	0	1
 2005	2005-Perak1 .txt	32	7651	7655	Ngah					1	0	0	1
+2005	2005-Perak1 .txt	58	7819	7823	Hang					1	0	1	0
+2005	2005-Perak1 .txt	59	7837	7841	Hang					1	0	1	0
 2005	2005-Perak1 .txt	33	8043	8048	Along					1	0	0	1
 2005	2005-Perak1 .txt	34	8063	8067	Long					1	0	0	1
 2005	2005-Perak1 .txt	35	8076	8079	Mak	01				1	0	0	1

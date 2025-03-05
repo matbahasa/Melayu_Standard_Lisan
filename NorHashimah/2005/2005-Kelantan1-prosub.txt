@@ -28,4 +28,3 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Kelantan1.txt	23	8916	8918	Mu					1	0	1	0
 2005	2005-Kelantan1.txt	16	9977	9982	Along					1	0	0	1
 2005	2005-Kelantan1.txt	17	10102	10109	Pak Cik					1	0	0	1
-2005	2005-Kelantan1.txt	21	10379	10386		02				1	0	0	1

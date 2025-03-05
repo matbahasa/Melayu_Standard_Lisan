@@ -37,4 +37,3 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2003	2003-22.txt	30	1765	1768	Kak	02				1	1	0	0
 2003	2003-22.txt	31	1804	1807	Kak	02				1	1	0	0
 2003	2003-22.txt	36	1818	1822	adik	02				1	0	1	0
-2003	2003-22.txt	33	1838	1842						1	0	1	0

@@ -47,7 +47,6 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Selangor2.txt	29	6986	6990	kita					1	1	0	0
 2005	2005-Selangor2.txt	62	8293	8296	you					1	0	1	0
 2005	2005-Selangor2.txt	63	8312	8315	you					1	0	1	0
-2005	2005-Selangor2.txt	30	8440	8442	15					1	0	1	0
 2005	2005-Selangor2.txt	31	8604	8607	you					1	0	1	0
 2005	2005-Selangor2.txt	32	9175	9179	awak					1	0	1	0
 2005	2005-Selangor2.txt	64	9181	9185	awak					1	0	1	0
@@ -93,5 +92,3 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Selangor2.txt	42	13700	13704	kita					1	1	0	0
 2005	2005-Selangor2.txt	95	13805	13809	Saya					1	1	0	0
 2005	2005-Selangor2.txt	96	13835	13839	saya					1	1	0	0
-2005	2005-Selangor2.txt	43	14056	14060						1	1	0	0
-2005	2005-Selangor2.txt	44	14086	14090						1	1	0	0

@@ -191,7 +191,6 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Johor1.txt	116	15748	15753	Fatin					1	0	0	1
 2005	2005-Johor1.txt	117	15811	15814	Tin					1	0	0	1
 2005	2005-Johor1.txt	118	15816	15819	Tin					1	0	0	1
-2005	2005-Johor1.txt	261	15820	15821						1	0	1	0
 2005	2005-Johor1.txt	119	16023	16027	Long					1	0	0	1
 2005	2005-Johor1.txt	257	16035	16039	Long					1	0	0	1
 2005	2005-Johor1.txt	258	16047	16052	Along					1	0	0	1
@@ -211,7 +210,6 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Johor1.txt	129	17810	17816	engkau					1	0	1	0
 2005	2005-Johor1.txt	262	18108	18111	Mak					1	0	0	1
 2005	2005-Johor1.txt	263	18113	18116	mak					1	0	0	1
-2005	2005-Johor1.txt	131	18285	18288	His					1	0	0	1
 2005	2005-Johor1.txt	132	18350	18354	awak					1	0	1	0
 2005	2005-Johor1.txt	133	18401	18407	Sayang					1	0	0	1
 2005	2005-Johor1.txt	264	18415	18421	Engkau					1	0	1	0
@@ -288,7 +286,7 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Johor1.txt	283	24294	24298	kita					1	1	0	0
 2005	2005-Johor1.txt	173	24440	24443	kau					1	0	1	0
 2005	2005-Johor1.txt	174	24477	24480	kau					1	0	1	0
-2005	2005-Johor1.txt	175	24570	24574	kau,					1	0	1	0
+2005	2005-Johor1.txt	175	24570	24573	kau					1	0	1	0
 2005	2005-Johor1.txt	176	24610	24614	Long					1	0	0	1
 2005	2005-Johor1.txt	177	25123	25126	aku					1	1	0	0
 2005	2005-Johor1.txt	178	25258	25261	Emi					1	0	0	1
@@ -307,7 +305,6 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Johor1.txt	367	26048	26051	aku					1	1	0	0
 2005	2005-Johor1.txt	293	26101	26105	saya					1	1	0	0
 2005	2005-Johor1.txt	368	26176	26179	aku					1	1	0	0
-2005	2005-Johor1.txt	182	26196	26197	.					1	0	0	1
 2005	2005-Johor1.txt	369	26204	26210	Mak Na					1	0	0	1
 2005	2005-Johor1.txt	370	26261	26265	saya					1	1	0	0
 2005	2005-Johor1.txt	294	26435	26439	Ndak					1	0	0	1
@@ -375,9 +372,3 @@ Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosu
 2005	2005-Johor1.txt	392	33198	33201	kau					1	0	1	0
 2005	2005-Johor1.txt	197	33646	33650	Long					1	0	0	1
 2005	2005-Johor1.txt	198	33671	33675	Long					1	0	0	1
-2005	2005-Johor1.txt	208	34248	34251						1	0	0	1
-2005	2005-Johor1.txt	209	34255	34258						1	0	0	1
-2005	2005-Johor1.txt	210	34408	34412						1	0	0	1
-2005	2005-Johor1.txt	211	34645	34649						1	0	0	1
-2005	2005-Johor1.txt	212	34793	34797						1	0	0	1
-2005	2005-Johor1.txt	213	34819	34823						1	0	0	1

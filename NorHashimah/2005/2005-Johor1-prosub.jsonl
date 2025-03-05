@@ -634,7 +634,7 @@
 {"id":633,"text":"C634:\tEh, eh, Fatin!","label":[[14,19,"address"]]}
 {"id":634,"text":"C635:\tFatin!","label":[[6,11,"address"]]}
 {"id":635,"text":"D636:\tPayah betul.","label":[]}
-{"id":636,"text":"A637:\tDia ni tulis dalam surat.","label":[[2,3,"address"]]}
+{"id":636,"text":"A637:\tDia ni tulis dalam surat.","label":[]}
 {"id":637,"text":"A638:\tOrang balik Haji bukak kedai mengalahkan orang Cina.","label":[]}
 {"id":638,"text":"D639:\tApa benda?","label":[]}
 {"id":639,"text":"A640:\tYa, Zainuddin Hassan.","label":[]}
@@ -655,7 +655,7 @@
 {"id":654,"text":"B655:\tBuka sekolah lagi 2 hari.","label":[]}
 {"id":655,"text":"B656:\tDah tu?","label":[]}
 {"id":656,"text":"D657:\tIngat tak sekolah!","label":[]}
-{"id":657,"text":"E658:\tHis, cepat sikit.","label":[[6,9,"address"]]}
+{"id":657,"text":"E658:\tHis, cepat sikit.","label":[]}
 {"id":658,"text":"D659:\tRumah dia banyak, hari-hari asyik balik, awak kena tinggal, hari-hari duduk sekolah.","label":[[47,51,"2nd"]]}
 {"id":659,"text":"A660:\tSayang!","label":[[6,12,"address"]]}
 {"id":660,"text":"B661:\tEngkau nak pisau?","label":[[6,12,"2nd"]]}
@@ -852,7 +852,7 @@
 {"id":851,"text":"B852:\tNasib baiklah 2 orang, kalau kau tengah baca Yasin kat situ, lagi kau takut.","label":[[35,38,"2nd"],[35,38,"2nd"]]}
 {"id":852,"text":"A853:\tHaa... budak perempuan dua orang tu buat apa.","label":[]}
 {"id":853,"text":"C854:\tBerbual.","label":[]}
-{"id":854,"text":"A855:\tPerasaan kau, diorang berbual.","label":[[15,19,"2nd"]]}
+{"id":854,"text":"A855:\tPerasaan kau, diorang berbual.","label":[[15,18,"2nd"]]}
 {"id":855,"text":"C856:\tEh... eh... Long ni.","label":[[18,22,"address"]]}
 {"id":856,"text":"A857:\tBetullah.","label":[]}
 {"id":857,"text":"A858:\tSarah sorang yang cukur jambul ni.","label":[]}
@@ -892,7 +892,7 @@
 {"id":891,"text":"B892:\tAku pergi... jauh aku terbang... modal... modal aku bercakap.","label":[[6,9,"1st"],[24,27,"1st"],[24,27,"1st"]]}
 {"id":892,"text":"A893:\tOh... nak 7 je tok.","label":[]}
 {"id":893,"text":"A894:\tNanti saya tanya pada Zaha... ada tak dia duit keras... tak de juga.","label":[[12,16,"1st"]]}
-{"id":894,"text":"B895:\tKalau aku tukar duit kan...","label":[[12,15,"1st"],[30,31,"address"]]}
+{"id":894,"text":"B895:\tKalau aku tukar duit kan...","label":[[12,15,"1st"]]}
 {"id":895,"text":"B896:\tMak Na... ada tak duit kecil.","label":[[6,12,"address"]]}
 {"id":896,"text":"C897:\tMinta maaflah.. duit saya semua 100... (ketawa).","label":[[27,31,"1st"]]}
 {"id":897,"text":"A898:\tKata nenek, itu sahaja sekeping 100 dia dapat dahulu.","label":[]}

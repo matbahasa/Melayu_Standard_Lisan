@@ -59,7 +59,7 @@
 {"id":58,"text":"C59:\tKalau pakai baju, dalam poket banyak... setengah jam hilang, rupanya dia pi bubuh dalam laci kat rumah.","label":[]}
 {"id":59,"text":"A60:\tMak Ndak sehari pakai kunci leher.","label":[]}
 {"id":60,"text":"B61:\tNi, sampai la ni ada lagi.","label":[]}
-{"id":61,"text":"B62:\tMak Ndak kata jangan bukak nanti hang lupa letak kat mana?","label":[]}
+{"id":61,"text":"B62:\tMak Ndak kata jangan bukak nanti hang lupa letak kat mana?","label":[[38,42,"2nd"]]}
 {"id":62,"text":"C63:\tPak Ngah, perempuan Pak Ngah RM30.00.","label":[[5,13,"address"]]}
 {"id":63,"text":"C64:\tMak Uda hilang RM100.00.","label":[]}
 {"id":64,"text":"D65:\tYam bubuh dalam bilik.","label":[]}
@@ -184,7 +184,7 @@
 {"id":183,"text":"A184:\tPak Mid bawak pi, kawan dia.","label":[]}
 {"id":184,"text":"B185:\tDemam campak tu lagu....","label":[]}
 {"id":185,"text":"C186:\tLega, tapi dia tak lalu makanlah Mak Long.","label":[[39,47,"address"]]}
-{"id":186,"text":"A187:\tNah, angkat ke sana, orang nak makan ni!","label":[[6,9,"address"]]}
+{"id":186,"text":"A187:\tNah, angkat ke sana, orang nak makan ni!","label":[]}
 {"id":187,"text":"B188:\tNgah... cakap lagi Ngah!","label":[[6,10,"address"],[6,10,"address"]]}
 {"id":188,"text":"C189:\tDengaq (dengar) dak?","label":[]}
 {"id":189,"text":"C190:\tMana Ilah?","label":[]}
@@ -192,7 +192,7 @@
 {"id":191,"text":"C192:\tSebelah lagi, tak dengaq apa pun.","label":[]}
 {"id":192,"text":"D193:\tNi, kan rakam Mak.","label":[]}
 {"id":193,"text":"C194:\tDia kata apa?","label":[]}
-{"id":194,"text":"B195:\tHang dengaq suara Hang, macam mana?","label":[]}
+{"id":194,"text":"B195:\tHang dengaq suara Hang, macam mana?","label":[[6,10,"2nd"],[6,10,"2nd"]]}
 {"id":195,"text":"D196:\tDik lah...","label":[]}
 {"id":196,"text":"D197:\tDiklah?","label":[]}
 {"id":197,"text":"C198:\tPengantin esok baru datang !","label":[]}
