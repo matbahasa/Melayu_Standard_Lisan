@@ -949,9 +949,9 @@
 {"id":948,"text":"A949:\tI tak bolehlah.","label":[[6,7,"1st"]]}
 {"id":949,"text":"A950:\tCuba you tolong I tengok kaset tu.","label":[[22,23,"1st"],[11,14,"2nd"]]}
 {"id":950,"text":"B951:\tKenapa jerit-jerit, nantilah Abang tengokkan.","label":[[35,40,"1st"]]}
-{"id":951,"text":"C952:\tBaru-baru ni jumpa Mak Long... lepas tu duduk lama, dia tanya "Mana Long Atan?","label":[]}
+{"id":951,"text":"C952:\tBaru-baru ni jumpa Mak Long... lepas tu duduk lama, dia tanya \"Mana Long Atan?","label":[]}
 {"id":952,"text":"C953:\t... dia kata tak de dah.","label":[]}
-{"id":953,"text":"C954:\tEh engkau ni tak tahu ke... kan Long Atan dah meninggal... menangis".","label":[[9,15,"2nd"]]}
+{"id":953,"text":"C954:\tEh engkau ni tak tahu ke... kan Long Atan dah meninggal... menangis\".","label":[[9,15,"2nd"]]}
 {"id":954,"text":"A955:\tEh... sayang... Cik anak kau.","label":[[31,34,"2nd"],[12,18,"address"]]}
 {"id":955,"text":"A956:\tKau tengok budak-budak sekarang.","label":[[6,9,"2nd"]]}
 {"id":956,"text":"B957:\tKalau aku dulu, dah lama suruh cikgu duduk.","label":[[12,15,"address"]]}
