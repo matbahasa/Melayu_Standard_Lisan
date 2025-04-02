@@ -6,14 +6,14 @@
 {"id":5,"text":"B6:\tTak boleh potong ke puding tu?","label":[]}
 {"id":6,"text":"C7:\tHa, potonglah.","label":[]}
 {"id":7,"text":"A8:\tHa, mailah, mai potong.","label":[]}
-{"id":8,"text":"A9:\tMak Yang, Mak Yang potong puding.","label":[[4,12,"address"],[4,12,"address"]]}
+{"id":8,"text":"A9:\tMak Yang, Mak Yang potong puding.","label":[[4,12,"address"],[14,22,"address"]]}
 {"id":9,"text":"A10:\tMak Tuk duduk depan kita makan.","label":[[25,29,"1st"],[5,12,"2nd"]]}
 {"id":10,"text":"A11:\tOrang bagi.","label":[]}
 {"id":11,"text":"A12:\tTelefon yang depa punya canggih ha....","label":[]}
 {"id":12,"text":"A13:\tLepas tu, depa tengok, depa kata apa kat Kak Yang tu?","label":[]}
 {"id":13,"text":"A14:\tPak cik yang dok tang tu kata, nampaknya pihak perempuan lebih bersedialah, berdasarkan apa yang dilihat di depan ni....","label":[]}
 {"id":14,"text":"B15:\tAmboi, tu dia ah...","label":[]}
-{"id":15,"text":"A16:\tMak Ndak, Mak Ndak cakap....","label":[[5,13,"address"],[5,13,"address"]]}
+{"id":15,"text":"A16:\tMak Ndak, Mak Ndak cakap....","label":[[5,13,"address"],[15,23,"address"]]}
 {"id":16,"text":"B17:\tMak Ndak tak boleh dialog, sekali lagi tak jadi.","label":[]}
 {"id":17,"text":"A18:\tMailah Mak Tok, rasa puding pengantin.","label":[[12,19,"address"]]}
 {"id":18,"text":"A19:\tMailah Ina, mailah kita duduk.","label":[[24,28,"1st"],[12,15,"address"]]}
@@ -35,7 +35,7 @@
 {"id":34,"text":"B35:\tBanyak pulut... 7 pinggan.","label":[]}
 {"id":35,"text":"C36:\tMana pie... sekali keluaq habis!","label":[]}
 {"id":36,"text":"B37:\tEsok kita buat lain lah....","label":[]}
-{"id":37,"text":"C38:\tTanya Mon, pulut dah habis ke Mon?","label":[[11,14,"address"],[11,14,"address"]]}
+{"id":37,"text":"C38:\tTanya Mon, pulut dah habis ke Mon?","label":[[11,14,"address"],[35,38,"address"]]}
 {"id":38,"text":"D39:\tKak Mon ada simpan ke petang tu?","label":[]}
 {"id":39,"text":"C40:\tDia simpan la kot....","label":[]}
 {"id":40,"text":"A41:\tApa dia... ni ada.","label":[]}
@@ -72,7 +72,7 @@
 {"id":71,"text":"C72:\tSabit Mak Uda bubuh dalam almari.","label":[]}
 {"id":72,"text":"D73:\tKami bubuh dalam kereta.","label":[[5,9,"1st"]]}
 {"id":73,"text":"B74:\tTapi Md. Noh, kenduri mak saudara hilang duit heranlah... mana mai?","label":[[10,17,"address"]]}
-{"id":74,"text":"A75:\tTak pa, kita besok kita buat peti satu kunci.","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":74,"text":"A75:\tTak pa, kita besok kita buat peti satu kunci.","label":[[13,17,"1st"],[24,28,"1st"]]}
 {"id":75,"text":"B76:\tKunci rantai tu!","label":[]}
 {"id":76,"text":"B77:\tHj. Bakhil punya mangga besi.","label":[]}
 {"id":77,"text":"D78:\tKenduri kat Melaka, rumah Pak Su, duit dalam poket seluaq, dia sapu.","label":[]}
@@ -111,7 +111,7 @@
 {"id":110,"text":"B111:\tDia orang Melaka.","label":[]}
 {"id":111,"text":"B112:\tTak lama lagi keluar.","label":[]}
 {"id":112,"text":"B113:\tKek 250 gram -6 kilo.","label":[]}
-{"id":113,"text":"B114:\tMulakan... mak cik... abang... kek kan a bang, abang order la!","label":[[17,24,"address"],[28,33,"address"],[45,51,"address"],[28,33,"address"]]}
+{"id":113,"text":"B114:\tMulakan... mak cik... abang... kek kan a bang, abang order la!","label":[[17,24,"address"],[28,33,"address"],[45,51,"address"],[53,58,"address"]]}
 {"id":114,"text":"B115:\tHabaq kat bapak Azmi.","label":[]}
 {"id":115,"text":"B116:\tKau pergi Ros, kau pergi kedai tu, nak pattern macam mana...","label":[[6,9,"2nd"],[21,24,"2nd"]]}
 {"id":116,"text":"B117:\tAbah bayar bapak Azmi kata ....","label":[]}
@@ -185,14 +185,14 @@
 {"id":184,"text":"B185:\tDemam campak tu lagu....","label":[]}
 {"id":185,"text":"C186:\tLega, tapi dia tak lalu makanlah Mak Long.","label":[[39,47,"address"]]}
 {"id":186,"text":"A187:\tNah, angkat ke sana, orang nak makan ni!","label":[]}
-{"id":187,"text":"B188:\tNgah... cakap lagi Ngah!","label":[[6,10,"address"],[6,10,"address"]]}
+{"id":187,"text":"B188:\tNgah... cakap lagi Ngah!","label":[[6,10,"address"],[25,29,"address"]]}
 {"id":188,"text":"C189:\tDengaq (dengar) dak?","label":[]}
 {"id":189,"text":"C190:\tMana Ilah?","label":[]}
 {"id":190,"text":"C191:\tDia kata apa?","label":[]}
 {"id":191,"text":"C192:\tSebelah lagi, tak dengaq apa pun.","label":[]}
 {"id":192,"text":"D193:\tNi, kan rakam Mak.","label":[]}
 {"id":193,"text":"C194:\tDia kata apa?","label":[]}
-{"id":194,"text":"B195:\tHang dengaq suara Hang, macam mana?","label":[[6,10,"2nd"],[6,10,"2nd"]]}
+{"id":194,"text":"B195:\tHang dengaq suara Hang, macam mana?","label":[[6,10,"2nd"],[24,28,"2nd"]]}
 {"id":195,"text":"D196:\tDik lah...","label":[]}
 {"id":196,"text":"D197:\tDiklah?","label":[]}
 {"id":197,"text":"C198:\tPengantin esok baru datang !","label":[]}

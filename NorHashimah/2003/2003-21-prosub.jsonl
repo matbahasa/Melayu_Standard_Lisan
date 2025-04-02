@@ -8,7 +8,7 @@
 {"id":7,"text":"A8:\tTak panas ke kain ni?","label":[]}
 {"id":8,"text":"B9:\tKain ni tak panas, kain molek, biasa kita jual lapan belas ringgit tu.","label":[[41,45,"1st"]]}
 {"id":9,"text":"A10:\tKalau yang ni berapa sepasang?","label":[]}
-{"id":10,"text":"B11:\tKalau yang tu kita cakap harga kena selalulah, seluar dua belas ringgit, baju sembilan ringgit---baju ni kita biasa jual dua belas ringgit, kira cakap harga betul dah ni.","label":[[19,23,"1st"],[19,23,"1st"]]}
+{"id":10,"text":"B11:\tKalau yang tu kita cakap harga kena selalulah, seluar dua belas ringgit, baju sembilan ringgit---baju ni kita biasa jual dua belas ringgit, kira cakap harga betul dah ni.","label":[[19,23,"1st"],[110,114,"1st"]]}
 {"id":11,"text":"B12:\tOrang lain tak jual sembilan ringgit...","label":[]}
 {"id":12,"text":"B13:\tKain ni molek... hak Malaysia....","label":[]}
 {"id":13,"text":"B14:\tKita bagi harga spesial pada kak ni.","label":[[5,9,"1st"],[34,37,"2nd"]]}
@@ -17,7 +17,7 @@
 {"id":16,"text":"A17:\tBagilah, orang sekampung, kan?","label":[]}
 {"id":17,"text":"B18:\tIyalah... nak kurang lagi kasihan pulak kita, barang ni laku selalu....","label":[[45,49,"1st"]]}
 {"id":18,"text":"B19:\tBaju T tak nak.","label":[]}
-{"id":19,"text":"B20:\tYang ni ada kolar tapi harga sama saja... kain ni tak panas... kita bagi lima belas ringgit, kira harga spesial dah ni... kita jual tak mahal.","label":[[68,72,"1st"],[68,72,"1st"]]}
+{"id":19,"text":"B20:\tYang ni ada kolar tapi harga sama saja... kain ni tak panas... kita bagi lima belas ringgit, kira harga spesial dah ni... kita jual tak mahal.","label":[[68,72,"1st"],[127,131,"1st"]]}
 {"id":20,"text":"A21:\tYang ni berapa?","label":[]}
 {"id":21,"text":"B22:\tSama saja, lima belas ringgit.","label":[]}
 {"id":22,"text":"A23:\tTak boleh kurang ke?","label":[]}

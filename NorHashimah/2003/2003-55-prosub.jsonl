@@ -16,7 +16,7 @@
 {"id":15,"text":"B16:\tPergi carilah, saya cakap terus terang.","label":[[20,24,"1st"]]}
 {"id":16,"text":"B17:\tJadi semua sekali tiga puluh enam... dua helai.","label":[]}
 {"id":17,"text":"A18:\tAbang ni, takkan tak dapat?","label":[[5,10,"address"]]}
-{"id":18,"text":"B19:\tKalau pergi kedai lain, abang tak marah, kalau dapat harga macam saya bagi ini, datanglah balik kedai saya.","label":[[29,34,"1st"],[70,74,"1st"],[70,74,"1st"]]}
+{"id":18,"text":"B19:\tKalau pergi kedai lain, abang tak marah, kalau dapat harga macam saya bagi ini, datanglah balik kedai saya.","label":[[29,34,"1st"],[70,74,"1st"],[107,111,"1st"]]}
 {"id":19,"text":"B20:\tSebab apa, abang nak suruh adik datang balik lain kali, sebab saya nak cari kawan.","label":[[16,21,"1st"],[67,71,"1st"],[32,36,"2nd"]]}
 {"id":20,"text":"B21:\tCubalah cari kalau dapat harga ni.","label":[]}
 {"id":21,"text":"B22:\tJadi lapan belaslah, saya biasa jual dua puluh lima, dua puluh enam.","label":[[26,30,"1st"]]}

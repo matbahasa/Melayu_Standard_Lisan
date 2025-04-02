@@ -1,6 +1,6 @@
 {"id":0,"text":"A1:\tKain batik sarung tu berapa?","label":[]}
 {"id":1,"text":"B2:\tKain batik Kelantan ke, Terengganu?","label":[]}
-{"id":2,"text":"B3:\tKain Kelantan tu lapan ringgit sehelai---adik nak yang mana... adik nak banyak ke?","label":[[45,49,"2nd"],[45,49,"2nd"]]}
+{"id":2,"text":"B3:\tKain Kelantan tu lapan ringgit sehelai---adik nak yang mana... adik nak banyak ke?","label":[[45,49,"2nd"],[67,71,"2nd"]]}
 {"id":3,"text":"A4:\tNak satu kodi (dua puluh helai).","label":[]}
 {"id":4,"text":"B5:\tKalau nak sekodi, ginilah Kak Dah bagi seratus dua puluh lapan ringgit.","label":[[30,37,"1st"]]}
 {"id":5,"text":"B6:\tMurah dah tu adik---murah benar dah.","label":[[17,21,"address"]]}

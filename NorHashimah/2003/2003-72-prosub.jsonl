@@ -5,7 +5,7 @@
 {"id":4,"text":"B5:\tTak boleh kak.","label":[[14,17,"address"]]}
 {"id":5,"text":"A6:\tBolehlah, akak malas nak cari kat lain lagi.","label":[[14,18,"1st"]]}
 {"id":6,"text":"B7:\tDua puluh, dua puluh satu, dua puluh dua, dua puluh tiga, dua puluh empat, dia harga lain.","label":[]}
-{"id":7,"text":"B8:\tDia tak sama kalau kita boleh bagi, kita bagi.","label":[[23,27,"1st"],[23,27,"1st"]]}
+{"id":7,"text":"B8:\tDia tak sama kalau kita boleh bagi, kita bagi.","label":[[23,27,"1st"],[40,44,"1st"]]}
 {"id":8,"text":"A9:\tBerapa seluar ni?","label":[]}
 {"id":9,"text":"B10:\tSembilan ringgit, kalau kecil dia murah sikit, kalau besar benar, dia sebelas ringgit.","label":[]}
 {"id":10,"text":"A11:\tLima dahlah ni.","label":[]}

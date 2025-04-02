@@ -21,9 +21,9 @@
 {"id":20,"text":"B21:\tYang ni pun lawa... saya sendiri pun berkenan yang ni tapi lain orang lain rasa.","label":[[25,29,"1st"]]}
 {"id":21,"text":"B22:\tHati orang berbeza-beza.","label":[]}
 {"id":22,"text":"B23:\tSebab tu saya jual banyak jenis fesyen ni.","label":[[14,18,"1st"]]}
-{"id":23,"text":"B24:\tSebenarnya saya malas main harga ni, kira saya cakap harga betul selalu, senang....","label":[[16,20,"1st"],[16,20,"1st"]]}
+{"id":23,"text":"B24:\tSebenarnya saya malas main harga ni, kira saya cakap harga betul selalu, senang....","label":[[16,20,"1st"],[47,51,"1st"]]}
 {"id":24,"text":"B25:\tSekarang ni ramai orang beli buat berniaga.","label":[]}
-{"id":25,"text":"B26:\tKak kalau nak berniaga boleh ambik tempat saya---bolehlah saya bagi murah sikit.","label":[[47,51,"1st"],[47,51,"1st"],[5,8,"2nd"]]}
+{"id":25,"text":"B26:\tKak kalau nak berniaga boleh ambik tempat saya---bolehlah saya bagi murah sikit.","label":[[47,51,"1st"],[63,67,"1st"],[5,8,"2nd"]]}
 {"id":26,"text":"B27:\tSebab beli banyak bolehlah murah.","label":[]}
 {"id":27,"text":"A28:\tBoleh untung ke?","label":[]}
 {"id":28,"text":"B29:\tBoleh untung kak, ramai orang ambik tempat saya untuk berniaga.","label":[[48,52,"1st"],[18,21,"address"]]}

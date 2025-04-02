@@ -19,7 +19,7 @@
 {"id":18,"text":"A19:\tTawar molek, lama kan kita tawar tak kena harga.","label":[[27,31,"1st"]]}
 {"id":19,"text":"B20:\tKak tawar tu, biar berpatutan dengan barang yang nak jual ini, bagi tahulah kak nak tawar berapa?","label":[[5,8,"2nd"],[81,84,"2nd"]]}
 {"id":20,"text":"A21:\tDua puluh lebih boleh ya.","label":[]}
-{"id":21,"text":"B22:\tGinilah betul-betul ya, kak nak kita bagi tiga puluh satu, kesian kita kak, tak bolehlah buat macam di Rantau Panjang tu.","label":[[37,41,"1st"],[37,41,"1st"],[29,32,"2nd"],[29,32,"address"]]}
+{"id":21,"text":"B22:\tGinilah betul-betul ya, kak nak kita bagi tiga puluh satu, kesian kita kak, tak bolehlah buat macam di Rantau Panjang tu.","label":[[37,41,"1st"],[71,75,"1st"],[29,32,"2nd"],[29,32,"address"]]}
 {"id":22,"text":"A23:\tKita cakap hak sungguh ni, beli Rantau Panjang tu dua puluh tiga saja.","label":[[5,9,"1st"]]}
 {"id":23,"text":"B24:\tGinilah kak, kalau kak nak, kita bagi tiga puluh cukup, kalau untung dua, tiga ringgit pun tak apa dah.","label":[[13,16,"2nd"],[13,16,"address"]]}
 {"id":24,"text":"B25:\tKalau beli dua lainlah.","label":[]}
@@ -34,4 +34,4 @@
 {"id":33,"text":"B34:\tTak boleh gi kak, kalau kak ambik dua buah, bolehlah kurang sikit lagi, sikitlah.","label":[[18,21,"2nd"],[18,21,"address"]]}
 {"id":34,"text":"B35:\tKesianlah kita.","label":[[15,19,"1st"]]}
 {"id":35,"text":"A36:\tDua puluh lapanlah dik.","label":[[24,27,"address"]]}
-{"id":36,"text":"B37:\tTak bolehlah kak, kesian kita, tak boleh pergi dah, mahal di tali beg ni, dua puluh lebih dah modal kita tapi puas hatilah, barang elok ambik dua.","label":[[30,34,"1st"],[30,34,"1st"],[18,21,"address"]]}
+{"id":36,"text":"B37:\tTak bolehlah kak, kesian kita, tak boleh pergi dah, mahal di tali beg ni, dua puluh lebih dah modal kita tapi puas hatilah, barang elok ambik dua.","label":[[30,34,"1st"],[105,109,"1st"],[18,21,"address"]]}

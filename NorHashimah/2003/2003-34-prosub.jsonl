@@ -16,7 +16,7 @@
 {"id":15,"text":"A16:\tTurunlah sikit lagi.","label":[]}
 {"id":16,"text":"A17:\tBagi lapan belas ringgitlah.","label":[]}
 {"id":17,"text":"A18:\tMari jauh ni.","label":[]}
-{"id":18,"text":"B19:\tTak boleh dah mak cik, mak cik dok mana?","label":[[19,26,"address"],[19,26,"address"]]}
+{"id":18,"text":"B19:\tTak boleh dah mak cik, mak cik dok mana?","label":[[19,26,"address"],[28,35,"address"]]}
 {"id":19,"text":"A20:\tCiku---Kuala Kerai nun....","label":[]}
 {"id":20,"text":"B21:\tOh... tempat kelapa sawit tu ya!","label":[]}
 {"id":21,"text":"A22:\tA... a... lepas tu lagu mana---bagi lapan belas ringgit tak boleh ke, cukup dua puluh ringgitlah ya.","label":[]}

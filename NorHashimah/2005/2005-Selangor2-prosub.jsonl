@@ -56,7 +56,7 @@
 {"id":55,"text":"P56:\tMacam orang Johor jugalah tu.","label":[]}
 {"id":56,"text":"S57:\tAa... abang.","label":[]}
 {"id":57,"text":"S58:\tFarah yang eldest tu, adik-adik panggil Abang.","label":[]}
-{"id":58,"text":"S59:\tTetapi bila datang kat Farhana, Fadlina semua... maybe I yang tak biasalah... I biasa panggil kakak-kakak.","label":[[60,61,"1st"],[60,61,"1st"]]}
+{"id":58,"text":"S59:\tTetapi bila datang kat Farhana, Fadlina semua... maybe I yang tak biasalah... I biasa panggil kakak-kakak.","label":[[60,61,"1st"],[83,84,"1st"]]}
 {"id":59,"text":"S60:\tJadi no. 2 tu Farhana, sebut Kak Ana, no. 3 Kak Ina sebab Fadlina.","label":[]}
 {"id":60,"text":"P61:\tMacam mana pula diorang panggil puan?","label":[[37,41,"2nd"]]}
 {"id":61,"text":"S62:\tI diorang panggil Mama... biasalah.","label":[[5,6,"1st"]]}
@@ -147,7 +147,7 @@
 {"id":146,"text":"Q147:\tTidak 100% hilang, masih ada lagi panggilan itu.","label":[]}
 {"id":147,"text":"P148:\tO.K. tak agaknya suatu masa, keluarga Melayu di bandar tidak lagi menerapkan panggilan lagi di kalangan anak-anak dia tetapi di kampung tu masih ada.","label":[]}
 {"id":148,"text":"Q149:\tAda kemungkinan, zaman siber ni, panggilan lama tu lebih mesra pada zaman moden ini.","label":[]}
-{"id":149,"text":"P150:\tTetapi misalnya anak you dengan brother you punya anak their (cousin) diorang sepupu, jadi peringkat panggilan tu masih ada lagi @ tidak.","label":[[27,30,"2nd"],[27,30,"2nd"]]}
+{"id":149,"text":"P150:\tTetapi misalnya anak you dengan brother you punya anak their (cousin) diorang sepupu, jadi peringkat panggilan tu masih ada lagi @ tidak.","label":[[27,30,"2nd"],[46,49,"2nd"]]}
 {"id":150,"text":"Q151:\tTak de, dah hilang tu.","label":[]}
 {"id":151,"text":"Q152:\tPanggil nama aje, sebab diorang lebih kurang sebaya.","label":[]}
 {"id":152,"text":"Q153:\tTetapi yang sulung, dia panggil Kak Ina, Kak Siti, dia tak panggil Kak Long.","label":[]}
@@ -160,11 +160,11 @@
 {"id":159,"text":"P160:\tTerbalik.","label":[]}
 {"id":160,"text":"P161:\tTak semestinya macam orang utara, perempuan pun dia panggil Tok, lelaki panggil Tok.","label":[]}
 {"id":161,"text":"P162:\tNenek tu tak wujud dalam sistem panggilan.","label":[]}
-{"id":162,"text":"P163:\tDalam adik-beradik awak, awak panggil mak ayah awak dengan apa?","label":[[25,29,"2nd"],[25,29,"2nd"],[25,29,"2nd"]]}
-{"id":163,"text":"Q164:\tKita panggil ayah kita Ayah, panggil mak kita... Mama.","label":[[6,10,"1st"],[24,28,"1st"],[24,28,"1st"]]}
+{"id":162,"text":"P163:\tDalam adik-beradik awak, awak panggil mak ayah awak dengan apa?","label":[[25,29,"2nd"],[31,35,"2nd"],[53,57,"2nd"]]}
+{"id":163,"text":"Q164:\tKita panggil ayah kita Ayah, panggil mak kita... Mama.","label":[[6,10,"1st"],[24,28,"1st"],[47,51,"1st"]]}
 {"id":164,"text":"P165:\tDalam adik-beradik pula, bagaimana?","label":[]}
 {"id":165,"text":"Q166:\tAdik-beradik ada 4.","label":[]}
-{"id":166,"text":"Q167:\tKalau adik kita no. 2, 3, 4 panggil kita Kakak Nana, kalau kita panggil adik-adik kita nama ajelah.","label":[[17,21,"1st"],[17,21,"1st"],[17,21,"1st"],[17,21,"1st"]]}
+{"id":166,"text":"Q167:\tKalau adik kita no. 2, 3, 4 panggil kita Kakak Nana, kalau kita panggil adik-adik kita nama ajelah.","label":[[17,21,"1st"],[42,46,"1st"],[65,69,"1st"],[88,92,"1st"]]}
 {"id":167,"text":"P168:\tKalau adik-beradik sebelah ayah panggil apa?","label":[]}
 {"id":168,"text":"Q169:\tKira macam gelaranlah, Mak Long, Pak Long","label":[]}
 {"id":169,"text":"P170:\tAda berapa adik-beradik ayah awak?","label":[[35,39,"2nd"]]}
@@ -184,16 +184,16 @@
 {"id":183,"text":"Q184:\tNenek pula panggil Atuk.","label":[]}
 {"id":184,"text":"P185:\tAyah berasal dari mana?","label":[]}
 {"id":185,"text":"Q186:\tDari Melaka, mak berasal dari Muar, Johor.","label":[]}
-{"id":186,"text":"P187:\tDalam adik-beradik, awak panggil mak dengan ayah awak apa?","label":[[26,30,"2nd"],[26,30,"2nd"]]}
-{"id":187,"text":"Q188:\tSaya panggil mak saya Mak, panggil ayah saya Ayah.","label":[[6,10,"1st"],[23,27,"1st"],[23,27,"1st"]]}
+{"id":186,"text":"P187:\tDalam adik-beradik, awak panggil mak dengan ayah awak apa?","label":[[26,30,"2nd"],[55,59,"2nd"]]}
+{"id":187,"text":"Q188:\tSaya panggil mak saya Mak, panggil ayah saya Ayah.","label":[[6,10,"1st"],[23,27,"1st"],[46,50,"1st"]]}
 {"id":188,"text":"P189:\tAdik-beradik ada berapa orang?","label":[]}
 {"id":189,"text":"Q190:\tSaya ada 5 adik-beradik.","label":[]}
 {"id":190,"text":"P191:\tPanggilan macam mana?","label":[]}
-{"id":191,"text":"Q192:\tAdik-adik saya semua panggil saya Kak Long, panggil diorang dengan nama tetapi yang last saya panggil adik.","label":[[16,20,"1st"],[16,20,"1st"]]}
+{"id":191,"text":"Q192:\tAdik-adik saya semua panggil saya Kak Long, panggil diorang dengan nama tetapi yang last saya panggil adik.","label":[[16,20,"1st"],[35,39,"1st"]]}
 {"id":192,"text":"Q193:\tMacam nombor 2 panggil nombor 3 dan seterusnya panggil nama biasa aje.","label":[]}
 {"id":193,"text":"P194:\tKalau adik-beradik ayah awak panggil apa?","label":[[30,34,"2nd"]]}
 {"id":194,"text":"Q195:\tAyah saya ada 8 orang adik-beradik.","label":[[11,15,"1st"]]}
-{"id":195,"text":"Q196:\tSaya panggil yang lelaki saya panggil Ayah Long, kalau yang perempuan saya panggil Wan Yong.","label":[[6,10,"1st"],[31,35,"1st"],[31,35,"1st"]]}
+{"id":195,"text":"Q196:\tSaya panggil yang lelaki saya panggil Ayah Long, kalau yang perempuan saya panggil Wan Yong.","label":[[6,10,"1st"],[31,35,"1st"],[76,80,"1st"]]}
 {"id":196,"text":"P197:\tKalau adik-beradik sebelah mak?","label":[]}
 {"id":197,"text":"Q198:\tAdik-beradik mak saya 5 orang.","label":[[23,27,"1st"]]}
 {"id":198,"text":"Q199:\tYang first, mak saya yang kedua panggil Mak Ngah, kemudian Mak Lang, yang ke-4 Auntie Uda dan yang last panggil Pak Usu.","label":[[22,26,"1st"]]}
@@ -202,7 +202,7 @@
 {"id":201,"text":"P202:\tSebelah mak pula bagaimana?","label":[]}
 {"id":202,"text":"Q203:\tSebelah mak panggil datuk, nenek panggil Nenek.","label":[]}
 {"id":203,"text":"P204:\tAyah dan mak berasal dari mana?","label":[]}
-{"id":204,"text":"Q205:\tAyah saya berasal dari Tapah, Perak, mak saya KL aje.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":204,"text":"Q205:\tAyah saya berasal dari Tapah, Perak, mak saya KL aje.","label":[[11,15,"1st"],[47,51,"1st"]]}
 {"id":205,"text":"P206:\tDalam adik-beradik awak, panggilan ayah dan mak bagaimana?","label":[[25,29,"2nd"]]}
 {"id":206,"text":"Q207:\tPanggil Abah dengan Mak.","label":[]}
 {"id":207,"text":"P208:\tDalam adik-beradik panggil macam mana?","label":[]}
@@ -210,8 +210,8 @@
 {"id":209,"text":"P210:\tPanggil nama sahajalah.","label":[]}
 {"id":210,"text":"P211:\tAdik-beradik sebelah ayah?","label":[]}
 {"id":211,"text":"Q212:\tAdik-beradik sebelah ayah kelakar sikit.","label":[]}
-{"id":212,"text":"Q213:\tAyah kita punya abang kita panggil Ayah.","label":[[11,15,"1st"],[11,15,"1st"]]}
-{"id":213,"text":"Q214:\tAyah kita punya adik, kita panggil Abah.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":212,"text":"Q213:\tAyah kita punya abang kita panggil Ayah.","label":[[11,15,"1st"],[28,32,"1st"]]}
+{"id":213,"text":"Q214:\tAyah kita punya adik, kita panggil Abah.","label":[[11,15,"1st"],[28,32,"1st"]]}
 {"id":214,"text":"Q215:\tTetapi adik-beradik ada 4 orang, yang nombor 1 panggil Ayah, yang nombor 2 panggil Mak Ngah, nombor 3 panggil Ayah kita nombor 3, yang nombor 4 panggil Abah.","label":[[121,125,"1st"]]}
 {"id":215,"text":"P216:\tSebelah mak pula?","label":[]}
 {"id":216,"text":"Q217:\tYang itu normal, Mak Long, Mak Teh, Mak Ngah.","label":[]}
@@ -230,7 +230,7 @@
 {"id":229,"text":"P230:\tAyah berasal dari mana dan mak?","label":[]}
 {"id":230,"text":"Q231:\tNegeri Sembilan, dan mak pun sama.","label":[]}
 {"id":231,"text":"P232:\tPanggil mak ayah bagaimana?","label":[]}
-{"id":232,"text":"Q233:\tSaya panggil ayah saya Baba, panggil arwah Mak saya Mama.","label":[[6,10,"1st"],[24,28,"1st"],[24,28,"1st"]]}
+{"id":232,"text":"Q233:\tSaya panggil ayah saya Baba, panggil arwah Mak saya Mama.","label":[[6,10,"1st"],[24,28,"1st"],[53,57,"1st"]]}
 {"id":233,"text":"Q234:\tSebelah mak pak cik panggil Ami.","label":[]}
 {"id":234,"text":"Q235:\tYang sulung panggil Ami Long, nombor 2 panggil Ami dengan mama diakan dan nombor 3 panggil Ami Kecik.","label":[]}
 {"id":235,"text":"Q236:\tSaya hanya ada sorang mak cik.","label":[[6,10,"1st"]]}

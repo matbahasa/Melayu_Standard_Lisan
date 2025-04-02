@@ -174,7 +174,7 @@
 {"id":173,"text":"B174:\tOh!","label":[]}
 {"id":174,"text":"B175:\tSekarang ni diorang pergi mana?","label":[]}
 {"id":175,"text":"A176:\tTak tahulah, agaknya pergi menziarah rumah arwah Raja.","label":[]}
-{"id":176,"text":"B177:\tKak Chik, makan nasi ni Kak Chik.","label":[[6,14,"address"],[6,14,"address"]]}
+{"id":176,"text":"B177:\tKak Chik, makan nasi ni Kak Chik.","label":[[6,14,"address"],[30,38,"address"]]}
 {"id":177,"text":"B178:\tMari makan dengan Kak Mah ni.","label":[]}
 {"id":178,"text":"A179:\tAyam pun tak ada dah.","label":[]}
 {"id":179,"text":"A180:\tEsok pulak sampai.","label":[]}

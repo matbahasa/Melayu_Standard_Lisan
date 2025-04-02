@@ -7,14 +7,14 @@
 {"id":6,"text":"A7:\tDua puluh limalah.","label":[]}
 {"id":7,"text":"B8:\tMana boleh kak, kalau kak beli yang kulit keras ni, boleh bagilah dua puluh lima.","label":[[15,18,"2nd"],[15,18,"address"]]}
 {"id":8,"text":"B9:\tSaya tak cakap tipu kak.","label":[[4,8,"1st"],[24,27,"address"]]}
-{"id":9,"text":"B10:\tNak cari mana kak macam ni, beg ni baru sampai tadi kak ni.","label":[[19,22,"address"],[19,22,"address"]]}
+{"id":9,"text":"B10:\tNak cari mana kak macam ni, beg ni baru sampai tadi kak ni.","label":[[19,22,"address"],[57,60,"address"]]}
 {"id":10,"text":"A11:\tBaru sampailah, kita nak minta kurang tu.","label":[[21,25,"1st"]]}
 {"id":11,"text":"A12:\tKalau bagi dua puluh lima, kak naklah.","label":[[32,35,"1st"]]}
 {"id":12,"text":"B13:\tKesianlah kita, mana dapat kak.","label":[[15,19,"1st"],[32,35,"address"]]}
 {"id":13,"text":"B14:\tKita pun nak untung jugak sikit-sikit.","label":[]}
 {"id":14,"text":"B15:\tSikit lagilah kak.","label":[[19,22,"address"]]}
 {"id":15,"text":"A16:\tSetakat tu saja.","label":[]}
-{"id":16,"text":"B17:\tSebab dia kulit Bonia, jadi ginilah kak, kita cakap betul, kita boleh bagi setakat tiga puluh lima.","label":[[46,50,"1st"],[46,50,"1st"],[41,44,"address"]]}
+{"id":16,"text":"B17:\tSebab dia kulit Bonia, jadi ginilah kak, kita cakap betul, kita boleh bagi setakat tiga puluh lima.","label":[[46,50,"1st"],[64,68,"1st"],[41,44,"address"]]}
 {"id":17,"text":"B18:\tDua puluh lima tak dapat sebab dia kulit-kulit Bonia mahal kak.","label":[[64,67,"address"]]}
 {"id":18,"text":"B19:\tDia bukan kulit-kulit sebarangan saja, serupa kat mana-mana pun sebab dia macam kulit betul.","label":[]}
 {"id":19,"text":"B20:\tNaik sikitlah lagi kak.","label":[[24,27,"address"]]}
