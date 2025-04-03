@@ -10,11 +10,13 @@
 {"id": 9, "text": "C10:\tTolong angkat bekas bawang tu letak kat bawah.", "label": [[41, 44, "3rd"], [41, 44, "DO"], [35, 40, "2nd"], [35, 40, "S"], [5, 11, "2nd"], [5, 11, "S"], [12, 18, "1st"], [12, 18, "DO"]]}
 {"id": 10, "text": "C11:\tDia orang nak tengok bawang tu banyak mana.", "label": []}
 {"id": 11, "text": "C12:\tAku tak larat nak angkat sendiri.", "label": []}
+{"id": 11.5, "text": "", "label": []}
 {"id": 12, "text": "A13:\tNi hak besan bawa, orang Johar bawa.", "label": [[18, 23, "1st"], [18, 23, "P"]]}
 {"id": 13, "text": "B14:\tYalah, malam diorang nak nikah tu, ada budak Amir tu pergi ke rumah.", "label": []}
 {"id": 14, "text": "B15:\tDok memanggil-manggil Kak Long!", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 15, "text": "B16:\tKak Long!", "label": []}
 {"id": 16, "text": "B17:\tMarilah turun sebentar.", "label": [[5, 12, "2nd"], [5, 12, "S"]]}
+{"id": 16.5, "text": "", "label": []}
 {"id": 17, "text": "B18:\tAda kerja apa ni?", "label": [[5, 8, "1st"], [5, 8, "S"]]}
 {"id": 18, "text": "B19:\tMa suruh pergi beli timun empat sumpit, kacang 600, lepas tu lada besar, lada burung nak tambah jugak.", "label": [[14, 19, "2nd"], [14, 19, "S"], [90, 93, "3rd"], [90, 93, "S"]]}
 {"id": 19, "text": "B20:\tAbo senyap je, sebab tahu dah sah akan beli.", "label": [[26, 30, "3rd"], [26, 30, "S"], [39, 43, "2nd"], [39, 43, "S"]]}
@@ -23,6 +25,7 @@
 {"id": 22, "text": "B23:\tYalah, dinihari pukul 5.30 lagi dok tunggu atas bukit dah.", "label": [[37, 40, "3rd"], [37, 40, "S"]]}
 {"id": 23, "text": "C24:\tNak gi mana?", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
 {"id": 24, "text": "B25:\tPasar Sabtu nilah, Pasar Tani.", "label": []}
+{"id": 24.5, "text": "", "label": []}
 {"id": 25, "text": "A26:\tAloh.... Slimnya dia.", "label": []}
 {"id": 26, "text": "A27:\tDiet ke?", "label": [[5, 9, "2nd"], [5, 9, "S"]]}
 {"id": 27, "text": "B28:\tYalah!", "label": []}
@@ -51,6 +54,7 @@
 {"id": 50, "text": "A51:\tHah, habis licin diorang siang bawang ni semalam.", "label": []}
 {"id": 51, "text": "D52:\tRamai ke orang semalam?", "label": []}
 {"id": 52, "text": "A53:\tRamai....", "label": []}
+{"id": 52.5, "text": "", "label": []}
 {"id": 53, "text": "A54:\tNi air tuak ke ni?", "label": []}
 {"id": 54, "text": "B55:\tEh, ni air yang diorang buat perangkap lalat tu.", "label": []}
 {"id": 55, "text": "A56:\tPasang lilinlah.", "label": [[5, 11, "2nd"], [5, 11, "S"]]}
@@ -90,6 +94,7 @@
 {"id": 89, "text": "D90:\tKalau ada dia pun, senyak jugak.", "label": [[24, 30, "3rd"], [24, 30, "S"]]}
 {"id": 90, "text": "A91:\tDia tu sedap tu, banyak modal.", "label": [[22, 28, "3rd"], [22, 28, "S"]]}
 {"id": 91, "text": "D92:\tPak Aji tu, bila nak ada modal?", "label": [[22, 25, "3rd"], [22, 25, "S"]]}
+{"id": 91.5, "text": "", "label": []}
 {"id": 92, "text": "A93:\tHarun nama sebenar Wahabnya.", "label": []}
 {"id": 93, "text": "B94:\tOh, Harun.", "label": []}
 {"id": 94, "text": "B95:\tHabis tu kenapa panggil Wahab?", "label": [[21, 28, "1st"], [21, 28, "S"]]}
@@ -170,6 +175,7 @@
 {"id": 169, "text": "C170:\tYang ni asyik dok mengilai aje dari tadi, buat kerjanya tidak", "label": [[48, 52, "3rd"], [48, 52, "S"]]}
 {"id": 170, "text": "A171:\tYa Rabbi, tercabut pulak kapak ni.", "label": []}
 {"id": 171, "text": "B172:\tBaji dululah, tak baji kan tercabut balik.", "label": [[6, 10, "2nd"], [6, 10, "S"], [20, 23, "2nd"], [20, 23, "S"]]}
+{"id": 171.5, "text": "", "label": []}
 {"id": 172, "text": "A173:\tKelmarin, Yah dengan Nah ada datang.", "label": []}
 {"id": 173, "text": "B174:\tOh!", "label": []}
 {"id": 174, "text": "B175:\tSekarang ni diorang pergi mana?", "label": []}
@@ -195,6 +201,7 @@
 {"id": 194, "text": "A195:\tTak tahulah berapa, ni beli kat Bachok ni.", "label": [[6, 9, "1st"], [6, 9, "S"], [29, 33, "1st"], [29, 33, "S"]]}
 {"id": 195, "text": "A196:\tRasanya hak dari kampung, tak ada biji.", "label": [[14, 17, "3rd"], [14, 17, "S"], [32, 35, "3rd"], [32, 35, "S"]]}
 {"id": 196, "text": "B197:\tKata Bharu baru ni, sebelum cuti tu, 3 - 4 gitu aje, yang dah dibuang tangkainya.", "label": [[34, 38, "1st"], [34, 38, "S"], [59, 63, "3rd"], [59, 63, "S"]]}
+{"id": 196.5, "text": "", "label": []}
 {"id": 197, "text": "A198:\tKertas ada dah 2.", "label": []}
 {"id": 198, "text": "B199:\tCukup dah ni.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
 {"id": 199, "text": "A200:\tCukup dengan Kak Mah seorang ajelah menggulai.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
@@ -222,6 +229,7 @@
 {"id": 221, "text": "B222:\tPanggillah Pak Saudara tu makan nasi.", "label": [[6, 16, "2nd"], [6, 16, "S"]]}
 {"id": 222, "text": "G223:\tMakan dah.", "label": [[6, 11, "3rd"], [6, 11, "S"]]}
 {"id": 223, "text": "G224:\tDiorang tu pergi betahlil tadi.", "label": []}
+{"id": 223.5, "text": "", "label": []}
 {"id": 224, "text": "A225:\tMah!", "label": []}
 {"id": 225, "text": "A226:\tLada merah ni nak relaikan jugak ke?", "label": [[20, 23, "2nd"], [20, 23, "S"], [24, 32, "1st"], [24, 32, "IO"], [33, 38, "3rd"], [33, 38, "DO"]]}
 {"id": 226, "text": "B227:\tBoleh jugak, tapi jangan campurlah.", "label": [[24, 30, "2nd"], [24, 30, "S"], [6, 11, "1st"], [6, 11, "P"]]}
