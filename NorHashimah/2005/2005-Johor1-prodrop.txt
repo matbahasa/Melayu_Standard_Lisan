@@ -289,8 +289,7 @@ Texts	2005-Johor1.txt	437	11426	11434	Dapatlah					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2005-Johor1.txt	438	11469	11474	kelim					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2005-Johor1.txt	438	11476	11481	kelim					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2005-Johor1.txt	438	11474	11475	,					1	0	0	0	0	0	0	0	0	0	1	0	0
-Texts	2005-Johor1.txt	438	11481	11482	 					1	0	0	0	0	0	0	0	0	0	1	0	0
-Texts	2005-Johor1.txt	438	11482	11487	dapat					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2005-Johor1.txt	438	11482	11487	dapat					1	0	0	0	0	0	0	0	0	0	1	0	0
 Texts	2005-Johor1.txt	439	11505	11510	Lebih					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2005-Johor1.txt	441	11569	11574	Kelim					1	0	0	0	0	1	0	0	0	0	0	0	0
 Texts	2005-Johor1.txt	441	11574	11575	,					1	0	0	0	0	0	0	0	0	0	1	0	0
