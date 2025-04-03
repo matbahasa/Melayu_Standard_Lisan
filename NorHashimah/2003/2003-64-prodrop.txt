@@ -1,0 +1,22 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-64.txt	0	4	13	Kuranglah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-64.txt	0	14	19	sikit					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-64.txt	1	42	46	Bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	1	47	51	enam					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-64.txt	2	63	67	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-64.txt	2	68	72	lima					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	3	95	99	kira					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	3	100	103	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-64.txt	3	110	114	bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	3	115	122	sebelas					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-64.txt	4	128	134	Kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-64.txt	4	135	142	lagilah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-64.txt	5	173	176	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-64.txt	5	184	188	kira					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	5	189	196	sebelas					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-64.txt	5	148	151	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	6	202	209	Sepuluh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-64.txt	7	218	221	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	7	243	246	dua					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-64.txt	7	282	287	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-64.txt	8	330	333	nak					1	1	0	0	0	0	0	0	0	0	0	0	0

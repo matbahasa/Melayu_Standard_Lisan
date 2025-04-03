@@ -1,0 +1,20 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-14.txt	2	102	105	mak					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-14.txt	2	121	125	lagi					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-14.txt	3	168	173	Ambik					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	4	223	226	nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	5	245	249	Cuba					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	5	270	273	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-14.txt	6	312	317	ambik					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	6	384	387	tak					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-14.txt	6	378	383	pakai					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	8	449	454	empat					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-14.txt	9	513	518	harga					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-14.txt	9	538	543	harga					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-14.txt	11	593	596	Tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	11	610	614	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-14.txt	12	650	653	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-14.txt	12	633	637	Buat					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-14.txt	13	666	669	Nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-14.txt	13	701	702	.					1	0	0	0	0	0	0	0	1	0	0	0	0
+Texts	2003-14.txt	14	711	718	Marilah					1	1	0	0	0	0	0	0	0	0	0	0	0

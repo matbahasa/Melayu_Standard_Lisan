@@ -1,0 +1,20 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-36.txt	1	35	40	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	1	19	27	Sembilan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	1	48	56	sikitlah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-36.txt	3	157	160	dua					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-36.txt	3	143	151	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	3	99	103	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	4	191	194	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	5	214	218	Jual					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	7	287	290	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-36.txt	8	338	341	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-36.txt	9	367	368	,					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-36.txt	9	379	382	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	11	454	459	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	11	472	477	tidak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	12	500	506	berapa					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	13	513	516	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-36.txt	14	562	567	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-36.txt	15	574	577	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-36.txt	15	601	606	empat					1	0	0	0	0	0	0	1	0	0	0	0	0

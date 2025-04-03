@@ -1,0 +1,22 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-63.txt	0	21	25	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-63.txt	0	4	7	Tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-63.txt	1	38	43	Ambil					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-63.txt	2	66	70	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	3	89	92	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-63.txt	3	104	109	sebab					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-63.txt	3	117	121	mari					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-63.txt	4	137	141	Kira					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-63.txt	6	211	215	Satu					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	8	284	287	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-63.txt	8	268	273	Tujuh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	9	307	313	Kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-63.txt	10	336	339	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-63.txt	11	424	427	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-63.txt	12	437	440	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-63.txt	12	451	454	...					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-63.txt	12	491	496	cakap					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-63.txt	14	532	537	tujuh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	15	550	554	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	16	616	621	turun					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-63.txt	16	566	570	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0

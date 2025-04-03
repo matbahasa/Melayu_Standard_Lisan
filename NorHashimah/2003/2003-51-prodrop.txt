@@ -1,0 +1,20 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-51.txt	1	50	56	berapa					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-51.txt	1	19	23	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	2	62	67	Boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-51.txt	2	75	79	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-51.txt	4	117	121	enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	4	111	115	Sama					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	5	138	141	Tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-51.txt	5	155	158	dah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-51.txt	6	167	173	Kurang					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-51.txt	7	186	190	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	8	219	222	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-51.txt	8	208	212	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	9	235	239	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	10	275	279	lima					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-51.txt	11	298	302	Naik					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-51.txt	11	303	308	sikit					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-51.txt	14	371	378	Setakat					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-51.txt	15	413	428	Bungkus-bungkus					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-51.txt	15	429	436	sajalah					1	0	0	0	0	0	0	0	0	0	1	0	0

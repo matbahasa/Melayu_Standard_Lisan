@@ -1,0 +1,11 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-47.txt	0	4	8	Kira					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-47.txt	0	9	13	lima					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-47.txt	1	69	70	,					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-47.txt	1	130	134	cuba					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-47.txt	1	122	128	banyak					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-47.txt	2	184	188	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-47.txt	3	250	253	tak					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-47.txt	4	285	289	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-47.txt	6	362	366	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-47.txt	7	386	390	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0

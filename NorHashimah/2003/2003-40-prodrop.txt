@@ -1,0 +1,19 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-40.txt	0	32	41	tengoklah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-40.txt	0	73	79	kurang					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	0	4	12	Bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-40.txt	0	21	28	bukalah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-40.txt	0	19	20	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	0	28	31	...					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	0	42	46	dulu					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	1	168	176	ambiklah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-40.txt	1	140	143	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-40.txt	1	122	123	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	2	211	217	berapa					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-40.txt	3	240	246	berapa					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-40.txt	4	252	255	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-40.txt	4	268	273	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-40.txt	5	279	282	Nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-40.txt	6	312	318	berapa					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-40.txt	7	339	343	dulu					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-40.txt	9	380	383	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0

@@ -1,0 +1,22 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-18.txt	2	144	147	tak					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-18.txt	2	83	87	satu					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-18.txt	5	224	227	Tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-18.txt	5	241	245	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-18.txt	6	254	257	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-18.txt	7	323	326	tak					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-18.txt	8	372	377	empat					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-18.txt	9	402	406	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-18.txt	9	407	411	tiga					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-18.txt	10	472	477	ambik					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-18.txt	10	478	485	sepuluh					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-18.txt	10	440	443	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-18.txt	11	514	522	Bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-18.txt	13	573	581	ambiklah					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-18.txt	13	609	614	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-18.txt	13	582	590	sembilan					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-18.txt	13	556	563	Sepuluh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-18.txt	14	626	631	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-18.txt	15	658	668	Kasihanlah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-18.txt	16	743	748	murah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-18.txt	16	753	756	tak					1	1	0	0	0	0	0	0	0	0	0	0	0

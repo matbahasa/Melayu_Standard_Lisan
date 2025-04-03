@@ -1,0 +1,21 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-26.txt	3	144	152	dapatlah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	4	183	186	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	5	201	206	Orang					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-26.txt	7	263	266	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	7	295	300	mesti					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-26.txt	8	332	336	sama					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-26.txt	10	403	408	murah					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-26.txt	10	415	420	lebih					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-26.txt	11	474	479	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	11	485	487	ni					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-26.txt	12	573	578	ambik					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	12	567	572	kecik					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-26.txt	12	602	607	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	12	542	551	kuranglah					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-26.txt	12	616	620	puas					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	12	532	536	kita					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-26.txt	12	613	616	---					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-26.txt	13	644	647	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-26.txt	13	666	672	selalu					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-26.txt	13	654	659	boleh					1	0	0	0	0	0	0	0	0	0	1	0	0

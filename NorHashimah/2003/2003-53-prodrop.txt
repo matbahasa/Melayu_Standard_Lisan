@@ -1,0 +1,18 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-53.txt	1	68	74	barang					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-53.txt	1	45	49	tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-53.txt	2	92	95	Nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-53.txt	2	96	102	berapa					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-53.txt	4	155	157	ke					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-53.txt	4	127	135	Mahallah					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-53.txt	5	163	179	Tengok-tengoklah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-53.txt	5	208	214	kurang					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-53.txt	5	180	184	dulu					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-53.txt	6	259	263	tiga					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-53.txt	8	360	365	harga					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-53.txt	8	392	395	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-53.txt	8	406	410	tiga					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-53.txt	9	431	438	Bagilah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-53.txt	9	439	445	kurang					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-53.txt	10	470	477	Biarlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-53.txt	10	511	514	tak					1	0	0	0	0	0	0	0	0	1	0	0	0

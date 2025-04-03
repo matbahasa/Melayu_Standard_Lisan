@@ -1,0 +1,14 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-74.txt	1	19	23	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	2	55	58	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-74.txt	2	40	43	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	3	100	107	setakat					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-74.txt	4	171	179	padanlah					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	4	164	169	tahan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	5	198	202	Beli					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-74.txt	7	307	312	mahal					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	8	325	333	Bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-74.txt	8	334	341	setakat					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-74.txt	9	379	382	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-74.txt	10	409	414	Boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-74.txt	10	420	423	dah					1	0	0	0	0	0	0	1	0	0	0	0	0

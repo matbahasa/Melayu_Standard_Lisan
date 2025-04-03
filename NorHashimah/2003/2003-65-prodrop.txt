@@ -1,0 +1,19 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-65.txt	1	34	38	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-65.txt	2	47	50	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-65.txt	3	62	66	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-65.txt	4	81	85	Beli					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-65.txt	4	97	101	mari					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-65.txt	4	117	122	cakap					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	4	137	141	mari					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-65.txt	4	86	89	tak					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-65.txt	4	106	109	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	4	146	151	tidak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	5	163	167	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-65.txt	6	182	187	Tidak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	6	195	199	bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	6	200	205	tujuh					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-65.txt	6	216	221	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	7	246	251	Cakap					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	8	280	284	jual					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-65.txt	8	285	288	dua					1	0	0	0	0	0	0	0	0	0	1	0	0

@@ -1,0 +1,21 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-79.txt	1	27	31	jual					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	1	32	35	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-79.txt	2	69	76	sepuluh					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	3	91	97	Kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-79.txt	3	98	101	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-79.txt	4	121	126	boleh					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-79.txt	4	135	142	sepuluh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-79.txt	5	209	212	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	5	246	249	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	5	192	195	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-79.txt	5	267	272	balik					1	0	0	0	1	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	6	284	288	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-79.txt	6	289	294	cukup					1	0	1	0	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	8	394	398	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-79.txt	8	399	403	tiga					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	9	430	434	bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-79.txt	9	435	440	murah					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-79.txt	9	445	449	kena					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-79.txt	10	489	492	tak					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-79.txt	11	541	547	kurang					1	0	0	0	0	0	0	0	0	0	1	0	0

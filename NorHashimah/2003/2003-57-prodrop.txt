@@ -1,0 +1,21 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-57.txt	1	19	24	Letak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	1	25	30	lapan					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-57.txt	1	54	59	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-57.txt	1	38	44	kurang					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	1	45	52	lagilah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-57.txt	3	115	118	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-57.txt	3	105	108	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-57.txt	4	140	143	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	4	130	133	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-57.txt	6	188	192	Kira					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	6	193	200	ginilah					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-57.txt	6	212	216	lima					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-57.txt	7	228	234	Mintak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	7	235	241	kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-57.txt	7	242	247	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-57.txt	8	261	266	Empat					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-57.txt	9	282	288	Mintak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-57.txt	9	289	295	kurang					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-57.txt	9	296	300	satu					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-57.txt	9	334	337	nak					1	0	0	0	0	1	0	0	0	0	0	0	0

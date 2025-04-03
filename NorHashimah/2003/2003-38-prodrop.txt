@@ -1,0 +1,22 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-38.txt	1	47	51	beri					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	1	52	57	harga					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-38.txt	1	23	28	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-38.txt	1	58	72	belas-belaslah					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-38.txt	2	85	89	Lima					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-38.txt	3	112	115	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	3	146	150	buat					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	4	194	198	beli					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	4	162	168	Mintak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	4	169	173	lima					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-38.txt	4	199	203	sini					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-38.txt	5	224	227	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	6	249	254	tawar					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	6	242	248	Serupa					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-38.txt	7	268	271	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	8	334	335	,					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-38.txt	8	336	339	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	8	311	312	,					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-38.txt	8	291	296	Bukan					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-38.txt	9	375	382	sajalah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-38.txt	9	363	374	ambik-ambik					1	1	0	0	0	0	0	0	0	0	0	0	0

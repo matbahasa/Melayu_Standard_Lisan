@@ -1,0 +1,26 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-35.txt	1	19	24	Letak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	1	25	29	tiga					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-35.txt	1	88	91	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-35.txt	2	134	138	bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-35.txt	2	139	147	murahlah					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	4	181	184	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	5	221	225	beli					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-35.txt	5	226	229	tak					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-35.txt	7	317	321	bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-35.txt	7	322	328	berapa					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	8	334	340	Ikhlas					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-35.txt	9	385	389	jadi					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	9	350	353	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	9	367	370	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	11	482	487	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	11	454	461	Seratus					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	11	495	499	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-35.txt	12	509	513	bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	12	514	521	seratus					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-35.txt	13	547	550	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	14	621	629	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-35.txt	14	602	609	Seratus					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	15	680	684	lima					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-35.txt	15	715	720	tidak					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	15	656	664	Ambiklah					1	0	0	0	0	1	0	0	0	0	0	0	0

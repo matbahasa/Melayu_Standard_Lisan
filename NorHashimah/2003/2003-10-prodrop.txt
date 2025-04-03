@@ -1,0 +1,9 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-10.txt	1	39	43	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-10.txt	2	66	71	Boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-10.txt	2	79	83	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-10.txt	3	250	253	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-10.txt	3	113	116	pun					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-10.txt	3	220	228	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-10.txt	3	197	198	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-10.txt	3	231	237	kurang					1	0	0	0	0	0	0	0	0	1	0	0	0

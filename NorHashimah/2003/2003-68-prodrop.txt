@@ -1,0 +1,8 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-68.txt	0	4	9	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-68.txt	1	48	53	tidak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-68.txt	1	61	65	bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-68.txt	1	66	77	sembilanlah					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-68.txt	1	34	39	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-68.txt	2	101	106	ambik					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-68.txt	2	83	88	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0

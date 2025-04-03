@@ -1,0 +1,27 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-52.txt	1	31	35	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-52.txt	1	56	60	tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-52.txt	2	114	117	pun					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-52.txt	5	217	221	tiga					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	6	317	322	murah					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-52.txt	6	278	281	tak					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-52.txt	8	380	384	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	8	419	423	tiga					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-52.txt	8	407	408	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	8	386	390	kira					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-52.txt	8	391	398	ginilah					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	9	481	486	takat					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	10	520	523	dua					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	11	573	576	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-52.txt	11	543	548	Mahal					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-52.txt	11	557	560	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-52.txt	12	606	610	tiga					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-52.txt	12	624	629	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-52.txt	14	689	694	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	14	653	658	Ambik					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-52.txt	16	753	758	jeans					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-52.txt	17	797	803	berapa					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	17	777	782	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	18	844	849	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-52.txt	19	872	877	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-52.txt	20	892	895	tak					1	1	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,13 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-58.txt	1	39	43	enam					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-58.txt	1	56	59	nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-58.txt	1	60	64	kita					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-58.txt	1	78	82	lagi					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-58.txt	2	88	94	Berapa					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-58.txt	3	100	104	Bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-58.txt	3	105	110	empat					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-58.txt	4	127	130	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-58.txt	5	154	157	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-58.txt	6	173	178	Empat					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-58.txt	7	251	256	mahal					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-58.txt	7	221	226	sebab					1	0	0	0	0	0	0	0	0	0	1	0	0

@@ -1,0 +1,11 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-43.txt	1	47	51	bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-43.txt	1	52	59	sepuluh					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-43.txt	1	31	38	Sebelas					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-43.txt	2	104	110	berapa					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-43.txt	3	116	120	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-43.txt	4	142	150	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-43.txt	4	134	141	Sepuluh					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-43.txt	5	164	167	tak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-43.txt	5	179	182	pun					1	0	1	0	0	0	0	0	0	0	0	0	0
+Texts	2003-43.txt	6	211	214	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0

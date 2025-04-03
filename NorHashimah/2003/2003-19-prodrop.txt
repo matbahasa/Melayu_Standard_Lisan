@@ -1,0 +1,24 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-19.txt	0	4	20	Tengok-tengoklah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	1	33	36	Nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	1	45	48	nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	2	66	71	Ambik					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	3	100	103	Nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-19.txt	3	109	120	murah-murah					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-19.txt	4	143	146	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-19.txt	5	157	163	Jangan					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	5	183	184	,					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-19.txt	5	191	196	boleh					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-19.txt	8	321	324	Ada					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-19.txt	9	350	357	Bukalah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	9	366	370	buka					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	9	364	365	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-19.txt	9	387	392	comel					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-19.txt	9	371	375	baru					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-19.txt	11	485	491	fesyen					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-19.txt	13	541	544	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-19.txt	14	596	599	ada					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-19.txt	15	610	613	Tak					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-19.txt	16	776	777	,					1	0	1	0	0	0	0	0	0	0	0	0	0
+Texts	2003-19.txt	16	746	749	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-19.txt	17	817	821	cuba					1	1	0	0	0	0	0	0	0	0	0	0	0

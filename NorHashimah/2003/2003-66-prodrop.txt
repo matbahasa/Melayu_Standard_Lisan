@@ -1,0 +1,24 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-66.txt	1	49	52	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	1	59	64	mahal					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-66.txt	1	65	70	takut					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	1	33	36	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-66.txt	2	117	124	setakat					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-66.txt	2	96	101	mahal					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-66.txt	3	147	152	Ambik					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	3	153	158	mahal					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-66.txt	5	245	251	Kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-66.txt	6	265	269	Bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	6	270	273	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-66.txt	6	308	313	boleh					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	7	324	332	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	7	360	365	letak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	7	372	388	rendah-rendahlah					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-66.txt	7	389	394	takut					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	8	439	444	Lapan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-66.txt	9	487	492	mahal					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-66.txt	9	460	463	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-66.txt	10	530	535	boleh					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-66.txt	10	511	518	setakat					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-66.txt	11	563	567	bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-66.txt	11	574	578	jadi					1	0	0	0	0	0	0	0	0	1	0	0	0

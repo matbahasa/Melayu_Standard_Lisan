@@ -1,0 +1,8 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-41.txt	0	4	8	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-41.txt	1	29	33	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-41.txt	1	52	56	tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-41.txt	2	127	130	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-41.txt	2	160	163	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-41.txt	2	93	97	Tiga					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-41.txt	3	173	180	Biarlah					1	0	0	0	0	1	0	0	0	0	0	0	0

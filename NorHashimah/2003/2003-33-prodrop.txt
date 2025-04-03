@@ -1,0 +1,26 @@
+Subcorp	Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prodrop	1st_S	1st_DO	1st_IO	1st_P	2nd_S	2nd_DO	2nd_IO	2nd_P	3rd_S	3rd_DO	3rd_IO	3rd_P
+Texts	2003-33.txt	1	47	52	Padan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	2	70	73	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	2	99	105	dengan					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	4	141	147	Sedang					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	4	164	169	pakai					1	0	0	0	0	0	0	0	0	0	0	0	1
+Texts	2003-33.txt	6	216	219	nak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	6	236	241	hanya					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-33.txt	6	224	225	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-33.txt	7	291	295	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-33.txt	7	296	301	murah					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	8	320	323	Tak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	11	463	469	takkan					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-33.txt	11	407	410	Tak					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	12	491	497	Berapa					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	13	509	513	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	14	535	539	Bagi					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-33.txt	14	540	554	cukup-cukuplah					1	0	0	1	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	16	616	620	Enam					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	17	650	654	Bagi					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	17	655	658	dah					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-33.txt	17	700	706	banyak					1	1	0	0	0	0	0	0	0	0	0	0	0
+Texts	2003-33.txt	17	717	718	,					1	0	0	0	0	0	0	0	0	0	1	0	0
+Texts	2003-33.txt	17	743	746	dua					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	17	669	674	cukup					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-33.txt	19	809	813	Beli					1	1	0	0	0	0	0	0	0	0	0	0	0
