@@ -1,0 +1,8 @@
+A1:	Kain ni berapa kak?
+B2:	Kita letak *pro_3rd_IO* enam puluh lima, *pro_2nd_S* nak *pro_3rd_DO* kita boleh kurang *pro_3rd_DO* lagi.
+A3:	*pro_3rd_S* Berapa?
+B4:	*pro_1st_S* Bagi *pro_3rd_IO* empat puluh lima.
+A5:	*pro_1st_S* Tak boleh empat puluh.
+B6:	*pro_1st_S* Tak boleh dah.
+A7:	*pro_3rd_S* Empat puluh tak boleh kak?
+B8:	Ikhlas kita kata *pro_3rd_DO* sebab dia jenis jarum emas... *pro_3rd_S* mahal.

@@ -1,0 +1,39 @@
+B1:	Nak apa dia tu?
+A2:	Seluar 'askar' *pro_2nd_S* ada?
+B3:	*pro_3rd_S* Yang budak ke atau orang tua?
+A4:	*pro_3rd_S* Untuk budak besar ni.
+B5:	*pro_3rd_S* Yang nilah
+B6:	---Dia ke nak pakai?
+B7:	... Yang ni padan ni, *pro_2nd_S* terailah *pro_3rd_DO* tak apa, kain dia tahan ni.
+A8:	Berapa ni?
+B9:	*pro_3rd_S* Lapan belas ringgit saja.
+A10:	Mahalnya!
+B11:	Lapan belas ringgit ni murah dah, kalau di gudang-gudang besar *pro_3rd_S* tak boleh harga ni---*pro_3rd_S* mahal lagi.
+A12:	Saiz *pro_3rd_P* berapa ni?
+B13:	Saiz *pro_3rd_P* dua puluh lapan.
+A14:	Yang tu berapa sehelai?
+B15:	Yang tu tak mahal---*pro_3rd_S* ada tiga saiz, dua, empat dan enam, *pro_3rd_S* ada tiga cahaya (warna).
+A16:	*pro_3rd_S* Berapa?
+B17:	*pro_1st_S* Bagi *pro_3rd_IO* empat ringgit lapan puluh, orang lain jual *pro_3rd_DO* enam setengah.
+A18:	Apa pula lapan puluh sen tu.
+A19:	*pro_2nd_S* tolak-tolak *pro_3rd_DO* gilah---fesyen lain *pro_2nd_S* tak ada?
+B20:	*pro_1st_S* Tak ada *pro_3rd_DO* dah---ni saja---*pro_3rd_S* gambar ninja---comel ni---*pro_2nd_S* nak warna apa tu *pro_2nd_S* ambik merahlah.
+A21:	Lepas tu yang tu *pro_2nd_S* boleh bagi *pro_3rd_DO* berapa?
+B22:	Yang tu saya bagi *pro_3rd_IO* enam belas ringgit yahlah---*pro_1st_S* kurang *pro_3rd_IO* dua ringgit.
+A23:	*pro_2nd_S* Bagi *pro_3rd_IO* sepuluh ringgitlah.
+B24:	Eh, *pro_3rd_S* enam belas ringgit murah benar dah tu *pro_3rd_S* tak boleh sepuluh ringgit---modal *pro_3rd_P* lebih dari tu.
+A25:	Kalau *pro_2nd_S* bagi *pro_3rd_IO* sepuluh ringgit saya ambik.
+B26:	*pro_1st_S* Tak boleh---orang beli *pro_3rd_DO* di sebelah luar (tempat lain seperti KL) dua puluh lima ringgit ni tapi di Kelantan ni murah saja kita jual *pro_3rd_DO* pasal barang sini gi sebelah luar---*pro_3rd_S* jadi mahallah.
+B27:	Kalau barang sana mari sini kita pulak mahal.
+A28:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit lagi.
+B29:	*pro_1st_S* Tak leh dah dik---modal *pro_3rd_P* lebih dah ni.
+A30:	Yang ni pulak?
+B31:	Yang tu saya bagi *pro_3rd_IO* setakat empat ringgit lebih daripada tu *pro_1st_S* tak boleh dah.
+A32:	Semulalah (lain kali sahajalah) .
+B33:	Semula gak *pro_3rd_S* tak ada dahlah
+B34:	---Gambar ni bukan ada selalu.
+A35:	Gambar dia pun tak molek.
+B36:	Biasalah ni---gambar untuk budak-budak dah tu....
+B37:	*pro_2nd_S* Ambik yang teballah.
+B38:	Musim-musim ni, malam sejuk-sejuk benar malam sekarang.
+A39:	*pro_2nd_S* Kiralah yang ni.

@@ -1,0 +1,27 @@
+A1:	Berapa ni?
+B2:	Yang tu dua belas ringgit.
+A3:	Kain Kelantan pun dua belas?
+B4:	*pro_1st_S* Bolehlah kurang *pro_3rd_DO* sikit lagi, sebab *pro_3rd_S* empat lapis.
+A5:	Yang Terengganu tu berapa?
+B6:	Yang Terengganu tu lima belas.
+A7:	Mahalnya!
+B8:	*pro_1st_S* Bolehlah kurang *pro_3rd_IO* sikit lagi, mak cik nak berapa ringgit?
+B9:	*pro_2nd_S* Nak banyak helai ke?
+A10:	Hih... sehelai saja.
+A11:	*pro_3rd_S* Lapan ringgit *pro_2nd_S* tidak boleh ke?
+B12:	*pro_3rd_S* Lapan *pro_1st_S* tidak boleh... *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* sembilan ringgitlah.
+A13:	Oh... mahalnya.
+B14:	*pro_2nd_S* Bagi *pro_1st_DO* lima puluh sen lagilah.
+A15:	Oh... *pro_1st_S* susah nak lima puluh sen---lima puluh sen kalau niaga ni.
+B16:	*pro_2nd_S* Bagi *pro_1st_DO* lima puluh sen lagilah, *pro_1st_S* buat minum air.
+A17:	Mahal lagi tu.
+B18:	Tidak mahal dah ni.
+A19:	Sepasang berapa kain ni?
+B20:	*pro_3rd_S* Dua puluh lima, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagi.
+A21:	*pro_3rd_S* Lapan belaslah.
+B22:	Lapan belas *pro_1st_S* tak boleh, *pro_1st_S* bagi *pro_3rd_IO* ginilah sembilan belas ringgit setengah.
+A23:	Kita beli *pro_3rd_DO* tak susah jugak ni?
+B24:	*pro_2nd_S* Bagilah *pro_1st_DO* , *pro_1st_S* boleh sikit benar ni.
+A25:	*pro_3rd_S* Lapan belaslah.
+B26:	*pro_1st_S* Tak boleh gi, kita bagi *pro_2nd_IO* *pro_3rd_DO* setakat sembilan belas.
+B27:	Jadi semua semua sekali dua puluh tujuhlah.

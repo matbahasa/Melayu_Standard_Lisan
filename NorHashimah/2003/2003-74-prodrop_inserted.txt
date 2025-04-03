@@ -1,0 +1,11 @@
+A1:	Berapa ni?
+B2:	*pro_3rd_S* Tiga puluh lima.
+A3:	*pro_3rd_S* Dua puluh lima *pro_2nd_S* tak boleh?
+B4:	(Ketawa)... ginilah kita bagi *pro_3rd_IO* setakat tiga puluh tetapi puas hatilah kak.
+B5:	Dua, tiga tahun *pro_3rd_S* tahan, *pro_3rd_S* padanlah dengan harga.
+B6:	*pro_1st_S* Beli yang dua, tiga belas ringgit pun, dua, tiga bulan pulaklah.
+B7:	Ini kain elok.
+B8:	Kalau kain macam ni, *pro_3rd_S* mahal belaka.
+B9:	*pro_1st_S* Bolehlah *pro_3rd_S* setakat tiga puluh.
+B10:	Ini orang dok ambil *pro_3rd_DO* dua, tiga biji harga ni.
+B11:	*pro_1st_S* Boleh bagi *pro_2nd_IO* dah tu.

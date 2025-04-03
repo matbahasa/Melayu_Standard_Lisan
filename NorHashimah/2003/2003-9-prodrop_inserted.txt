@@ -1,0 +1,17 @@
+A1:	Baju ni berapa?
+B2:	*pro_3rd_S* Dua belas ringgit---*pro_1st_S* boleh kurang *pro_3rd_DO* lagi kalau *pro_2nd_S* nak.
+B3:	*pro_2nd_S* Cakap sajalah *pro_2nd_S* nak *pro_1st_IO* kurang *pro_3rd_DO* berapa, kalau *pro_1st_S* tak boleh, *pro_1st_S* nak buat macam mana, *pro_1st_S* kira mana-mana patut.
+A4:	*pro_1st_S* Nampak *pro_3rd_DO* buruk ni?
+B5:	Apa pulak *pro_3rd_S* buruk, acu cium, *pro_3rd_S* bau kedai ni lagi.
+B6:	Kita tak jual barang buruk.
+A7:	Yang ni berapa rial?
+B8:	Yang tu saya bagi *pro_2nd_IO* *pro_3rd_DO* lapan belas ringgit---*pro_2nd_S* boleh tawar lagi.
+A9:	*pro_2nd_S* Bagi *pro_1st_IO* lima belaslah.
+B10:	Ginilah kak, kalau kak nak *pro_3rd_DO* jugak saya bagi *pro_2nd_IO* *pro_3rd_DO* enam belas ringgit.
+A11:	*pro_3rd_S* Lima belas ringgitlah.
+A12:	Saya beli *pro_3rd_DO* dah dulu ni *pro_3rd_S* lima belas ringgit saja.
+B13:	Mungkin kain *pro_2nd_P* jenis lain.
+B14:	*pro_2nd_S* Kena kain Siam ke?
+B15:	Kak nak yang mana tu, hijau ke merah, *pro_3rd_S* comel-comel belaka, biru pun comel jugak.
+B16:	Kuning pun biasa orang pakai.
+A17:	*pro_1st_S* Ambil hak biru tulah.

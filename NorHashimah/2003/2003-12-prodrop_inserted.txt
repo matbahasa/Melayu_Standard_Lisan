@@ -1,0 +1,6 @@
+A1:	Berapa semua tu?
+B2:	Semuanya dua belas ringgit setengah.
+A3:	*pro_1st_S* Mintak kurang samah (lima puluh sen) lagilah.
+B4:	*pro_1st_S* Tak boleh dah kak.
+B5:	Ini pun *pro_1st_S* dapat untung sikit sahaja.
+B6:	Lima puluh sen tu bahagian kita dah---untuk minum air pun *pro_3rd_S* masih tak cukup---tapi biarlah.

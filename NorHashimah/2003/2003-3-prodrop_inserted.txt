@@ -1,0 +1,7 @@
+A1:	Berapa harga telekung ni?
+B2:	*pro_3rd_S* Lima ringgit setengah.
+A3:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* sikit ke?
+B4:	Itu harga biasa dah tu.
+A5:	Tak ada yang jenis lain ke?
+B6:	Ada, tapi yang jenis tu tak elok, kalau yang tu *pro_3rd_S* bolehlah murah sikit.
+A7:	*pro_1st_S* Ambik yang eloklah---*pro_3rd_S* tahan lama---*pro_1st_S* puas sikit *pro_1st_S* pakai.

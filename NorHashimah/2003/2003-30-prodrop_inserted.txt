@@ -1,0 +1,41 @@
+A1:	Berapa harga yang ni.
+B2:	Yang ni lima ringgit setengah---*pro_1st_S* boleh kurang *pro_3rd_DO* lagi kalau *pro_2nd_S* nak *pro_3rd_DO* gak.
+A3:	Fesyen lain tak ada?
+B4:	Fesyen ni *pro_2nd_S* nak?
+B5:	Fesyen Hawaii---yang jenis ni pun ada.
+A6:	Berapa tu?
+B7:	Yang ni tujuh ringgit setengah, *pro_2nd_S* ambil yang nilah, *pro_2nd_S* boleh pakai dah ni.
+A8:	*pro_2nd_S* Tak leh (boleh) kurang *pro_3rd_DO* lagi ke?
+B9:	Ginilah *pro_1st_S* bagi *pro_3rd_IO* enam ringgit cukup....
+B10:	Warna hijau *pro_2nd_S* tak nak?
+B11:	*pro_3rd_S* Ada warna hijau, biru kuning---*pro_3rd_S* ada tiga warna.
+A12:	*pro_3rd_S* Jalur-jalur sangat.
+B13:	Memang fesyen dia dah---baru sampai ni.
+A14:	*pro_2nd_S* Bagi *pro_3rd_IO* empat ringgitlah.
+B15:	*pro_1st_S* Tak boleh dah tu---pasal modal *pro_3rd_P* mahal dah.
+B16:	Yang ni lima ringgit setengah *pro_3rd_S* kecil sikit, yang tadi tu *pro_3rd_S* saiz besar.
+A17:	*pro_2nd_S* Tak boleh bagi *pro_1st_IO* ke empat ringgit?
+B18:	Ginilah kalau *pro_2nd_S* nak dua helai tu, kita bagi *pro_2nd_IO* harga 10 ringgit boleh?
+B19:	*pro_1st_S* Kira *pro_3rd_DO* murah benar dah tu.
+B20:	Baju *pro_2nd_S* tak nak?
+A21:	Baju ni berapa?
+B22:	Yang ni *pro_1st_S* bagi *pro_3rd_IO* sembilan ringgit setengah.
+A23:	*pro_3rd_S* Padan ke ni?
+B24:	Budak umur berapa tahun?
+A25:	*pro_3rd_S* Darjah satu.
+B26:	Darjah satu boleh pakai dah ni.
+B27:	*pro_2nd_S* Nak yang mana... yang tu kain *pro_3rd_P* molek kak... saiz dia dah tu.
+A28:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B29:	*pro_1st_S* Tak boleh dah kak---harga paling murah saya bagi.
+A30:	*pro_2nd_S* Bolehlah sikit lagi.
+B31:	Ginilah *pro_1st_S* kira *pro_3rd_DO* enam setengah, *pro_1st_S* minta *pro_2nd_IO* *pro_3rd_DO* lima puluh sen yah.
+B32:	*pro_2nd_S* Nak yang mana... yang ada kolar yang ni *pro_2nd_S* tak berkenan?
+B33:	PUMA, ramai orang pakai *pro_3rd_DO* , orang tua, budak pakai *pro_3rd_DO* belaka, warna biru tu comel.
+A34:	Berapa tu?
+B35:	*pro_3rd_S* Lima ringgit setengah.
+A36:	Mahalnya!
+B37:	*pro_3rd_S* Tak mahal dah kak---kalau *pro_2nd_S* nak *pro_3rd_DO* kita bagi *pro_2nd_IO* *pro_3rd_DO* lima ringgitlah.
+A38:	*pro_1st_S* Ambik yang kuninglah.
+B39:	Semuanya tiga puluh empat ringgit setengah.
+A40:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* dah ke?
+B41:	*pro_2nd_S* Nak *pro_1st_IO* kurang apa lagi---*pro_1st_S* tak leh dah tu, sebab *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* kurang banyak dah---*pro_1st_S* kurang *pro_3rd_DO* lagi teruk pihak kita pulak.

@@ -1,0 +1,34 @@
+A1:	Yang ni berapa ni?
+B2:	Yang ni tiga ratus ringgit sepasang.
+B3:	Tapi *pro_1st_S* boleh kurang *pro_3rd_DO* lagi kalau *pro_2nd_S* nak.
+A4:	Berapa *pro_2nd_S* boleh kurang?
+B5:	Kalau kak nak *pro_3rd_DO* , saya boleh bagi *pro_2nd_IO* *pro_3rd_DO* dua ratus tujuh puluh ringgit.
+A6:	*pro_3rd_S* Dua ratus lima puluh ringgitlah.
+B7:	*pro_1st_S* Tak boleh kak.
+B8:	*pro_3rd_S* Paling kurang saya boleh bagi dua ratus enam puluh ringgit.
+B9:	Biasa saya jual *pro_3rd_DO* dua ratus tujuh puluh ringgit, dua ratus lapan puluh ringgit.
+B10:	Kalau *pro_2nd_S* nak banding *pro_3rd_DO* dengan dulu *pro_3rd_S* mahal lagi ni.
+B11:	Saya sendiri jual *pro_3rd_DO* tiga ratus ringgit lebih.
+B12:	Tapi masa tu upah *pro_1st_S* buat *pro_3rd_DO* mahal padan dengan harganya.
+B13:	Sekarang pun mahal upahnya ni---tapi *pro_1st_S* boleh kira *pro_3rd_S* sikitlah dari dulu.
+A14:	Yang tiga ratus ringgit lebih tu fesyen mana?
+B15:	Sama dengan yang ni---tapi modal *pro_3rd_P* dulu dengan sekarang tak sama.
+B16:	*pro_2nd_S* Nak yang mana tu.
+B17:	Ni yang hijau muda ni lawa jugak.
+B18:	*pro_2nd_S* Tak berkenan ke?
+A19:	*pro_3rd_S* Tak ada bunga besar-besar.
+B20:	Sekarang kak, ramai orang suka bunga kecik-kecik sebab tu banyak kain bunga jenis ni....
+B21:	Yang ni pun lawa... saya sendiri pun berkenan yang ni tapi lain orang lain rasa.
+B22:	Hati orang berbeza-beza.
+B23:	Sebab tu saya jual banyak jenis fesyen ni.
+B24:	Sebenarnya saya malas main harga ni, kira saya cakap harga *pro_3rd_P* betul selalu, *pro_1st_S* senang....
+B25:	Sekarang ni ramai orang beli *pro_3rd_DO* buat berniaga.
+B26:	Kak kalau nak berniaga *pro_2nd_S* boleh ambik tempat saya---bolehlah saya bagi *pro_2nd_IO* murah sikit.
+B27:	Sebab *pro_2nd_S* beli banyak bolehlah murah.
+A28:	*pro_1st_S* Boleh untung ke?
+B29:	Boleh untung kak, ramai orang ambik tempat saya untuk berniaga.
+B30:	Orang KL., Singapore.
+B31:	Barang ini barang laku sekarang.
+B32:	Kalau setakat untuk tambang bas *pro_2nd_P* tu *pro_3rd_S* boleh sangatlah.
+A33:	Tak apalah, saya ambik yang nilah dulu.
+A34:	*pro_1st_S* Buat-buat sampel.

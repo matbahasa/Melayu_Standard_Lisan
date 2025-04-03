@@ -1,0 +1,40 @@
+A1:	Tak boleh kurang *pro_3rd_DO* lagi kak?
+B2:	*pro_1st_S* Nak kurang *pro_3rd_DO* macam mana lagi dik.
+B3:	Upah buatnya sudah mahal....
+B4:	*pro_1st_S* Nak siapkan satu-satu helai tu ketar tangan.
+A5:	Warna dia keluarlah kak.
+B6:	Yang tu *pro_3rd_S* memang tak boleh cari dah... *pro_3rd_S* biasalah tu.
+B7:	Kain batik mana-mana pun mesti ada dera (luntur warna).
+B8:	Sebab orang yang buat*pro_3rd_DO* ---*pro_3rd_S* bukan mesin ni.
+B9:	Itu pun *pro_3rd_S* habih cekak (berhati-hati) dah.
+A10:	Yang tu berapa kak?
+B11:	Itu... seratus lapan puluh ringgit, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit kalau *pro_2nd_S* nak *pro_3rd_DO* gak---harga *pro_3rd_P* *pro_1st_S* boleh turun lagi---yang ni lawa-lawa colour dia---*pro_2nd_S* tengoklah.
+A12:	Berapa kak?
+B13:	*pro_3rd_S* Seratus lapan puluh ringgit, *pro_1st_S* boleh kurang *pro_3rd_DO* lagi, lawa kain dia dik.
+A14:	Yang ni berapa *pro_2nd_S* boleh bagi *pro_1st_DO* kalau *pro_1st_S* nak beli ni?
+B15:	Adik nak berapa helai---*pro_2nd_S* cakaplah---harga tu *pro_2nd_S* jangan bimbang, *pro_1st_S* boleh kurang lagi.
+A16:	Berapa kak nak bagi?
+B17:	Ginilah kak bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh ringgit.
+A18:	*pro_1st_S* Tak naklah dua puluh lapan ringgit boleh?
+B19:	Ginilah dik---*pro_1st_S* bagi *pro_3rd_IO* tiga puluh ringgit.
+A20:	*pro_3rd_S* Dua puluh lapan ringgitlah.
+B21:	*pro_1st_S* Tak boleh dik---tiga puluh lapan ringgit tu memang harga dia dah---kain ni molek dik---*pro_2nd_S* tengok ni warna dia lawa.
+B22:	Ini Kak Dah baru pergi ambik.
+A23:	Dua puluh lapan ringgit *pro_2nd_S* boleh ya?
+B24:	Janganlah gitu dik.
+A25:	Ini berapa ela?
+B26:	*pro_3rd_S* Empat ela.
+A27:	Muat tak saya ni?
+B28:	Kenapa pula *pro_2nd_S* tak muat.
+B29:	Orang-orang Kelantan pun besar ni jugak.
+A30:	Bagi *pro_1st_IO* tak kak dua puluh lapan ringgit?
+B31:	Ginilah dua puluh sembilan ringgit.
+B32:	Kalau yang ni dua puluh lima ringgit.
+A33:	Kenapa yang ni murah?
+B34:	Kualiti dia lain ni... yang ni banyak lagi colour *pro_3rd_P* lawa-lawa ni.
+A35:	Yang ni *pro_2nd_S* bagi *pro_1st_IO* *pro_3rd_DO* dua puluh lapan ringgit ye kak.
+A36:	Kami ambik banyak ni.
+B37:	Kasihanlah Kak Dah dik... *pro_1st_S* dapat satu ringgit saja ni....
+B38:	Adik nak berapa helai?
+A39:	Ni yang ni?
+B40:	Semuanya seratus dua belas ringgit... *pro_1st_S* jual ya dik harga sebanyak terima.

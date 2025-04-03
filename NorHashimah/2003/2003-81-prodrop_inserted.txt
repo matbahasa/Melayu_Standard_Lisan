@@ -1,0 +1,43 @@
+B1:	Yang murah sembilan ringgit sehelai ada.
+A2:	Sembilan ringgit?
+A3:	Yang ni sembilan ringgit.
+B4:	Ooh... *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
+A5:	Yang tu berapa?
+B6:	Yang tu dua belas, yang tu sepuluh, yang tu tujuh.
+B7:	*pro_1st_S* Boleh kurang lagi.
+B8:	*pro_2nd_S* Nak banyak ke?
+B9:	Kalau *pro_2nd_S* nak banyak... berapa helai?
+A10:	Sekodi.
+B11:	Kalau yang ni seratus tiga puluh.
+B12:	*pro_3rd_S* Enam setengah sehelai.
+A13:	*pro_3rd_S* Mahal dah tu.
+B14:	*pro_3rd_S* Tak mahal dah.
+B15:	*pro_2nd_S* Nak berapa kodi?
+A16:	*pro_2nd_S* Boleh kurang *pro_3rd_DO* lagi ya...
+B17:	Ginilah kak, *pro_1st_S* kurang *pro_3rd_DO* dua ringgit.
+B18:	Lepas tu *pro_1st_S* tak boleh pergilah.
+B19:	*pro_3rd_S* Seratus dua puluh lapan.
+A20:	Kalau *pro_1st_S* dapat *pro_3rd_DO* murah sikit, nanti kita mari sini lagi.
+B21:	Serupa harga niaga tu *pro_1st_S* bagi.
+B22:	Biasa *pro_1st_S* jual *pro_3rd_DO* tujuh *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* enam setengah.
+B23:	Saya pun boleh dua puluh sen sehelai, *pro_1st_S* cakap ikhlas dah tu kak.
+A24:	Kalau *pro_3rd_S* enam ringgit, *pro_1st_S* nak ambik yang lain lagi.
+B25:	*pro_1st_S* Bagi *pro_3rd_IO* enam ringgit tiga puluh, lepas tu *pro_1st_S* tak boleh pergilah lagi.
+B26:	Pasal *pro_1st_S* niaga pun dah kurang benar sekarang.
+B27:	Kalau *pro_3rd_S* enam ringgit rugilah saya.
+B28:	Enam ringgit tiga puluh tu *pro_1st_S* tak boleh pergi dah.
+A29:	Kita kena pergi tempat lainlah pulak.
+B30:	*pro_1st_S* Tak dapat kak, *pro_1st_S* cakap betul.
+B31:	Kalau kak pergi tempat lain pun, *pro_2nd_S* tak dapat harga macam ini.
+A32:	*pro_1st_S* Cakap betullah, *pro_2nd_S* nak ambik yang lain lagi.
+B33:	Itu *pro_1st_S* bagi *pro_3rd_IO* enam ringgit tiga puluh, special harga dah tu kak.
+A34:	*pro_2nd_S* Turun sepuluh senlah.
+B35:	*pro_1st_S* Tak boleh.
+A36:	*pro_3rd_S* Enam ringgitlah, kita ambik yang lain nanti *pro_1st_S* datang pula lain kali.
+B37:	Itu *pro_1st_S* nak suruh kak mari pulaklah tu, *pro_1st_S* cakap betul dah tu.
+A38:	Kalau *pro_3rd_S* enam ringgit tiga puluh *pro_3rd_S* berapa sekodi?
+B39:	*pro_3rd_S* Seratus dua puluh enam.
+A40:	*pro_3rd_S* Seratus dua puluh limalah.
+B41:	Sekodi?
+A42:	Ya...
+B43:	Bolehlah saya bagi pada kak seratus dua puluh lima.

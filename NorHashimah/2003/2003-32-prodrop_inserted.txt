@@ -1,0 +1,73 @@
+B1:	*pro_2nd_S* Pilih-pilihlah.
+B2:	*pro_2nd_S* Nak apa tu?
+A3:	Yang ni berapa?
+B4:	*pro_3rd_S* Enam ringgit.
+A5:	*pro_2nd_S* Bagi *pro_1st_IO* lima ringgitlah.
+B6:	*pro_1st_S* Tak boleh sebab orang lain jual *pro_3rd_IO* enam setengah belaka.
+A7:	*pro_2nd_S* Bagilah *pro_1st_IO* yang ni tiga ringgit dan yang ni dua ringgit, kain *pro_3rd_P* tak comel ni.
+B8:	Tak comel apa?
+B9:	Kain *pro_3rd_P* molek ni.
+A10:	*pro_3rd_S* Taklah bila *pro_1st_S* dah basuh*pro_3rd_DO* ---*pro_3rd_S* kerecuk ni.
+B11:	*pro_3rd_S* Taklah kain ni makin *pro_1st_S* basuh makin cerah warna dia, *pro_3rd_S* bukan *pro_1st_S* basuh makin gelap ni.
+A12:	*pro_2nd_S* Tak boleh ke *pro_3rd_S* lima ringgit.
+B13:	*pro_1st_S* Tak boleh dah---harga *pro_3rd_P* paling murah dah ni.
+A14:	*pro_3rd_S* Lima ringgit setengahlah.
+B15:	Saya bagi *pro_2nd_IO* murah benar dah tu...
+B16:	Lepas tu *pro_2nd_S* nak warna apa tu?
+A17:	Yang ni kalau *pro_2nd_S* bagi *pro_1st_IO* dua ringgit *pro_1st_S* nak ni---entah-entah tempat lain *pro_3rd_S* boleh murah lagi daripada ini.
+B18:	*pro_2nd_S* Gilah cari tempat lain---*pro_1st_S* nak tahu berapa dia bagi *pro_2nd_S* tak dapat harga ni.
+A19:	Lepas tu berapa *pro_2nd_S* boleh bagi?
+B20:	*pro_2nd_S* Janganlah tawar *pro_3rd_DO* banyak sangat, kita boleh berapa sen saja ni, kita bagi *pro_2nd_IO* harga paling murah dah ni.
+A21:	*pro_3rd_S* Tak boleh dua rial---*pro_3rd_S* mari dua setengahlah.
+B22:	*pro_1st_S* Tak boleh.
+A23:	*pro_2nd_S* Tak boleh biarlah---*pro_2nd_S* tengok seluar tadi.
+A24:	Yang ni berapa rial?
+B25:	Yang tu dua belas ringgit ada colour kuning dengan merah.
+A26:	Yang besar sikit ada?
+B27:	Besar sikit enam belas ringgit.
+B28:	Sebab dia besar jadi *pro_2nd_S* kena tambahlah sikit---sebab dia lain-lain ni.
+A29:	Pulak dah *pro_1st_S* tak ada duit nak tambah, *pro_2nd_S* bagi *pro_1st_IO* harga tulah.
+B30:	*pro_2nd_S* Tak ada duit senang, baik dekat sini... *pro_1st_S* tak bolehlah bagi *pro_2nd_DO* serupa sebab barang *pro_3rd_P* lain-lain ni.
+A31:	*pro_3rd_S* Boleh pakai ke ni?
+B32:	*pro_3rd_S* Boleh dah, *pro_3rd_S* muat dah dengan dia...
+B33:	*pro_3rd_S* Terai sini dulu tak apa.
+A34:	Dia kata *pro_3rd_S* tak lawa pulak.
+B35:	*pro_3rd_S* Tak lawa lagi, *pro_3rd_S* lawa dah ni, *pro_3rd_S* lawa lagi, *pro_3rd_S* comel lagi, *pro_3rd_S* cantik lagi, *pro_3rd_S* murah lagi.
+B36:	*pro_2nd_S* nak colour apa, colour biru ke.
+A37:	Seluar jeans ada?
+B38:	Seluar jeans ada, saiz *pro_3rd_P* besar.
+B39:	*pro_2nd_S* Ambik jenis nilah, *pro_3rd_S* boleh pakai buat sehe (buat pakai hari-hari) *pro_3rd_S* nak gi mana-mana.
+A40:	Yang ni?
+B41:	Yang tu kecik, dia tak boleh pakai ni.
+A42:	*pro_3rd_S* Pakai acu nak duduk *pro_3rd_S* bekah (koyak) *pro_3rd_S* susah-susah sangat *pro_1st_S* tak payahlah.
+B43:	*pro_2nd_S* Tak nak yang tu *pro_2nd_S* ambik yang lain---baju ke---rugi pulak kita kalau *pro_2nd_S* tak ambik.
+B44:	Ni pun merah dah ni *pro_1st_S* bagi *pro_3rd_IO* dua belas ringgit, *pro_1st_S* boleh berapa sen saja atas sehelai ni bukannya *pro_1st_S* boleh untung banyak.
+A45:	*pro_1st_S* Ambik *pro_3rd_DO* sajalah ye---untuk *pro_3rd_S* pakai balik ni, nanti lain kali *pro_1st_S* beli yang lain.
+B46:	*pro_2nd_S* Ambiklah*pro_3rd_DO* ---*pro_2nd_S* tengok seluar dia pakai tu, *pro_3rd_S* koyak dah sikit.
+A47:	Lepas tu baju tu *pro_2nd_S* boleh bagi *pro_1st_DO* berapa?
+B48:	*pro_3rd_S* Tiga ringgit, *pro_1st_S* tak boleh gi dua ringgit.
+B49:	Kita boleh apa sen saja ni----sama-sama kita ni saya tak jual *pro_3rd_DO* mahal.
+A50:	*pro_2nd_S* Bagi *pro_1st_IO* dua ringgit dah.
+B51:	*pro_1st_S* Mintak maaflah---saya boleh berapa sen saja ni---*pro_1st_S* bukan boleh serial dua tiga rial, dua tiga sen yah.
+B52:	Harga *pro_3rd_P* mari dah tiga puluh ringgit sedozen.
+B53:	*pro_1st_S* Jual *pro_3rd_DO* tiga ringgit sehelai, *pro_2nd_S* kiralah *pro_3rd_DO* , apa sen saya dapat.
+A54:	Yang ni tadi berapa, *pro_3rd_S* lima ringgit ya?
+A55:	*pro_2nd_S* Kurang *pro_3rd_DO* empat ringgit setengah dah.
+A56:	*pro_2nd_S* Takkan tak boleh kurang *pro_3rd_DO* sesen pun.
+A57:	*pro_2nd_S* Jual *pro_3rd_DO* macam supermarket ni.
+B58:	*pro_1st_S* Tak boleh dah, kita jual *pro_3rd_DO* murah dah seluar tu kita bagi *pro_2nd_IO* *pro_3rd_DO* dua belas ringgit, kalau di supermarket *pro_3rd_S* dua puluh ringgit ke atas dah---*pro_1st_S* tak kurang dah---ni kita nak bagi *pro_2nd_IO* *pro_3rd_DO* dua belas ringgit yah.
+A59:	Ni seluar budak ni berapa?
+B60:	*pro_3rd_S* Tiga ringgit.
+A61:	*pro_3rd_S* Tiga ringgit kita biasa beli *pro_3rd_DO* dua ringgit setengah yah.
+B62:	Yang tu Siam punya.
+B63:	Yang ni Malaysia.
+A64:	Dua ringgit setengah tu Malaysia dah.
+A65:	*pro_2nd_S* Biarlah *pro_1st_S* ambik yang ni dua ringgit setengah.
+B66:	*pro_3rd_S* Dua ringgit setengah *pro_1st_S* tak boleh jual ni.
+A67:	*pro_2nd_S* Tak boleh tak payahlah.
+B68:	Alah... *pro_1st_S* kira *pro_3rd_DO* mudah-mudahlah dik.
+A69:	Mudah apa *pro_2nd_S* tak boleh kurang sesen pun.
+B70:	Pusing-pusing pulak dia... pening kepala juga kita.
+A71:	Kita pun pening kepala juga---yang ni tak boleh kurang---yang tu tak boleh kurang.
+B72:	*pro_2nd_S* Kasihanlah kita.
+A73:	*pro_2nd_S* Kiralah berapa semuanya.

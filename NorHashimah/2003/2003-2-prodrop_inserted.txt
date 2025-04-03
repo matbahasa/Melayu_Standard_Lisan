@@ -1,0 +1,14 @@
+A1:	Skirt sekolah ada tak?
+B2:	Skirt saya tak jual, baju kurung *pro_1st_S* ada... di Kelantan tak ramai dah pakai skirt.
+B3:	Seluar pendek pun macam tu jugak.
+B4:	Stok *pro_3rd_P* tahun lalu sampai sekarang ada lagi.
+B5:	Sekarang budak lelaki semuanya pakai seluar panjang.
+B6:	*pro_2nd_S* Ambik baju kurunglah... budak sekolah di Kelantan sekarang memang pakai baju kurung.
+B7:	Adik nanti kalau *pro_2nd_S* pakai skirt, semua kawan-kawan *pro_2nd_P* lain pakai baju kurung nanti *pro_2nd_S* malu pulak... *pro_2nd_S* ambik baju kurunglah.
+A8:	Yang ni *pro_3rd_S* muat tak?
+B9:	Baju kurung ni labuh sikit baru *pro_3rd_S* nampak comel.
+A10:	Berapa sepasang ni?
+B11:	Sepasang harganya lima belas ringgit tapi *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
+B12:	Saya bagi *pro_3rd_IO* dua belas ringgit.
+A13:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi dah.
+B14:	*pro_1st_S* Tak boleh dah---sebab kain dia pun mahal seela tiga ringgit lebih dah.

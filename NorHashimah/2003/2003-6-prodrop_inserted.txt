@@ -1,0 +1,21 @@
+A1:	Baju sekolah tangan pendek ada tak?
+B2:	*pro_3rd_S* Ada, yang ni *pro_3rd_S* padan (muat/sesuai).
+A3:	Singkat ni.
+B4:	Boleh dah ni mak cik.
+B5:	-Dia pakai seluar, baju ni orang letak dalam seluar....
+B6:	Boleh dah ni.
+A7:	Baju sekolah untuk budak tadika?
+B8:	Baju putih?
+A9:	A... a... berapa rial tu?
+B10:	*pro_3rd_S* Enam ringgit.
+A11:	*pro_3rd_S* Buatan mana ni?
+B12:	*pro_3rd_S* Yang buatan Malaysia.
+B13:	Barang-barang sekolah tempat ambo yang Malaysia belaka.
+B14:	Baju-baju sekolah ambo tak hak Siam.
+B15:	Cari apa tu dik?
+C16:	Kain tudung.
+B17:	Yang ni boleh dik, cantik ni.
+C18:	Berapa rial ni?
+B19:	Yang ni *pro_1st_S* bagi *pro_3rd_IO* enam setengah yah (aje).
+C20:	*pro_2nd_S* Tak boleh kurang ke ni?
+B21:	*pro_1st_S* Tak leh dah dik, saya pun boleh lima puluh sen saja ni.

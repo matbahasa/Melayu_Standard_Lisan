@@ -1,0 +1,61 @@
+A1:	Berapa ni?
+B2:	*pro_3rd_S* Enam puluh.
+B3:	*pro_2nd_S* Boleh kurang *pro_3rd_DO* sikit lagi.
+A4:	Berapa kurangnya?
+B5:	Kalau kak nak *pro_3rd_DO* , *pro_1st_S* bagilah *pro_2nd_IO* *pro_3rd_DO* setakat lima puluh.
+B6:	*pro_2nd_S* Boleh?
+B7:	*pro_3rd_S* Tinggal dua lagi ni.
+A8:	Tak ada yang lain dah ke?
+B9:	*pro_3rd_S* Habis dah, pasal dia kain baru.
+A10:	*pro_3rd_S* Empat puluh lima *pro_2nd_S* tak boleh?
+B11:	*pro_3rd_S* Lima puluhlah.
+A12:	*pro_3rd_S* Empat puluh limalah, pasal ini saja yang ada.
+B13:	Ginilah *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* lebih dua ringgit lagi.
+A14:	*pro_1st_S* Tak naklah *pro_3rd_DO* , *pro_3rd_S* empat puluh lima.
+A15:	Saya mari jauh-jauh ni.
+A16:	Saya nak *pro_3rd_IO* empat puluh lima.
+A17:	*pro_1st_S* Mari jauh-jauh ni, Terengganu nu...
+B18:	Saya pun harga *pro_3rd_P* boleh minum air saja.
+A19:	*pro_3rd_S* Empat puluh limalah... *pro_2nd_S* boleh dah minum air tu.
+A20:	*pro_3rd_S* Lebih empat, lima ringgit tu, *pro_2nd_S* boleh dah beli beras.
+B21:	Pokok dia pun dah lebih kak.
+A22:	Oh... orang nak balik dah... dah lewat ni, *pro_2nd_S* bolehlah empat puluh lima.
+A23:	Kain tuala berapa?
+B24:	*pro_3rd_S* Tujuh ringgit.
+A25:	*pro_3rd_S* Macam Terengganu jugak tujuh ringgit.
+B26:	Kita bagi *pro_3rd_IO* enam ringgit.
+A27:	Golok kan murah, sebab dekatkan?
+B28:	Yang ni Singapura punya kak, *pro_3rd_S* bukan Golok.
+B29:	*pro_2nd_S* Nak berapa?
+A30:	*pro_3rd_S* Lima ringgit.
+B31:	*pro_2nd_S* Bagi *pro_1st_IO* lima ringgit setengahlah, *pro_2nd_S* senang.
+B32:	*pro_1st_S* Minta lima puluh sen lagi kak, *pro_1st_S* buat minum air, yang ni empat puluh tujuh.
+A33:	He... ni empat puluh lima, kain tuala *pro_3rd_P* lima ringgit jadi lima puluh.
+B34:	*pro_1st_S* Mintak *pro_2nd_IO* lima puluh senlah, yang ni *pro_1st_S* minta *pro_2nd_IO* satu ringgit lagi... *pro_3rd_S* empat puluh enam.
+A35:	Jadi *pro_3rd_S* berapa, *pro_3rd_S* empat puluh lima dengan lima, *pro_1st_S* minta *pro_2nd_DO* lima puluh cukuplah.
+B36:	*pro_3rd_S* Empat puluh lima dengan sepuluh jadi lima puluh lima.
+A37:	*pro_2nd_S* Bagi *pro_1st_IO* lima puluh cukuplah.
+B38:	*pro_1st_S* Tak boleh, kalau lima puluh cukup, *pro_3rd_S* jatuh berapa...?
+B39:	Yang ni empat puluh lima, yang kain tuala tu lima ringgit dua jadi *pro_1st_S* bagi *pro_3rd_IO* lima puluh limalah.
+A40:	Oh, *pro_2nd_S* bagi *pro_1st_IO* satu ringgit seoranglah... *pro_3rd_S* lima puluh tiga.
+B41:	*pro_1st_S* Tak boleh kak, itu pun harga *pro_3rd_P* *pro_1st_S* bagi *pro_3rd_DO* pada kak saja.
+A42:	Batik flower ni berapa?
+B43:	Batik flower dua belas, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagi.
+A44:	*pro_3rd_S* Serupa juga dengan Terengganu, kat Terengganu sepuluh ringgit saja.
+B45:	*pro_1st_S* Boleh kurang *pro_3rd_DO* lagi kalau kak nak *pro_3rd_DO* *pro_1st_S* bagi *pro_3rd_IO* sembilan ringgit setengah.
+A46:	*pro_1st_S* Minta *pro_2nd_DO* murahlah sikit.
+B47:	*pro_3rd_S* Serupalah kak, dia besar sikit saja, *pro_3rd_S* beza lima puluh sen yah tu dengan Terengganu.
+A48:	*pro_3rd_S* Lapan ringgitlah sebab dia kain sama saja.
+B49:	*pro_3rd_S* lapan ringgit *pro_1st_S* tak boleh kak.
+A50:	*pro_2nd_S* Bolehlah, kalau *pro_3rd_S* lapan ringgit, *pro_1st_S* ambik *pro_3rd_DO* sungguh.
+A51:	*pro_1st_S* Ambik dua.
+B52:	Dua *pro_1st_S* tak boleh.
+A53:	*pro_1st_S* Dah beli banyak ni.
+B54:	Sembilan setengah tu... kita boleh lima puluh sen saja.
+A55:	*pro_3rd_S* Sembilan ringgit.
+B56:	*pro_1st_S* Tak boleh.
+A57:	*pro_2nd_S* Tak boleh, saya nak balik dahlah.
+B58:	Kak nak berapa helai?
+B59:	*pro_2nd_S* Ambik *pro_3rd_IO* dua helai ya!
+B60:	*pro_2nd_S* Ambik *pro_3rd_IO* dua helailah, saya bagi *pro_2nd_IO* *pro_3rd_DO* harga sembilan ringgit jadi dua---*pro_3rd_S* lapan belas.
+B61:	*pro_1st_S* Jual kak ya!

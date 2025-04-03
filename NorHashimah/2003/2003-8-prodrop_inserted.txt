@@ -1,0 +1,21 @@
+A1:	*pro_2nd_S* Bagi *pro_1st_IO* ni padan tak dengan budak umur tiga tahun?
+B2:	*pro_3rd_S* Padan dah tu... anak kita yang sulung umur tiga tahun, *pro_3rd_S* pakai saiz ni juga---*pro_3rd_S* padan.
+A3:	Berapa ni?
+B4:	*pro_1st_S* Bagi *pro_2nd_IO* lapan ringgitlah.
+A5:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit.
+B6:	Harga paling murah dah tu.
+A7:	*pro_2nd_S* Tak boleh turun *pro_3rd_DO* lagi ke?
+B8:	Kita pun dapat lima puluh sen saja.
+B9:	Kalau yang ni pulak, tak sampai lima puluh sen sehelai kita boleh.
+A10:	*pro_2nd_S* Bagi *pro_1st_IO* lima belas ringgit, kita ambik tiga pasang.
+B11:	Harga modal *pro_3rd_P* tak sampai lagi kak, lapan ringgit sepasang tu pun kira murah sangatlah tu *pro_1st_S* dapat sikit saja.
+A12:	Kain Malaysia ke ni?
+B13:	Kain Malaysia ni, *pro_2nd_S* basuh *pro_3rd_DO* macam mana pun dia tahan, sebab kain *pro_3rd_P* molek, kita kata gitu sebab anak kita sendiri ada pakai.
+A14:	*pro_2nd_S* Bagi *pro_1st_IO* enam ringgitlah sehelai.
+B15:	*pro_1st_S* Tak boleh sebab modal *pro_3rd_P* mari pun tujuh ringgit setengah dah, saya cakap betul ni, *pro_1st_S* bukan nak tipu *pro_2nd_DO* dak.
+B16:	Saya jual kain Malaysia belaka.
+B17:	*pro_1st_S* Tak jual kain Siam.
+A18:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit lagi.
+B19:	*pro_1st_S* Mintak maaflah, kita mintak *pro_2nd_IO* lima puluh sen, *pro_3rd_S* tak banyak... *pro_2nd_S* nak berapa helai tu.
+A20:	Biarlah *pro_1st_S* ambil satu sudahlah---*pro_2nd_S* dah tak boleh kurang *pro_3rd_DO* dah tu.
+B21:	Kita orang berniaga ni, *pro_1st_S* naklah juga sikit.

@@ -1,0 +1,14 @@
+A1:	Saiz kecik sikit pada ni ada?
+B2:	Yang ni padan dah dengan adik ni.
+A3:	Yang tu berapa?
+B4:	Yang tu lapan setengah, kalau yang kosong biasa *pro_2nd_S* dapatlah murah sikit.
+A5:	Enam ringgit *pro_2nd_S* tak boleh ke?
+A6:	*pro_1st_S* Orang sini jugak ni.
+B7:	Kita bagi murah dah ni kak
+A8:	Eh... *pro_2nd_S* tak boleh kira, kalau pelancong *pro_3rd_S* mesti mahal-mahal lagi
+B9:	Kita jual *pro_3rd_DO* sama saja.
+A10:	Sini dekat saja dengan Pengkalan Kubur.
+B11:	Kita bagi *pro_2nd_IO* murah dah---*pro_3rd_S* lebih kurang saja dengan harga sana?
+A12:	Lepas tu, berapa *pro_2nd_S* boleh bagi *pro_1st_IO* ni?
+B13:	Yang tu lapan setengah, kalau kak nak *pro_3rd_DO* kita bagi *pro_2nd_IO* kuranglah sikit... kalau *pro_3rd_S* kecik *pro_2nd_S* ambik yang besar sikit la... *pro_2nd_S* boleh terai*pro_3rd_DO* ---*pro_2nd_S* puas hati sikit.
+B14:	Kalau *pro_2nd_S* tak padan *pro_3rd_DO* *pro_2nd_S* boleh tukar *pro_3rd_DO* selalu.

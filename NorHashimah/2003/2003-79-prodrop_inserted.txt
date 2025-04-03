@@ -1,0 +1,12 @@
+A1:	Berapa ni?
+B2:	Yang ni *pro_1st_S* jual *pro_3rd_DO* dua belas ringgit.
+A3:	Oh, adik bagi *pro_1st_IO* sepuluh cukuplah.
+A4:	*pro_2nd_S* Kurang *pro_3rd_IO* dua ringgit.
+B5:	Harga *pro_3rd_P* *pro_1st_S* boleh kurang, *pro_3rd_S* sepuluh ringgit setengahlah.
+A6:	Oh... lima puluh sen tu *pro_2nd_S* tak payahlah, ni *pro_1st_S* tak mintak banyak, lima puluh sen tu *pro_1st_S* nak buat tambang bas *pro_1st_P* balik nanti.
+A7:	*pro_2nd_S* Bagi *pro_1st_DO* cukup teruslah yang tu.
+B8:	Jadi semua sekali dua puluh, yang tu sepuluh---sepuluh jadi empat puluh.
+A9:	*pro_2nd_S* Bagi *pro_1st_IO* *pro_3rd_DO* tiga puluh limalah.
+B10:	Oh... *pro_1st_S* bagi *pro_2nd_IO* murah tu, *pro_2nd_S* kena mari pulak nanti.
+A11:	Kita pun mintak *pro_2nd_IO* tak banyak, sikit-sikit saja tu.
+B12:	Kita pun bagi *pro_3rd_DO* kurang dah tu.

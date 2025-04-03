@@ -1,0 +1,11 @@
+A1:	Harga tudung ni berapa sehelai?
+B2:	Yang tu lima ringgit.
+A3:	*pro_2nd_S* Bagi *pro_3rd_IO* empat ringgit.
+B4:	Kalau *pro_3rd_S* empat ringgit, tak adalah bahagian Kak Dah.
+B5:	Adat orang berniaga, *pro_1st_S* nak juga untung, *pro_3rd_S* tak banyak, *pro_3rd_S* sikit.
+B6:	Ginilah Kak Dah bagi *pro_2nd_IO* *pro_3rd_DO* empat ringgit setengah.
+B7:	Itu pun murah benar dah Kak Dah bagi.
+A8:	Alah kak lima puluh sen aje lagi.
+B9:	Lima puluh sen lah kak Dah mintak *pro_2nd_DO* , empat lima kali lima puluh sen *pro_1st_S* baru boleh bayar kedai, semua ni *pro_1st_S* kena bayar hari-hari.
+A10:	Boleh kak, kita bukan nak beli satu, tapi *pro_1st_S* nak sepuluh.
+B11:	*pro_2nd_S* Pilihlah adik nak warna apa... ni sebab banyak ni kak Dah bagi *pro_2nd_DO* , kalau selai, dua helai *pro_1st_S* tak boleh dah.

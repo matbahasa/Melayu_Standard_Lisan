@@ -1,0 +1,82 @@
+A1:	Yang ni berapa sepasang?
+B2:	Biasa *pro_2nd_S* beli *pro_3rd_DO* berapa?
+A3:	*pro_1st_S* Biasa beli *pro_3rd_DO* dua puluh tiga ringgit.
+B4:	*pro_2nd_S* Ambiklah *pro_3rd_DO* dua puluh tiga ringgit---*pro_1st_S* buat gori---adik nak berapa pasang?
+A5:	Yang ni?
+B6:	Yang ni broked---*pro_3rd_S* mahal sikit.
+A7:	Yang ni berapa sepasang?
+B8:	Yang ni paling kurang empat puluh lima ringgit---kain yoyo ni.
+B9:	Yang nilah dik---colour dia lawa-lawa ni---*pro_3rd_S* macam colour kain jacquard---*pro_3rd_S* baru sampai ni---Kak Dah nak bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh lapan ringgit saja sepasang.
+A10:	Bunganya besar-besarlah....
+A11:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* ke kak.
+B12:	*pro_1st_S* Tak boleh dah dik.
+B13:	Kak Dah upah *pro_3rd_P* mahal ni.
+B14:	Sebab tulah colour dia molek.
+B15:	*pro_1st_S* Baru pergi ambik *pro_3rd_DO* saja ni.
+B16:	Ada yang murah, tapi kain dia lembik, *pro_3rd_S* tak bersinar macam ini---bunganya pun tak banyak.
+A17:	*pro_3rd_S* Setakat dua puluh lapan ringgit saja ke---*pro_2nd_S* tak boleh kurang *pro_3rd_DO* lagi dah.
+B18:	*pro_1st_S* Tak boleh dah dik---kalau adik nak yang murah ada----nanti Kak Dah ambik.
+B19:	Adik nak yang ni hanya dua puluh lima ringgit.
+A20:	Yang tu *pro_1st_S* tak nak.
+B21:	Lepas tu *pro_2nd_S* nak yang mana?
+B22:	---Kak Dah kalau boleh bagi *pro_2nd_DO* murah, Kak Dah bagi.
+B23:	Tapi apa *pro_1st_S* boleh buat---*pro_1st_S* upah buat (tempah) *pro_3rd_DO* mahal dah.
+B24:	Kak Dah tak nak jual *pro_3rd_IO* mahal-mahal---bukan apa---sebab kalau boleh Kak Dah mahu adik datang tempat Kak Dah selalu---ni kain molek-molek belaka.
+B25:	Adik pilihlah yang mana adik nak.
+B26:	Yang ni dik.
+A27:	*pro_1st_S* Tak naklah *pro_3rd_DO* *pro_3rd_S* merah sangat.
+B28:	Nak yang mahal dik---*pro_2nd_S* ambik yang nilah Kak Dah bagi *pro_2nd_IO* *pro_3rd_DO* empat puluh lima ringgit.
+A29:	Yang tu bunganya besar-besar.
+B30:	*pro_2nd_S* Tengok saja macam ni.
+B31:	Bila *pro_3rd_S* dah jadi baju---*pro_3rd_S* lawa ni.
+A32:	Yang ni lawa tak?
+B33:	*pro_3rd_S* Lawa... kalau *pro_3rd_S* dah jadi baju tengok yang ni dik---*pro_3rd_S* lawa lagi.
+B34:	Adik ni kalau pakai warna gelap-gelap sikit comellah ni---ada sehelai tu saja lagi---bukalah adik nak tengok.
+A35:	Berapa ni kak?
+B36:	Yang tu kalau adik nak Kak Dah bagi *pro_2nd_IO* *pro_3rd_DO* empat puluh lima ringgit sudahlah.
+B37:	Biarlah... modalnya empat puluh lebih dik ni.
+B38:	Tengoklah dik---tempat kita *pro_2nd_S* tak payah berkira sangat---*pro_1st_S* bagi *pro_2nd_IO* murah-murah saja---lain kali *pro_2nd_S* bolehlah datang beli lagi.
+B39:	Kalau *pro_1st_S* jual mahal-mahal nanti orang tak datang.
+A40:	*pro_3rd_S* Empat puluh ringgitlah kak.
+B41:	*pro_1st_S* Tak boleh---modal *pro_3rd_P* mari mahal dah dik.
+B42:	Kak Dah bagi *pro_2nd_IO* murah benar dah ni.
+A43:	Yang broked tu berapa?
+B44:	Kak Dah bagi *pro_3rd_IO* tiga puluh ringgit.
+A45:	*pro_1st_S* Tak naklah broked.
+A46:	*pro_3rd_S* Mudah kedut---yang ni kalau *pro_2nd_S* bagi *pro_1st_IO* empat puluh ringgit *pro_1st_S* nak ni.
+B47:	Kak Dah kata tak boleh bagi dik---pasal modal *pro_3rd_P* mahal dah.
+B48:	Kak Dah kalau boleh bagi *pro_3rd_DO* *pro_1st_S* tak payah berkira---Kak Dah bagi *pro_3rd_DO* selalu---sama-sama kita ni Kak Dah tak kisah sangat.
+A49:	Kurang *pro_3rd_IO* lagi tiga ringgitlah kak.
+B50:	*pro_1st_S* Tak boleh dik---modal *pro_3rd_P* empat puluh lebih dah ni.
+B51:	*pro_1st_S* Mintak *pro_2nd_IO* *pro_3rd_DO* empat puluh empat biarlah Kak Dah mintak *pro_2nd_IO* seringgit.
+A52:	Tak apalah kak *pro_1st_S* ambik yang ni sajalah.
+B53:	Biarlah dik ambik *pro_3rd_DO* empat puluh tiga ringgit---Kak Dah tak kisah dah.
+B54:	Adik mintak *pro_3rd_IO* empat puluh tiga ringgit, Kak Dah mintak *pro_2nd_IO* serial saja lagi---biarlah *pro_1st_S* mintak buat tambang *pro_1st_P* saja.
+B55:	Lain kali adik boleh datang lagi tempat Kak Dah.
+B56:	Murah benar ni Kak Dah bagi.
+B57:	Yang tu murah saja dik dua puluh lima ringgit.
+A58:	Kain apa ni?
+B59:	Kain *pro_3rd_P* molek jugak ni---*pro_3rd_S* tak kedut tu sedap *pro_1st_S* pakai*pro_3rd_DO* ---kain batik jugak ni.
+A60:	*pro_2nd_S* Bagi *pro_1st_IO* dua puluh ringgitlah.
+B61:	Bertuahnya adik...
+B62:	Kak Dah bagi *pro_2nd_IO* habis murah dah tu.
+B63:	*pro_2nd_S* Jangan bimbang beli tempat Kak Dah
+B64:	Kak Dah ambil *pro_3rd_IO* samah-samah saja.
+A65:	Biarlah kak lain kali sajalah.
+B66:	*pro_1st_S* Bagi *pro_2nd_IO* dua puluh tiga ringgitlah.
+A67:	*pro_1st_S* Tak nak *pro_3rd_IO* dua puluh tiga ringgit kalau *pro_3rd_S* dua puluh ringgit *pro_1st_S* nak.
+B68:	*pro_3rd_S* Dua puluh ringgit *pro_1st_S* tak boleh dik.
+A69:	Kalau *pro_2nd_S* tak boleh tak apalah *pro_1st_S* ambik yang ni saja.
+B70:	Ni yang mahal ni *pro_2nd_S* tak nak*pro_3rd_DO* ---*pro_3rd_S* sutera jacquard Kak Dah bagi *pro_3rd_IO* seratus lima puluh ringgit saja sehelai.
+B71:	Kak Dah cakap betul pada adik.
+B72:	Di K.L.ni mahal benar ni.
+B73:	Kelmarin kawan
+B74:	Kak Dah datang beli*pro_3rd_DO* ---dia kata *pro_3rd_S* nak beli kat K.L. *pro_3rd_S* mahal.
+B75:	Yang tu yang air mas.
+A76:	Kalau yang tu lagi mahal ya?
+B77:	Yang tu dua ratus lima puluh ringgit Kak Dah bagi *pro_2nd_DO* -baru sampai yang ni---baru tadi Kak Dah gi ambik*pro_3rd_DO* ---*pro_2nd_S* ambiklah sepasang.
+A78:	*pro_1st_S* Tak naklah *pro_3rd_DO* *pro_3rd_S* mahal sangat.
+A79:	*pro_1st_S* Pakai *pro_3rd_IO* dua tiga bulan saja *pro_3rd_S* dah buruk.
+B80:	Kain ni lambat buruk dik.
+A81:	Ni kak *pro_1st_S* nak bayar yang ni.
+B82:	*pro_1st_S* Jual ye dik---*pro_2nd_S* datang pulak lain kali *pro_2nd_S* beli kain tempat Kak Dah.

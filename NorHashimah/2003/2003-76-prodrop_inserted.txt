@@ -1,0 +1,47 @@
+A1:	Berapa ni?
+B2:	Harga tu tiga puluh dua, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagi mak cik.
+A3:	Lagu mana tu?
+B4:	Sekarang ni duit Siam naiklah *pro_1st_S* bolehlah kurang *pro_3rd_DO* lagi pagi-pagi ni.
+A5:	Eh, *pro_2nd_S* betul-betullah harga dia.
+B6:	*pro_1st_S* Bagi *pro_3rd_IO* tiga puluhlah.
+A7:	Isyy...
+B8:	Habis mak cik bagi *pro_2nd_IO* berapa?
+B9:	Harga mak ciklah pulak.
+B10:	Kadar kita boleh bagi *pro_2nd_DO* , kita bagi.
+A11:	*pro_3rd_S* Dua puluh enam dahlah.
+B12:	*pro_3rd_S* Dua puluh enam, modal *pro_3rd_P* *pro_1st_S* tak dapat lagi sekarang.
+A13:	Ya ke?
+B14:	Ya, *pro_1st_S* bagi *pro_2nd_IO* dua puluh lapanlah, *pro_1st_S* bagi *pro_2nd_IO* betul-betullah tu.
+B15:	Harga hari-hari *pro_1st_S* jual *pro_3rd_DO* dua puluh lapanlah.
+B16:	Mak cik nak yang mana?
+B17:	*pro_3rd_S* Yang merah ke yang mana?
+B18:	*pro_3rd_S* Dua ke satu?
+A19:	*pro_3rd_S* Dua puluh enamlah.
+B20:	*pro_1st_S* Tak dapat betul, dua puluh lapan tu *pro_1st_S* kira *pro_3rd_DO* harga berniagalah tu.
+B21:	Sepuluh biji orang ambil *pro_3rd_DO* pun harga tu jugak.
+A22:	*pro_2nd_S* Bolehlah ya?
+B23:	*pro_1st_S* Bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh lapanlah, pagi-pagi ni.
+B24:	Mana-mana jual *pro_3rd_DO* pun dua puluh lapan, mak cik tengok harga *pro_3rd_P* tu.
+A25:	*pro_3rd_S* Dua puluh enamlah.
+B26:	*pro_1st_S* Tak boleh mak cik, modal *pro_3rd_P* pun dua puluh tujuh dah.
+B27:	*pro_1st_S* Betul-betul cakap tu.
+A28:	Alah, *pro_2nd_S* takkan cakap tak betul pulak, *pro_2nd_S* memang betul.
+B29:	Em, berniaga ni *pro_1st_S* kena cakap betul, tak baik---duit *pro_1st_P* nak buat makan lagi.
+A30:	Betul ya, *pro_1st_S* ambil dua, lima dua.
+B31:	*pro_1st_S* Tak dapat mak cik, bukan *pro_1st_S* tak nak bagi.
+B32:	Memang *pro_1st_S* tak dapat bagi.
+A33:	Alah, baru pagi-pagi lagi, *pro_2nd_S* bolehlah.
+B34:	*pro_1st_S* Tak boleh, itu harga niaga *pro_3rd_P* dah tu, hari-hari saya jual *pro_3rd_DO* harga macam nilah.
+B35:	Orang ambik banyak pun harga ni.
+A36:	*pro_1st_S* Bukan nak ambik *pro_3rd_IO* banyak, *pro_1st_S* cuma nak pakai *pro_3rd_DO* saja.
+B37:	Ah... yang *pro_2nd_S* nak pakai tu, kita bagi *pro_2nd_DO* harga murah tu.
+A38:	*pro_2nd_S* Bolehlah dua puluh tujuh ya... kalau *pro_2nd_S* tak dapat, satu saja.
+B39:	Semua sekali lima puluh limalah.
+A40:	*pro_3rd_S* Lima puluh empatlah, satu ringgit *pro_1st_S* tak ada duit.
+B41:	Betul-betul ni, *pro_1st_S* mintak dengan mak cik, Alah satu ringgit pun *pro_2nd_S* tak nak bagi.
+B42:	satu ringgit saja mak cik, *pro_1st_S* mintak nak minum kopi.
+B43:	*pro_1st_S* Mintak *pro_2nd_DO* satu ringgit lagi mak cik.
+A44:	Mak cik mintak kat engkau, *pro_1st_S* nak minum.
+B45:	*pro_1st_S* Mintak satu ringgit lagi mak cik, *pro_1st_S* mintak *pro_2nd_IO* gori satu ringgit.
+A46:	Dah nak demam mak cik ni.
+A47:	Dah-dah kita mintak *pro_2nd_DO* harga tu.

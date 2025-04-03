@@ -1,0 +1,18 @@
+B1:	*pro_2nd_S* Tengok-tengoklah dik....
+B2:	*pro_2nd_S* Nak apa tu, *pro_2nd_S* nak kain ke?
+B3:	... *pro_2nd_S* Ambik yang nilah sehelai dik.
+B4:	*pro_1st_S* Nak bagi *pro_2nd_IO* murah-murah yah.
+B5:	Pagi-pagi ni *pro_1st_S* nak gori.
+B6:	*pro_2nd_S* Jangan bimbang pasal harga *pro_3rd_P* , harga *pro_3rd_P* *pro_1st_S* boleh berunding.
+A7:	Pasal hargalah yang saya bimbang.
+B8:	Alah... sama-sama kita ni, tak apalah... yang hijau tu cantik dik.
+B9:	*pro_3rd_S* Ada sepasang saja lagi.
+B10:	*pro_2nd_S* Bukalah tengok *pro_3rd_DO* , *pro_2nd_S* buka *pro_3rd_DO* *pro_2nd_S* baru boleh tahu *pro_3rd_S* comel---tak comel.
+A11:	Yang ni berapa?
+B12:	Yang tu empat puluh ringgit, mahallah sikit yang tu, *pro_3rd_S* fesyen baru, cara buat dia pun lain.
+A13:	Yang ni?
+B14:	*pro_3rd_S* Dua puluh lapan ringgit.
+A15:	Yang warna putih berkaki *pro_2nd_S* ada tak?
+B16:	*pro_3rd_S* Tak ada dik, sekarang ni warna-warna macam ni yang laris, warna merah, warna hijau, warna putih cepat kotor, Kak Dah pun tak jual.
+A17:	*pro_1st_S* Tak bolehlah sebab orang kirim *pro_1st_DO* , dia nak putih....
+A18:	Tak apalah kak, *pro_1st_S* cuba cari tempat lain lagi.

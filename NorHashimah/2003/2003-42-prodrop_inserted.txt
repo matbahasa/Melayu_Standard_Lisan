@@ -1,0 +1,37 @@
+A1:	Berapa ni?
+B2:	Merah ni empat puluh lima.
+A3:	Yang ni?
+B4:	*pro_3rd_S* Lima puluh lima, baldu dia mahal sikit, kita bagi *pro_2nd_IO* kuranglah, kalau kak nak *pro_3rd_DO* , *pro_3rd_S* baru sampai ini.
+A5:	Yang kulit tu berapa?
+B6:	Yang kulit tu tiga puluh lapan.
+A7:	Macam mana *pro_3rd_S* mahal sangat aa... ?
+B8:	*pro_1st_S* Boleh kurang lagi harga dia, kak nak tawar *pro_3rd_DO* berapa?
+A9:	Yang ni berapa?
+B10:	*pro_3rd_S* Serupa harga *pro_3rd_P* tiga puluh lapan.
+B11:	Kalau kak nak *pro_3rd_DO* , *pro_1st_S* boleh kurang *pro_3rd_DO* sikit.
+B12:	*pro_2nd_S* Bagi tahulah kak nak bayar *pro_3rd_DO* berapa?
+B13:	Kalau *pro_1st_S* boleh bagi *pro_2nd_DO* kita bagi.
+A14:	*pro_1st_S* Beli *pro_3rd_IO* kat Rantau Panjang *pro_3rd_S* dua puluh lebih saja.
+B15:	*pro_3rd_S* Bezalah dengan sini sebab kita bayar cukai *pro_3rd_P* lagi, *pro_1st_S* belum tentu tahu lagi *pro_3rd_S* selamat tak selamat.
+B16:	Tak apalah *pro_1st_S* bagi kurang sikitlah kak.
+A17:	*pro_3rd_S* Paling kurang berapa?
+B18:	Bagi tahulah kak, *pro_2nd_S* tawar *pro_3rd_DO* molek.
+A19:	*pro_1st_S* Tawar *pro_3rd_DO* molek, lama kan kita tawar tak kena harga.
+B20:	Kak tawar tu, biar berpatutan dengan barang yang *pro_1st_S* nak jual ini, bagi tahulah kak nak tawar *pro_3rd_DO* berapa?
+A21:	*pro_3rd_S* Dua puluh lebih boleh ya.
+B22:	Ginilah betul-betul ya, kak nak kita bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh satu, kesian kita kak, *pro_2nd_S* tak bolehlah buat macam di Rantau Panjang tu.
+A23:	Kita cakap hak sungguh ni, *pro_1st_S* beli *pro_3rd_IO* Rantau Panjang tu dua puluh tiga saja.
+B24:	Ginilah kak, kalau kak nak *pro_3rd_DO* , kita bagi *pro_3rd_IO* tiga puluh cukup, kalau *pro_1st_S* untung dua, tiga ringgit pun tak apa dah.
+B25:	Kalau *pro_2nd_S* beli *pro_3rd_IO* dua lainlah.
+B26:	*pro_1st_S* Nak sikitlah, *pro_2nd_S* kesian kita.
+A27:	*pro_2nd_S* Tak boleh dah ke, *pro_2nd_S* kuranglah *pro_3rd_DO* sikit lagi.
+B28:	Kak nak berapa butir... nya.
+A29:	Satu butir saja.
+A30:	Kalau kak balik Jerteh, *pro_1st_S* boleh tunjuk *pro_3rd_DO* pulak, kalau orang berkenan.
+B31:	*pro_3rd_S* Molek dah tiga puluh, kalau *pro_1st_S* jual *pro_3rd_DO* kat orang lain tiga puluh dua, tiga-tiga, *pro_1st_S* bagi tahu kat kak saja, *pro_1st_S* tak tipu kak.
+A32:	*pro_2nd_S* Kurang-kurang *pro_3rd_DO* dua puluh lapanlah.
+B33:	Harga akhirlah *pro_3rd_P* dua puluh sembilan, *pro_2nd_S* bagi kita satu ringgit lagilah.
+B34:	*pro_1st_S* Tak boleh gi kak, kalau kak ambik dua buah, *pro_1st_S* bolehlah kurang sikit lagi, sikitlah.
+B35:	*pro_2nd_S* Kesianlah kita.
+A36:	*pro_3rd_S* Dua puluh lapanlah dik.
+B37:	*pro_1st_S* Tak bolehlah kak, *pro_2nd_S* kesian kita, *pro_1st_S* tak boleh pergi dah, *pro_3rd_S* mahal di tali beg ni, *pro_3rd_S* dua puluh lebih dah modal kita tapi *pro_2nd_S* puas hatilah, barang *pro_3rd_P* elok *pro_2nd_S* ambik dua.

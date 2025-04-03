@@ -1,0 +1,12 @@
+A1:	Berapa ni?
+B2:	*pro_3rd_S* Dua puluh lima.
+A3:	Berapa kurang?
+B4:	*pro_2nd_S* Tawarlah *pro_3rd_DO* dulu, mak cik nak dengar.
+A5:	Berapa mak cik boleh bagi *pro_2nd_DO* kurang?
+A6:	Akhir?
+B7:	Adiklah dulu kurangnya.
+A8:	*pro_3rd_S* Lapan belas.
+B9:	Mana *pro_1st_S* dapat adik ooi...
+A10:	*pro_3rd_S* Lapan belas *pro_2nd_S* tak boleh?
+A11:	*pro_3rd_S* Lapan belas bolehlah mak cik.
+B12:	Biarlah, saja mak cik bagi kurang kat adik.

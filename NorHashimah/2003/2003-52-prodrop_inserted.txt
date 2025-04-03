@@ -1,0 +1,22 @@
+A1:	Berapa beg ni mak cik?
+B2:	*pro_3rd_S* Tiga puluh lima ringgit, *pro_3rd_S* tiga puluh lima ni, yang ni barang supermarket.
+B3:	Modal *pro_3rd_P* pun berapa puluh dah.
+A4:	Yang ni?
+B5:	Oh... barang supermarket ni...
+B6:	Dekat supermarket, dia letak *pro_3rd_DO* tiga puluh lapan ringgit sembilan puluh.
+B7:	Sepuluh sen pun *pro_3rd_S* tak boleh kurang, tapi kita boleh bagi *pro_2nd_DO* murah lagi.
+A8:	Yang ni tiga puluh lima?
+B9:	Kita boleh kurang *pro_3rd_DO* lagi, *pro_1st_S* kira *pro_3rd_DO* ginilah adik nak *pro_3rd_DO* , adik bagi *pro_1st_IO* tiga puluh dualah.
+B10:	Pasal orang ambik dua butir, kak jual *pro_3rd_DO* takat tu juga.
+B11:	Orang selalu ambil *pro_3rd_DO* dua butir belaka.
+A12:	*pro_3rd_S* Mahal ni kak, *pro_3rd_S* dua puluh lapan *pro_2nd_S* tak boleh?
+B13:	Biarlah kak bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh cukup, *pro_2nd_S* boleh?
+B14:	(Beg lain).
+B15:	*pro_2nd_S* Ambik yang nilah, kita boleh kurang *pro_3rd_DO* sikit.
+A16:	Yang ni berapa?
+B17:	Yang tu enam belas, pasal kain *pro_3rd_P* jeans.
+B18:	Kita kurang *pro_3rd_DO* sikit dik, adik nak *pro_3rd_DO* berapa buah?
+B19:	Tak apalah kita boleh kurang *pro_3rd_DO* sikit.
+A20:	Sepuluh ringgit *pro_2nd_S* boleh?
+B21:	Sepuluh *pro_1st_S* tak dapat, sebab dia kain molek.
+A22:	Tak apalah, semula pulak.

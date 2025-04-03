@@ -1,0 +1,29 @@
+A1:	Abang, bagi berapa yang ni?
+B2:	*pro_3rd_S* Enam belas ringgit.
+B3:	Yang tu labuh, harga *pro_3rd_P* lain sikit.
+B4:	Kalau saya bagi *pro_2nd_DO* murah, orang lain kata apa pulak?
+B5:	Yang tu mahalkan.
+A6:	Yang ni berapa?
+B7:	Yang ni mati, saya bagi *pro_3rd_IO* sembilan belas ringgit.
+A8:	Macam mana *pro_3rd_S* boleh jadi, mati pulak tu?
+A9:	Kenapa *pro_2nd_S* tak hidupkan?
+B10:	Macam mana *pro_3rd_S* nak hidup... dia ada harga.
+B11:	Ginilah harga mati saya bagi *pro_2nd_IO* *pro_3rd_DO* lapan belas ringgit, *pro_2nd_S* tak boleh tawar *pro_3rd_DO* dah, pasal lace dia panjang.
+A12:	*pro_3rd_S* Lima belaslah.
+B13:	Kalau macam ni, botaklah saya.
+B14:	*pro_2nd_S* Tak boleh tawar *pro_3rd_DO* dah, *pro_1st_S* minta maaflah *pro_1st_S* tak dapat.
+B15:	Orang jual *pro_3rd_DO* dua puluh dua atau dua puluh satu habis murah.
+B16:	*pro_2nd_S* Pergi carilah, saya cakap terus terang.
+B17:	Jadi semua sekali tiga puluh enam... dua helai.
+A18:	Abang ni, takkan *pro_1st_S* tak dapat?
+B19:	Kalau *pro_2nd_S* pergi kedai lain, abang tak marah *pro_2nd_DO* , kalau *pro_2nd_S* dapat harga *pro_3rd_P* macam saya bagi ini, *pro_2nd_S* datanglah balik kedai saya.
+B20:	Sebab apa, abang nak suruh adik datang balik lain kali, sebab saya nak cari kawan.
+B21:	*pro_2nd_S* Cubalah cari *pro_3rd_DO* kalau *pro_2nd_S* dapat harga ni.
+B22:	Jadi *pro_3rd_S* lapan belaslah, saya biasa jual *pro_3rd_DO* dua puluh lima, dua puluh enam.
+A23:	Jadi dua tu berapa?
+B24:	*pro_3rd_S* Tiga puluh enam.
+A25:	Alah *pro_3rd_S* tujuh belas sajalah.
+A26:	Jadi semua sekali tiga puluh empatlah.
+B27:	*pro_3rd_S* Tiga puluh limalah dik, *pro_1st_S* mintak *pro_2nd_DO* satu ringgitlah, *pro_2nd_S* kesianlah kat kita, *pro_1st_S* jual *pro_3rd_DO* dua helai ni pun *pro_1st_S* nak dapat balik basil kedai *pro_1st_P* adik oii...
+A28:	*pro_3rd_S* Tiga puluh empatlah abang.
+B29:	*pro_1st_S* Minta *pro_2nd_IO* lima puluh sen sajalah lagi, kesian saya.

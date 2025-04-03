@@ -1,0 +1,15 @@
+A1:	Kain ni berapa harga?
+A2:	Yang merah ada tak?
+B3:	Yang tu empat puluh ringgit tapi kalau adik nak *pro_3rd_DO* mak cik boleh bagi *pro_2nd_IO* *pro_3rd_DO* lagi tiga puluh lapan ringgitlah sepasang.
+B4:	*pro_2nd_S* Ambik semualah sepuluh pasang ni.
+B5:	Laku ini kain... *pro_2nd_S* nak yang mana tu?
+A6:	*pro_2nd_S* Cuba ambik yang hijau tu *pro_1st_S* nak tengok?
+B7:	Yang ni baru sampai ni... *pro_2nd_S* ambik yang nilah---saya rasa pun yang ni lawa... kain dia kukuh---*pro_2nd_S* pakai *pro_3rd_DO* *pro_3rd_S* tak kerecuk (berkedut).
+A8:	Yang ni berapa?
+B9:	Yang ni kak bagi *pro_2nd_IO* empat puluh lapan ringgit.
+B10:	Orang ambik banyak pun kak bagi *pro_3rd_IO* harga ni jugak, kak bagi *pro_2nd_IO* harga niaga dah ni.
+A11:	Lepas tu berapa semua...
+A12:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke sikit.
+A13:	---*pro_1st_S* Buat tambang bas *pro_1st_S* nak batik.
+B14:	*pro_2nd_S* Nak lima puluh sen buat tambang bas *pro_2nd_P* ....
+B15:	*pro_1st_S* Marilah pulak beli kain.

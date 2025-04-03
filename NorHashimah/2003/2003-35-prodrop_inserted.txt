@@ -1,0 +1,16 @@
+A1:	Berapa ni?
+B2:	*pro_1st_S* Letak *pro_3rd_IO* tiga puluh ringgit, orang ambil dua puluh pasang pun kita jual *pro_3rd_DO* dua puluh lapan jugak.
+A3:	Kita ambil dua ni, *pro_2nd_S* bagi *pro_1st_IO* murahlah sikit.
+B4:	Murah dah tu kak.
+A5:	*pro_3rd_S* Dua puluhlah.
+B6:	Dua puluh macam mana, *pro_2nd_S* beli *pro_3rd_DO* *pro_1st_S* tak dapat modal kita.
+B7:	Modal kita dua puluh lebih dah tu, kita tak cakap tipu.
+A8:	Jadi *pro_2nd_S* bagi *pro_1st_IO* berapa?
+A9:	*pro_2nd_S* Ikhlas tu.
+B10:	*pro_3rd_S* Dua puluh lapan, *pro_3rd_S* dua puluh lapan---*pro_3rd_S* jadi lima puluh enam---ikhlaslah kita.
+A11:	Jacquard tu berapa?
+B12:	*pro_3rd_S* Seratus lapan puluh ringgit *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
+A13:	Ni *pro_1st_S* bagi *pro_3rd_IO* seratus ringgitlah.
+B14:	Seratus *pro_1st_S* tak dapat, seratus lima puluh bolehlah kita bagi.
+A15:	*pro_3rd_S* Seratus lima puluh *pro_1st_S* bolehlah, kita ambil juga ni.
+B16:	*pro_2nd_S* Ambiklah dik---kak bagi *pro_2nd_IO* *pro_3rd_DO* lima puluh lima saja kat Singapore *pro_3rd_S* tidak boleh harga tu.

@@ -1,0 +1,50 @@
+A1:	Baju pengawas warna biru ada tak?
+A2:	Lengan pendek atau lengan panjang orang pakai *pro_1st_S* tak tahu.
+B3:	Biasanya kalau baju pengawas, *pro_3rd_S* lengan panjang---*pro_2nd_S* nak berapa helai, *pro_2nd_S* ambik sepasanglah... *pro_2nd_S* nak yang mana tu?
+A4:	Yang ni berapa?
+B5:	Kalau yang ni kalau *pro_2nd_S* nak, kita bagi *pro_2nd_IO* harga-harga spesiallah, harga *pro_3rd_P* lima belas ringgit.
+B6:	Baju ni saiz dua puluh lima.
+B7:	Dia pakai saiz berapa?
+A8:	Tak panas ke kain ni?
+B9:	Kain ni tak panas, kain *pro_3rd_P* molek, biasa kita jual *pro_3rd_DO* lapan belas ringgit tu.
+A10:	Kalau yang ni berapa sepasang?
+B11:	Kalau yang tu kita cakap harga kena selalulah, seluar dua belas ringgit, baju sembilan ringgit---baju ni kita biasa jual *pro_3rd_IO* dua belas ringgit, *pro_1st_S* kira cakap harga *pro_3rd_P* betul dah ni.
+B12:	Orang lain tak jual *pro_3rd_DO* sembilan ringgit...
+B13:	Kain ni molek... *pro_3rd_S* hak Malaysia....
+B14:	Kita bagi harga spesial pada kak ni.
+A15:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit.
+B16:	*pro_1st_S* Tak boleh dah... harga ni *pro_1st_S* bagi *pro_2nd_DO* sebab, orang *pro_1st_P* kenal ni (pelanggan yang dikenali) kalau tak, kita tak bagi *pro_2nd_IO* harga tu.
+A17:	*pro_2nd_S* Bagilah *pro_1st_DO* , *pro_1st_S* orang sekampung, kan?
+B18:	Iyalah... *pro_2nd_S* nak kurang *pro_3rd_DO* lagi *pro_2nd_S* kasihan pulak kita, barang ni laku selalu....
+B19:	Baju T *pro_2nd_S* tak nak.
+B20:	Yang ni ada kolar tapi harga *pro_3rd_P* sama saja... kain ni tak panas... kita bagi *pro_2nd_IO* *pro_3rd_DO* lima belas ringgit, *pro_1st_S* kira harga *pro_3rd_P* spesial dah ni... kita jual *pro_3rd_DO* tak mahal.
+A21:	Yang ni berapa?
+B22:	*pro_3rd_S* Sama saja, *pro_3rd_S* lima belas ringgit.
+A23:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* ke?
+B24:	*pro_1st_S* Tak boleh dah kak.
+C25:	Mok (emak) padan tak ni.
+C26:	Mok biasa pakai baju buat (jahit).
+C27:	*pro_1st_S* Padan tak ni?
+B28:	*pro_2nd_S* Padan dah---*pro_2nd_S* terailah *pro_3rd_DO* dulu, *pro_2nd_S* tak pernah beli *pro_3rd_DO* , *pro_2nd_S* belilah *pro_3rd_DO* sekali ni, *pro_3rd_S* sedang molek dah (sesuai)... *pro_2nd_S* terailah *pro_3rd_DO* dulu... *pro_2nd_S* tak terai *pro_3rd_DO* *pro_2nd_S* tak tahu....
+B29:	Lepas tu *pro_2nd_S* nak yang mana lagi?
+B30:	Kita boleh sikit sangat ni.
+B31:	Orang lain jual mahal ni 18 ringgit.
+B32:	Seluar pendek *pro_2nd_S* tak nak?
+B33:	Ni comel ni kita bagi *pro_2nd_IO* enam ringgit sehelai---harga *pro_3rd_P* murah benar ni.
+A34:	Warna lain *pro_2nd_S* tak ada?
+B35:	*pro_3rd_S* Ada---*pro_2nd_S* nak warna apa... yang tu saiz besar tu.
+A36:	Kakak (anak perempuan) pakai saiz berapa ya, saiz empat atau lima?
+B37:	Yang tu saiz lapan tu, *pro_3rd_S* padan dah.
+B38:	Saiz lima dan enam kecik.
+B39:	*pro_3rd_S* Tak muat adik ni *pro_2nd_S* ambiklah sehelai.
+A40:	*pro_1st_S* Belikan *pro_3rd_IO* nanti *pro_3rd_S* tak pakai *pro_3rd_DO* pulak.
+B41:	Kenapa pulak *pro_3rd_S* tak pakai*pro_3rd_DO* ---orang lain pakai *pro_3rd_DO* belaka.
+A42:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B43:	*pro_1st_S* Tak boleh dah.
+B44:	Sebab *pro_1st_S* boleh untung sikit saja.
+A45:	*pro_1st_S* Ambik banyak-banyak ni *pro_2nd_S* takkan tak boleh kurang?
+B46:	*pro_2nd_S* Kasihan pulak kita.
+A47:	Berapa semua ni?
+B48:	Semuanya dua puluh satu ringgit.
+A49:	*pro_2nd_S* Bagi cukuplah.
+B50:	*pro_1st_S* Tak boleh dah yang lebih tu untung kita.

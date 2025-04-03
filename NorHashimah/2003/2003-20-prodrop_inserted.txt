@@ -1,0 +1,8 @@
+A1:	Telekung ni *pro_2nd_S* tak boleh kurang *pro_3rd_DO* lagi ke?
+A2:	*pro_2nd_S* Bagilah *pro_3rd_IO* lima ringgit.
+B3:	*pro_1st_S* Tak boleh dah, harga *pro_3rd_P* mari pun lebih daripada tu.
+B4:	Lepas tu mana bahagian kita.
+A5:	*pro_2nd_S* Bagilah orang.
+A6:	Ni orang biasa sini ni (pelanggan tetap).
+B7:	Itupun lima ringgit *pro_1st_S* bagi ke orang kitalah tu.
+B8:	Memang tu dah harga dia, *pro_3rd_S* murah dah.

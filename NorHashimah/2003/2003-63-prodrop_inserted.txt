@@ -1,0 +1,17 @@
+A1:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke kak?
+A2:	*pro_2nd_S* Ambil stoking lagi dua.
+A3:	*pro_3rd_S* Tiga belaslah kak.
+B4:	*pro_1st_S* Tak boleh bagi *pro_2nd_DO* sebab barang *pro_3rd_P* mari dah mahal.
+A5:	*pro_2nd_S* Kira gitulah kak... lepas tu stoking dua lagi.
+A6:	Stoking ni berapa?
+B7:	*pro_3rd_S* Satu ringgit setengah.
+A8:	Jadi tiga ringgitlah dua.
+B9:	*pro_3rd_S* Tujuh belaslah, *pro_1st_S* tak boleh kurang.
+A10:	*pro_2nd_S* Kurang pada stokinglah.
+B11:	*pro_1st_S* Tak bolehlah, sebab stoking ni dah empat hingga lima belas sedozen.
+A12:	Kita dah ambik *pro_3rd_DO* dua tu.
+B13:	*pro_1st_S* Tak boleh bagi *pro_2nd_DO* ... sen-sen yah kita boleh... kita jual *pro_3rd_DO* cakap syiling saja.
+A14:	Jadi?
+B15:	Jadi *pro_3rd_S* tujuh belas.
+A16:	*pro_3rd_S* Enam belas
+B17:	*pro_3rd_S* Enam belas setengahlah dah, lima puluh sen dah tu *pro_3rd_S* turun.

@@ -1,0 +1,7 @@
+A1:	Telekung (kain tudung) ni berapa?
+B2:	*pro_2nd_S* Nak yang mana satu?
+B3:	... harga semuanya dua belas ringgit setengah.
+A4:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B5:	Kita jual *pro_2nd_DO* murah dah ni, sebab *pro_2nd_S* orang *pro_1st_S* kenal.
+A6:	Stoking yang ni berapa selai (sehelai)?
+B7:	Kalau budak sekolah yang nilah---*pro_3rd_S* tak boleh berbelang-belang, kalau sekolah tu disiplin kuat *pro_3rd_S* tak boleh ni---yang kosong nilah boleh---*pro_2nd_S* ambik yang nilah.

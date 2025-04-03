@@ -1,0 +1,7 @@
+A1:	Berapa kain tudung ni?
+B2:	*pro_3rd_S* Dua belas ringgit.
+A3:	*pro_3rd_S* Sembilan ringgitlah.
+B4:	*pro_3rd_S* Sembilan ringgit *pro_1st_S* tidak boleh, sebab yang ini metalik, yang lembik *pro_1st_S* boleh, yang nipis pun *pro_1st_S* boleh harga tu, sebab modal *pro_3rd_P* sebelas dah.
+A5:	Habis *pro_3rd_S* sepuluh ringgitlah tu.
+B6:	Yang metalik tu *pro_3rd_S* tak ada warna kuning ke?
+A7:	*pro_3rd_S* Tak ada sebab metalik warna dia gelap-gelap saja.

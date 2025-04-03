@@ -64,6 +64,7 @@
 - `XXX.txt` teks asal tanpa anotasi
 - `XXX-prodrop.jsonl` anotasi ganti nama kosong dalam format jsonl
 - `XXX-prodrop.txt` anotasi ganti nama kosong dalam format yang dibataskan tab
+- `XXX-prodrop_inserted.txt` teks asal dengan tag anotasi disisipkan
 - `XXX-prosub.jsonl` anotatsi pengganti ganti nama dalam format jsonl
 - `XXX-prosub.txt` anotatsi pengganti ganti nama dalam format yang dibataskan tab
 

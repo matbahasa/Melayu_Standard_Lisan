@@ -1,0 +1,7 @@
+A1:	Berapa harga setangkai ni?
+B2:	Kalau yang tu empat ringgit.
+A3:	Kenapa mahal ni?
+B4:	*pro_3rd_S* Taklah, itu harga biasa orang jual *pro_3rd_DO* , *pro_2nd_S* bolehlah empat ringgit---pagi-pagi ni *pro_1st_S* buat gori.
+A5:	*pro_2nd_S* Bagi *pro_1st_IO* tiga setengahlah saya ambik.
+B6:	*pro_1st_S* Tak bolehlah dik, itu pun harga modal *pro_1st_P* macam mana *pro_1st_S* nak jual.
+B7:	Harga tambang *pro_1st_P* pun *pro_1st_S* tak boleh lagi.

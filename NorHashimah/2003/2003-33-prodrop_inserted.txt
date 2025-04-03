@@ -1,0 +1,21 @@
+A1:	Ziz, padan ke budak tingkatan satu ni?
+B2:	*pro_3rd_S* Padan dah ni.
+B3:	Mari *pro_1st_S* nak ukur adik ni, mana besar *pro_3rd_S* dengan adik ni.
+A4:	Lebih kurang dah.
+B5:	*pro_3rd_S* Sedang molek dah, baju *pro_3rd_P* *pro_2nd_S* pakai labuh sikit.
+A6:	Lepas tu berapa ni.
+B7:	Mari *pro_1st_S* nak kira *pro_3rd_DO* , saya bagi *pro_2nd_IO* hanya yang paling murah, harga paling istimewa ni.
+A8:	*pro_2nd_S* Bagi *pro_1st_IO* murah-murah dahlah.
+A9:	*pro_1st_S* Tak nak mahal-mahal ni.
+B10:	Semuanya enam belas ringgit setengah.
+A11:	Mahalnya.
+B12:	*pro_3rd_S* Tak mahal dah, tiga perkara tu, kalau dengan orang lain *pro_2nd_S* takkan dapat harga tu.
+A13:	*pro_3rd_S* Berapa tadi?
+B14:	*pro_3rd_S* Enam belas setengah.
+A15:	*pro_2nd_S* Bagi *pro_1st_IO* cukup-cukuplah.
+B16:	Boleh berapa sen saja kita---lima puluh sen saja.
+A17:	*pro_3rd_S* Enam belas ringgit cukuplah.
+B18:	*pro_1st_S* Bagi *pro_2nd_DO* dah kan tadi, *pro_3rd_S* cukup untuk minum air yah ni---*pro_1st_S* banyak dah potong *pro_3rd_DO* , kalau dengan orang lain *pro_3rd_S* dua puluh ringgit lebih dah tu.
+B19:	Sen-sen aje kita ambik.
+A20:	*pro_1st_S* Beli deh semua.
+B21:	Ya saya jual.

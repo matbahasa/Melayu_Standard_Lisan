@@ -1,0 +1,33 @@
+B1:	*pro_2nd_S* Cari apa tu, *pro_2nd_S* singgahlah dulu.
+A2:	Baju sekolah budak-budak nilah.
+B3:	Sini ada *pro_3rd_S* , *pro_2nd_S* tengoklah.
+A4:	*pro_2nd_S* Acu tengok baju besar budak ni.
+B5:	Yang ni---*pro_3rd_S* padan dah ni.
+A6:	Berapa ni?
+B7:	*pro_3rd_S* Sembilan ringgit setengah.
+A8:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit, *pro_3rd_S* seluar---acu tengok.
+B9:	Yang ni *pro_3rd_S* padan?
+A10:	Berapa ni?
+B11:	Seluar ni lima belas ringgit---*pro_1st_S* boleh kurang lagi.
+B12:	Ginilah *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* tiga belas ringgit setengah.
+A13:	*pro_1st_S* Tak naklah mahal-mahal ni.
+B14:	*pro_3rd_S* Tak mahal dah mak cik.
+B15:	Yang ni ambo bagi lapan ringgit, yang ni tiga belas setengah---semuanya dua puluh satu ringgit setengah.
+A16:	*pro_2nd_S* Turunlah sikit lagi.
+A17:	*pro_2nd_S* Bagi *pro_1st_IO* *pro_3rd_DO* lapan belas ringgitlah.
+A18:	*pro_1st_S* Mari jauh ni.
+B19:	*pro_1st_S* Tak boleh dah mak cik, mak cik dok mana?
+A20:	Ciku---Kuala Kerai nun....
+B21:	Oh... tempat kelapa sawit tu ya!
+A22:	A... a... lepas tu lagu mana---*pro_2nd_S* bagi *pro_3rd_IO* lapan belas ringgit tak boleh ke, *pro_2nd_S* cukup *pro_3rd_DO* dua puluh ringgitlah ya.
+B23:	*pro_3rd_S* Dua puluh satu ringgitlah---*pro_1st_S* kurang *pro_3rd_DO* lima puluh sen, murah dah ni berapa sen saja kita dapat ni.
+A24:	Alah... *pro_2nd_S* cukuplah *pro_3rd_DO* dua puluh.
+A25:	*pro_1st_S* Tak ada duit ni *pro_1st_S* nak buat tambang balik lagi ni... musim sekarang ni---*pro_1st_S* banyak nak pakai duit le... anak-anak *pro_1st_P* sekolah, baju sekolah *pro_3rd_P* , buku *pro_3rd_P* , lepas tu yuran *pro_3rd_P* lagi.
+B26:	Biasalah tu mak cik---kita pun lagu tulah jugak berapa orang yang sekolah.
+A27:	*pro_2nd_S* Bolehlah ya *pro_3rd_S* dua puluh ringgit?
+B28:	Ni saja ke, stoking-stoking *pro_2nd_S* tak nak ke.
+B29:	Baju-baju T-shirt ni.
+A30:	*pro_1st_S* Tak naklah, ramai lagi ni---tu pun kakak dia tolong beli setengah... *pro_3rd_S* dua puluh ringgit ya.
+B31:	Tu duit belana tu (banyak).
+A32:	Belana apa, kelapa sawit sekarang ni turun harga, *pro_3rd_S* tak macam dulu---tambah musim ni.
+B33:	*pro_1st_S* Jual ya mak cik.

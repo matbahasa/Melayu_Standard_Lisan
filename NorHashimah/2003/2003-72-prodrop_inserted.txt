@@ -1,0 +1,21 @@
+B1:	Yang ni empat belas ringgit setengah.
+A2:	*pro_1st_S* Mintak sepuluh.
+B3:	Sepuluh *pro_1st_S* tak dapat.
+A4:	*pro_1st_S* Mintak *pro_2nd_IO* sebelaslah dua...
+B5:	*pro_1st_S* Tak boleh kak.
+A6:	*pro_2nd_S* Bolehlah, akak malas nak cari *pro_3rd_DO* kat lain lagi.
+B7:	*pro_3rd_S* Dua puluh, *pro_3rd_S* dua puluh satu, *pro_3rd_S* dua puluh dua, *pro_3rd_S* dua puluh tiga, *pro_3rd_S* dua puluh empat, dia harga lain.
+B8:	Dia tak sama kalau kita boleh bagi *pro_2nd_DO* , kita bagi.
+A9:	Berapa seluar ni?
+B10:	*pro_3rd_S* Sembilan ringgit, kalau kecil dia murah sikit, kalau besar benar, dia sebelas ringgit.
+A11:	Lima dahlah ni.
+B12:	*pro_3rd_S* Lima *pro_1st_S* tak dapat.
+A13:	Bolehlah dik oi, sebab *pro_3rd_S* dah nak sangat ni kami baru balik dari Rantau Panjang ni tapi dia ni dah mengarut nak *pro_3rd_DO* jugak.
+A14:	Di sana tadi, dia tak ingat nak beli.
+B15:	Yang ni bukan Rantau Panjang punya ni.
+B16:	Kalau yang Siam tu, kainnya tak elok.
+A17:	Baju sekolah ni kalau sebelas ringgit kak ambik lima.
+A18:	*pro_2nd_S* Bagi *pro_1st_IO* lima ringgit dah adik oi... jauh *pro_1st_S* cari baju sekolah, *pro_1st_S* sampai ke sini.
+B19:	Pasal dah rezeki sayalah tu.
+A20:	Kalau *pro_3rd_S* lima ringgit *pro_1st_S* bolehlah.
+B21:	*pro_1st_S* Tidak boleh *pro_1st_S* bagi *pro_3rd_IO* enam ringgitlah.

@@ -1,0 +1,12 @@
+A1:	Berapa belas ni mak cik?
+B2:	*pro_3rd_S* Dua puluh tiga, *pro_1st_S* nak letak *pro_3rd_DO* mahal *pro_1st_S* takut orang terkejut.
+B3:	Kain *pro_3rd_P* mahal dah, kita bagi *pro_3rd_IO* setakat dua puluh dualah.
+B4:	*pro_1st_S* Ambik *pro_3rd_DO* mahal, duit Singapura sekarang ni mahal.
+B5:	Duit kita dah murah, itulah mahal kain tu.
+A6:	*pro_2nd_S* Kurang lagilah.
+B7:	*pro_1st_S* Bagi *pro_3rd_IO* dua puluh dualah, sikit sangat dah tu *pro_1st_S* boleh.
+B8:	Dulu *pro_1st_S* bolehlah lapan belas, itu lama dah, *pro_1st_S* letak harga *pro_3rd_IO* rendah-rendahlah *pro_1st_S* takut orang terkejut, nanti orang lari pulak.
+A9:	*pro_3rd_S* Lapan belaslah.
+B10:	*pro_1st_S* Tak boleh, sebab kita beli *pro_3rd_DO* mahal dah.
+A11:	Ginilah *pro_3rd_S* setakat dua puluh, *pro_2nd_S* boleh?
+B12:	Satu ringgit lagilah *pro_2nd_S* bagi kita, *pro_3rd_S* jadi dua puluh satulah.

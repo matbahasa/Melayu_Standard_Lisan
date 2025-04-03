@@ -1,0 +1,15 @@
+A1:	Yang ni berapa rial sehelai?
+B2:	*pro_3rd_S* Dua ringgit sehelai.
+A3:	*pro_2nd_S* Bagi *pro_3rd_IO* tiga ringgit dua helailah
+B4:	*pro_1st_S* Tak boleh kak, ambo bagi *pro_2nd_DO* harga niaga dah ni.
+B5:	Tak kita dapat.
+B6:	*pro_2nd_S* Kasihanlah juga kita.
+A7:	Yang ni berapa?
+B8:	Yang tu lapan ringgit setengah, orang lain letak harga *pro_3rd_P* dua belas ringgit ni.
+B9:	Kita kira bagi *pro_2nd_DO* harga kena (harga sesuai dengan barang) selalulah.
+A10:	*pro_3rd_S* Lapan ringgit *pro_2nd_S* tak boleh ke?
+B11:	*pro_1st_S* Tak boleh dahlah, sebab lima puluh tulah hak kita, kalau *pro_1st_S* kurang *pro_3rd_DO* lagi gak, nyaya (teruk) kita pulak modal ni dah mahal.
+A12:	Lepas tu berapa semua?
+B13:	Harga semuanya sembilan belas ringgit setengah.
+A14:	Alah... *pro_2nd_S* cukuplah.
+B15:	Em... tak apalah -*pro_1st_S* bagi dia lima puluh sen buat minum air bawah.

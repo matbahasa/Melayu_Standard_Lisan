@@ -1,0 +1,13 @@
+A1:	Baju ni berapa?
+B2:	*pro_3rd_S* Dua puluh dua.
+A3:	*pro_1st_S* Takkan tak boleh tawar?
+B4:	Oh... *pro_2nd_S* boleh, berapa adik berani?
+A5:	Berapa mak cik nak bagi?
+B6:	Pagi-pagi ni mak cik bagi *pro_1st_IO* *pro_3rd_DO* lapan belaslah, *pro_2nd_S* boleh?
+A7:	*pro_2nd_S* Tak boleh lagi ke?
+B8:	Berapa adik nak?
+A9:	Satu saja.
+B10:	*pro_3rd_S* Enam belaslah.
+A11:	*pro_2nd_S* Tak boleh dah?
+B12:	*pro_3rd_S* Setakat tu sajalah.
+A13:	Tak apalah, lain kali pulak.

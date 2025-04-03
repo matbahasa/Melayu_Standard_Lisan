@@ -1,0 +1,4 @@
+A1:	*pro_3rd_S* Lima belas *pro_2nd_S* tak boleh?
+B2:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh pergi.
+B3:	*pro_3rd_S* Enam belas cukuplah.
+B4:	Kalau mak cik ambik yang tidak ada span tu *pro_1st_S* bolehlah bagi *pro_2nd_IO* *pro_3rd_DO* lima belas, tapi *pro_3rd_S* tak elok sebab nanti *pro_2nd_S* nak melecur, *pro_3rd_S* enam belas cukuplah.

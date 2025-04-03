@@ -1,0 +1,4 @@
+A1:	Seluar ni berapa rial sehelai?
+B2:	*pro_3rd_S* Enam ringgit setengah.
+A3:	*pro_2nd_S* Boleh kurang *pro_3rd_DO* lagi?
+B4:	Tak boleh dah ni, modal *pro_3rd_P* pun tak sampai lagi, kita pun nak jugak buat minum sikit. B5:	Ginilah kalau awak nak *pro_3rd_DO* , setakat lima ringgit *pro_1st_S* bolehlah---*pro_3rd_S* kurang daripada tu *pro_1st_S* tak boleh dah

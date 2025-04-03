@@ -1,0 +1,10 @@
+A1:	Berapa gag ni?
+B2:	*pro_3rd_S* Lapan belas ringgitlah, *pro_1st_S* beri *pro_2nd_DO* harga *pro_3rd_P* belas-belaslah senang.
+A3:	*pro_3rd_S* Lima belas ringgitlah.
+B4:	*pro_1st_S* Tak boleh... satu ringgit lagilah *pro_1st_S* buat modal.
+A5:	*pro_1st_S* Mintak *pro_3rd_IO* lima belas ringgitlah... *pro_1st_S* beli *pro_3rd_DO* sini selalu (sokmo).
+B6:	*pro_1st_S* Tak boleh gi.
+A7:	*pro_3rd_S* Serupa *pro_1st_S* tawar tadilah.
+B8:	*pro_1st_S* Tak boleh sungguh.
+B9:	*pro_1st_S* Bukan tak boleh bagi *pro_2nd_DO* , kita kalau boleh bagi *pro_2nd_DO* , *pro_1st_S* nak bagi.
+A10:	Tak apalah, *pro_1st_S* ambik-ambik *pro_3rd_DO* sajalah.

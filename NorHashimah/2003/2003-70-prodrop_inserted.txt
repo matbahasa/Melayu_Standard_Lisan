@@ -1,0 +1,59 @@
+A1:	Berapa kain batik ni?
+B2:	*pro_3rd_S* Dua puluh mak cik.
+A3:	*pro_3rd_S* Dua puluh?
+B4:	*pro_1st_S* Bolehlah kurang *pro_3rd_DO* sikit lagi, pagi-pagi ni.
+A5:	*pro_3rd_S* Lima belas.
+B6:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh, dia panggil 'Jawa JK'.
+A7:	*pro_3rd_S* Lima belas bolehlah dik.
+B8:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh, kalau *pro_2nd_S* nak *pro_3rd_DO* *pro_1st_S* bagi *pro_3rd_IO* tujuh belaslah.
+B9:	Pasal *pro_1st_S* nak buat gori pagi-pagi ni.
+A10:	*pro_2nd_S* Bolehlah lima belas.
+B11:	*pro_3rd_S* Lima belas *pro_1st_S* tak dapat, tujuh belaslah pagi-pagi ni pasal *pro_3rd_S* batik Jawa ni, *pro_3rd_S* lima belas yang satu lagi.
+A12:	*pro_3rd_S* Lima belas *pro_2nd_S* bolehlah.
+B13:	Pasal pagi-pagi ni *pro_1st_S* nak buat gori.
+A14:	*pro_3rd_S* Lima belaslah, *pro_1st_S* banyak nak ambik ni.
+B15:	*pro_3rd_S* Tujuh belas mak cik, tak betul tu, kita boleh sikit saja.
+A16:	*pro_1st_S* Nak ambik banyak ni.
+B17:	*pro_3rd_S* Lima belas *pro_1st_S* tak dapat, *pro_1st_S* ambik *pro_3rd_DO* pun dah lebih.
+A18:	Kalau kita nak berniaga ni, *pro_2nd_S* bagilah kurang *pro_3rd_DO* sikit.
+B19:	Harga berniagalah tu *pro_1st_S* bagi biasa jual ni, harga tarik ni dua puluh lima, pasal pagi-pagi ni, kan.
+A20:	*pro_2nd_S* Boleh tu, *pro_3rd_S* dah enam belas saja.
+B21:	*pro_3rd_S* Tujuh belas, kita boleh sikit saja, *pro_1st_S* buat minum air saja.
+B22:	Niaga ni tidak boleh banyak.
+B23:	*pro_1st_S* Boleh empat hingga lima puluh sen saja sehelai.
+A24:	*pro_3rd_S* Enam belas *pro_2nd_S* boleh ya?
+B25:	*pro_3rd_S* Tujuh belaslah mak cik, itu pun *pro_1st_S* boleh buat minum air saja.
+A26:	*pro_2nd_S* Bagilah *pro_1st_IO* kurang sikit, *pro_1st_S* nak berniaga.
+B27:	Itu *pro_1st_S* bagi *pro_2nd_IO* harga niaga dah tu.
+A28:	*pro_3rd_S* Lima belas, *pro_1st_S* bolehlah ambil *pro_3rd_IO* empat helai.
+B29:	*pro_1st_S* Tidak boleh, itu pun dah *pro_1st_S* bagi '*pro_2nd_IO* spesial harga' tu.
+B30:	Harga biasa *pro_3rd_P* dah tu *pro_1st_S* bagi.
+B31:	Yang tu tiga puluh lima.
+B32:	*pro_1st_S* Bolehlah kurang *pro_3rd_DO* sikit lagi.
+B33:	*pro_3rd_S* Baru sampai semalam.
+A34:	Sepasang ni berapa?
+B35:	Yang tu dua puluh, *pro_1st_S* bolehlah kurang *pro_3rd_DO* lagi.
+A36:	*pro_3rd_S* Takkanlah dua puluh, *pro_3rd_S* lapan belaslah.
+B37:	Lapan belas tu, kain yang satu lagi.
+B38:	Ginilah kalau *pro_2nd_S* nak *pro_3rd_DO* , kita bagi *pro_2nd_DO* sama dengan harga kain sarung tadi, tujuh belas ringgit.
+B39:	Boleh ke mak cik?
+B40:	*pro_2nd_S* Tengok-tengoklah dulu.
+B41:	(Kain cotton).
+A42:	*pro_3rd_S* Lima belas *pro_2nd_S* tidak boleh?
+B43:	*pro_3rd_S* Lima belas *pro_1st_S* tidak boleh, itu pun saya boleh sikit saja, sebab ni Jawa empat lapis.
+A44:	*pro_3rd_S* Lima belas *pro_2nd_S* bolehlah, *pro_1st_S* ambik *pro_3rd_IO* dua helai.
+B45:	Harga saya ambik *pro_3rd_DO* pun *pro_1st_S* tidak boleh lagi.
+A46:	*pro_2nd_S* Bolehlah kurang sikit?
+B47:	Ginilah *pro_1st_S* bagi *pro_2nd_DO* harga sama dengan kain sarung.
+B48:	Pasal harga niaga ni sikit-sikit saja *pro_1st_S* ambil.
+A49:	*pro_2nd_S* Bolehlah tu.
+B50:	Saya pun boleh sikit saja, empat hingga lima puluh sen saja sehelai.
+A51:	Tak apalah, lama-lama jadi bukit.
+A52:	Sikit-sikit lama-lama jadi bukit, ya tak?
+A53:	*pro_2nd_S* Kiralah berapa semua tu.
+B54:	*pro_3rd_S* Seratus lima puluh tiga, sembilan helai.
+B55:	Saya kira *pro_3rd_DO* harga sama.
+B56:	Biasanya yang ni, saya jual *pro_3rd_DO* lapan belas, tak apalah pasal mak cik ambik banyak.
+A57:	Bolehlah *pro_2nd_S* kurang tiga ringgit lagi tu.
+B58:	Yang tiga ringgit lagi tulah yang saya punya tu, *pro_3rd_S* tak banyak.
+B59:	Seratus ringgit lebih *pro_1st_S* potong pun, *pro_1st_S* boleh sikit saja.

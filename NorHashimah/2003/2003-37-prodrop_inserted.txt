@@ -1,0 +1,22 @@
+A1:	Toto ni berapa?
+B2:	*pro_3rd_S* Dua belas ringgit *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
+A3:	*pro_1st_S* Nak tawar *pro_2nd_DO* *pro_1st_S* takut.
+B4:	Kita letak yah harga tu, sepuluh ringgitlah *pro_1st_S* bagi kat kak.
+A5:	*pro_3rd_S* Tak sampai sepuluhlah, kalau *pro_3rd_S* sepuluh *pro_1st_S* tak payah mari sini.
+B6:	Berapa butir *pro_2nd_S* nak?
+A7:	Satu butir saja, *pro_3rd_S* sembilan ringgitlah, *pro_3rd_S* serupa yang saya beli biasa.
+A8:	Kita selalu beli dah kain ni.
+A9:	Kain lampin ada?
+B10:	*pro_3rd_S* Dua puluh lapan ringgit.
+A11:	*pro_2nd_S* Kurang *pro_3rd_DO* berapa?
+A12:	*pro_3rd_S* Dua puluh *pro_2nd_S* boleh?
+B13:	Sikit lagilah.
+A14:	Sembilan belas ringgit, *pro_1st_S* ambil dua.
+B15:	*pro_1st_S* Tak boleh.
+A16:	*pro_3rd_S* Buat berat *pro_1st_S* bawak *pro_3rd_DO* saja, Jerteh *pro_3rd_S* dua puluh, *pro_1st_S* mari Kota Bharu *pro_3rd_S* buat berat.
+B17:	Biarlah *pro_3rd_S* sembilan belas.
+B18:	Jadi semua sekali empat puluh tujuh ringgit.
+A19:	Hih... *pro_3rd_S* empat puluh enam ringgit sajalah.
+A20:	Satu ringgit tu kita nak buat tambang bas.
+B21:	Dah, kita nak minum air.
+A22:	Dia duduk sini, kita nak makan lagi, *pro_1st_S* nak tambang lagi, *pro_2nd_S* bagi-bagilah.

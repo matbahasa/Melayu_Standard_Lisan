@@ -1,0 +1,7 @@
+A1:	Berapa ni?
+B2:	Yang ni tiga puluh empatlah, cantik warna hijau tu.
+B3:	*pro_2nd_S* Nak dua ke?
+A4:	*pro_2nd_S* Tak boleh pergi dah ke?
+B5:	*pro_1st_S* Bagi *pro_2nd_IO* *pro_3rd_DO* empat puluh tujuhlah, kalau adik nak.
+A6:	Empat puluh enamlah dua ni ya kak.
+B7:	Biarlah *pro_1st_S* buat gori pagi ni.

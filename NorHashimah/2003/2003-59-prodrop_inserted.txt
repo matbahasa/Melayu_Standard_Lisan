@@ -1,0 +1,11 @@
+A1:	Berapa sehelai ni?
+B2:	*pro_3rd_S* Lima ringgit, *pro_1st_S* boleh kurang.
+B3:	*pro_2nd_S* Tawarlah sikit.
+A4:	*pro_3rd_S* Tiga setengah.
+B5:	*pro_3rd_S* Empat ringgitlah... *pro_1st_S* boleh untung sikit saja.
+B6:	Barang ni bukannya yang Siam tapi yang sini.
+A7:	*pro_3rd_S* Tiga setengahlah kak, lima puluh sen saja.
+A8:	*pro_2nd_S* Tak boleh *pro_3rd_S* tiga ringgit setengah?
+A9:	Kalau *pro_2nd_S* boleh *pro_3rd_S* tiga ringgit setengah *pro_1st_S* nak tiga helai jugak ni.
+A10:	*pro_2nd_S* Bagilah *pro_1st_IO* *pro_3rd_DO* tiga ringgit setengah, *pro_1st_S* nak tiga helai ni.
+B11:	*pro_2nd_S* Ambiklah  *pro_3rd_DO* ...

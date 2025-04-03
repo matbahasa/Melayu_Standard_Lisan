@@ -1,0 +1,33 @@
+A1:	Berapa ni?
+B2:	Sekodi ke dua?
+B3:	*pro_3rd_S* Setakat sepuluhlah kalau *pro_2nd_S* nak banyak.
+A4:	*pro_2nd_S* Kurang *pro_3rd_DO* lagilah.
+B5:	Harga *pro_3rd_P* tolak dah tu, harga niaga.
+A6:	Lain kali kalau *pro_3rd_S* laku kita ambik sini pulak.
+B7:	*pro_1st_S* Tak boleh dah, kita tolak harga kodi.
+B8:	Pada orang lain, harga tu jugak tiga puluh sen yah boleh... tiga puluh sen yah sehelai.
+B9:	Kalau *pro_2nd_S* nak balik jual *pro_3rd_DO* , *pro_1st_S* boleh, kita bagi *pro_2nd_IO* murah.
+A10:	Baju tu berapa sepasang?
+B11:	Harga *pro_3rd_P* *pro_1st_S* letak lima puluh, tetapi kalau *pro_2nd_S* nak *pro_3rd_IO* sehelai *pro_1st_S* kurang *pro_3rd_DO* sikit tapi kalau *pro_2nd_S* nak *pro_3rd_DO* banyak *pro_1st_S* kurang *pro_3rd_DO* banyak lagi, sebab *pro_3rd_S* harga niaga!
+A12:	Harga niaga *pro_3rd_P* berapa?
+B13:	Harga niaga *pro_3rd_P* kita tolak tiga puluh tujuh, kita jual *pro_3rd_DO* sini, *pro_1st_S* habis kurang *pro_3rd_DO* empat puluh lima.
+B14:	(Lain-lain).
+A15:	Ini *pro_2nd_S* tidak boleh kurang *pro_3rd_DO* pada dua puluh lima?
+B16:	Ginilah *pro_3rd_S* dua puluh tiga, *pro_1st_S* kurang *pro_3rd_DO* dua ringgit.
+A17:	*pro_2nd_S* Genaplah.
+B18:	*pro_1st_S* Tak boleh.
+A19:	*pro_3rd_S* Dua puluhlah.
+B20:	*pro_3rd_S* Dua puluhlah.
+A21:	*pro_2nd_S* Janganlah gitu.
+A22:	Ini berapa pulak?
+B23:	Ini empat puluh.
+A24:	Ini mahal sangat.
+B25:	*pro_3rd_S* Tak mahal dah, sebab kain *pro_3rd_P* tak payah gosok ni.
+A26:	*pro_2nd_S* Kuranglah.
+B27:	*pro_1st_S* Tak boleh, sebab kain *pro_3rd_P* elok.
+B28:	Kalau *pro_3rd_S* tidak elok *pro_2nd_S* bolehlah dapat *pro_3rd_IO* dua puluh lebih.
+A29:	*pro_3rd_S* Dua puluhlah kak.
+B30:	Dua puluh *pro_1st_S* tak boleh, dua puluh tu zaman dulu, *pro_1st_S* boleh sungguh... sekarang *pro_1st_S* tak boleh dah.
+B31:	Ginilah, kalau *pro_2nd_S* nak *pro_3rd_IO* jugak, kita bagi *pro_2nd_IO* murah sikit, kita bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh lapan.
+A32:	*pro_2nd_S* Bagi *pro_1st_S* dua puluh limalah.
+B33:	Murah benar dah tu, sebab adik ambik banyak jadi yang ni *pro_1st_S* bagi *pro_3rd_IO* dua puluh, *pro_1st_S* tak peduli dah... *pro_2nd_S* saja, *pro_3rd_S* sikit-sikit dah tu, yang ni dua puluh lapan.

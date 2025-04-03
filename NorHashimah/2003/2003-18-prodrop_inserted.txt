@@ -1,0 +1,19 @@
+A1:	Mak cik, kira yang ni.
+B2:	Harga yang ni dua ringgit.
+B3:	Ginilah mak cik bagi *pro_2nd_IO* *pro_3rd_DO* satu ringgit lapan puluh, kalau orang lain dua ringgit harga *pro_3rd_P* tak bergerak dah (harga tetap).
+A4:	Kain ela ni?
+B5:	Kain ni empat ringgit.
+A6:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B7:	*pro_1st_S* Tak boleh dah, harga dia memang empat ringgit.
+B8:	Dengan orang lain *pro_3rd_S* tak boleh empat ringgit ni.
+B9:	Biasa orang jual *pro_3rd_DO* empat ringgit dua puluh.
+A10:	*pro_2nd_S* Bagi *pro_3rd_IO* tiga ringgit lapan puluhlah
+B11:	*pro_1st_S* Tak bolehlah dik, lainlah kalau *pro_2nd_DO* ambik *pro_3rd_DO* sepuluh ela atau satu kayu ke.
+B12:	*pro_1st_S* Bolehlah.
+A13:	Kain ni berapa pulak?
+B14:	*pro_3rd_S* Sepuluh ringgit, *pro_2nd_DO* ambiklah *pro_3rd_DO* sembilan ringgit setengah, *pro_1st_S* boleh bagi.
+A15:	*pro_3rd_S* Lapan ringgit setengahlah.
+B16:	*pro_2nd_S* Kasihanlah kita dik---lapan setengah tu hak kita pun tak sampai lagi.
+B17:	Kita jual *pro_3rd_DO* murah dah *pro_1st_S* tak naklah pegang-pegang harga.
+A18:	Tak apalah.
+A19:	Berapa semua itu?

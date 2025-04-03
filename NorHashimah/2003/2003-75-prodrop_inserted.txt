@@ -1,0 +1,20 @@
+A1:	*pro_2nd_S* Kurang *pro_3rd_DO* berapa ni?
+B2:	*pro_1st_S* Kurang *pro_3rd_DO* lapan belas ringgit.
+A3:	*pro_3rd_S* Tujuh belaslah.
+B4:	*pro_3rd_S* Sepatutnya dua puluh tu.
+A5:	*pro_2nd_S* Bagi *pro_1st_IO* *pro_3rd_DO* tujuh belaslah.
+B6:	*pro_1st_S* Tak boleh, *pro_1st_S* bagi *pro_3rd_IO* satu ringgit lagilah.
+B7:	Kita pun boleh sikit benar dah tu.
+B8:	*pro_1st_S* Bagi *pro_2nd_IO* *pro_3rd_DO* lapan belas, lapan belas pun *pro_1st_S* boleh sikit benar dah tu.
+A9:	Tujuh belaslah dua helai.
+A10:	Berapa yang kilat ni.
+B11:	*pro_3rd_S* Lima puluh.
+A12:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B13:	'Harga spesial' dah tu, harga sebenar *pro_3rd_P* , kita letak *pro_3rd_DO* tujuh puluh lima, tujuh puluh.
+A14:	Yang ni pulak berapa?
+B15:	*pro_3rd_S* Tiga puluh, *pro_1st_S* bolehlah kurang *pro_3rd_DO* lagi kak.
+B16:	Kita bagi *pro_2nd_IO* dua puluh lapan.
+B17:	Kak nak banyak pasang ke?
+B18:	Ginilah *pro_1st_S* kurang *pro_3rd_DO* satu ringgit lagi.
+A19:	Yang kilat ni *pro_2nd_S* tak boleh kurang *pro_3rd_DO* lagi ke?
+B20:	Kita bagi 'spesial harga' pada kak.

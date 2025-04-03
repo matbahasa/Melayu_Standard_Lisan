@@ -1,0 +1,78 @@
+A1:	Kain batik Jawa ni berapa?
+B2:	*pro_3rd_S* Dua puluh ringgit kak, dia labuh.
+A3:	Yang ni?
+B4:	Yang tu, harga *pro_3rd_P* saya letak tujuh belas, saya jual *pro_3rd_IO* satu-satu lima belas.
+B5:	Ambiklah *pro_3rd_IO* kak satu.
+A6:	Yang ni *pro_2nd_S* kira macam mana?
+B7:	Yang tu, saya bagi *pro_3rd_IO* seratus lapan puluh, sehelai-sehelai saya jual *pro_3rd_IO* sebelas ringgit.
+B8:	Yang ni saya jual *pro_3rd_DO* satu-satu sembilan tetapi kalau saya bagi *pro_2nd_IO* harga niaga, *pro_3rd_S* jatuh lapan ringgit sehelai.
+A9:	Yang ni sekodi berapa?
+B10:	Sekodi seratus lima puluh.
+A11:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi ke?
+B12:	*pro_1st_S* Tak boleh kak, *pro_3rd_S* habislah tu.
+B13:	Saya pun boleh dua, tiga puluh sen yah sehelai, bukannya *pro_1st_S* boleh *pro_3rd_IO* banyak.
+A14:	Yang ni berapa?
+B15:	Yang ni dua ratus.
+A16:	Allah, kenapa *pro_3rd_S* mahal sangat?
+B17:	Sebab dia empat lapis, kalau tiga lapis *pro_3rd_S* seratus lapan puluh, yang empat lapis lebih tebal.
+B18:	Kak nak sekodi ke?
+B19:	Kak berani berapa yang empat lapis ni?
+B20:	Saya bagi *pro_3rd_DO* pada kak, dua ratus.
+B21:	Satu kodi saya letak *pro_3rd_DO* sehelai-sehelai sebelas.
+B22:	Kalau boleh saya minum air, *pro_1st_S* bagi.
+A23:	Kalau *pro_3rd_S* seratus enam puluh ringgit?
+B24:	Ginilah, saya bagi *pro_2nd_IO* *pro_3rd_DO* sembilan ringgit sehelai, saya pun boleh sikit saja.
+A25:	Habis saya nak jual *pro_3rd_DO* nanti, berapa?
+B26:	Ginilah, saya bagi *pro_2nd_IO* *pro_3rd_DO* seratus enam puluh, *pro_1st_S* kurang *pro_3rd_DO* lima ringgit lagi.
+B27:	*pro_1st_S* Tak boleh gi dah tu, saya pun boleh sikit saja.
+B28:	Niaga ni *pro_1st_S* tak boleh banyak.
+B29:	Kalau kak pergi tempat lain pun, kadang tu *pro_3rd_S* beza dengan tempat saya *pro_3rd_S* sampai lima ringgit sekodi.
+B30:	Kain baru ni kak, *pro_3rd_S* baru sampai semalam.
+B31:	Jadi semua sekali dua ratus sembilan puluh.
+A32:	*pro_3rd_S* Dua ratus sembilan sajalah, itu pun lima ringgit.
+A33:	Alah lima ringgit itu pun *pro_2nd_S* nak kira.
+B34:	*pro_1st_S* Tak dapat, itu pun *pro_1st_S* boleh buat minum air saja kak.
+A35:	Lima ringgit minum air, sekejap lagi *pro_3rd_S* habislah.
+B36:	*pro_1st_S* Bayar hasil lagi, yang ni sikit, yang tu sikit.
+B37:	*pro_1st_S* Boleh sikit-sikit saja kak.
+B38:	*pro_1st_S* Tak boleh banyak.
+A39:	Tiga lapis ni berapa.
+B40:	*pro_3rd_S* Seratus empat puluh.
+A41:	*pro_3rd_S* Seratus dua puluh saja.
+B42:	*pro_3rd_S* Seratus dua puluh *pro_1st_S* tidak boleh.
+B43:	Rugi saya kalau *pro_3rd_S* seratus dua puluh.
+B44:	*pro_3rd_S* Jatuh sehelai-sehelai tujuh ringgit, *pro_3rd_S* tak mahal dah tu.
+B45:	Ginilah kalau kak nak *pro_3rd_DO* , kita bagi *pro_2nd_IO* *pro_3rd_DO* seratus tiga puluh.
+B46:	*pro_1st_S* Tak boleh pergi dah tu.
+A47:	*pro_3rd_S* Seratus dua puluhlah.
+B48:	*pro_3rd_S* Seratus dua puluh *pro_1st_S* tak boleh.
+A49:	*pro_3rd_S* Seratus dua puluh limalah.
+B50:	*pro_1st_S* Tidak boleh, itu pun bagi '*pro_2nd_IO* spesial harga' dah tu.
+A51:	Kita ambil yang ni sepuluh helai, enam puluh lima *pro_2nd_S* boleh?
+B52:	*pro_3rd_S* Enam puluh lima ringgit, sepuluh helai, tak apalah *pro_1st_S* bagi pada kak.
+A53:	Yang satu lagi, seratus dua puluhlah, *pro_1st_S* kurang *pro_3rd_IO* lima ringgit.
+A54:	*pro_1st_S* Ambik *pro_3rd_DO* pun *pro_3rd_S* dah banyak ni.
+B55:	Oh, itu pun saya boleh sikit saja kak.
+B56:	Yang tu sikit, yang ni sikit, *pro_1st_S* boleh buat minum air saja.
+B57:	*pro_1st_S* Tak boleh untung sampai empat, lima ringgit kak.
+B58:	*pro_1st_S* Boleh sikit saja.
+A59:	Cadar tu berapa?
+B60:	*pro_3rd_S* Seratus empat puluh.
+A61:	Mahalnya.
+B62:	Kalau kak nak *pro_3rd_DO* , *pro_3rd_S* seratus tiga puluhlah.
+A63:	Orang ambik *pro_3rd_DO* seratus saja.
+B64:	Saya ambik *pro_3rd_DO* lebih dah seratus, *pro_3rd_S* di atas kain-kain.
+A65:	Habis, kain tadi seratus helai ni berapa?
+B66:	*pro_3rd_S* Enam puluh lima.
+A67:	Mahalnya, *pro_2nd_S* tak boleh lagi ke?
+A68:	Ha... takkan *pro_1st_S* tak ambil untung.
+B69:	Sungguh kak, *pro_2nd_S* tak ambil untung ni.
+B70:	*pro_3rd_S* Enam puluh tigalah, *pro_1st_S* potong *pro_3rd_IO* dua ringgit, *pro_1st_S* buat minum air.
+A71:	Alahai, air empat puluh sen saja.
+B72:	Itu pun sikit saja kak, saya nak bayar hasil lagi.
+A73:	*pro_2nd_S* Tak boleh kurang *pro_3rd_DO* lagi.
+B74:	*pro_1st_S* Tak boleh, lain kali kak mari kedai sayalah, saya bagi 'harga spesial' pada kak.
+A75:	*pro_3rd_S* Berapa semua?
+B76:	*pro_3rd_S* Tiga ratus lapan puluh lima.
+A77:	*pro_3rd_S* Tiga ratus lima puluh limalah.
+B78:	*pro_1st_S* Tak boleh pergi kak, saya ni pun boleh sen saja ni, *pro_1st_S* tak boleh banyak.

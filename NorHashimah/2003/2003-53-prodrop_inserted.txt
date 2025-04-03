@@ -1,0 +1,11 @@
+A1:	Yang ni berapa?
+B2:	Yang ni mahal sikit, *pro_3rd_S* tiga puluh lebih sebab *pro_3rd_S* barang supermarket.
+B3:	*pro_2nd_S* Nak *pro_3rd_IO* berapa buah.
+A4:	Dua saja.
+A5:	*pro_3rd_S* Mahallah kak tak leh kurang *pro_3rd_DO* ke?
+B6:	*pro_2nd_S* Tengok-tengoklah *pro_3rd_DO* dulu, kalau boleh kita bagi *pro_2nd_IO* kurang, yang dua ni ke?
+B7:	Macam nilah, kita bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh cukup.
+A8:	Sikit lagilah kak.
+B9:	Murah dah tu dik, mana-mana adik pergi pun, orang letak *pro_3rd_DO* harga tu juga, pasal adik ambil *pro_3rd_IO* dua, kak bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh ringgit.
+A10:	*pro_2nd_S* Bagilah *pro_1st_IO* *pro_3rd_DO* kurang satu ringgit lagi.
+B11:	*pro_1st_S* Biarlah tak apa, tahan kain ni, bukannya *pro_3rd_S* tak tahan.

@@ -1,0 +1,11 @@
+A1:	Berapa ni?
+B2:	*pro_1st_S* Letak *pro_3rd_DO* lapan belas, *pro_1st_S* kurang *pro_3rd_DO* lagilah, *pro_2nd_S* boleh tawarlah.
+B3:	Jenis kain macam ni tahan.
+A4:	*pro_3rd_S* Dua belas *pro_2nd_S* tak boleh.
+B5:	*pro_3rd_S* Dua belas *pro_1st_S* tak bolehlah.
+A6:	Habis berapa pak cik nak?
+B7:	*pro_1st_S* Kira *pro_3rd_IO* ginilah, kita bagi *pro_2nd_IO* *pro_3rd_DO* lima belas.
+A8:	*pro_1st_S* Mintak *pro_2nd_S* kurang *pro_3rd_DO* sikit lagilah.
+B9:	*pro_3rd_S* Empat belaslah.
+A10:	*pro_1st_S* Mintak *pro_2nd_IO* kurang *pro_3rd_IO* satu ringgitlah, tadi kita fikir juga *pro_2nd_S* nak naik sikit tu.
+B11:	Biarlah.

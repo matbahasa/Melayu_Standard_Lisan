@@ -1,0 +1,34 @@
+A1:	Berapa ni kak?
+B2:	*pro_3rd_S* Sembilan.
+A3:	*pro_1st_S* Tak boleh tawar *pro_3rd_DO* lagi?
+B4:	*pro_2nd_S* Boleh, berapa adik nak?
+A5:	Kalau kak bagi *pro_1st_IO* *pro_3rd_DO* lima belas, *pro_1st_S* bolehlah ambik sepasang lagi.
+B6:	(Ketawa) ..., ginilah adik, kak bagi *pro_2nd_IO* *pro_3rd_DO* setakat lima belas, *pro_3rd_S* baru sampai semalam ni!
+B7:	Adik nak warna apa lagi.
+A8:	Tak boleh lagi ke kak?
+B9:	Biarlah, sebab adik nak ambik banyak pasang, kak bagi dua belas ringgitlah dik, ini akak cakap ni, modal *pro_3rd_P* berapa belas dah tu.
+10	(Beg)
+A11:	Beg sekolah ni berapa kak?
+B12:	Ginilah, kalau adik nak *pro_3rd_DO* akak bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh lima, ada sebutir ni saja lagi.
+A13:	Allah, mahalnya.
+B14:	Adik, saya jual barang supermarket ni, *pro_3rd_S* bukan barang Siam.
+B15:	Modal *pro_3rd_P* mari mahal dah sebab *pro_3rd_S* barang yang elok.
+B16:	*pro_1st_S* Kira ginilah, biarlah *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagilah.
+B17:	*pro_2nd_S* Bagi tiga ringgitlah kat saya, *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh tiga ringgit.
+A18:	Tiga puluh tiga?
+B19:	*pro_2nd_S* Boleh?
+A20:	Mahal lagi kak.
+B21:	Habis *pro_2nd_S* nak tawar *pro_3rd_DO* berapa?
+B22:	*pro_1st_S* Biarlah, saya dengar *pro_2nd_DO* dulu.
+B23:	Modal *pro_3rd_P* berapa puluh dah adik oi... kalau supermarket sepuluh sen pun *pro_2nd_S* tak boleh tawar ni.
+B24:	Kalau *pro_3rd_S* tiga puluh lapan sembilan puluh, *pro_3rd_S* tiga puluh lapan sembilan puluh, situlah.
+B25:	Ini kita boleh jugak tawar *pro_3rd_DO* beberapa ringgit.
+B26:	*pro_2nd_S* Cuba tengok kain dialah, bukannya saya nak kempen, barang *pro_3rd_P* elok sungguh, bukannya kain nipis... tak.
+B27:	Kita, kalau barang *pro_3rd_P* elok, modal *pro_3rd_P* berapa puluh, kita tak berani nak jual *pro_3rd_DO* sebab kita jual barang standard saja!
+A28:	*pro_3rd_S* Dua puluh sembilanlah.
+B29:	*pro_1st_S* Tak boleh pergi o.k., *pro_3rd_S* tiga puluh tigalah.
+A30:	*pro_3rd_S* Dua puluh sembilan *pro_2nd_S* boleh?
+B31:	*pro_2nd_S* Kesianlah pada kak, oleh sebab kak baru ambil *pro_3rd_DO* tadi saja, *pro_2nd_S* biarlah *pro_1st_S* buat upah tambang *pro_3rd_P* , *pro_3rd_S* tiga puluhlah.
+A32:	*pro_3rd_S* Dua puluh sembilan *pro_2nd_S* tidak boleh bagi *pro_1st_DO* ke?
+B33:	*pro_1st_S* Tidak boleh, *pro_2nd_S* kesianlah kita.
+A34:	Yalah.

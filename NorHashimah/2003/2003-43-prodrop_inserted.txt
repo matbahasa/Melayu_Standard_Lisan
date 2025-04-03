@@ -1,0 +1,7 @@
+A1:	Berapa kain tudung ni?
+B2:	*pro_3rd_S* Sebelas ringgit *pro_1st_S* bagi *pro_3rd_IO* sepuluh sebab tak ada orang dah ni.
+B3:	Mak cik nak *pro_3rd_DO* berapa?
+A4:	*pro_3rd_S* Enam ringgit.
+B5:	*pro_3rd_S* Sepuluh *pro_1st_S* bolehlah.
+A6:	Biarlah *pro_2nd_S* tak boleh bagi *pro_1st_DO* pun, kita cari tempat lain.
+B7:	*pro_1st_S* Tak boleh gi sungguh mak cik oi.

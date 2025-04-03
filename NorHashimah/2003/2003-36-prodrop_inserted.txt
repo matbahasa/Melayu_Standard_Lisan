@@ -1,0 +1,16 @@
+A1:	Berapa ni?
+B2:	*pro_3rd_S* Sembilan belas, *pro_1st_S* boleh kurang *pro_3rd_DO* sikitlah.
+A3:	Kain broked Siam ni berapa satu?
+B4:	*pro_3rd_S* Lima puluh lima, kain ni tiga puluh ringgit *pro_1st_S* bolehlah bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh lima ringgit.
+A5:	Kalau *pro_3rd_S* dua puluh ringgit?
+B6:	*pro_1st_S* Jual selalunya harga dia tu.
+A7:	Kain ni lembik.
+B8:	Selalunya akak jual *pro_3rd_DO* dua puluh lima atau dua puluh lapan.
+A9:	Dua puluh *pro_2nd_S* tak boleh?
+B10:	Dia ada harga *pro_3rd_P* , selalunya *pro_3rd_S* dua puluh lima.
+A11:	Saya dulu dah beli kain macam ni... banyak.
+B12:	Dulu *pro_1st_S* boleh... sekarang *pro_1st_S* tidak boleh lagi.
+A13:	Jadi *pro_3rd_S* berapa?
+B14:	*pro_3rd_S* Dua puluh limalah.
+A15:	Kalau dua... empat puluh *pro_2nd_S* boleh.
+B16:	*pro_1st_S* Tak dapatlah dik, kak bagi *pro_2nd_IO* *pro_3rd_DO* empat puluh limalah.
