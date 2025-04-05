@@ -28,7 +28,7 @@
 {"id": 27, "text": "A28:\tTak boleh kurang lagi ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
 {"id": 28, "text": "B29:\tTak boleh dah kak---harga paling murah saya bagi.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
 {"id": 29, "text": "A30:\tBolehlah sikit lagi.", "label": [[5, 13, "2nd"], [5, 13, "S"]]}
-{"id": 30, "text": "B31:\tGinilah kira enam setengah, minta lima puluh sen yah.", "label": [[13, 17, "1st"], [13, 17, "S"], [33, 38, "1st"], [33, 38, "S"], [18, 22, "3rd"], [18, 22, "DO"], [39, 43, "2nd"], [39, 43, "IO"], [39, 43, "3rd2"], [39, 43, "DO2"]]}
+{"id": 30, "text": "B31:\tGinilah kira enam setengah, minta lima puluh sen yah.", "label": [[13, 17, "1st"], [13, 17, "S"], [33, 38, "1st"], [33, 38, "S"], [18, 22, "3rd"], [18, 22, "S"], [39, 43, "2nd"], [39, 43, "IO"]]}
 {"id": 31, "text": "B32:\tNak yang mana... yang ada kolar yang ni tak berkenan?", "label": [[5, 8, "2nd"], [5, 8, "S"], [45, 48, "2nd"], [45, 48, "S"]]}
 {"id": 32, "text": "B33:\tPUMA, ramai orang pakai, orang tua, budak pakai belaka, warna biru tu comel.", "label": [[28, 29, "3rd"], [28, 29, "DO"], [53, 59, "3rd"], [53, 59, "DO"]]}
 {"id": 33, "text": "A34:\tBerapa tu?", "label": []}
@@ -38,4 +38,4 @@
 {"id": 37, "text": "A38:\tAmbik yang kuninglah.", "label": [[5, 10, "1st"], [5, 10, "S"]]}
 {"id": 38, "text": "B39:\tSemuanya tiga puluh empat ringgit setengah.", "label": []}
 {"id": 39, "text": "A40:\tTak boleh kurang dah ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [22, 25, "3rd"], [22, 25, "DO"]]}
-{"id": 40, "text": "B41:\tNak kurang apa lagi---tak leh dah tu, sebab bagi kurang banyak dah---kurang lagi teruk pihak kita pulak.", "label": [[5, 8, "2nd"], [5, 8, "S"], [27, 30, "1st"], [27, 30, "S"], [49, 53, "1st"], [49, 53, "S"], [54, 60, "2nd"], [54, 60, "IO"], [74, 80, "1st"], [74, 80, "S"], [9, 15, "1st"], [9, 15, "IO"], [81, 85, "3rd"], [81, 85, "DO"], [54, 60, "3rd2"], [54, 60, "DO2"]]}
+{"id": 40, "text": "B41:\tNak kurang apa lagi---tak leh dah tu, sebab bagi kurang banyak dah---kurang lagi teruk pihak kita pulak.", "label": [[5, 8, "2nd"], [5, 8, "S"], [27, 30, "1st"], [27, 30, "S"], [49, 53, "1st"], [49, 53, "S"], [54, 60, "2nd"], [54, 60, "IO"], [74, 80, "1st"], [74, 80, "S"], [9, 15, "1st"], [9, 15, "DO"], [81, 85, "3rd"], [81, 85, "DO"], [54, 60, "3rd2"], [54, 60, "DO2"]]}

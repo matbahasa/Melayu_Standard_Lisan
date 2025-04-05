@@ -4,7 +4,7 @@
 {"id": 3, "text": "A4:\tLima belaslah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
 {"id": 4, "text": "B5:\tBeli tak boleh, mari pun tak boleh, cakap yang sungguh, mari pun tidak boleh.", "label": [[4, 8, "2nd"], [4, 8, "S"], [20, 24, "3rd"], [20, 24, "S"], [40, 45, "1st"], [40, 45, "S"], [60, 64, "3rd"], [60, 64, "S"], [9, 12, "3rd"], [9, 12, "DO"], [9, 12, "1st2"], [9, 12, "S2"], [29, 32, "1st"], [29, 32, "S"], [69, 74, "1st"], [69, 74, "S"]]}
 {"id": 5, "text": "A6:\tLima belaslah.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
-{"id": 6, "text": "B7:\tTidak boleh, bagi tujuh belaslah, boleh lima puluh sen yah.", "label": [[4, 9, "1st"], [4, 9, "S"], [17, 21, "1st"], [17, 21, "S"], [22, 27, "3rd"], [22, 27, "IO"], [38, 43, "1st"], [38, 43, "S"]]}
+{"id": 6, "text": "B7:\tTidak boleh, bagi tujuh belaslah, boleh lima puluh sen yah.", "label": [[4, 9, "1st"], [4, 9, "S"], [17, 21, "1st"], [17, 21, "S"], [22, 27, "2nd"], [22, 27, "IO"], [22, 27, "3rd2"], [22, 27, "DO2"], [38, 43, "1st"], [38, 43, "S"]]}
 {"id": 7, "text": "B8:\tCakap yang sungguh.", "label": [[4, 9, "1st"], [4, 9, "S"]]}
 {"id": 8, "text": "B9:\tSelalunya jual dua puluh atau sembilan belas.", "label": [[14, 18, "1st"], [14, 18, "S"], [19, 22, "3rd"], [19, 22, "DO"]]}
 {"id": 9, "text": "A10:\tBiarlah...", "label": []}

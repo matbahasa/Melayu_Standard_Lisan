@@ -9,13 +9,14 @@ Texts	2003-57.txt	3	105	108	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-57.txt	4	140	143	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2003-57.txt	4	130	133	Dua					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-57.txt	6	188	192	Kira					1	1	0	0	0	0	0	0	0	0	0	0	0
-Texts	2003-57.txt	6	193	200	ginilah					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-57.txt	6	193	200	ginilah					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-57.txt	6	212	216	lima					1	0	0	0	0	0	0	1	0	0	0	0	0
 Texts	2003-57.txt	7	228	234	Mintak					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2003-57.txt	7	235	241	kurang					1	0	0	0	0	1	0	0	0	0	0	0	0
 Texts	2003-57.txt	7	242	247	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0
 Texts	2003-57.txt	8	261	266	Empat					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-57.txt	9	282	288	Mintak					1	1	0	0	0	0	0	0	0	0	0	0	0
-Texts	2003-57.txt	9	289	295	kurang					1	0	0	0	0	0	0	1	0	0	0	0	0
-Texts	2003-57.txt	9	296	300	satu					1	0	0	0	0	0	0	0	0	0	0	1	0
+Texts	2003-57.txt	9	289	295	kurang					1	0	0	0	0	0	1	0	0	0	0	0	0
+Texts	2003-57.txt	9	296	300	satu					1	0	0	0	0	0	0	0	0	0	1	0	0
 Texts	2003-57.txt	9	334	337	nak					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-57.txt	9	343	348	sikit					1	0	0	0	0	0	0	0	0	0	1	0	0

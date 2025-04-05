@@ -9,7 +9,7 @@
 {"id": 8, "text": "B9:\tYang ni padan?", "label": [[12, 17, "3rd"], [12, 17, "S"]]}
 {"id": 9, "text": "A10:\tBerapa ni?", "label": []}
 {"id": 10, "text": "B11:\tSeluar ni lima belas ringgit---boleh kurang lagi.", "label": [[36, 41, "1st"], [36, 41, "S"]]}
-{"id": 11, "text": "B12:\tGinilah bagi tiga belas ringgit setengah.", "label": [[13, 17, "1st"], [13, 17, "S"], [18, 22, "2nd"], [18, 22, "IO"], [18, 22, "3rd2"], [18, 22, "DO2"]]}
+{"id": 11, "text": "B12:\tGinilah bagi tiga belas ringgit setengah.", "label": [[13, 17, "1st"], [13, 17, "S"], [18, 22, "2nd"], [18, 22, "IO"]]}
 {"id": 12, "text": "A13:\tTak naklah mahal-mahal ni.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
 {"id": 13, "text": "B14:\tTak mahal dah mak cik.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 14, "text": "B15:\tYang ni ambo bagi lapan ringgit, yang ni tiga belas setengah---semuanya dua puluh satu ringgit setengah.", "label": []}

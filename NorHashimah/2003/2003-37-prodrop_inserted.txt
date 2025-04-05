@@ -1,6 +1,6 @@
 A1:	Toto ni berapa?
 B2:	*pro_3rd_S* Dua belas ringgit *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
-A3:	*pro_1st_S* Nak tawar *pro_2nd_DO* *pro_1st_S* takut.
+A3:	*pro_1st_S* Nak tawar *pro_3rd_DO* *pro_1st_S* takut.
 B4:	Kita letak yah harga tu, sepuluh ringgitlah *pro_1st_S* bagi kat kak.
 A5:	*pro_3rd_S* Tak sampai sepuluhlah, kalau *pro_3rd_S* sepuluh *pro_1st_S* tak payah mari sini.
 B6:	Berapa butir *pro_2nd_S* nak?

@@ -4,7 +4,7 @@
 {"id": 3, "text": "A4:\tLebih kurang dah.", "label": []}
 {"id": 4, "text": "B5:\tSedang molek dah, baju pakai labuh sikit.", "label": [[27, 32, "2nd2"], [27, 32, "S2"], [4, 10, "3rd"], [4, 10, "S"], [27, 32, "3rd"], [27, 32, "P"]]}
 {"id": 5, "text": "A6:\tLepas tu berapa ni.", "label": []}
-{"id": 6, "text": "B7:\tMari nak kira, saya bagi hanya yang paling murah, harga paling istimewa ni.", "label": [[9, 12, "1st"], [9, 12, "S"], [29, 34, "2nd"], [29, 34, "IO"], [17, 18, "3rd"], [17, 18, "DO"]]}
+{"id": 6, "text": "B7:\tMari nak kira, saya bagi hanya yang paling murah, harga paling istimewa ni.", "label": [[9, 12, "1st"], [9, 12, "S"], [29, 34, "2nd"], [29, 34, "IO"]]}
 {"id": 7, "text": "A8:\tBagi murah-murah dahlah.", "label": [[4, 8, "2nd"], [4, 8, "S"], [9, 14, "1st"], [9, 14, "IO"]]}
 {"id": 8, "text": "A9:\tTak nak mahal-mahal ni.", "label": [[4, 7, "1st"], [4, 7, "S"]]}
 {"id": 9, "text": "B10:\tSemuanya enam belas ringgit setengah.", "label": []}

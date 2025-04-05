@@ -11,11 +11,11 @@
 {"id": 10, "text": "A11:\tLapan ringgit tidak boleh ke?", "label": [[19, 24, "2nd"], [19, 24, "S"], [5, 10, "3rd"], [5, 10, "S"]]}
 {"id": 11, "text": "B12:\tLapan tidak boleh... bagi sembilan ringgitlah.", "label": [[11, 16, "1st"], [11, 16, "S"], [26, 30, "1st"], [26, 30, "S"], [31, 39, "2nd"], [31, 39, "IO"], [5, 10, "3rd"], [5, 10, "S"], [31, 39, "3rd2"], [31, 39, "DO2"]]}
 {"id": 12, "text": "A13:\tOh... mahalnya.", "label": []}
-{"id": 13, "text": "B14:\tBagi lima puluh sen lagilah.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 14, "1st"], [10, 14, "DO"]]}
+{"id": 13, "text": "B14:\tBagi lima puluh sen lagilah.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 14, "1st"], [10, 14, "IO"]]}
 {"id": 14, "text": "A15:\tOh... susah nak lima puluh sen---lima puluh sen kalau niaga ni.", "label": [[11, 16, "1st"], [11, 16, "S"]]}
-{"id": 15, "text": "B16:\tBagi lima puluh sen lagilah, buat minum air.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 14, "1st"], [10, 14, "DO"], [34, 38, "1st"], [34, 38, "S"]]}
-{"id": 16, "text": "A17:\tMahal lagi tu.", "label": []}
-{"id": 17, "text": "B18:\tTidak mahal dah ni.", "label": []}
+{"id": 15, "text": "B16:\tBagi lima puluh sen lagilah, buat minum air.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 14, "1st"], [10, 14, "IO"], [34, 38, "1st"], [34, 38, "S"]]}
+{"id": 16, "text": "A17:\tMahal lagi tu.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
+{"id": 17, "text": "B18:\tTidak mahal dah ni.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
 {"id": 18, "text": "A19:\tSepasang berapa kain ni?", "label": []}
 {"id": 19, "text": "B20:\tDua puluh lima, boleh kurang sikit lagi.", "label": [[21, 26, "1st"], [21, 26, "S"], [34, 39, "3rd"], [34, 39, "DO"], [5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 20, "text": "A21:\tLapan belaslah.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}

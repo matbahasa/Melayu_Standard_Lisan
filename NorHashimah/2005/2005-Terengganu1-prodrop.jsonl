@@ -34,7 +34,7 @@
 {"id": 33, "text": "A34:\tIkutlah.", "label": []}
 {"id": 34, "text": "A35:\tTak ada hal.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
 {"id": 35, "text": "A36:\tPasal cucu dok demam tuh.", "label": [[16, 19, "1st"], [16, 19, "P"]]}
-{"id": 36, "text": "B37:\tMasak yang ni, kira jadilah.", "label": [[20, 24, "1st"], [20, 24, "S"], [5, 10, "2nd"], [5, 10, "S"], [25, 32, "3rd"], [25, 32, "DO"]]}
+{"id": 36, "text": "B37:\tMasak yang ni, kira jadilah.", "label": [[20, 24, "1st"], [20, 24, "S"], [5, 10, "2nd"], [5, 10, "S"], [25, 32, "3rd"], [25, 32, "S"]]}
 {"id": 37, "text": "B38:\tBoleh makan panas-panas.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
 {"id": 38, "text": "B39:\tMakan mee dululah.", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
 {"id": 39, "text": "A40:\tTak payahlah Nab eh.", "label": []}
@@ -143,8 +143,8 @@
 {"id": 142, "text": "B143:\tSambal tu bubuhlah.", "label": [[16, 24, "2nd"], [16, 24, "S"]]}
 {"id": 143, "text": "C144:\tKak Ani, lalu kat belakang sikit ni Kak Ani ye.", "label": [[15, 19, "1st"], [15, 19, "S"]]}
 {"id": 144, "text": "B145:\tZah eh, tudung ni kat mana ni?", "label": []}
-{"id": 145, "text": "C146:\tBelakang sink tu.", "label": []}
-{"id": 146, "text": "C147:\tTak boleh ambil lagi tu Mak Nah tu.", "label": [[6, 9, "2nd2"], [6, 9, "S2"]]}
+{"id": 145, "text": "C146:\tBelakang sink tu.", "label": [[6, 14, "3rd"], [6, 14, "S"]]}
+{"id": 146, "text": "C147:\tTak boleh ambil lagi tu Mak Nah tu.", "label": [[6, 9, "2nd"], [6, 9, "S"], [22, 26, "3rd"], [22, 26, "DO"]]}
 {"id": 147, "text": "C148:\tBiarlah dulu.", "label": [[6, 13, "2nd"], [6, 13, "S"], [14, 18, "3rd"], [14, 18, "DO"]]}
 {"id": 148, "text": "D149:\tMa!", "label": []}
 {"id": 149, "text": "B150:\tYa!", "label": []}
@@ -154,7 +154,6 @@
 {"id": 153, "text": "D154:\tApa, Sarah nak apa?", "label": []}
 {"id": 154, "text": "D155:\tKita ikut-ikut mana pun tak apa, senang!", "label": [[39, 45, "1st"], [39, 45, "S"]]}
 {"id": 155, "text": "D156:\tKalau dah buat kerja tu, tak apalah.", "label": [[12, 15, "2nd"], [12, 15, "S"]]}
-{"id": 155.5, "text": "", "label": []}
 {"id": 156, "text": "B157:\tBoleh ke buat kerja demo tu?", "label": [[15, 19, "1st"], [15, 19, "S"]]}
 {"id": 157, "text": "A158:\tBiarlah!", "label": [[6, 13, "1st"], [6, 13, "S"]]}
 {"id": 158, "text": "B159:\tEh, nak naik sebentar, nak tengok katil pengantin.", "label": [[10, 13, "1st"], [10, 13, "S"], [29, 32, "1st"], [29, 32, "S"]]}
@@ -174,7 +173,6 @@
 {"id": 172, "text": "B173:\tPergilah berjalan.", "label": [[6, 14, "2nd"], [6, 14, "S"]]}
 {"id": 173, "text": "E174:\tMak!", "label": []}
 {"id": 174, "text": "E175:\tBalik karanglah mak.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
-{"id": 174.5, "text": "", "label": []}
 {"id": 175, "text": "B176:\tMakan dah?", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
 {"id": 176, "text": "C177:\tMakan dengan pengantin ni.", "label": [[6, 11, "1st"], [6, 11, "S"]]}
 {"id": 177, "text": "D178:\tBiarlah.", "label": []}
@@ -188,7 +186,6 @@
 {"id": 185, "text": "A186:\tMakan kenyang-kenyang.", "label": [[6, 11, "2nd"], [6, 11, "S"]]}
 {"id": 186, "text": "A187:\tInilah masakan Kelantan, Terengganu.", "label": []}
 {"id": 187, "text": "A188:\tTukang masaknya sedap lagi best.", "label": []}
-{"id": 187.5, "text": "", "label": []}
 {"id": 188, "text": "A189:\tMat eh, nasi putih ada ni.", "label": []}
 {"id": 189, "text": "A190:\tNak nasi putih?", "label": [[6, 9, "2nd"], [6, 9, "S"]]}
 {"id": 190, "text": "B191:\tEh, tak payahlah.", "label": [[10, 13, "2nd"], [10, 13, "S"]]}

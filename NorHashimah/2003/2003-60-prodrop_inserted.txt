@@ -6,8 +6,8 @@ B5:	Kita boleh bagi *pro_2nd_IO* *pro_3rd_DO* setakat lapan belas saja.
 B6:	Habis *pro_2nd_S* nak tawar *pro_3rd_DO* berapa?
 A7:	Tak reti kita nak tawar.
 A8:	Tak boleh pergi ke sepuluh ni?
-A9:	*pro_3rd_S* Sebelas pun *pro_2nd_S* tak bagi?
-A10:	Kalau *pro_3rd_S* sebelas, saya ambik.
-A11:	*pro_2nd_S* Tak bagi *pro_1st_DO* ke?
+A9:	*pro_3rd_S* Sebelas pun *pro_2nd_S* tak bagi*pro_1st_IO* *pro_3rd_DO* ?
+A10:	Kalau *pro_3rd_S* sebelas, saya ambik *pro_3rd_DO* .
+A11:	*pro_2nd_S* Tak bagi *pro_1st_DO* *pro_3rd_IO* ke?
 B12:	*pro_3rd_S* Tak sampai modallah.
 B13:	Kalau *pro_3rd_S* setakat dua belas *pro_1st_S* boleh lagi.

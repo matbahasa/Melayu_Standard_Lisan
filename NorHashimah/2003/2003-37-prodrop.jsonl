@@ -1,6 +1,6 @@
 {"id": 0, "text": "A1:\tToto ni berapa?", "label": []}
 {"id": 1, "text": "B2:\tDua belas ringgit boleh kurang lagi.", "label": [[22, 27, "1st"], [22, 27, "S"], [4, 7, "3rd"], [4, 7, "S"], [35, 39, "3rd"], [35, 39, "DO"]]}
-{"id": 2, "text": "A3:\tNak tawar takut.", "label": [[4, 7, "1st"], [4, 7, "S"], [14, 19, "2nd"], [14, 19, "DO"], [14, 19, "1st2"], [14, 19, "S2"]]}
+{"id": 2, "text": "A3:\tNak tawar takut.", "label": [[4, 7, "1st"], [4, 7, "S"], [14, 19, "3rd"], [14, 19, "DO"], [14, 19, "1st2"], [14, 19, "S2"]]}
 {"id": 3, "text": "B4:\tKita letak yah harga tu, sepuluh ringgitlah bagi kat kak.", "label": [[48, 52, "1st"], [48, 52, "S"]]}
 {"id": 4, "text": "A5:\tTak sampai sepuluhlah, kalau sepuluh tak payah mari sini.", "label": [[4, 7, "3rd"], [4, 7, "S"], [33, 40, "3rd"], [33, 40, "S"], [41, 44, "1st"], [41, 44, "S"]]}
 {"id": 5, "text": "B6:\tBerapa butir nak?", "label": [[17, 20, "2nd"], [17, 20, "S"]]}

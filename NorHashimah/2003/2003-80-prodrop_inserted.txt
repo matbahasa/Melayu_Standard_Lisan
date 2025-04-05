@@ -42,7 +42,7 @@ B41:	*pro_1st_S* Tak boleh kak, itu pun harga *pro_3rd_P* *pro_1st_S* bagi *pro_
 A42:	Batik flower ni berapa?
 B43:	Batik flower dua belas, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagi.
 A44:	*pro_3rd_S* Serupa juga dengan Terengganu, kat Terengganu sepuluh ringgit saja.
-B45:	*pro_1st_S* Boleh kurang *pro_3rd_DO* lagi kalau kak nak *pro_3rd_DO* *pro_1st_S* bagi *pro_3rd_IO* sembilan ringgit setengah.
+B45:	*pro_1st_S* Boleh kurang *pro_3rd_DO* lagi kalau kak nak *pro_3rd_DO* *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* sembilan ringgit setengah.
 A46:	*pro_1st_S* Minta *pro_2nd_DO* murahlah sikit.
 B47:	*pro_3rd_S* Serupalah kak, dia besar sikit saja, *pro_3rd_S* beza lima puluh sen yah tu dengan Terengganu.
 A48:	*pro_3rd_S* Lapan ringgitlah sebab dia kain sama saja.
@@ -56,6 +56,6 @@ A55:	*pro_3rd_S* Sembilan ringgit.
 B56:	*pro_1st_S* Tak boleh.
 A57:	*pro_2nd_S* Tak boleh, saya nak balik dahlah.
 B58:	Kak nak berapa helai?
-B59:	*pro_2nd_S* Ambik *pro_3rd_IO* dua helai ya!
-B60:	*pro_2nd_S* Ambik *pro_3rd_IO* dua helailah, saya bagi *pro_2nd_IO* *pro_3rd_DO* harga sembilan ringgit jadi dua---*pro_3rd_S* lapan belas.
-B61:	*pro_1st_S* Jual kak ya!
+B59:	*pro_2nd_S* Ambik dua helai ya!
+B60:	*pro_2nd_S* Ambik dua helailah, saya bagi *pro_2nd_IO* *pro_3rd_DO* harga sembilan ringgit jadi dua---*pro_3rd_S* lapan belas.
+B61:	*pro_1st_S* Jual *pro_3rd_DO* kak ya!

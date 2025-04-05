@@ -10,13 +10,11 @@ C9:	Awang!
 C10:	*pro_2nd_S* Tolong *pro_1st_DO* angkat bekas bawang tu *pro_2nd_S* letak *pro_3rd_DO* kat bawah.
 C11:	Dia orang nak tengok bawang tu banyak mana.
 C12:	Aku tak larat nak angkat sendiri.
-
 A13:	Ni hak besan *pro_1st_P* bawa, orang Johar bawa.
 B14:	Yalah, malam diorang nak nikah tu, ada budak Amir tu pergi ke rumah.
 B15:	*pro_3rd_S* Dok memanggil-manggil Kak Long!
 B16:	Kak Long!
 B17:	*pro_2nd_S* Marilah turun sebentar.
-
 B18:	*pro_1st_S* Ada kerja apa ni?
 B19:	Ma suruh *pro_2nd_S* pergi beli timun empat sumpit, kacang 600, lepas tu lada besar, lada burung *pro_3rd_S* nak tambah jugak.
 B20:	Abo senyap je, sebab *pro_3rd_S* tahu dah sah *pro_2nd_S* akan beli.
@@ -25,7 +23,6 @@ C22:	Lepas tu gak, barulah *pro_3rd_S* kelam-kabut nak semuanya.
 B23:	Yalah, dinihari pukul 5.30 lagi *pro_3rd_S* dok tunggu atas bukit dah.
 C24:	*pro_2nd_S* Nak gi mana?
 B25:	Pasar Sabtu nilah, Pasar Tani.
-
 A26:	Aloh.... Slimnya dia.
 A27:	*pro_2nd_S* Diet ke?
 B28:	Yalah!
@@ -54,7 +51,6 @@ D50:	*pro_2nd_S* Habis licin dah?
 A51:	Hah, habis licin diorang siang bawang ni semalam.
 D52:	Ramai ke orang semalam?
 A53:	Ramai....
-
 A54:	Ni air tuak ke ni?
 B55:	Eh, ni air yang diorang buat perangkap lalat tu.
 A56:	*pro_2nd_S* Pasang lilinlah.
@@ -94,7 +90,6 @@ A89:	Ada dia sedap sikit.
 D90:	Kalau ada dia pun, *pro_3rd_S* senyak jugak.
 A91:	Dia tu sedap tu, *pro_3rd_S* banyak modal.
 D92:	Pak Aji tu, bila *pro_3rd_S* nak ada modal?
-
 A93:	Harun nama sebenar Wahabnya.
 B94:	Oh, Harun.
 B95:	Habis tu kenapa *pro_1st_S* panggil Wahab?
@@ -175,7 +170,6 @@ B169:	Aloh... *pro_3rd_S* lembu ke kuda ni, *pro_3rd_S* keras betul.
 C170:	Yang ni asyik dok mengilai aje dari tadi, *pro_3rd_S* buat kerjanya tidak
 A171:	Ya Rabbi, tercabut pulak kapak ni.
 B172:	*pro_2nd_S* Baji dululah, *pro_2nd_S* tak baji kan tercabut balik.
-
 A173:	Kelmarin, Yah dengan Nah ada datang.
 B174:	Oh!
 B175:	Sekarang ni diorang pergi mana?
@@ -201,7 +195,6 @@ B194:	Bunyi katanya kat Kata Bharu mahal.
 A195:	*pro_1st_S* Tak tahulah berapa, ni *pro_1st_S* beli kat Bachok ni.
 A196:	Rasanya *pro_3rd_S* hak dari kampung, *pro_3rd_S* tak ada biji.
 B197:	Kata Bharu baru ni, sebelum *pro_1st_S* cuti tu, 3 - 4 gitu aje, *pro_3rd_S* yang dah dibuang tangkainya.
-
 A198:	Kertas ada dah 2.
 B199:	*pro_3rd_S* Cukup dah ni.
 A200:	*pro_3rd_S* Cukup dengan Kak Mah seorang ajelah menggulai.
@@ -229,7 +222,6 @@ B221:	Pak Su!
 B222:	*pro_2nd_S* Panggillah Pak Saudara tu makan nasi.
 G223:	*pro_3rd_S* Makan dah.
 G224:	Diorang tu pergi betahlil tadi.
-
 A225:	Mah!
 A226:	Lada merah ni *pro_2nd_S* nak *pro_1st_IO* relaikan *pro_3rd_DO* jugak ke?
 B227:	*pro_1st_P* Boleh jugak, tapi *pro_2nd_S* jangan campurlah.

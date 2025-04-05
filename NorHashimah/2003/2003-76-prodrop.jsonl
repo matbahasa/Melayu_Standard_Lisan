@@ -17,7 +17,7 @@
 {"id": 16, "text": "B17:\tYang merah ke yang mana?", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
 {"id": 17, "text": "B18:\tDua ke satu?", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 18, "text": "A19:\tDua puluh enamlah.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
-{"id": 19, "text": "B20:\tTak dapat betul, dua puluh lapan tu kira harga berniagalah tu.", "label": [[5, 8, "1st"], [5, 8, "S"], [41, 45, "1st"], [41, 45, "S"], [46, 51, "3rd"], [46, 51, "DO"]]}
+{"id": 19, "text": "B20:\tTak dapat betul, dua puluh lapan tu kira harga berniagalah tu.", "label": [[5, 8, "1st"], [5, 8, "S"], [41, 45, "1st"], [41, 45, "S"], [46, 51, "3rd"], [46, 51, "S"]]}
 {"id": 20, "text": "B21:\tSepuluh biji orang ambil pun harga tu jugak.", "label": [[30, 33, "3rd"], [30, 33, "DO"]]}
 {"id": 21, "text": "A22:\tBolehlah ya?", "label": [[5, 13, "2nd"], [5, 13, "S"]]}
 {"id": 22, "text": "B23:\tBagi dua puluh lapanlah, pagi-pagi ni.", "label": [[5, 9, "1st"], [5, 9, "S"], [10, 13, "2nd"], [10, 13, "IO"], [10, 13, "3rd2"], [10, 13, "DO2"]]}

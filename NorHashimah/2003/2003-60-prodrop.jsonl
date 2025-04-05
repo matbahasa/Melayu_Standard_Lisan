@@ -6,8 +6,8 @@
 {"id": 5, "text": "B6:\tHabis nak tawar berapa?", "label": [[10, 13, "2nd"], [10, 13, "S"], [20, 26, "3rd"], [20, 26, "DO"]]}
 {"id": 6, "text": "A7:\tTak reti kita nak tawar.", "label": []}
 {"id": 7, "text": "A8:\tTak boleh pergi ke sepuluh ni?", "label": []}
-{"id": 8, "text": "A9:\tSebelas pun tak bagi?", "label": [[16, 19, "2nd"], [16, 19, "S"], [4, 11, "3rd"], [4, 11, "S"]]}
-{"id": 9, "text": "A10:\tKalau sebelas, saya ambik.", "label": [[11, 18, "3rd"], [11, 18, "S"]]}
-{"id": 10, "text": "A11:\tTak bagi ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [14, 16, "1st"], [14, 16, "DO"]]}
+{"id": 8, "text": "A9:\tSebelas pun tak bagi?", "label": [[16, 19, "2nd"], [16, 19, "S"], [4, 11, "3rd"], [4, 11, "S"], [24, 25, "1st"], [24, 25, "IO"], [24, 25, "3rd2"], [24, 25, "DO2"]]}
+{"id": 9, "text": "A10:\tKalau sebelas, saya ambik.", "label": [[11, 18, "3rd"], [11, 18, "S"], [30, 31, "3rd"], [30, 31, "DO"]]}
+{"id": 10, "text": "A11:\tTak bagi ke?", "label": [[5, 8, "2nd"], [5, 8, "S"], [14, 16, "1st"], [14, 16, "IO2"], [14, 16, "3rd2"], [14, 16, "DO"]]}
 {"id": 11, "text": "B12:\tTak sampai modallah.", "label": [[5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 12, "text": "B13:\tKalau setakat dua belas boleh lagi.", "label": [[29, 34, "1st"], [29, 34, "S"], [11, 18, "3rd"], [11, 18, "S"]]}

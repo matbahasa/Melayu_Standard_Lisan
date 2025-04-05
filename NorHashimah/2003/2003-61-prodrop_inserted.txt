@@ -9,23 +9,23 @@ B8:	Yang ni, saya bagi tahu *pro_2nd_DO* harga betullah... *pro_3rd_S* empat pul
 A9:	Allah... empat puluh *pro_2nd_S* tak boleh.
 B10:	Saya ambik *pro_3rd_DO* pun harga *pro_3rd_P* dah empat puluh lebih dah.
 A11:	*pro_2nd_S* Bagi *pro_1st_IO* empat puluhlah, yang ni lima puluh... kita ambik *pro_3rd_DO* dua pasang.
-B12:	Tak sampai modal *pro_1st_P* , *pro_1st_S* tak boleh bagilah.
+B12:	Tak sampai modal *pro_1st_P* , *pro_1st_S* tak boleh bagilah *pro_3rd_DO* .
 A13:	*pro_2nd_S* Bolehlah...
 B14:	*pro_3rd_S* Tak sampai modal *pro_1st_P* , kita nak jual *pro_3rd_DO* macam mana.
 A15:	*pro_2nd_S* Bagi *pro_1st_DO* ya empat puluh...
 B16:	*pro_3rd_S* Tak sampai modal *pro_1st_P* lagi.
-A17:	*pro_2nd_S* Bagilah *pro_1st_DO* , orang nak gori ni, hari dah gelap dah, orang pun dah nak balik.
+A17:	*pro_2nd_S* Bagilah*pro_1st_IO* *pro_3rd_DO* , orang nak gori ni, hari dah gelap dah, orang pun dah nak balik.
 B18:	*pro_3rd_S* Tak sampai modal *pro_1st_P* lagi.
 B19:	macam mana saya nak jual *pro_3rd_DO* , *pro_1st_S* rugi pulak.
-A20:	*pro_2nd_S* Bagi-bagilah *pro_1st_DO* , orang nak balik dah.
-A21:	*pro_2nd_S* Tak boleh bagi *pro_1st_IO* empat puluh ni?
+A20:	*pro_2nd_S* Bagi-bagilah*pro_1st_IO* *pro_3rd_DO* , orang nak balik dah.
+A21:	*pro_2nd_S* Tak boleh bagi *pro_1st_IO* *pro_3rd_DO* empat puluh ni?
 B22:	*pro_1st_S* Tak boleh, *pro_3rd_S* tak sampai modal.
-A23:	*pro_2nd_S* Bagilah *pro_1st_DO* , *pro_1st_S* minta *pro_2nd_DO* jugak tu.
+A23:	*pro_2nd_S* Bagilah*pro_1st_IO* *pro_3rd_DO* , *pro_1st_S* minta *pro_2nd_DO* jugak tu.
 B24:	Modal *pro_3rd_P* dah empat puluh dah ni, ini mahal.
 A25:	*pro_2nd_S* Kurang *pro_3rd_DO* sikit lagi empat puluh dua dah.
 B26:	Empat puluh dua pun *pro_1st_S* tak boleh pergi lagi.
 B27:	Saya letak *pro_3rd_DO* enam puluh lima tapi kak selalu beli sini, tiap-tiap bulan saya bagi *pro_2nd_IO* *pro_3rd_DO* empat puluh lima.
-A28:	*pro_2nd_S* Bagi-bagilah *pro_1st_DO* , empat puluh dualah... kita bagi *pro_2nd_IO* *pro_3rd_DO* satu ringgit lagilah... jadi *pro_3rd_S* empat puluh tiga, orang kira *pro_2nd_S* nak gorilah tu.
+A28:	*pro_2nd_S* Bagi-bagilah *pro_1st_3rd_DO_IO* , empat puluh dualah... kita bagi *pro_2nd_IO* *pro_3rd_DO* satu ringgit lagilah... jadi *pro_3rd_S* empat puluh tiga, orang kira *pro_2nd_S* nak gorilah tu.
 B29:	'Jarum emas' tu mahal.
 A30:	Alah, *pro_3rd_S* empat puluh tiga... empat ringgit pun *pro_2nd_S* nak ambik *pro_3rd_DO* jugak *pro_1st_S* minta *pro_2nd_DO* dah tu.
 B31:	Ginilah yang tu empat puluh lima, yang lagi satu tu lima puluh.
@@ -41,5 +41,5 @@ A40:	*pro_2nd_S* Kira dua pasang tu tujuh puluh lima, *pro_1st_S* minta *pro_2nd
 A41:	*pro_3rd_S* Tujuh puluh lima saya ambil dua ni.
 B42:	*pro_1st_S* Tak boleh kak, yang ni mahal dah ni.
 A43:	Ginilah, empat puluh lima dengan tiga puluh dua, *pro_2nd_S* pergi bungkus-bungkus.
-A44:	Oh... tiga ringgit pun *pro_2nd_S* nak kira, beratlah gini... semua sekali *pro_2nd_S* kira *pro_3rd_DO* tujuh puluh tujuh ringgit.
+A44:	Oh... tiga ringgit pun *pro_2nd_S* nak kira, beratlah gini... semua sekali *pro_2nd_S* kira *pro_3rd_S* tujuh puluh tujuh ringgit.
 B45:	Lain kali, saya tak nak jugak dengan harga gini.

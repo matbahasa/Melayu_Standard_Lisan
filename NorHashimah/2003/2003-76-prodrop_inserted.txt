@@ -17,7 +17,7 @@ B16:	Mak cik nak yang mana?
 B17:	*pro_3rd_S* Yang merah ke yang mana?
 B18:	*pro_3rd_S* Dua ke satu?
 A19:	*pro_3rd_S* Dua puluh enamlah.
-B20:	*pro_1st_S* Tak dapat betul, dua puluh lapan tu *pro_1st_S* kira *pro_3rd_DO* harga berniagalah tu.
+B20:	*pro_1st_S* Tak dapat betul, dua puluh lapan tu *pro_1st_S* kira *pro_3rd_S* harga berniagalah tu.
 B21:	Sepuluh biji orang ambil *pro_3rd_DO* pun harga tu jugak.
 A22:	*pro_2nd_S* Bolehlah ya?
 B23:	*pro_1st_S* Bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh lapanlah, pagi-pagi ni.

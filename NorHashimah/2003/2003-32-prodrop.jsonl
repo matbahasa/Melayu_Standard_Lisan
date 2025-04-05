@@ -55,7 +55,7 @@
 {"id": 54, "text": "A55:\tKurang empat ringgit setengah dah.", "label": [[5, 11, "2nd"], [5, 11, "S"], [12, 17, "3rd"], [12, 17, "DO"]]}
 {"id": 55, "text": "A56:\tTakkan tak boleh kurang sesen pun.", "label": [[29, 34, "3rd"], [29, 34, "DO"], [5, 11, "2nd"], [5, 11, "S"]]}
 {"id": 56, "text": "A57:\tJual macam supermarket ni.", "label": [[5, 9, "2nd"], [5, 9, "S"], [10, 15, "3rd"], [10, 15, "DO"]]}
-{"id": 57, "text": "B58:\tTak boleh dah, kita jual murah dah seluar tu kita bagi dua belas ringgit, kalau di supermarket dua puluh ringgit ke atas dah---tak kurang dah---ni kita nak bagi dua belas ringgit yah.", "label": [[60, 63, "2nd"], [60, 63, "IO"], [100, 103, "3rd"], [100, 103, "S"], [132, 135, "1st"], [132, 135, "S"], [166, 169, "2nd"], [166, 169, "IO"], [5, 8, "1st"], [5, 8, "S"], [30, 35, "3rd"], [30, 35, "DO"], [60, 63, "3rd2"], [60, 63, "DO2"], [166, 169, "3rd2"], [166, 169, "DO2"]]}
+{"id": 57, "text": "B58:\tTak boleh dah, kita jual murah dah seluar tu kita bagi dua belas ringgit, kalau di supermarket dua puluh ringgit ke atas dah---tak kurang dah---ni kita nak bagi dua belas ringgit yah.", "label": [[60, 63, "2nd"], [60, 63, "IO"], [100, 103, "3rd"], [100, 103, "S"], [132, 135, "1st"], [132, 135, "S"], [166, 169, "2nd"], [166, 169, "IO"], [5, 8, "1st"], [5, 8, "S"], [30, 35, "3rd"], [30, 35, "DO"], [143, 146, "3rd"], [143, 146, "DO"], [166, 169, "3rd2"], [166, 169, "DO2"]]}
 {"id": 58, "text": "A59:\tNi seluar budak ni berapa?", "label": []}
 {"id": 59, "text": "B60:\tTiga ringgit.", "label": [[5, 9, "3rd"], [5, 9, "S"]]}
 {"id": 60, "text": "A61:\tTiga ringgit kita biasa beli dua ringgit setengah yah.", "label": [[34, 37, "3rd"], [34, 37, "DO"], [5, 9, "3rd"], [5, 9, "S"]]}
@@ -65,7 +65,7 @@
 {"id": 64, "text": "A65:\tBiarlah ambik yang ni dua ringgit setengah.", "label": [[13, 18, "1st"], [13, 18, "S"], [5, 12, "2nd"], [5, 12, "S"]]}
 {"id": 65, "text": "B66:\tDua ringgit setengah tak boleh jual ni.", "label": [[26, 29, "1st"], [26, 29, "S"], [5, 8, "3rd"], [5, 8, "S"]]}
 {"id": 66, "text": "A67:\tTak boleh tak payahlah.", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
-{"id": 67, "text": "B68:\tAlah... kira mudah-mudahlah dik.", "label": [[13, 17, "1st"], [13, 17, "S"], [18, 32, "3rd"], [18, 32, "DO"]]}
+{"id": 67, "text": "B68:\tAlah... kira mudah-mudahlah dik.", "label": [[13, 17, "1st"], [13, 17, "S"], [18, 32, "3rd"], [18, 32, "S"]]}
 {"id": 68, "text": "A69:\tMudah apa tak boleh kurang sesen pun.", "label": [[15, 18, "2nd"], [15, 18, "S"]]}
 {"id": 69, "text": "B70:\tPusing-pusing pulak dia... pening kepala juga kita.", "label": []}
 {"id": 70, "text": "A71:\tKita pun pening kepala juga---yang ni tak boleh kurang---yang tu tak boleh kurang.", "label": []}

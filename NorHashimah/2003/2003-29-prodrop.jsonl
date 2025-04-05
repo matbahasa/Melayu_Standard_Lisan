@@ -5,7 +5,7 @@
 {"id": 4, "text": "B5:\tKelmarin yang merah tu---ada orang beli---itulah nak, tak ambik selalu, tapi tak apa, ni ada lagi sama dengan fesyen kelmarin.", "label": [[53, 56, "2nd"], [53, 56, "S"], [43, 44, "3rd"], [43, 44, "DO"], [68, 74, "3rd"], [68, 74, "DO"], [58, 61, "2nd"], [58, 61, "S"]]}
 {"id": 5, "text": "B6:\tSaya baru bawa keluar sekejap tadi.", "label": [[19, 25, "3rd"], [19, 25, "DO"]]}
 {"id": 6, "text": "A7:\tBerapa ni?", "label": []}
-{"id": 7, "text": "B8:\tGinilah sebab---sama-sama kita kan saya bagi empat belas ringgit setengah.", "label": [[4, 11, "3rd"], [4, 11, "S"], [49, 54, "2nd"], [49, 54, "IO"], [49, 54, "3rd2"], [49, 54, "DO2"]]}
+{"id": 7, "text": "B8:\tGinilah sebab---sama-sama kita kan saya bagi empat belas ringgit setengah.", "label": [[4, 11, "3rd"], [4, 11, "S"], [49, 54, "2nd"], [49, 54, "IO"]]}
 {"id": 8, "text": "A9:\tEmpat belas ringgitlah---cukup tak kerja lagi ni.", "label": [[35, 38, "1st"], [35, 38, "S"], [4, 9, "3rd"], [4, 9, "S"]]}
 {"id": 9, "text": "B10:\tSaya nak cakap terus terang dengan anak---tak tipu ni.", "label": [[47, 50, "1st"], [47, 50, "S"]]}
 {"id": 10, "text": "B11:\tModal saya empat belas ringgit.", "label": []}

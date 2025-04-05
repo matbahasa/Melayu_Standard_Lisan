@@ -12,27 +12,21 @@ D11:	Boleh *pro_1st_S* minta *pro_2nd_IO* bawang goreng?
 C12:	*pro_2nd_S* Nak buat apa?
 A13:	Nenas, nenas!
 D14:	Dah, *pro_2nd_S* tabur *pro_3rd_DO* , *pro_2nd_S* tabur.
-
 A15:	Berapa orang nak?
 B16:	Ada dalam 20 orang.
 A17:	Long, ambil ni Long, Long.
-
 A18:	Mak, kain mana kain?
 B19:	Ha?
 A20:	Kain lap meja.
 C21:	Kain buruk, kain buruk.
 C22:	Kain buruk tak banyak sebenarnya.
-
 A23:	Kalau *pro_1st_S* dekat sana, orang panggil adiklah.
 B24:	Apa, kalau Pak Ngah....
-
 A25:	*pro_2nd_S* Ada pisau lebih tak?
 A26:	*pro_1st_S* Minta *pro_2nd_IO* satu.
 B27:	Pisau, selalu bukan main banyak pisau.
-
 A28:	Oh.... Mariam.
 B29:	Oh.... Mariam.
-
 A30:	Engkau nak ke mana?
 A31:	*pro_2nd_S* Cari *pro_3rd_DO* *pro_3rd_S* ada dalam tu *pro_2nd_S* pergi depan dik, orang tengah anu.
 B32:	Nah pisau.
@@ -48,15 +42,12 @@ E41:	*pro_1st_S* Buat empat hidang.
 D42:	*pro_1st_S* Takut *pro_3rd_S* tak cukup.
 F43:	*pro_2nd_S* Ambil tisu.
 D44:	*pro_2nd_S* Ambil kain buruk satu.
-
 A45:	Bik, air tu ada tak?
 B46:	Tak.
 A47:	Bapak engkau tak nak minum ke....
 A48:	Eti, *pro_2nd_S* potong bawang kecil, terkial-kial aku.
-
 A49:	Janji *pro_1st_S* boleh buang.
 B50:	Ha, ndak tak Nah?
-
 A51:	*pro_2nd_S* Dapat perbezaan *pro_3rd_P* dari mana?
 B52:	Cepat Long, *pro_2nd_S* hulurkan papan tu.
 A53:	Ni, ha ni.
@@ -67,7 +58,6 @@ A57:	Ambil ni Mak... Abang...
 B58:	Orang ada kerja.
 C59:	*pro_2nd_S* Ambil lagi satu orang nak buat *pro_3rd_IO* dua.
 D60:	Mak!
-
 A61:	*pro_2nd_S* Pegang *pro_3rd_DO* , *pro_2nd_S* pegang *pro_3rd_DO* , Idah kamu berani Dah.
 A62:	Tisu gulung tu.
 B63:	*pro_2nd_S* Suruh orang.
@@ -84,13 +74,11 @@ C73:	Ni ha, ni ha, ni ha.
 A74:	*pro_2nd_S* Nak tengok pengantin?
 B75:	Ni bawang.
 C76:	*pro_2nd_S* Biar *pro_3rd_DO* kat situ dulu.
-
 A77:	Bang, bukan main lawa lagi?
 A78:	Ha... ha... ha....
 A79:	Orang bukan tengok awak.
 B80:	Ha... ah.
 C81:	Bah, sini kejap Bah.
-
 A82:	Engaku masak, *pro_2nd_S* buat rempah apa tu?
 B83:	Ayam.
 A84:	Ayam?
@@ -102,10 +90,8 @@ A89:	Cik Nor engkau....
 B90:	Mak, pisau *pro_1st_P* tak ada.
 A91:	Pisau *pro_2nd_P* tadi mana?
 B92:	*pro_3rd_S* Pada Mak Ngah.
-
 A93:	Ni kalau *pro_3rd_S* dah masak, *pro_2nd_S* jangan letak *pro_3rd_DO* atas dapur...
 B94:	Aku ni, jangan-jangan *pro_1st_S* salah duduk.
-
 A95:	Licin.
 B96:	Licin!
 B97:	*pro_2nd_S* Boleh berjalan.
@@ -130,12 +116,10 @@ C115:	*pro_3rd_S* Tak adalah teruk sangat.
 A116:	Sorang lagi buat apa tu?
 B117:	Sorang lagi penyokong, ek Mak ek.
 C118:	*pro_3rd_S* Sokong apa?
-
 A119:	...*pro_3rd_S* dekat depan menangis?
 B120:	*pro_1st_S* Kira aje dia.
 C121:	Dia tak ada.
 B122:	Siapa ketua dia, Nuar?
-
 A123:	*pro_2nd_S* Gaul *pro_3rd_DO* rata-rata sikit.
 B124:	Eh, *pro_3rd_S* garing macam panggang ayam.
 A125:	Eh, Nah *pro_3rd_S* cukup lima hidang?
@@ -145,13 +129,11 @@ B128:	Lima hidang.
 A129:	Boleh?
 B130:	*pro_1st_S* Bolehlah.
 C131:	*pro_3rd_S* Moleklah ni.
-
 A132:	Gelas, *pro_2nd_S* bawa keluar gelas.
 B133:	Semua *pro_1st_S* dah basuh!
 A134:	*pro_3rd_S* Dah bersih.
 C135:	*pro_1st_S* Boleh ambil cawan ni?
 B136:	*pro_2nd_S* Ambil ajelah.
-
 A137:	Ha, *pro_2nd_S* nak pisau?
 B138:	Orang belum korek *pro_3rd_IO* lagi.
 B139:	*pro_1st_S* Tengok pada anu macam molek.
@@ -171,22 +153,18 @@ E152:	*pro_1st_S* Dapat anak saudara Zai, eh sepupu Zai...
 F153:	Nak masuk sekali arong ke Mah?
 G154:	Ha?
 F155:	*pro_2nd_S* Nak masuk sekali arong?
-
 A156:	Amy tak ikut?
 B157:	*pro_3rd_S* Sana, *pro_3rd_S* pergi sana, budak tu ngikut orang.
 A158:	Ha?
 A159:	*pro_2nd_S* Pergi ambil kuih ni.
 A160:	*pro_3rd_S* Dah setengah.
-
 B161:	Eh, telur yang nak dianu tu, semua kat sini ya?
 C162:	Ha, ah.
 D163:	Mak, pergi rumah Mak Timah ke.
 D164:	Eh, *pro_1st_S* dah masak.
-
 A165:	Suami saya masak... eh...
 B166:	*pro_2nd_S* Panggil Mama, *pro_2nd_S* panggil Mama.
 C167:	*pro_2nd_S* Sekejap, *pro_2nd_S* sekejap, ala sayang, sayang.
-
 A168:	*pro_2nd_S* Nanti kejap.
 B169:	Engkau curah *pro_3rd_DO* ya?
 A170:	Sayang, sayang.
@@ -195,12 +173,10 @@ B172:	Mak Cik yang suruh.
 D173:	Ni, ni.
 A174:	Ha, *pro_2nd_S* nak buat apa?
 D175:	Mak Tam, Mak Tam.
-
 A176:	Mana nasi?
 B177:	Hei, kan *pro_3rd_S* dah keluar tadi.
 C178:	Ma.
 D179:	*pro_3rd_S* Yang hijau.
-
 A180:	Ya ke, *pro_2nd_S* ambil *pro_3rd_DO* , *pro_2nd_S* ambil.
 A181:	Yang merah, *pro_3rd_S* merah.
 B182:	*pro_1st_S* Tak tahu, dia tak ada kat rumah Bang Long.
@@ -212,13 +188,11 @@ C187:	Kiah?
 A188:	*pro_3rd_S* Yang merah tu.
 D189:	Siapa makan nasi tu?
 E190:	Uda, ha siapa sorang lagi.
-
 A191:	Kak Long, Kak Long.
 B192:	Orang makan ringan-ringan.
 C193:	Mak, macam mana tu.
 D194:	Kenapa tu?
 D195:	*pro_2nd_S* Basuh.
-
 A196:	Mak.
 B197:	*pro_2nd_S* Sana sikit.
 C198:	Adik nak *pro_3rd_IO* dua.
@@ -230,7 +204,6 @@ D203:	*pro_2nd_S* Minta dengan nenek, *pro_2nd_S* minta dengan Nenek.
 E204:	Long, kalau *pro_2nd_S* masak banyak senang orang nak makan.
 D205:	Ha?
 E206:	*pro_2nd_S* Masak banyak, nanti senang *pro_3rd_S* nak makan.
-
 A207:	Bukan, bukan.
 B208:	Ha, ha.
 A209:	*pro_3rd_S* Macam biasa, *pro_3rd_S* macam biasalah.
@@ -241,7 +214,6 @@ A213:	Ha, *pro_3rd_S* macam inilah.
 B214:	*pro_3rd_S* Jauh sangat, *pro_3rd_S* ada lada.
 A215:	Ada.
 C216:	Mama....
-
 A217:	Adik nak makan?
 B218:	Ngah, *pro_2nd_S* masuk lauk.
 C219:	Dik, nak apa benda Dik.
@@ -265,28 +237,22 @@ A236:	Pukul 12 *pro_2nd_S* boleh balik.
 A237:	Ni pukul berapa?
 A238:	Pukul 12 *pro_2nd_S* boleh balik.
 A239:	Nanti *pro_1st_S* telefon *pro_2nd_DO* pukul 12.
-
 A240:	Eh, rumah, rumah Pak Anjang ada tak ni?
 B241:	Ada...
-
 A242:	Mah!
 B243:	Oi.
 A244:	Oh Mah!
 B245:	Ha.
-
 A246:	Kuat kau Long.
 B247:	Mak nak...
 A248:	Aku letak *pro_3rd_DO* kat luar.
-
 A249:	Yah!
 B250:	Eh, Mak Nek...
 C251:	*pro_3rd_S* Berair, *pro_3rd_S* berair...
 D252:	Nasi Nah.
-
 A253:	Long, engkau pergi ambil *pro_3rd_DO* .... Long.
 B254:	Besen kat sini mana Long?
 C255:	Tadi *pro_1st_S* nampak....
-
 A256:	Senduk... mana pergi?
 B257:	...*pro_1st_S* tak tahu.
 C258:	*pro_2nd_S* Cari apa?
@@ -296,14 +262,12 @@ A261:	Senduk, senduk lauk yang besar mana?
 E262:	*pro_3rd_S* Ada kat sini.
 A263:	*pro_3rd_S* Ada?
 E264:	Hari tu senduk lauk boleh buat senduk nasi.
-
 A265:	Tu apa benda *pro_3rd_S* makan dekat gelas-gelas...
 B266:	*pro_2nd_S* Tanya orang-orang kat belakang...
 C267:	Tu Normah ya?
 D268:	Long, mana?
 E269:	*pro_3rd_S* Habis.
 A270:	Ni... sikit ni ha.... Ana makan kuih apa tadi?
-
 A271:	Li, ni air kopi.
 B272:	Aku... cicah.
 A273:	Air kopi.
@@ -315,7 +279,6 @@ D278:	Orang kat dalam tu dah balik?
 B279:	*pro_3rd_S* Tak ada, Mak engkau tak ada.
 B280:	Aku dah 2-3 bulan dah.
 C281:	Ada lagi kuih.
-
 A282:	Ha, Diah, ni memang *pro_2nd_S* tak payah goreng ni.
 A283:	*pro_3rd_S* Memang ada dalam ini.
 B284:	*pro_2nd_S* Makan.
@@ -328,7 +291,6 @@ C290:	Kak Long, Kak Long, Esah panggil.
 D291:	Ha.
 C292:	Esah panggil.
 D293:	*pro_3rd_S* Mana.
-
 A294:	Mak, ha... a... a...
 B295:	*pro_2nd_S* Tolong hidang Long.
 C296:	*pro_2nd_S* Tak kenal *pro_1st_DO* , apa khabar Wak?
@@ -340,21 +302,18 @@ C301:	Ha...
 D302:	Eh, Esah!
 D303:	*pro_2nd_S* Ada lagi ya.
 E304:	Tapi *pro_1st_S* masak lontong.
-
 A305:	*pro_3rd_S* Tak ada lagi...
 A306:	Esah panggil.
 B307:	Long...
 C308:	Siapa ada makan?
 D309:	Pahal?
 D310:	Ha... apa benda...
-
 A311:	Nah.
 B312:	*pro_1st_S* Kerja... *pro_1st_S* mana dapat cuti.
 C313:	Eh, aku beli seluar jean ke.
 C314:	*pro_2nd_S* Pergi ambil.
 D315:	Ha?
 A316:	... *pro_1st_S* makan makjun.
-
 A317:	Apa ni?
 B318:	Makanlah.
 C319:	*pro_1st_S* Dah, oh dah.
@@ -363,13 +322,11 @@ D321:	Iyalah, orang tak biasa, kalau biasa.
 C322:	Ilah.
 A323:	*pro_2nd_S* Sudah, *pro_2nd_S* sudah, *pro_2nd_S* masuk dalam tu, *pro_2nd_S* sudah.
 B324:	Er... Long
-
 A325:	*pro_3rd_S* Dah berapa hari?
 B326:	Budak-budak ni.
 C327:	... ni benda ni kenapa?
 D328:	*pro_2nd_S* Telefon dia.
 E329:	Kakak telefon *pro_3rd_DO* ...
-
 A330:	Pak Uda.
 A331:	Senduk nasi mana Mak?
 B332:	Hai.
@@ -387,7 +344,6 @@ B343:	Ayah...
 A344:	*pro_3rd_S* Atas kepala.
 C345:	Dah rasa Yah?
 A346:	Ok, Ok.
-
 A347:	Ini, mana tutupnya...
 B348:	Tadi.
 C349:	Ha, ini sampah.
@@ -396,30 +352,25 @@ D351:	Jadi kalau...
 E352:	Eh, *pro_1st_S* dah ambil.
 A353:	Tolong Nor, Zi...
 F354:	Mak, seluar *pro_1st_P* mana?
-
 A355:	*pro_2nd_S* Tahan *pro_3rd_DO* , *pro_2nd_S* tahan *pro_3rd_DO* , *pro_2nd_S* tahan.
 B356:	Nak apa Long?
 C357:	Eh, pisau sini satu, pisau, pisau.
 D358:	Mak Ngah....
 A359:	Angah mana?
-
 B360:	Bang, air milo bang satu.
 B361:	Ni, Amir nak.
 C362:	Bah, milo Bah.
 D363:	Abang mana abang?
-
 A364:	Mak, apa nak?
 A365:	*pro_2nd_S* Nak apa?
 B366:	Nak berapa Long?
 C367:	*pro_1st_S* Nak dua.
 D368:	*pro_2nd_S* Minta Mak.
-
 A369:	Hei, *pro_2nd_S* makanlah, nanti kalau *pro_2nd_S* habis *pro_3rd_DO* Mama tambah.
 A370:	Boy!
 B371:	Kak, air ni...
 C372:	Eh, kat mana engkau ambil surat khabar tadi?
 D373:	*pro_3rd_S* Kecil-kecil best.
-
 A374:	Ei, teksi ni ha.
 B375:	Kenapa?
 B376:	*pro_1st_S* Sudah makan.
@@ -427,26 +378,21 @@ C377:	Mak, mak.
 D378:	*pro_2nd_S* Letak limau ya.
 E379:	Berapa?
 F380:	58.
-
 A381:	*pro_2nd_S* Boleh telan *pro_3rd_DO* tak ha?
 B382:	Ni pisau....
 C383:	*pro_2nd_S* Makanlah, *pro_2nd_S* jangan main-main.
 A384:	Tak, lada ni *pro_1st_S* tertelan...
-
 A385:	*pro_2nd_S* Makan comot.
 A386:	*pro_1st_S* Camot tak... *pro_1st_S* makan macam ni.
 A387:	Hei, hei.
 A388:	Eh, *pro_2nd_S* makan macam ni.
-
 A389:	Yah, kalau *pro_3rd_S* kaki, *pro_1st_S* kena masak lama sikit, kan...
 B390:	*pro_2nd_S* Goreng...
 C391:	*pro_2nd_S* Berapa beranak, 5 beranak?
 C392:	Kalau *pro_2nd_S* nak makan, *pro_2nd_S* pergi dapur.
-
 A393:	*pro_2nd_S* Ambil *pro_3rd_DO* , *pro_2nd_S* ambil.
 B394:	ljah dah makan?
 C395:	Mak, Cik, Cik.
-
 A396:	Perempuan, lelaki.
 B397:	Perempuan.
 A398:	Mak Long, unjukkan atas peti tu Mak Long.
@@ -458,7 +404,6 @@ C403:	*pro_3rd_S* Cukup dah?
 C404:	... *pro_2nd_S* nak penuh?
 D405:	Dah.
 E406:	Sekali dia...
-
 A407:	Eh, kenapa *pro_2nd_S* tak makan?
 B408:	Pahit!
 A409:	Pahit?
@@ -466,7 +411,6 @@ A410:	Tapi, tadi kita dah makan *pro_3rd_DO* kan tadi.
 C411:	*pro_2nd_S* Kena masuk *pro_3rd_DO* dalam peti ais, lepas tu baru *pro_2nd_S* boleh makan.
 A412:	Ooh... tapi *pro_3rd_S* sebelum tu, malam pertama kita tu *pro_3rd_S* ok aje.
 C413:	*pro_3rd_S* Biasalah... saya pun rasa *pro_3rd_DO* jugak.
-
 D414:	Eh, Mak Utih Nab pesan, *pro_1st_S* kena beri kau bunga.
 D415:	Kalau kau tak berhenti menangis, kaumasukkan subang ajelah.
 D416:	Ha.... Ha.... Ha... aduh geram aku... *pro_1st_S* letih... *pro_3rd_S* riuh (suara bayi menangis).
@@ -484,15 +428,13 @@ D427:	*pro_2nd_S* Buat apa duduk dalam itu, kan *pro_3rd_S* nangis.
 E428:	*pro_2nd_S* Tak boleh sayang, kalau tidak dia ketawa.
 D429:	Ha...?
 E430:	*pro_2nd_S* Tak boleh.
-
 A431:	*pro_2nd_S* Pergi sekolah makan sarapan ke, apa benda ke....
 A432:	Dia selalu balik Su... Su...
 B433:	Sekolah pagi?
 A434:	Iyalah, sementara *pro_3rd_S* tak habis, *pro_2nd_S* sarapan dulu, Kak Teh kenyang.
-C435:	Kenyang mende?
+C435:	*pro_2nd_S* Kenyang mende?
 A436:	Tak kesian ke engkau, *pro_3rd_S* dapat sekolah bodoh memang Si Manilah.
 B437:	Oh... engkau bodoh.
-
 A438:	*pro_1st_S* Dapatlah 300 lebih hari tu.
 A439:	Lepas tu *pro_1st_S* kelim *pro_3rd_DO* , *pro_1st_S* kelim *pro_3rd_DO* *pro_1st_S* dapat 300 lebih.
 B440:	*pro_3rd_S* Lebih mahal daripada anu.
@@ -511,7 +453,6 @@ D452:	*pro_3rd_S* Dah lama dah.
 D453:	Bukan... masa tu dia ada terlibat dekat, ... dekat pasar... Merlong.
 E454:	Ha, iyalah... *pro_3rd_S* dekat Merlong.
 E455:	Masa tu dia pakai mandi lumpur.
-
 A456:	Apa?
 A457:	*pro_2nd_S* Nak apa?
 B458:	Saya rasa, *pro_3rd_S* main lumpur tak.
@@ -522,7 +463,6 @@ A462:	Eh... harga *pro_3rd_P* mahal... *pro_2nd_S* nak berapa harga?
 C463:	*pro_1st_S* Nak yang mahal... yang 50 lebih.
 A464:	ltu... itu.
 C465:	*pro_2nd_S* Pakai yang Mirul aje....
-
 A466:	Ha, pampers dekat situ murah.
 A467:	Pampers lagi sesuai.
 B468:	Nanti *pro_3rd_S* mahal pulak.
@@ -542,7 +482,6 @@ B481:	Enjin *pro_3rd_P* rosak?
 C482:	Dik, Dik, Adik!
 D483:	Pelahan ke bunyi?
 D484:	*pro_3rd_S* Tak kuat?
-
 A485:	Kereta siapa tu bunyi?
 B486:	Kak Kiah.
 C487:	*pro_3rd_S* Rosak nanti.
@@ -569,7 +508,6 @@ F507:	Ha.
 E508:	*pro_2nd_S* Lawan dia, nanti dia pukul *pro_2nd_IO* balik.
 G509:	Dah... dah... dah... *pro_2nd_S* jangan usik.
 E510:	*pro_2nd_S* Lepas *pro_3rd_DO* ... *pro_2nd_S* lepas *pro_3rd_DO* , dia tak...
-
 A511:	Tam, dia tahu kedai aje.
 B512:	Dia punya badan aje.
 C513:	Dia punya badan.
@@ -591,14 +529,12 @@ C528:	*pro_2nd_S* Nak apa benda?
 C529:	Ha... *pro_2nd_S* suruh *pro_1st_IO* apa benda.
 C530:	Tapi... *pro_1st_S* tak sempat.
 D531:	Ni dah rosak 2 kali, bateri habislah.
-
 A532:	*pro_2nd_S* Ambil Fatin.
-B533:	Mak, *pro_1st_S* ambil pi *pro_3rd_IO* *pro_1st_S* nak balik.
+B533:	Mak, *pro_1st_S* ambil pi *pro_3rd_DO* *pro_1st_S* nak balik.
 A534:	Hei.
 C535:	Nanti, ada dia datang semalam Hussin?
 D536:	*pro_1st_S* Tak tahulah ya.
 E537:	Kita baru tengok!
-
 A538:	*pro_2nd_S* Ambil Tin, *pro_2nd_S* ambil *pro_3rd_DO* , *pro_3rd_S* pergi main jauh, *pro_3rd_S* pergi.
 B539:	Fatin!
 B540:	Buaian *pro_3rd_P* hilang ni karang.
@@ -606,7 +542,6 @@ C541:	Jumpa *pro_3rd_DO* ke Kak?
 B542:	Apa dia?
 C543:	Tu, buaian *pro_3rd_P* yang dekat tepi dinding, board tu, *pro_1st_S* suruh *pro_3rd_IO* tidur, *pro_3rd_S* tidur.
 C544:	Nor tanya aku lagi tadi.
-
 A545:	Ada orang marah dia pasal *pro_3rd_S* pakai baju politik.
 B546:	Masa *pro_3rd_S* sembahyang?
 A547:	Baju parti politik masa sembahyang dalam Masjid Ayer Baloi
@@ -642,7 +577,6 @@ F576:	Tin, Tin.
 D577:	Perbuatan saudara menyalahi solat berjemaah di dalam masjid dan mesti dinasihati.
 F578:	*pro_3rd_S* Dalam apa?
 F579:	*pro_3rd_S* Masuk dalam Harakah ke?
-
 A580:	*pro_2nd_S* Marilah makan.
 B581:	Oh... Hussin kenal ni?
 A582:	Ha?
@@ -654,7 +588,6 @@ E587:	Ayam, daging ada dalam periuk Han.
 E588:	Engkau nak apa benda?
 F589:	Ma!
 D590:	Hei *pro_3rd_S* bukan macam tu?
-
 A591:	Kenapa Anuar asyik tidur aje?
 A592:	Anuar?
 B593:	Dia tak sihat!
@@ -677,7 +610,6 @@ A609:	Ayah!
 A610:	Panasnya.
 C611:	Alah padahal *pro_3rd_S* bukannya apa pun.
 C612:	*pro_1st_S* Pakai t-shirt je.
-
 A613:	Orang macam Hussin tu, mesti dah ramai dah!
 B614:	Ramai tu ramailah.
 B615:	Orang macam Hussin....
@@ -687,7 +619,6 @@ A618:	Orang macam Hussin tu mesti *pro_3rd_S* jumpa dah ramai dah.
 D619:	Dah, dia tak pergi?
 A620:	Tak, kalau *pro_3rd_S* dah tak, *pro_1st_S* tak tahulah.
 B621:	Macam mana orang macam Hussin boleh masuk PAS?
-
 A622:	Mak, dengan perbuatan demikian, sudah tentu jika saudara tidak mengambil perhatian terhadap peraturan dan persaudaraan pada ahli jemaah.
 A623:	Perkara....
 B624:	Orang nak buat pistol.
@@ -697,7 +628,6 @@ C627:	*pro_2nd_S* Tak payah sembahyang jemaah pun.
 A628:	Demi menjamin dan mengekalkan kesucian ahli jemaah masjid yang baru.
 A629:	Ha... ha...
 C630:	Jemaah masjid yang baru tu?
-
 A631:	Hulur pisau tu Long!
 B632:	Ha.... Ha.... Eh, tak suka aku.
 C633:	Bedah.... Bedah.... Bedah.
@@ -717,7 +647,6 @@ A646:	Bila orang cakap dah!
 A647:	Macam mana, *pro_3rd_S* dah ikut adat rukun Haji.
 A648:	Ha... siapa yang cakap begitu... orang tak pandang pun kedai Melayu.
 C649:	Oooh.
-
 A650:	Mak, mak.
 B651:	Ooi.
 C652:	Baju mama.
@@ -728,7 +657,6 @@ B656:	Dah tu?
 D657:	*pro_1st_S* Ingat tak sekolah!
 E658:	His, *pro_2nd_S* cepat sikit.
 D659:	Rumah dia banyak, hari-hari *pro_3rd_S* asyik balik, awak kena tinggal, hari-hari *pro_2nd_S* duduk sekolah.
-
 A660:	Sayang!
 B661:	Engkau nak pisau?
 C662:	Pisau tu Mak.
@@ -764,11 +692,9 @@ B691:	Ha... ah, dengan siapa ni surat ni?
 A692:	Ali.
 D693:	*pro_3rd_S* Dari Kuala Lumpur, siapa baca?
 C694:	Ha Zul, kenapa menangis?
-
 A695:	Garang, garang, Oti garang!
 B696:	Apa jadinya?
 A697:	*pro_1st_S* Pakai t-shirt aje.
-
 A698:	Iwan mana?
 A699:	Amy ...
 B700:	Tok.
@@ -788,7 +714,6 @@ F713:	Dia terberak, selalu terberak dalam seluar budak ini.
 E714:	Anu, dia terberak dalam seluar tu Mak.
 G715:	*pro_2nd_S* Panggil Rosli, *pro_2nd_S* panggil dia.
 H716:	Siapa?
-
 A717:	*pro_2nd_S* Panggil dia, *pro_2nd_S* panggil.
 B718:	Ayah, Ayah, Ayah.
 A719:	Amboi!
@@ -808,7 +733,6 @@ C732:	Sana, sana.
 C733:	Angah, engkau ni nak berak ke nak apa?
 C734:	Keluar!
 F735:	Entah.
-
 A736:	Pak Utih, Iwan main lecak.
 B737:	*pro_2nd_S* Biar dia.
 A738:	Iwan main lecak.
@@ -851,7 +775,6 @@ P774:	Serumah tak nak pergi tu.
 I775:	Adik banyak homework ya, ha.
 I776:	*pro_1st_S* Banyak hal.
 G777:	Mak.
-
 A778:	Eh, tu nanti siapa nak hantar *pro_3rd_IO* tu.
 B779:	Ah, kang nanti Mak balik.
 A780:	Eh, Mama tak tahu.
@@ -887,7 +810,6 @@ A809:	*pro_2nd_S* Ambil yang botol kecil tu sekilo.
 A810:	Dia, mak... *pro_1st_S* nak *pro_3rd_IO* tiga kilo, sekilo.
 B811:	Mak.
 C812:	4 kilo dan 1 kilo, aku pesan *pro_3rd_IO* 2 kali.
-
 A813:	Aku kalau nak kemas *pro_3rd_DO* kang, kadang-kadang *pro_3rd_S* baru nak bubuh nasi.
 A814:	*pro_3rd_S* Nak makan senang.
 B815:	Orang nak makan *pro_3rd_S* tahulah Mak.
@@ -895,12 +817,10 @@ C816:	Ha... ah memang *pro_1st_S* tahu.
 C817:	Kalau rumah aku, aku yang sibuk.
 C818:	Kalau rumah kau kata *pro_2nd_S* tahu... *pro_2nd_S* nak makan.... kau boleh makan
 D819:	Lekas dimakan, kalau tidak benda tu sejuk..... *pro_2nd_S* tengok lauk dah sejuk dah tu.
-
 A820:	Eh... makan petang ke tidak kita ni.
 A821:	Mana kicap Long... sini Long... ambil Long.
 A822:	Ni dah pukul berapa... *pro_3rd_S* dari KL pukul 2 ke?
 B823:	*pro_3rd_S* Memang padanlah tu... pagi... *pro_3rd_S* keluar pagi.
-
 A824:	Ni ada cermin mata atuk....
 A825:	Woi *pro_2nd_S* hati-hati (budak-budak datang ke nenek mereka).
 B826:	Nasib baiklah mata saya terang.
@@ -908,7 +828,6 @@ A827:	Woi aku nak lalu ruang.
 B828:	Long, Long ikut depan.
 C829:	(Budak-budak) ... ni kasut siapa ni?
 B830:	Ala pakai aje nak... nanti *pro_2nd_S* letak kasut balik kat situ.
-
 C831:	(Situasi budak menangis).
 A832:	Laa... kenapa ni, meh... meh sayang.
 B833:	Kenapa ni sayang, siapa yang buat.
@@ -923,7 +842,6 @@ A841:	Nadia... Nadia, tolong ambilkan Tuk Na bantal sayang.
 B842:	*pro_1st_S* Takpe... *pro_1st_S* takpe.
 A843:	Baring Mak Na, *pro_2nd_S* nak guna tenaga banyak... (ketawa).
 A844:	Eh, ada ke bantal *pro_1st_P* ni... bantal *pro_1st_P* dalam tu....
-
 A845:	Bila kau cerita pasal yang semalam tu, aku teringat dan *pro_1st_S* tak boleh tidur.
 B846:	Eh, Nora, aku nak tanya kau ni... macam mana tiba-tiba dia kan pakai telekung, muka terdedah?
 C847:	Dia memang pakai telekung... tengah hari... *pro_3rd_S* kat surau
@@ -937,7 +855,6 @@ C854:	*pro_3rd_S* Berbual.
 A855:	Perasaan kau, diorang berbual.
 C856:	Eh... eh... Long ni.
 A857:	Betullah.
-
 A858:	Sarah sorang yang cukur jambul ni.
 B859:	Ha... ah.
 B860:	Sarah sorang.
@@ -953,7 +870,6 @@ A869:	*pro_2nd_S* Telefon Mus, *pro_2nd_S* suruh dia bawa duit baru
 B870:	*pro_1st_S* Tak tahu nombor dia... aku belum hafal nombor handphone dia... 013....
 A871:	Laki dia kan ada handphone?
 B872:	*pro_3rd_S* Tak delah, gaji *pro_3rd_P* pun cukup-cukup.
-
 A873:	Kenapa Emi, macam demam aje Teh?
 B874:	Semalam Mus balik lambat ini *pro_3rd_S* demam balik.
 B875:	Banyak aku buat kerja...
@@ -964,7 +880,6 @@ B879:	Kalau kat sekolah ada maulud nabi... aku datang kopek kentang.
 B880:	*pro_3rd_S* Ngelat... dia kopek mata *pro_3rd_P* tak berair... kata budak-budak... *pro_3rd_S* macam nak balik aje.
 B881:	Itu pun dia kata aku malas.
 A882:	Eh, aku kat rumah *pro_1st_P* *pro_1st_S* buat kerja... kau ingat aku tak buat kerja ke?
-
 A883:	Lah!
 A884:	Dah terlungup Simah ngetape suara kita.
 B885:	*pro_1st_S* Tak pe.
@@ -975,7 +890,6 @@ D889:	Kata panggilan apa, Andak...
 C890:	Ntah yea.
 B891:	Data ni aku bawa *pro_3rd_IO* ke Bangkok ni.
 B892:	Aku pergi... jauh aku terbang... modal... modal aku bercakap.
-
 A893:	Oh... nak 7 je tok.
 A894:	Nanti saya tanya pada Zaha... ada tak dia duit keras... *pro_3rd_S* tak de juga.
 B895:	Kalau aku tukar duit kan...
@@ -983,7 +897,6 @@ B896:	Mak Na... *pro_1st_S* ada tak duit kecil.
 C897:	*pro_1st_S* Minta maaflah.. duit saya semua 100... (ketawa).
 A898:	Kata nenek, itu sahaja sekeping 100 dia dapat dahulu.
 B899:	*pro_3rd_S* Tak tukar-tukar.
-
 A900:	Ni hah baju adik... mana baju adik... bangun nak.
 B901:	Ndak.... Ndak, eh ndak pula, Cik anak kau tertanggal puting dia.
 A902:	Aku suka tengok budak hisap tetek.
@@ -998,23 +911,19 @@ B910:	Boy friend kot.
 A911:	Dia dah ada... aku awal dah undur dah.
 B912:	Atuk macam dah menyesal aje.
 A913:	*pro_1st_S* Tak delah.
-
 A914:	Tok.... Atuk Andan tu pangkatnya apa.
 A915:	*pro_3rd_S* Macam Tok Awi... Atuk Andak.
 A916:	Apa pangkat dia Tok?
 B917:	*pro_3rd_S* Mak Teh.
 A918:	Oooo... tapi *pro_1st_S* tak pernah panggil *pro_3rd_DO* pun.
-
 A919:	Banyak menantu Tok Mak, ye Din .
 A920:	... saya tak reti bawa motor.
 B921:	Ha... ah... tak pe saya boleh hantar.
 C922:	Eh *pro_2nd_S* nak buat apa pergi rumah Mak Ngah.
 A923:	Menantu Tuk Mak kan rajin, *pro_3rd_S* pergi ambil ayam, *pro_3rd_S* pergi pasar (suara lain).
 D924:	Eh... eh ni Tam... Tam... *pro_2nd_S* senget.
-
 A925:	Api ada kalau *pro_2nd_S* nak masak.
 B926:	Mak Nah... dia take 5 dulu, dia rehat kejap.
-
 A927:	Habis tu Tok ni... macam mana Su.
 B928:	Tok ni... tu Tok Chik.
 B929:	Mak Nah tu... Tok Along... Pak Ajis... Pak Itam... Pak Aim, Pak Anjang... abang kepada Nek Su.
@@ -1022,7 +931,6 @@ B930:	Hah Mak Long, apa cerita dia.
 A931:	Menangislah.
 A932:	Pak Long baru meninggal.
 B933:	*pro_3rd_S* Tak tinggalkan dia duit kot.
-
 A934:	Pak Aim mana ni... ?
 B935:	*pro_3rd_S* Tidur rumah Toni dengan bini Norasiah.
 A936:	Pak Aim duduk mana?
@@ -1037,7 +945,6 @@ B944:	Ya Allah...
 B945:	Ya Tuhanku, *pro_2nd_S* betul ke?
 B946:	... dah tu?
 D947:	Dia ada berhutang dengan adik-beradik Long Mat.
-
 A948:	Bang... Bang...
 A949:	I tak bolehlah.
 A950:	Cuba you tolong I tengok kaset tu.
@@ -1046,7 +953,6 @@ C952:	Baru-baru ni *pro_1st_S* jumpa Mak Long... lepas tu *pro_1st_S* duduk lama
 C953:	... dia kata *pro_3rd_S* tak de dah.
 C954:	Eh engkau ni tak tahu *pro_3rd_DO* ke... kan Long Atan dah meninggal... *pro_3rd_S* menangis".
 A955:	Eh... sayang... Cik anak kau.
-
 A956:	Kau tengok budak-budak sekarang.
 B957:	Kalau aku dulu, dah lama *pro_1st_S* suruh cikgu duduk.
 A958:	Kalau *pro_3rd_S* pergi bandar, *pro_3rd_S* terjumpalah cikgu... *pro_3rd_S* tak ikut lorong itu... *pro_3rd_S* cuba ikut jalan lain.
@@ -1091,7 +997,6 @@ A996:	Maslida pergi Terengganu.
 A997:	Harishon pergi Kedah...
 A998:	Kedah Utara...
 A999:	Orang Dewan jaga tengah... dia pergi Kuala Kubu Baru.
-
 A1000:	Tam baik-baik... *pro_3rd_S* belakang kau tu Tam.
 A1001:	Kau nak masak apa?
 A1002:	Tam... *pro_1st_S* dah nak goreng dah.
@@ -1104,7 +1009,6 @@ A1008:	Semalam *pro_3rd_S* nak balik... *pro_1st_S* tak bagi *pro_3rd_IO* balik.
 C1009:	Aku nak kunci pintu... *pro_1st_S* takut Mak Nah tak boleh balik.
 A1010:	Dah 2 hari *pro_1st_S* tak jumpa Pak Abu!
 D1011:	*pro_2nd_S* Tak payah baliklah... kalau *pro_2nd_S* balik pun bukan *pro_2nd_S* boleh buat apa.
-
 A1012:	Pukul satu Shimah telefon Johor... *pro_3rd_S* telefon hotline... *pro_3rd_S* cakap tak ada api.
 A1013:	Dia bukak *pro_3rd_DO* sekejap.
 A1014:	Kita kalau tak de api... *pro_1st_S* telefon.
@@ -1114,18 +1018,15 @@ A1017:	Lepas tu kan *pro_1st_S* dah tak larat, *pro_1st_S* panas... budak *pro_1
 B1018:	Rumah Uda ni, dekat 20-30 budak-budak.
 A1019:	*pro_3rd_S* Buka pintu *pro_3rd_S* tidur semalam.
 C1020:	Mak Nah dan Pak Usu pun tidur... *pro_3rd_S* lucu... berebut aku lari... *pro_1st_S* pindah.
-
 A1021:	Eh... epok-epok ni *pro_1st_S* nak makan bila?
 B1022:	Sarapan besok.
 A1023:	Oh yang *pro_2nd_S* hantar rumah Mak Ngah tu.
 A1024:	Habis kita orang KL nak *pro_3rd_DO* juga kot.
 A1025:	Aku nak ngetge orang lelaki... *pro_1st_S* tak cakap dia orang merayap-merayap.
-
 A1026:	Eh... *pro_2nd_S* tak payah beli periuk mahal-mahal.
 A1027:	*pro_2nd_S* Pergi pasar tani *pro_2nd_S* beli aje.
 B1028:	Cik ada *pro_3rd_DO* tau, *pro_1st_S* tak pernah pakai.
 B1029:	*pro_3rd_S* Ada kat setor rumah.
-
 A1030:	Kenapalah Maisarah ni... *pro_3rd_S* tak nak tidur, *pro_3rd_S* suka tengok orang masak.
 A1031:	Anak aku ni glamerlah, *pro_3rd_S* tak nak tidur, *pro_3rd_S* tengok orang masak.
 A1032:	*pro_3rd_S* Marah Mak Ida kot.
@@ -1135,7 +1036,6 @@ A1035:	(sampuk).
 C1036:	Tam... Tam sini Tam, *pro_2nd_S* ambik tunggu dia satu.
 A1037:	Teh... teh... *pro_2nd_S* ambilkan *pro_1st_IO* kuih koci Teh... *pro_1st_S* nak rasa... kang *pro_3rd_S* tinggal dulang aje.
 A1038:	Sarah tidur sayang... tidur nak.
-
 A1039:	Besarkan sikit api tu Mak Long.
 B1040:	Ha... ah.
 B1041:	Mak Long, *pro_3rd_S* kecil sangat Mak Long.
@@ -1143,7 +1043,6 @@ C1042:	Macam mana *pro_3rd_S* besar lagi.
 B1043:	*pro_2nd_S* Bukak 2-2... itu *pro_2nd_S* tutup.
 A1044:	Kalau Along bukak macam tu juga...
 A1045:	Along buka semua sekali.
-
 A1046:	Hari tu sampai rumah pukul berapa Mak Long.
 B1047:	Pukul lapan.
 A1048:	Dia orang ke mana?
@@ -1155,7 +1054,6 @@ B1053:	Orang nak suap *pro_3rd_S* tak nak... *pro_3rd_S* makanlah sendiri.
 C1054:	Siapa buat ibu roti?
 B1055:	Mak Wi.
 A1056:	Pun... Pun... Pun mana Kak Long?
-
 1057	(suara budak)
 A1058:	Tok... tok... Sikin nak air.
 B1059:	Air apa?
@@ -1165,7 +1063,6 @@ C1062:	*pro_3rd_S* Nak apa?
 B1063:	*pro_3rd_S* Nak... *pro_3rd_S* nak air tu.
 A1064:	Mana Long tadi... Long.
 B1065:	Ye, Nah, mana Poni tadi.... *pro_3rd_S* dah pergi balik dah.
-
 A1066:	Satu kuali lagi Jah, *pro_3rd_S* yang besar sikit, *pro_3rd_S* kat belakang tu.
 B1067:	Ada apa Mak Anjang.
 C1068:	*pro_3rd_S* Tak delah... *pro_1st_S* tambah minyak aje.
@@ -1174,7 +1071,6 @@ A1070:	Hei!
 A1071:	Long, nilah besen ni.
 A1072:	Kalau *pro_2nd_S* nak salin *pro_3rd_DO* *pro_2nd_S* letak *pro_3rd_DO* situ... *pro_2nd_S* letak *pro_3rd_DO* sekali arong aje.
 B1073:	Kan besen tu tak sama besar.
-
 A1074:	Ada Long dulang, Long.
 B1075:	Mana dulang Long.
 B1076:	*pro_1st_S* Tak de.
@@ -1182,7 +1078,6 @@ C1077:	Ni hah, *pro_3rd_S* tepi ni hah.
 C1078:	Ni *pro_1st_S* pinjam, siapa punya ni, *pro_1st_S* pinjam dulang dulu.
 A1079:	Kalau dia telefon Mak Ngah, *pro_2nd_S* suruh dia telefon rumah Simah.
 B1080:	*pro_3rd_S* Dah... *pro_3rd_S* dah cakap semalam dia ada telefon.
-
 A1081:	Ani pusing ambil garam ni.
 B1082:	*pro_1st_S* Ambil apa Uda?
 A1083:	Garam.

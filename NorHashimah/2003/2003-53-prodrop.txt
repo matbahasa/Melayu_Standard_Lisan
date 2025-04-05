@@ -12,6 +12,7 @@ Texts	2003-53.txt	6	259	263	tiga					1	0	0	0	0	0	0	1	0	0	0	0	0
 Texts	2003-53.txt	8	360	365	harga					1	0	0	0	0	0	0	0	0	0	1	0	0
 Texts	2003-53.txt	8	392	395	dua					1	0	0	0	0	0	0	0	0	0	0	1	0
 Texts	2003-53.txt	8	406	410	tiga					1	0	0	0	0	0	0	1	0	0	0	0	0
+Texts	2003-53.txt	8	304	309	Murah					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-53.txt	9	431	438	Bagilah					1	0	0	0	0	1	0	0	0	0	0	0	0
 Texts	2003-53.txt	9	439	445	kurang					1	0	0	1	0	0	0	0	0	0	0	0	0
 Texts	2003-53.txt	10	470	477	Biarlah					1	1	0	0	0	0	0	0	0	0	0	0	0

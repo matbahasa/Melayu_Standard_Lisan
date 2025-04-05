@@ -2,7 +2,7 @@ A1:	Yang ni berapa ni?
 B2:	Yang ni tiga ratus ringgit sepasang.
 B3:	Tapi *pro_1st_S* boleh kurang *pro_3rd_DO* lagi kalau *pro_2nd_S* nak.
 A4:	Berapa *pro_2nd_S* boleh kurang?
-B5:	Kalau kak nak *pro_3rd_DO* , saya boleh bagi *pro_2nd_IO* *pro_3rd_DO* dua ratus tujuh puluh ringgit.
+B5:	Kalau kak nak *pro_3rd_DO* , saya boleh bagi *pro_2nd_IO* dua ratus tujuh puluh ringgit.
 A6:	*pro_3rd_S* Dua ratus lima puluh ringgitlah.
 B7:	*pro_1st_S* Tak boleh kak.
 B8:	*pro_3rd_S* Paling kurang saya boleh bagi dua ratus enam puluh ringgit.

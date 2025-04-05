@@ -21,6 +21,8 @@ Texts	2003-35.txt	12	514	521	seratus					1	0	0	0	0	0	0	0	0	0	0	1	0
 Texts	2003-35.txt	13	547	550	tak					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2003-35.txt	14	621	629	bolehlah					1	1	0	0	0	0	0	0	0	0	0	0	0
 Texts	2003-35.txt	14	602	609	Seratus					1	0	0	0	0	0	0	0	0	1	0	0	0
+Texts	2003-35.txt	14	642	646	juga					1	0	0	0	0	0	0	0	0	0	1	0	0
 Texts	2003-35.txt	15	680	684	lima					1	0	0	0	0	0	0	1	0	0	0	0	0
 Texts	2003-35.txt	15	715	720	tidak					1	0	0	0	0	0	0	0	0	1	0	0	0
 Texts	2003-35.txt	15	656	664	Ambiklah					1	0	0	0	0	1	0	0	0	0	0	0	0
+Texts	2003-35.txt	15	665	668	dik					1	0	0	0	0	0	0	0	0	0	1	0	0

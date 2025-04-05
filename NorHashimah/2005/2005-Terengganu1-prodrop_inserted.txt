@@ -34,7 +34,7 @@ D33:	Nasi *pro_1st_S* baru nak buat tu.
 A34:	Ikutlah.
 A35:	*pro_1st_S* Tak ada hal.
 A36:	Pasal cucu *pro_1st_P* dok demam tuh.
-B37:	*pro_2nd_S* Masak yang ni, *pro_1st_S* kira *pro_3rd_DO* jadilah.
+B37:	*pro_2nd_S* Masak yang ni, *pro_1st_S* kira *pro_3rd_S* jadilah.
 B38:	*pro_2nd_S* Boleh makan panas-panas.
 B39:	*pro_2nd_S* Makan mee dululah.
 A40:	Tak payahlah Nab eh.
@@ -143,8 +143,8 @@ A142:	Sambal *pro_1st_S* bubuh ke tidak?
 B143:	Sambal tu *pro_2nd_S* bubuhlah.
 C144:	Kak Ani, *pro_1st_S* lalu kat belakang sikit ni Kak Ani ye.
 B145:	Zah eh, tudung ni kat mana ni?
-C146:	Belakang sink tu.
-C147:	Tak boleh ambil lagi tu Mak Nah tu.
+C146:	*pro_3rd_S* Belakang sink tu.
+C147:	*pro_2nd_S* Tak boleh ambil *pro_3rd_DO* lagi tu Mak Nah tu.
 C148:	*pro_2nd_S* Biarlah *pro_3rd_DO* dulu.
 D149:	Ma!
 B150:	Ya!
@@ -154,7 +154,6 @@ E153:	Wan!
 D154:	Apa, Sarah nak apa?
 D155:	Kita ikut-ikut mana pun tak apa, *pro_1st_S* senang!
 D156:	Kalau *pro_2nd_S* dah buat kerja tu, tak apalah.
-
 B157:	Boleh ke *pro_1st_S* buat kerja demo tu?
 A158:	*pro_1st_S* Biarlah!
 B159:	Eh, *pro_1st_S* nak naik sebentar, *pro_1st_S* nak tengok katil pengantin.
@@ -174,7 +173,6 @@ B172:	*pro_3rd_S* Duduk di Kajang.
 B173:	*pro_2nd_S* Pergilah berjalan.
 E174:	Mak!
 E175:	*pro_1st_S* Balik karanglah mak.
-
 B176:	*pro_2nd_S* Makan dah?
 C177:	*pro_1st_S* Makan dengan pengantin ni.
 D178:	Biarlah.
@@ -188,7 +186,6 @@ A185:	*pro_2nd_S* Jangan malu-malu.
 A186:	*pro_2nd_S* Makan kenyang-kenyang.
 A187:	Inilah masakan Kelantan, Terengganu.
 A188:	Tukang masaknya sedap lagi best.
-
 A189:	Mat eh, nasi putih ada ni.
 A190:	*pro_2nd_S* Nak nasi putih?
 B191:	Eh, *pro_2nd_S* tak payahlah.

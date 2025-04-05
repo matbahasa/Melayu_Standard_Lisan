@@ -12,5 +12,5 @@ A11:	Jacquard tu berapa?
 B12:	*pro_3rd_S* Seratus lapan puluh ringgit *pro_1st_S* boleh kurang *pro_3rd_DO* lagi.
 A13:	Ni *pro_1st_S* bagi *pro_3rd_IO* seratus ringgitlah.
 B14:	Seratus *pro_1st_S* tak dapat, seratus lima puluh bolehlah kita bagi.
-A15:	*pro_3rd_S* Seratus lima puluh *pro_1st_S* bolehlah, kita ambil juga ni.
-B16:	*pro_2nd_S* Ambiklah dik---kak bagi *pro_2nd_IO* *pro_3rd_DO* lima puluh lima saja kat Singapore *pro_3rd_S* tidak boleh harga tu.
+A15:	*pro_3rd_S* Seratus lima puluh *pro_1st_S* bolehlah, kita ambil *pro_3rd_DO* juga ni.
+B16:	*pro_2nd_S* Ambiklah *pro_3rd_DO* dik---kak bagi *pro_2nd_IO* *pro_3rd_DO* lima puluh lima saja kat Singapore *pro_3rd_S* tidak boleh harga tu.

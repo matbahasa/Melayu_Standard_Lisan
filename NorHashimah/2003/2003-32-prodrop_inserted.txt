@@ -55,7 +55,7 @@ A54:	Yang ni tadi berapa, *pro_3rd_S* lima ringgit ya?
 A55:	*pro_2nd_S* Kurang *pro_3rd_DO* empat ringgit setengah dah.
 A56:	*pro_2nd_S* Takkan tak boleh kurang *pro_3rd_DO* sesen pun.
 A57:	*pro_2nd_S* Jual *pro_3rd_DO* macam supermarket ni.
-B58:	*pro_1st_S* Tak boleh dah, kita jual *pro_3rd_DO* murah dah seluar tu kita bagi *pro_2nd_IO* *pro_3rd_DO* dua belas ringgit, kalau di supermarket *pro_3rd_S* dua puluh ringgit ke atas dah---*pro_1st_S* tak kurang dah---ni kita nak bagi *pro_2nd_IO* *pro_3rd_DO* dua belas ringgit yah.
+B58:	*pro_1st_S* Tak boleh dah, kita jual *pro_3rd_DO* murah dah seluar tu kita bagi *pro_2nd_IO* dua belas ringgit, kalau di supermarket *pro_3rd_S* dua puluh ringgit ke atas dah---*pro_1st_S* tak kurang *pro_3rd_DO* dah---ni kita nak bagi *pro_2nd_IO* *pro_3rd_DO* dua belas ringgit yah.
 A59:	Ni seluar budak ni berapa?
 B60:	*pro_3rd_S* Tiga ringgit.
 A61:	*pro_3rd_S* Tiga ringgit kita biasa beli *pro_3rd_DO* dua ringgit setengah yah.
@@ -65,7 +65,7 @@ A64:	Dua ringgit setengah tu Malaysia dah.
 A65:	*pro_2nd_S* Biarlah *pro_1st_S* ambik yang ni dua ringgit setengah.
 B66:	*pro_3rd_S* Dua ringgit setengah *pro_1st_S* tak boleh jual ni.
 A67:	*pro_2nd_S* Tak boleh tak payahlah.
-B68:	Alah... *pro_1st_S* kira *pro_3rd_DO* mudah-mudahlah dik.
+B68:	Alah... *pro_1st_S* kira *pro_3rd_S* mudah-mudahlah dik.
 A69:	Mudah apa *pro_2nd_S* tak boleh kurang sesen pun.
 B70:	Pusing-pusing pulak dia... pening kepala juga kita.
 A71:	Kita pun pening kepala juga---yang ni tak boleh kurang---yang tu tak boleh kurang.

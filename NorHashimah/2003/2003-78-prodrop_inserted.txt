@@ -11,11 +11,11 @@ A10:	Hih... sehelai saja.
 A11:	*pro_3rd_S* Lapan ringgit *pro_2nd_S* tidak boleh ke?
 B12:	*pro_3rd_S* Lapan *pro_1st_S* tidak boleh... *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* sembilan ringgitlah.
 A13:	Oh... mahalnya.
-B14:	*pro_2nd_S* Bagi *pro_1st_DO* lima puluh sen lagilah.
+B14:	*pro_2nd_S* Bagi *pro_1st_IO* lima puluh sen lagilah.
 A15:	Oh... *pro_1st_S* susah nak lima puluh sen---lima puluh sen kalau niaga ni.
-B16:	*pro_2nd_S* Bagi *pro_1st_DO* lima puluh sen lagilah, *pro_1st_S* buat minum air.
-A17:	Mahal lagi tu.
-B18:	Tidak mahal dah ni.
+B16:	*pro_2nd_S* Bagi *pro_1st_IO* lima puluh sen lagilah, *pro_1st_S* buat minum air.
+A17:	*pro_3rd_S* Mahal lagi tu.
+B18:	*pro_3rd_S* Tidak mahal dah ni.
 A19:	Sepasang berapa kain ni?
 B20:	*pro_3rd_S* Dua puluh lima, *pro_1st_S* boleh kurang *pro_3rd_DO* sikit lagi.
 A21:	*pro_3rd_S* Lapan belaslah.

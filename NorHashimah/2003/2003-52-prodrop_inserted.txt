@@ -6,7 +6,7 @@ B5:	Oh... barang supermarket ni...
 B6:	Dekat supermarket, dia letak *pro_3rd_DO* tiga puluh lapan ringgit sembilan puluh.
 B7:	Sepuluh sen pun *pro_3rd_S* tak boleh kurang, tapi kita boleh bagi *pro_2nd_DO* murah lagi.
 A8:	Yang ni tiga puluh lima?
-B9:	Kita boleh kurang *pro_3rd_DO* lagi, *pro_1st_S* kira *pro_3rd_DO* ginilah adik nak *pro_3rd_DO* , adik bagi *pro_1st_IO* tiga puluh dualah.
+B9:	Kita boleh kurang *pro_3rd_DO* lagi, *pro_1st_S* kira *pro_3rd_S* ginilah adik nak *pro_3rd_DO* , adik bagi *pro_1st_IO* tiga puluh dualah.
 B10:	Pasal orang ambik dua butir, kak jual *pro_3rd_DO* takat tu juga.
 B11:	Orang selalu ambil *pro_3rd_DO* dua butir belaka.
 A12:	*pro_3rd_S* Mahal ni kak, *pro_3rd_S* dua puluh lapan *pro_2nd_S* tak boleh?

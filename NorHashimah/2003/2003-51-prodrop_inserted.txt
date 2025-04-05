@@ -8,7 +8,7 @@ B7:	*pro_1st_S* Kurang berapa?
 B8:	*pro_3rd_S* Lima puluh tujuh?
 A9:	*pro_3rd_S* Lima puluh *pro_2nd_S* tak boleh?
 B10:	*pro_3rd_S* Lima puluh limalah kak.
-A11:	Kita minta *pro_2nd_IO* *pro_3rd_DO* lima puluhlah tu.
+A11:	Kita minta *pro_2nd_IO* lima puluhlah tu.
 B12:	*pro_1st_S* Naik *pro_3rd_IO* sikit lagilah.
 B13:	Kak nak banyak mana tu?
 A14:	Sehelai saja.

@@ -44,7 +44,7 @@ S43:	Perak biasanya kalau Auntie (2x), dia Chor (2).
 S44:	Jadi I panggil *pro_3rd_IO* Wan Chor.
 S45:	Yang lagi satu yang duduk kat Taiping, I panggil *pro_3rd_IO* Mak Besaq.
 S46:	Pasal dia pun elder than my mother.
-S47:	So kira *pro_1st_S* campurlah.
+S47:	So *pro_1st_S* kira *pro_1st_S* campurlah.
 S48:	Kalau yang father side because dia orang Kedah, / *pro_1st_S* panggil *pro_3rd_DO* macam Kedah.
 S49:	My mother side, di Perak, I panggil campur Peraklah.
 P50:	Shelina sekarang anak *pro_2nd_P* berapa orang?
@@ -54,7 +54,6 @@ S53:	Macam my eldest, dia perempuan, yang ini kisah *pro_1st_S* nak cerita.
 S54:	Nama dia Raja Farah.
 S55:	Tetapi adik-adik *pro_3rd_P* panggil dia Abang, selalu pada masyarakat *pro_1st_P* abang tu laki-laki, tetapi dalam keluarga my husband, biasa perempuan yang tua dia panggil Abang.
 P56:	Macam orang Johor jugalah tu.
-
 S57:	Aa... abang.
 S58:	Farah yang eldest tu, adik-adik *pro_3rd_P* panggil *pro_3rd_IO* Abang.
 S59:	Tetapi bila datang kat Farhana, Fadlina semua... maybe I yang tak biasalah... I biasa panggil *pro_3rd_IO* kakak-kakak.
@@ -73,8 +72,7 @@ S71:	Then my mother diorang panggil *pro_3rd_IO* Tok Mak tambah tok depan.
 S72:	Kemudian, *pro_3rd_S* tak panggil nenek atau sebagainya.
 S73:	Belah my husband, my mother, diorang panggil *pro_3rd_IO* Tok Ne, dulu arwah my father-in-law diorang panggil *pro_3rd_IO* Tok Atan.
 P74:	Itu ajelah ye... terima kasih Puan Shelina.
-
-P75:	Boleh ceritakan sedikit kata panggilan dalam keluarga you.
+P75:	Boleh *pro_2nd_S* ceritakan sedikit kata panggilan dalam keluarga you.
 P76:	Adik-beradik *pro_2nd_P* berapa orang?
 Q77:	Adik-beradik *pro_1st_P* 6 orang.
 Q78:	Saya yang tua.
@@ -101,7 +99,7 @@ Q98:	Terbalik.
 Q99:	Biasa kita panggil perempuan Nenek.
 Q100:	Di sini kita panggil *pro_3rd_IO* Nenek tetapi *pro_3rd_S* lelaki.
 P101:	Ada juga benda tu berlaku.
-Q102:	Bapa, mak saudara sebelah bapak *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* ikut macam biasa.
+Q102:	Bapa, mak saudara sebelah bapak *pro_1st_P* *pro_1st_S* panggil *pro_3rd_DO* ikut macam biasa.
 Q103:	Sebab ayah *pro_1st_P* yang sulung, yang tengah *pro_1st_S* panggil Pak Ngah, Pak Uda, Mak Uda... sampai akhirnya yang bongsunya kita panggil *pro_3rd_IO* Pak Ucu.
 P104:	Bongsulah tu.
 Q105:	Hah *pro_3rd_S* bongsu.
@@ -162,7 +160,6 @@ P159:	Kalau dia tok perempuan, dia panggil *pro_3rd_IO* tok, kalau tok lelaki di
 P160:	*pro_3rd_S* Terbalik.
 P161:	*pro_3rd_S* Tak semestinya macam orang utara, perempuan pun dia panggil *pro_3rd_IO* Tok, lelaki *pro_3rd_S* panggil *pro_3rd_IO* Tok.
 P162:	Nenek tu tak wujud dalam sistem panggilan.
-
 P163:	Dalam adik-beradik awak, awak panggil mak ayah awak dengan apa?
 Q164:	Kita panggil ayah kita Ayah, *pro_1st_S* panggil mak kita... Mama.
 P165:	Dalam adik-beradik *pro_2nd_P* pula, bagaimana?
@@ -197,22 +194,21 @@ Q193:	Macam nombor 2 panggil nombor 3 dan seterusnya *pro_1st_S* panggil nama bi
 P194:	Kalau adik-beradik ayah awak *pro_2nd_S* panggil *pro_3rd_IO* apa?
 Q195:	Ayah saya ada 8 orang adik-beradik.
 Q196:	Saya panggil yang lelaki saya panggil *pro_3rd_IO* Ayah Long, kalau yang perempuan saya panggil *pro_3rd_IO* Wan Yong.
-P197:	Kalau adik-beradik sebelah mak?
+P197:	Kalau adik-beradik sebelah mak *pro_2nd_P* ?
 Q198:	Adik-beradik mak saya 5 orang.
 Q199:	Yang first, mak saya yang kedua *pro_1st_S* panggil *pro_3rd_IO* Mak Ngah, kemudian Mak Lang, yang ke-4 Auntie Uda dan yang last *pro_1st_S* panggil *pro_3rd_IO* Pak Usu.
-P200:	Atuk sebelah ayah?
-Q201:	Atuk, nenek *pro_1st_S* panggil *pro_3rd_IO* Opah.
+P200:	Atuk sebelah ayah *pro_2nd_P* ?
+Q201:	Atuk, nenek *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* Opah.
 P202:	Sebelah mak *pro_2nd_P* pula bagaimana?
-Q203:	Sebelah mak *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* datuk, nenek *pro_1st_S* panggil *pro_3rd_IO* Nenek.
+Q203:	Sebelah mak *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* datuk, nenek *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* Nenek.
 P204:	Ayah dan mak *pro_2nd_P* berasal dari mana?
 Q205:	Ayah saya berasal dari Tapah, Perak, mak saya KL aje.
-
-P206:	Dalam adik-beradik awak, panggilan ayah dan mak bagaimana?
+P206:	Dalam adik-beradik awak, panggilan ayah dan mak *pro_2nd_P* bagaimana?
 Q207:	*pro_1st_S* Panggil *pro_3rd_IO* Abah dengan Mak.
-P208:	Dalam adik-beradik *pro_2nd_P* *pro_2nd_S* panggil *pro_3rd_IO* macam mana?
+P208:	Dalam adik-beradik *pro_2nd_P* *pro_2nd_S* panggil *pro_2nd_IO* macam mana?
 Q209:	Yang nombor 2, *pro_3rd_S* panggil kita Kakak, adik nombor 3 *pro_3rd_S* panggil *pro_1st_IO* Kak Ika, nombor 2 *pro_3rd_S* panggil *pro_1st_IO* Kak Mimi.
 P210:	*pro_2nd_S* Panggil *pro_3rd_IO* nama sahajalah.
-P211:	Adik-beradik sebelah ayah?
+P211:	Adik-beradik sebelah ayah *pro_2nd_P* ?
 Q212:	Adik-beradik sebelah ayah *pro_1st_P* kelakar sikit.
 Q213:	Ayah kita punya abang kita panggil *pro_3rd_IO* Ayah.
 Q214:	Ayah kita punya adik, kita panggil *pro_3rd_IO* Abah.
@@ -225,15 +221,14 @@ P220:	Mak *pro_2nd_P* ada berapa orang adik-beradik?
 Q221:	*pro_3rd_S* 11 orang
 P222:	Yang nombor 11 *pro_2nd_S* panggil *pro_3rd_IO* apa?
 Q223:	Pak Cu.
-P224:	Atuk sebelah ayah?
-Q225:	*pro_1st_S* Tak sempat jumpalah.
+P224:	Atuk sebelah ayah *pro_2nd_P* ?
+Q225:	*pro_1st_S* Tak sempat jumpa*pro_3rd_DO* lah.
 Q226:	Nenek *pro_1st_P* pula Wan.
-P227:	Atuk sebelah mak?
+P227:	Atuk sebelah mak *pro_2nd_P* ?
 Q228:	Atuk dan nenek *pro_1st_P* , Wan juga.
 Q229:	Sebab *pro_3rd_S* orang Negeri Sembilan.
 P230:	Ayah *pro_2nd_P* berasal dari mana dan mak?
 Q231:	*pro_3rd_S* Negeri Sembilan, dan mak *pro_1st_P* pun sama.
-
 P232:	*pro_2nd_S* Panggil mak ayah *pro_2nd_P* bagaimana?
 Q233:	Saya panggil ayah saya Baba, *pro_1st_S* panggil arwah Mak saya Mama.
 Q234:	Sebelah mak *pro_1st_P* pak cik *pro_1st_P* *pro_1st_S* panggil *pro_3rd_IO* Ami.

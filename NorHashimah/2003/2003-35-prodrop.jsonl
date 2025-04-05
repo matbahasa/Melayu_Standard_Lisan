@@ -12,5 +12,5 @@
 {"id": 11, "text": "B12:\tSeratus lapan puluh ringgit boleh kurang lagi.", "label": [[33, 38, "1st"], [33, 38, "S"], [5, 12, "3rd"], [5, 12, "S"], [46, 50, "3rd"], [46, 50, "DO"]]}
 {"id": 12, "text": "A13:\tNi bagi seratus ringgitlah.", "label": [[8, 12, "1st"], [8, 12, "S"], [13, 20, "3rd"], [13, 20, "IO"]]}
 {"id": 13, "text": "B14:\tSeratus tak dapat, seratus lima puluh bolehlah kita bagi.", "label": [[13, 16, "1st"], [13, 16, "S"]]}
-{"id": 14, "text": "A15:\tSeratus lima puluh bolehlah, kita ambil juga ni.", "label": [[24, 32, "1st"], [24, 32, "S"], [5, 12, "3rd"], [5, 12, "S"]]}
-{"id": 15, "text": "B16:\tAmbiklah dik---kak bagi lima puluh lima saja kat Singapore tidak boleh harga tu.", "label": [[29, 33, "2nd"], [29, 33, "IO"], [64, 69, "3rd"], [64, 69, "S"], [29, 33, "3rd2"], [29, 33, "DO2"], [5, 13, "2nd"], [5, 13, "S"]]}
+{"id": 14, "text": "A15:\tSeratus lima puluh bolehlah, kita ambil juga ni.", "label": [[24, 32, "1st"], [24, 32, "S"], [5, 12, "3rd"], [5, 12, "S"], [45, 49, "3rd"], [45, 49, "DO"]]}
+{"id": 15, "text": "B16:\tAmbiklah dik---kak bagi lima puluh lima saja kat Singapore tidak boleh harga tu.", "label": [[29, 33, "2nd"], [29, 33, "IO"], [64, 69, "3rd"], [64, 69, "S"], [29, 33, "3rd2"], [29, 33, "DO2"], [5, 13, "2nd"], [5, 13, "S"], [14, 17, "3rd"], [14, 17, "DO"]]}

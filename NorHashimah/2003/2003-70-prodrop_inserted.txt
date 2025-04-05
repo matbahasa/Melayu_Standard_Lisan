@@ -5,7 +5,7 @@ B4:	*pro_1st_S* Bolehlah kurang *pro_3rd_DO* sikit lagi, pagi-pagi ni.
 A5:	*pro_3rd_S* Lima belas.
 B6:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh, dia panggil 'Jawa JK'.
 A7:	*pro_3rd_S* Lima belas bolehlah dik.
-B8:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh, kalau *pro_2nd_S* nak *pro_3rd_DO* *pro_1st_S* bagi *pro_3rd_IO* tujuh belaslah.
+B8:	*pro_3rd_S* Lima belas *pro_1st_S* tak boleh, kalau *pro_2nd_S* nak *pro_3rd_DO* *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* tujuh belaslah.
 B9:	Pasal *pro_1st_S* nak buat gori pagi-pagi ni.
 A10:	*pro_2nd_S* Bolehlah lima belas.
 B11:	*pro_3rd_S* Lima belas *pro_1st_S* tak dapat, tujuh belaslah pagi-pagi ni pasal *pro_3rd_S* batik Jawa ni, *pro_3rd_S* lima belas yang satu lagi.
@@ -52,7 +52,7 @@ A51:	Tak apalah, lama-lama jadi bukit.
 A52:	Sikit-sikit lama-lama jadi bukit, ya tak?
 A53:	*pro_2nd_S* Kiralah berapa semua tu.
 B54:	*pro_3rd_S* Seratus lima puluh tiga, sembilan helai.
-B55:	Saya kira *pro_3rd_DO* harga sama.
+B55:	Saya kira *pro_3rd_S* harga sama.
 B56:	Biasanya yang ni, saya jual *pro_3rd_DO* lapan belas, tak apalah pasal mak cik ambik banyak.
 A57:	Bolehlah *pro_2nd_S* kurang tiga ringgit lagi tu.
 B58:	Yang tiga ringgit lagi tulah yang saya punya tu, *pro_3rd_S* tak banyak.

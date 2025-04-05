@@ -42,7 +42,7 @@
 {"id": 41, "text": "A42:\tBatik flower ni berapa?", "label": []}
 {"id": 42, "text": "B43:\tBatik flower dua belas, boleh kurang sikit lagi.", "label": [[29, 34, "1st"], [29, 34, "S"], [42, 47, "3rd"], [42, 47, "DO"]]}
 {"id": 43, "text": "A44:\tSerupa juga dengan Terengganu, kat Terengganu sepuluh ringgit saja.", "label": [[5, 11, "3rd"], [5, 11, "S"]]}
-{"id": 44, "text": "B45:\tBoleh kurang lagi kalau kak nak bagi sembilan ringgit setengah.", "label": [[37, 41, "3rd"], [37, 41, "DO"], [42, 50, "3rd"], [42, 50, "IO"], [5, 10, "1st"], [5, 10, "S"], [37, 41, "1st2"], [37, 41, "S2"], [18, 22, "3rd"], [18, 22, "DO"]]}
+{"id": 44, "text": "B45:\tBoleh kurang lagi kalau kak nak bagi sembilan ringgit setengah.", "label": [[37, 41, "3rd"], [37, 41, "DO"], [42, 50, "2nd"], [42, 50, "IO"], [42, 50, "3rd2"], [42, 50, "DO2"], [5, 10, "1st"], [5, 10, "S"], [37, 41, "1st2"], [37, 41, "S2"], [18, 22, "3rd"], [18, 22, "DO"]]}
 {"id": 45, "text": "A46:\tMinta murahlah sikit.", "label": [[5, 10, "1st"], [5, 10, "S"], [11, 19, "2nd"], [11, 19, "DO"]]}
 {"id": 46, "text": "B47:\tSerupalah kak, dia besar sikit saja, beza lima puluh sen yah tu dengan Terengganu.", "label": [[42, 46, "3rd"], [42, 46, "S"], [5, 14, "3rd"], [5, 14, "S"]]}
 {"id": 47, "text": "A48:\tLapan ringgitlah sebab dia kain sama saja.", "label": [[5, 10, "3rd"], [5, 10, "S"]]}
@@ -56,6 +56,6 @@
 {"id": 55, "text": "B56:\tTak boleh.", "label": [[5, 8, "1st"], [5, 8, "S"]]}
 {"id": 56, "text": "A57:\tTak boleh, saya nak balik dahlah.", "label": [[5, 8, "2nd"], [5, 8, "S"]]}
 {"id": 57, "text": "B58:\tKak nak berapa helai?", "label": []}
-{"id": 58, "text": "B59:\tAmbik dua helai ya!", "label": [[5, 10, "2nd"], [5, 10, "S"], [11, 14, "3rd"], [11, 14, "IO"]]}
-{"id": 59, "text": "B60:\tAmbik dua helailah, saya bagi harga sembilan ringgit jadi dua---lapan belas.", "label": [[5, 10, "2nd"], [5, 10, "S"], [11, 14, "3rd"], [11, 14, "IO"], [35, 40, "2nd"], [35, 40, "IO"], [69, 74, "3rd"], [69, 74, "S"], [35, 40, "3rd2"], [35, 40, "DO2"]]}
-{"id": 60, "text": "B61:\tJual kak ya!", "label": [[5, 9, "1st"], [5, 9, "S"]]}
+{"id": 58, "text": "B59:\tAmbik dua helai ya!", "label": [[5, 10, "2nd"], [5, 10, "S"]]}
+{"id": 59, "text": "B60:\tAmbik dua helailah, saya bagi harga sembilan ringgit jadi dua---lapan belas.", "label": [[5, 10, "2nd"], [5, 10, "S"], [35, 40, "2nd"], [35, 40, "IO"], [69, 74, "3rd"], [69, 74, "S"], [35, 40, "3rd2"], [35, 40, "DO2"]]}
+{"id": 60, "text": "B61:\tJual kak ya!", "label": [[5, 9, "1st"], [5, 9, "S"], [10, 13, "3rd"], [10, 13, "DO"]]}

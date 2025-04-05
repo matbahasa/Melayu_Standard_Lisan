@@ -4,7 +4,7 @@ B3:	Mari *pro_1st_S* nak ukur adik ni, mana besar *pro_3rd_S* dengan adik ni.
 A4:	Lebih kurang dah.
 B5:	*pro_3rd_S* Sedang molek dah, baju *pro_3rd_P* *pro_2nd_S* pakai labuh sikit.
 A6:	Lepas tu berapa ni.
-B7:	Mari *pro_1st_S* nak kira *pro_3rd_DO* , saya bagi *pro_2nd_IO* hanya yang paling murah, harga paling istimewa ni.
+B7:	Mari *pro_1st_S* nak kira, saya bagi *pro_2nd_IO* hanya yang paling murah, harga paling istimewa ni.
 A8:	*pro_2nd_S* Bagi *pro_1st_IO* murah-murah dahlah.
 A9:	*pro_1st_S* Tak nak mahal-mahal ni.
 B10:	Semuanya enam belas ringgit setengah.

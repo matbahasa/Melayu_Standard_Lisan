@@ -44,7 +44,7 @@
 {"id": 43, "text": "S44:\tJadi I panggil Wan Chor.", "label": [[20, 23, "3rd"], [20, 23, "IO"]]}
 {"id": 44, "text": "S45:\tYang lagi satu yang duduk kat Taiping, I panggil Mak Besaq.", "label": [[54, 57, "3rd"], [54, 57, "IO"]]}
 {"id": 45, "text": "S46:\tPasal dia pun elder than my mother.", "label": []}
-{"id": 46, "text": "S47:\tSo kira campurlah.", "label": [[13, 22, "1st"], [13, 22, "S"]]}
+{"id": 46, "text": "S47:\tSo kira campurlah.", "label": [[13, 22, "1st"], [13, 22, "S"], [8, 12, "1st"], [8, 12, "S"]]}
 {"id": 47, "text": "S48:\tKalau yang father side because dia orang Kedah, / panggil macam Kedah.", "label": [[55, 62, "1st"], [55, 62, "S"], [63, 68, "3rd"], [63, 68, "DO"]]}
 {"id": 48, "text": "S49:\tMy mother side, di Perak, I panggil campur Peraklah.", "label": []}
 {"id": 49, "text": "P50:\tShelina sekarang anak berapa orang?", "label": [[27, 33, "2nd"], [27, 33, "P"]]}
@@ -54,7 +54,6 @@
 {"id": 53, "text": "S54:\tNama dia Raja Farah.", "label": []}
 {"id": 54, "text": "S55:\tTetapi adik-adik panggil dia Abang, selalu pada masyarakat abang tu laki-laki, tetapi dalam keluarga my husband, biasa perempuan yang tua dia panggil Abang.", "label": [[22, 29, "3rd"], [22, 29, "P"], [64, 69, "1st"], [64, 69, "P"]]}
 {"id": 55, "text": "P56:\tMacam orang Johor jugalah tu.", "label": []}
-{"id": 55.5, "text": "", "label": []}
 {"id": 56, "text": "S57:\tAa... abang.", "label": []}
 {"id": 57, "text": "S58:\tFarah yang eldest tu, adik-adik panggil Abang.", "label": [[37, 44, "3rd"], [37, 44, "P"], [45, 50, "3rd"], [45, 50, "IO"]]}
 {"id": 58, "text": "S59:\tTetapi bila datang kat Farhana, Fadlina semua... maybe I yang tak biasalah... I biasa panggil kakak-kakak.", "label": [[99, 110, "3rd"], [99, 110, "IO"]]}
@@ -73,8 +72,7 @@
 {"id": 71, "text": "S72:\tKemudian, tak panggil nenek atau sebagainya.", "label": [[15, 18, "3rd"], [15, 18, "S"]]}
 {"id": 72, "text": "S73:\tBelah my husband, my mother, diorang panggil Tok Ne, dulu arwah my father-in-law diorang panggil Tok Atan.", "label": [[50, 53, "3rd"], [50, 53, "IO"], [102, 105, "3rd"], [102, 105, "IO"]]}
 {"id": 73, "text": "P74:\tItu ajelah ye... terima kasih Puan Shelina.", "label": []}
-{"id": 73.5, "text": "", "label": []}
-{"id": 74, "text": "P75:\tBoleh ceritakan sedikit kata panggilan dalam keluarga you.", "label": []}
+{"id": 74, "text": "P75:\tBoleh ceritakan sedikit kata panggilan dalam keluarga you.", "label": [[11, 20, "2nd"], [11, 20, "S"]]}
 {"id": 75, "text": "P76:\tAdik-beradik berapa orang?", "label": [[18, 24, "2nd"], [18, 24, "P"]]}
 {"id": 76, "text": "Q77:\tAdik-beradik 6 orang.", "label": [[18, 19, "1st"], [18, 19, "P"]]}
 {"id": 77, "text": "Q78:\tSaya yang tua.", "label": []}
@@ -101,7 +99,7 @@
 {"id": 98, "text": "Q99:\tBiasa kita panggil perempuan Nenek.", "label": []}
 {"id": 99, "text": "Q100:\tDi sini kita panggil Nenek tetapi lelaki.", "label": [[40, 46, "3rd"], [40, 46, "S"], [27, 32, "3rd"], [27, 32, "IO"]]}
 {"id": 100, "text": "P101:\tAda juga benda tu berlaku.", "label": []}
-{"id": 101, "text": "Q102:\tBapa, mak saudara sebelah bapak panggil ikut macam biasa.", "label": [[38, 45, "1st"], [38, 45, "P"], [38, 45, "1st2"], [38, 45, "S2"], [46, 50, "3rd"], [46, 50, "IO"]]}
+{"id": 101, "text": "Q102:\tBapa, mak saudara sebelah bapak panggil ikut macam biasa.", "label": [[38, 45, "1st"], [38, 45, "P"], [38, 45, "1st2"], [38, 45, "S2"], [46, 50, "3rd"], [46, 50, "DO"]]}
 {"id": 102, "text": "Q103:\tSebab ayah yang sulung, yang tengah panggil Pak Ngah, Pak Uda, Mak Uda... sampai akhirnya yang bongsunya kita panggil Pak Ucu.", "label": [[17, 21, "1st"], [17, 21, "P"], [42, 49, "1st"], [42, 49, "S"], [124, 127, "3rd"], [124, 127, "IO"]]}
 {"id": 103, "text": "P104:\tBongsulah tu.", "label": []}
 {"id": 104, "text": "Q105:\tHah bongsu.", "label": [[10, 16, "3rd"], [10, 16, "S"]]}
@@ -162,7 +160,6 @@
 {"id": 159, "text": "P160:\tTerbalik.", "label": [[6, 14, "3rd"], [6, 14, "S"]]}
 {"id": 160, "text": "P161:\tTak semestinya macam orang utara, perempuan pun dia panggil Tok, lelaki panggil Tok.", "label": [[66, 69, "3rd"], [66, 69, "IO"], [78, 85, "3rd"], [78, 85, "S"], [86, 89, "3rd"], [86, 89, "IO"], [6, 9, "3rd"], [6, 9, "S"]]}
 {"id": 161, "text": "P162:\tNenek tu tak wujud dalam sistem panggilan.", "label": []}
-{"id": 161.5, "text": "", "label": []}
 {"id": 162, "text": "P163:\tDalam adik-beradik awak, awak panggil mak ayah awak dengan apa?", "label": []}
 {"id": 163, "text": "Q164:\tKita panggil ayah kita Ayah, panggil mak kita... Mama.", "label": [[35, 42, "1st"], [35, 42, "S"]]}
 {"id": 164, "text": "P165:\tDalam adik-beradik pula, bagaimana?", "label": [[25, 29, "2nd"], [25, 29, "P"]]}
@@ -197,22 +194,21 @@
 {"id": 193, "text": "P194:\tKalau adik-beradik ayah awak panggil apa?", "label": [[35, 42, "2nd"], [35, 42, "S"], [43, 46, "3rd"], [43, 46, "IO"]]}
 {"id": 194, "text": "Q195:\tAyah saya ada 8 orang adik-beradik.", "label": []}
 {"id": 195, "text": "Q196:\tSaya panggil yang lelaki saya panggil Ayah Long, kalau yang perempuan saya panggil Wan Yong.", "label": [[44, 48, "3rd"], [44, 48, "IO"], [89, 92, "3rd"], [89, 92, "IO"]]}
-{"id": 196, "text": "P197:\tKalau adik-beradik sebelah mak?", "label": []}
+{"id": 196, "text": "P197:\tKalau adik-beradik sebelah mak?", "label": [[36, 37, "2nd"], [36, 37, "P"]]}
 {"id": 197, "text": "Q198:\tAdik-beradik mak saya 5 orang.", "label": []}
 {"id": 198, "text": "Q199:\tYang first, mak saya yang kedua panggil Mak Ngah, kemudian Mak Lang, yang ke-4 Auntie Uda dan yang last panggil Pak Usu.", "label": [[38, 45, "1st"], [38, 45, "S"], [46, 49, "3rd"], [46, 49, "IO"], [110, 117, "1st"], [110, 117, "S"], [118, 121, "3rd"], [118, 121, "IO"]]}
-{"id": 199, "text": "P200:\tAtuk sebelah ayah?", "label": []}
-{"id": 200, "text": "Q201:\tAtuk, nenek panggil Opah.", "label": [[18, 25, "1st"], [18, 25, "S"], [26, 30, "3rd"], [26, 30, "IO"]]}
+{"id": 199, "text": "P200:\tAtuk sebelah ayah?", "label": [[23, 23, "2nd"], [23, 23, "P"]]}
+{"id": 200, "text": "Q201:\tAtuk, nenek panggil Opah.", "label": [[18, 25, "1st"], [18, 25, "P"], [18, 25, "1st2"], [18, 25, "S2"], [26, 30, "3rd"], [26, 30, "IO"]]}
 {"id": 201, "text": "P202:\tSebelah mak pula bagaimana?", "label": [[18, 22, "2nd"], [18, 22, "P"]]}
-{"id": 202, "text": "Q203:\tSebelah mak panggil datuk, nenek panggil Nenek.", "label": [[26, 31, "3rd"], [26, 31, "IO"], [39, 46, "1st"], [39, 46, "S"], [47, 52, "3rd"], [47, 52, "IO"], [18, 25, "1st"], [18, 25, "P"], [18, 25, "1st2"], [18, 25, "S2"]]}
+{"id": 202, "text": "Q203:\tSebelah mak panggil datuk, nenek panggil Nenek.", "label": [[26, 31, "3rd"], [26, 31, "IO"], [39, 46, "1st"], [39, 46, "P"], [39, 46, "1st2"], [39, 46, "S2"], [47, 52, "3rd"], [47, 52, "IO"], [18, 25, "1st"], [18, 25, "P"], [18, 25, "1st2"], [18, 25, "S2"]]}
 {"id": 203, "text": "P204:\tAyah dan mak berasal dari mana?", "label": [[19, 26, "2nd"], [19, 26, "P"]]}
 {"id": 204, "text": "Q205:\tAyah saya berasal dari Tapah, Perak, mak saya KL aje.", "label": []}
-{"id": 204.5, "text": "", "label": []}
-{"id": 205, "text": "P206:\tDalam adik-beradik awak, panggilan ayah dan mak bagaimana?", "label": []}
+{"id": 205, "text": "P206:\tDalam adik-beradik awak, panggilan ayah dan mak bagaimana?", "label": [[54, 63, "2nd"], [54, 63, "P"]]}
 {"id": 206, "text": "Q207:\tPanggil Abah dengan Mak.", "label": [[6, 13, "1st"], [6, 13, "S"], [14, 18, "3rd"], [14, 18, "IO"]]}
-{"id": 207, "text": "P208:\tDalam adik-beradik panggil macam mana?", "label": [[25, 32, "2nd"], [25, 32, "P"], [25, 32, "2nd2"], [25, 32, "S2"], [33, 38, "3rd"], [33, 38, "IO"]]}
+{"id": 207, "text": "P208:\tDalam adik-beradik panggil macam mana?", "label": [[25, 32, "2nd"], [25, 32, "P"], [25, 32, "2nd2"], [25, 32, "S2"], [33, 38, "2nd"], [33, 38, "IO"]]}
 {"id": 208, "text": "Q209:\tYang nombor 2, panggil kita Kakak, adik nombor 3 panggil Kak Ika, nombor 2 panggil Kak Mimi.", "label": [[21, 28, "3rd"], [21, 28, "S"], [63, 66, "1st"], [63, 66, "IO"], [89, 92, "1st"], [89, 92, "IO"], [55, 62, "3rd"], [55, 62, "S"], [81, 88, "3rd"], [81, 88, "S"]]}
 {"id": 209, "text": "P210:\tPanggil nama sahajalah.", "label": [[6, 13, "2nd"], [6, 13, "S"], [14, 18, "3rd"], [14, 18, "IO"]]}
-{"id": 210, "text": "P211:\tAdik-beradik sebelah ayah?", "label": []}
+{"id": 210, "text": "P211:\tAdik-beradik sebelah ayah?", "label": [[31, 32, "2nd"], [31, 32, "P"]]}
 {"id": 211, "text": "Q212:\tAdik-beradik sebelah ayah kelakar sikit.", "label": [[32, 39, "1st"], [32, 39, "P"]]}
 {"id": 212, "text": "Q213:\tAyah kita punya abang kita panggil Ayah.", "label": [[41, 45, "3rd"], [41, 45, "IO"]]}
 {"id": 213, "text": "Q214:\tAyah kita punya adik, kita panggil Abah.", "label": [[41, 45, "3rd"], [41, 45, "IO"]]}
@@ -225,15 +221,14 @@
 {"id": 220, "text": "Q221:\t11 orang", "label": [[6, 8, "3rd"], [6, 8, "S"]]}
 {"id": 221, "text": "P222:\tYang nombor 11 panggil apa?", "label": [[21, 28, "2nd"], [21, 28, "S"], [29, 32, "3rd"], [29, 32, "IO"]]}
 {"id": 222, "text": "Q223:\tPak Cu.", "label": []}
-{"id": 223, "text": "P224:\tAtuk sebelah ayah?", "label": []}
-{"id": 224, "text": "Q225:\tTak sempat jumpalah.", "label": [[6, 9, "1st"], [6, 9, "S"]]}
+{"id": 223, "text": "P224:\tAtuk sebelah ayah?", "label": [[23, 24, "2nd"], [23, 24, "P"]]}
+{"id": 224, "text": "Q225:\tTak sempat jumpalah.", "label": [[6, 9, "1st"], [6, 9, "S"], [22, 25, "3rd"], [22, 25, "DO"]]}
 {"id": 225, "text": "Q226:\tNenek pula Wan.", "label": [[12, 16, "1st"], [12, 16, "P"]]}
-{"id": 226, "text": "P227:\tAtuk sebelah mak?", "label": []}
+{"id": 226, "text": "P227:\tAtuk sebelah mak?", "label": [[22, 23, "2nd"], [22, 23, "P"]]}
 {"id": 227, "text": "Q228:\tAtuk dan nenek, Wan juga.", "label": [[20, 21, "1st"], [20, 21, "P"]]}
 {"id": 228, "text": "Q229:\tSebab orang Negeri Sembilan.", "label": [[12, 17, "3rd"], [12, 17, "S"]]}
 {"id": 229, "text": "P230:\tAyah berasal dari mana dan mak?", "label": [[11, 18, "2nd"], [11, 18, "P"]]}
 {"id": 230, "text": "Q231:\tNegeri Sembilan, dan mak pun sama.", "label": [[31, 34, "1st"], [31, 34, "P"], [6, 12, "3rd"], [6, 12, "S"]]}
-{"id": 230.5, "text": "", "label": []}
 {"id": 231, "text": "P232:\tPanggil mak ayah bagaimana?", "label": [[6, 13, "2nd"], [6, 13, "S"], [23, 32, "2nd"], [23, 32, "P"]]}
 {"id": 232, "text": "Q233:\tSaya panggil ayah saya Baba, panggil arwah Mak saya Mama.", "label": [[35, 42, "1st"], [35, 42, "S"]]}
 {"id": 233, "text": "Q234:\tSebelah mak pak cik panggil Ami.", "label": [[18, 21, "1st"], [18, 21, "P"], [34, 37, "3rd"], [34, 37, "IO"], [26, 33, "1st"], [26, 33, "P"], [26, 33, "1st2"], [26, 33, "S2"]]}

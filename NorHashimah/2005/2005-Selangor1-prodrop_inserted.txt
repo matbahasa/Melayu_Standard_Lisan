@@ -59,7 +59,6 @@ C58:	Sebab Dadi ni bahasa Sanskrit sebab dia ada dadi untuk datuk perempuan.
 C59:	Kalau pada datuk lelaki dipanggil Dada.
 C60:	Contohnya ada orang Melayu kita gunakan Dada -*pro_1st_S* minta maaf jika saya sebut nama.
 C61:	Perkataan dada tu juga ada digunakan pada orang Melayu kita dalam memanggil nama.
-
 C62:	Pada datuk lelaki, orang India, yang ada keturunan Benggali sikit-sikit tu, dia panggil Dadi.
 C63:	Jadi saya panggil mak kepada bapak saya tu Dadi.
 C64:	Bapa kepada bapak saya, saya tak jumpa.
@@ -69,21 +68,17 @@ C67:	Kemudian ada tuk perempuan, tu panggilan orang India sebelah Keling dia kat
 C68:	Tuk lelaki dipanggil Nana, sedangkan biasanya kita tahu Nana ni panggilan abang pada orang Tamil.
 C69:	Tetapi ada satu kaum daripada India tu, Nani tu tuk perempuan sebab ada orang kampung saya panggil Tuk Nani.
 C70:	Dan nana yang saya tahu ni, ada satu guru Melayu anak dia panggil kepada dia nana.
-
 C71:	Ada orang lain panggil nana tu, gaya tu macam tuk-tuk sedara.
 C72:	Jadi anak dia pun dengar orang panggil bapak dia Nana, dia panggil bapak dia nana, orang Melayu kita.
 C73:	Dia kata, mana bapak awak, mana nana awak?
 C74:	Dia kata nana pergi pekan.
-
 C75:	Dia panggil bapa dia nana kemudian bapa dia punya cucu sedara tu panggil dia nana.
 C76:	Dia tu tuklah.
 C77:	Nana lawannya Nani, Dada lawannya Dadi, saudara lawan sedarilah.
 C78:	Tu kaedah biasa tu.
 C79:	Itu kaedah bahasa sanskrit tu, lelakinya bunyi /a/, perempuan bunyi /i/, saudara-saudari, siswa-siswi.
 C80:	ltu yang biasa digunakan dan sekarang ni.
-
 C81:	Pada saya pula, cucu saya panggil saya Tok Wan.
-
 P82:	Cucu *pro_2nd_P* panggil cikgu Tok wanlah.
 C83:	Tok laki-laki dan Tok Wan, pada Tok perempuan *pro_3rd_S* panggil Tok sahaja.
 C84:	Jadi ada tempat pulak, Tok wan tu disebut pada datuk sebelah perempuan.
@@ -95,7 +90,6 @@ C89:	Dia tengok gambar opah, dia orang tak tahu apa makna Opah kecuali *pro_3rd_
 C90:	Saya rasa sepatunya terutamanya macam badan-badan yang ada kaitan dengan perkembangan bahasa, menyusur supaya apakah panggilan untuk bapak, berapa banyak panggilan untuk abah/bapak, Ayah, Dadi, Mami.
 C91:	Tetapi mami di PP, kata anak mami tulah, mati tu macam mak sedara atau auntie, macam Indonesia panggil Tanter.
 C92:	Tulah di PP *pro_3rd_S* panggil Mami.
-
 C93:	Mamak ni sebenarnya kita panggil mamak, sedangkan macam orang Melayu maksudnya mamak ni, sama ada Jawa atau sebagainya.
 C94:	Tetapi memandangkan mamak sama makna serupa kakang dengan kakak, serupa ibung dengan ibu/ading dengan adik.
 P95:	Dari segi tatatingkat tu ada perbezaan kata.
@@ -260,15 +254,15 @@ C253:	Tu kalau 11 ambil 6 lah, 6 dipanggil Angah.
 C254:	Tetapi silapnya Angah dah diambil untuk nombor 2 tu pada awal-awal lagi.
 C255:	*pro_1st_S* Nak tukar *pro_3rd_DO* *pro_1st_S* tak boleh.
 C256:	Kalau kita nak tukar *pro_3rd_DO* , *pro_1st_S* nak adjust *pro_3rd_DO* , *pro_1st_S* dah tak boleh nak adjust *pro_3rd_DO* dah.
-C257:	Jadi sebab tu, saya tak tabu nak buat macam mana.
+C257:	Jadi sebab tu, saya tak tahu nak buat macam mana.
 C258:	Dah cucu saya tanya *pro_1st_DO* , saya kena jawablah.
 C259:	Saya kira siapa dia 11 beradik, yang ke-3 tu anak.
 C260:	Dia kata macam mana ni Tok Wan.
 C261:	Dia Tok Wan kaji ni, angka ni dia punya graf.
-C262:	Awak susunlah balik.
+C262:	Awak susunlah *pro_3rd_DO* balik.
 C263:	Awak panggil nombor 2 Angah, panggilan tu salah.
-P264:	Jadi kalau lebih daripada 10 tu, macam mana, katalah adik-beradik yang kecil sekali, 5 bongsu sekali, yang 11 selalu bongsu.
-C265:	Bongsulah.
+P264:	Jadi kalau *pro_3rd_S* lebih daripada 10 tu, macam mana, katalah *pro_3rd_S* adik-beradik yang kecil sekali, 5 bongsu sekali, yang 11 selalu bongsu.
+C265:	*pro_3rd_S* Bongsulah.
 C266:	Tetapi sebelum mana kita tahu nombor 11 tu bongsu.
 C267:	Takkan nombor 7 tu bongsu.
 C268:	Ada yang nombor 5 bongsu dan sebagainya bongsu, macam mana kita nak adjust *pro_3rd_DO* *pro_1st_S* tak boleh.
@@ -349,7 +343,6 @@ C342:	Kita lihat keadaan di mana dunia, masa, tempat.
 C343:	Sekarang ni *pro_1st_S* kena beritahu mereka, yang tuan ni begini, yang puan ni bukanlah asalnya begitu, tetapi sekarang *pro_3rd_S* telah digunakan terlebih dahulu.
 C344:	Kalau tidak kita nanti, manalah ni *pro_3rd_S* tak boleh pakai dah.
 C345:	Dia ada sistem, dia ada kaedah.
-
 C346:	Tua tu asalnya Uwa, tu dia ada pak we... pak we... uwa tu lebih tua... uwa... telah uwa tu tualah.
 C347:	Mengapa pinta mengapa minta... mengapa esok... mengapa besok, mengapa alah... mengapa kalah, di mana alah... di mana kalah... tetapi bahan tak mencukupi ni terpaksa yang saya tahu cuma kalau mula dengan 's' dia menunjukkan persamaan.
 C348:	Kalau sini tu sama dengan situ... sama dengan sana.
@@ -411,7 +404,6 @@ C403:	Kata bahasa Jawa kata darah... adi... tinggi... an... orang darah tinggi t
 C404:	Santri, *pro_3rd_S* belajar sekolah agama tu santrilah.
 C405:	Kalau tempat belajar tu dipanggil santren....
 C406:	Apa saya kata ni, saya nak buktikan yang *pro_3rd_S* ada bukti.
-
 C407:	Mamak tu pak sedara... kalau bahasa Jawa dipanggil Maman.
 C408:	Pasal tu orang Melayu kita ambil perkataan maman tu untuk panggil PM, Bendahara, *pro_3rd_S* dipanggil Mamak Bendahara.
 C409:	Mamak Gahara.
@@ -441,7 +433,6 @@ C432:	Dia punya tulisan dulu dikaji balik.
 C433:	Sayid Syeikh al-Hadi, Abdullah Munsyi.
 C434:	Benda tu kadangkala ada benda-benda yang boleh dianalisis balik dan digunakan.
 C435:	Macam buku warisan tentang hubungan kata, tulisan Jawa... *pro_3rd_S* jadi dikaji.
-
 C436:	Mungkin pada masa saya sekarang, saya himpun-himpun dan beritahu pada anak saya mungkin masa ni, *pro_2nd_S* nak buat tesis ke... mungkin sebab pada masa diorang nanti, banyak kemudahan ada.
 C437:	Mungkin pada masa depan tu *pro_3rd_S* pakai CD aje... *pro_3rd_S* bubuh CD.
 C438:	Jadi saya kutip saya simpan.

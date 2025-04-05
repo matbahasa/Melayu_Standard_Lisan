@@ -5,7 +5,7 @@
 {"id": 4, "text": "A5:\tLima belas.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
 {"id": 5, "text": "B6:\tLima belas tak boleh, dia panggil 'Jawa JK'.", "label": [[15, 18, "1st"], [15, 18, "S"], [4, 8, "3rd"], [4, 8, "S"]]}
 {"id": 6, "text": "A7:\tLima belas bolehlah dik.", "label": [[4, 8, "3rd"], [4, 8, "S"]]}
-{"id": 7, "text": "B8:\tLima belas tak boleh, kalau nak bagi tujuh belaslah.", "label": [[15, 18, "1st"], [15, 18, "S"], [32, 35, "2nd"], [32, 35, "S"], [41, 46, "3rd"], [41, 46, "IO"], [36, 40, "3rd"], [36, 40, "DO"], [36, 40, "1st2"], [36, 40, "S2"], [4, 8, "3rd"], [4, 8, "S"]]}
+{"id": 7, "text": "B8:\tLima belas tak boleh, kalau nak bagi tujuh belaslah.", "label": [[15, 18, "1st"], [15, 18, "S"], [32, 35, "2nd"], [32, 35, "S"], [41, 46, "2nd"], [41, 46, "IO"], [41, 46, "3rd2"], [41, 46, "DO2"], [36, 40, "3rd"], [36, 40, "DO"], [36, 40, "1st2"], [36, 40, "S2"], [4, 8, "3rd"], [4, 8, "S"]]}
 {"id": 8, "text": "B9:\tPasal nak buat gori pagi-pagi ni.", "label": [[10, 13, "1st"], [10, 13, "S"]]}
 {"id": 9, "text": "A10:\tBolehlah lima belas.", "label": [[5, 13, "2nd"], [5, 13, "S"]]}
 {"id": 10, "text": "B11:\tLima belas tak dapat, tujuh belaslah pagi-pagi ni pasal batik Jawa ni, lima belas yang satu lagi.", "label": [[16, 19, "1st"], [16, 19, "S"], [61, 66, "3rd"], [61, 66, "S"], [76, 80, "3rd"], [76, 80, "S"], [5, 9, "3rd"], [5, 9, "S"]]}
@@ -52,7 +52,7 @@
 {"id": 51, "text": "A52:\tSikit-sikit lama-lama jadi bukit, ya tak?", "label": []}
 {"id": 52, "text": "A53:\tKiralah berapa semua tu.", "label": [[5, 12, "2nd"], [5, 12, "S"]]}
 {"id": 53, "text": "B54:\tSeratus lima puluh tiga, sembilan helai.", "label": [[5, 12, "3rd"], [5, 12, "S"]]}
-{"id": 54, "text": "B55:\tSaya kira harga sama.", "label": [[15, 20, "3rd"], [15, 20, "DO"]]}
+{"id": 54, "text": "B55:\tSaya kira harga sama.", "label": [[15, 20, "3rd"], [15, 20, "S"]]}
 {"id": 55, "text": "B56:\tBiasanya yang ni, saya jual lapan belas, tak apalah pasal mak cik ambik banyak.", "label": [[33, 38, "3rd"], [33, 38, "DO"]]}
 {"id": 56, "text": "A57:\tBolehlah kurang tiga ringgit lagi tu.", "label": [[14, 20, "2nd"], [14, 20, "S"]]}
 {"id": 57, "text": "B58:\tYang tiga ringgit lagi tulah yang saya punya tu, tak banyak.", "label": [[54, 57, "3rd"], [54, 57, "S"]]}

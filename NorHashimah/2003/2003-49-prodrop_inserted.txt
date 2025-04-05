@@ -3,7 +3,7 @@ B2:	Yang tu lapan belas.
 A3:	Hih... *pro_1st_S* minta tawarlah.
 B4:	Hih... kita bagi *pro_3rd_IO* empat belaslah, harga sebenar *pro_3rd_P* mahal tu sebab *pro_3rd_S* kain jojet.
 A5:	*pro_3rd_S* Dua belas?
-B6:	*pro_1st_S* Mintak *pro_2nd_IO* *pro_3rd_DO* lima puluh sen lagilah.
+B6:	*pro_1st_S* Mintak *pro_2nd_IO* lima puluh sen lagilah.
 A7:	Alah... lima puluh sen pun *pro_2nd_S* nak kira.
 B8:	*pro_2nd_S* Nak banyak ke?
 B9:	Ni *pro_1st_S* nak buat gori ni, *pro_3rd_S* mula-mula.

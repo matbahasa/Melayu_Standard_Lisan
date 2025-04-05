@@ -6,6 +6,6 @@
 {"id": 5, "text": "B6:\tTengok-tengoklah dulu, kalau boleh kita bagi kurang, yang dua ni ke?", "label": [[4, 20, "2nd"], [4, 20, "S"], [49, 55, "2nd"], [49, 55, "IO"], [21, 25, "3rd"], [21, 25, "DO"]]}
 {"id": 6, "text": "B7:\tMacam nilah, kita bagi tiga puluh cukup.", "label": [[27, 31, "2nd"], [27, 31, "IO"], [27, 31, "3rd2"], [27, 31, "DO2"]]}
 {"id": 7, "text": "A8:\tSikit lagilah kak.", "label": []}
-{"id": 8, "text": "B9:\tMurah dah tu dik, mana-mana adik pergi pun, orang letak harga tu juga, pasal adik ambil dua, kak bagi tiga puluh ringgit.", "label": [[60, 65, "3rd"], [60, 65, "DO"], [92, 95, "3rd"], [92, 95, "IO"], [106, 110, "2nd"], [106, 110, "IO"], [106, 110, "3rd2"], [106, 110, "DO2"]]}
+{"id": 8, "text": "B9:\tMurah dah tu dik, mana-mana adik pergi pun, orang letak harga tu juga, pasal adik ambil dua, kak bagi tiga puluh ringgit.", "label": [[60, 65, "3rd"], [60, 65, "DO"], [92, 95, "3rd"], [92, 95, "IO"], [106, 110, "2nd"], [106, 110, "IO"], [106, 110, "3rd2"], [106, 110, "DO2"], [4, 9, "3rd"], [4, 9, "S"]]}
 {"id": 9, "text": "A10:\tBagilah kurang satu ringgit lagi.", "label": [[5, 12, "2nd"], [5, 12, "S"], [13, 19, "1st"], [13, 19, "IO"], [13, 19, "3rd2"], [13, 19, "DO2"]]}
 {"id": 10, "text": "B11:\tBiarlah tak apa, tahan kain ni, bukannya tak tahan.", "label": [[5, 12, "1st"], [5, 12, "S"], [46, 49, "3rd"], [46, 49, "S"]]}

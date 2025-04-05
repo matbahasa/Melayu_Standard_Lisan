@@ -4,7 +4,7 @@ B3:	*pro_3rd_S* Dua puluh.
 A4:	*pro_3rd_S* Lima belaslah.
 B5:	*pro_2nd_S* Beli *pro_3rd_DO* *pro_1st_S* tak boleh, *pro_3rd_S* mari pun *pro_1st_S* tak boleh, *pro_1st_S* cakap yang sungguh, *pro_3rd_S* mari pun *pro_1st_S* tidak boleh.
 A6:	*pro_3rd_S* Lima belaslah.
-B7:	*pro_1st_S* Tidak boleh, *pro_1st_S* bagi *pro_3rd_IO* tujuh belaslah, *pro_1st_S* boleh lima puluh sen yah.
+B7:	*pro_1st_S* Tidak boleh, *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* tujuh belaslah, *pro_1st_S* boleh lima puluh sen yah.
 B8:	*pro_1st_S* Cakap yang sungguh.
 B9:	Selalunya *pro_1st_S* jual *pro_3rd_DO* dua puluh atau sembilan belas.
 A10:	Biarlah...

@@ -1,7 +1,7 @@
 A1:	Berapa ni?
 B2:	Yang ni empat puluh lima, yang ni murah sikit tiga puluh lima, kulit *pro_3rd_P* lainlah.
 B3:	Kulit *pro_3rd_P* lembut, yang ni kulit keras sikit.
-B4:	Yang ni tiga puluh lapan, kalau kak nak *pro_3rd_DO* *pro_1st_S* boleh bagi *pro_2nd_IO* kuranglah.
+B4:	Yang ni tiga puluh lapan, kalau kak nak *pro_3rd_DO* *pro_1st_S* boleh bagi *pro_2nd_IO* *pro_3rd_DO* kuranglah.
 A5:	*pro_3rd_S* Dua puluh lima *pro_2nd_S* boleh?
 B6:	*pro_1st_S* Tak boleh, ginilah kalau kak nak *pro_3rd_DO* , kita bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluhlah.
 A7:	*pro_3rd_S* Dua puluh limalah.
@@ -33,7 +33,7 @@ B32:	*pro_1st_S* Bagi tahu *pro_2nd_DO* betul tu.
 A33:	*pro_3rd_S* Dua puluh limalah.
 B34:	Kalau *pro_1st_S* boleh bagi *pro_2nd_DO* , kita bagi *pro_2nd_DO* dah tu.
 B35:	Itu pun harga *pro_3rd_P* murah benar tu, pasal barang baru sampai, *pro_1st_S* nak bagi jadilah sebutir sebab barang kita tidak tinggi, sekejap lagi habislah barang ni kak.
-B36:	*pro_1st_S* Kira *pro_3rd_DO* ginilah, *pro_1st_S* minta *pro_2nd_DO* dua ringgit lagilah *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh tujuh.
+B36:	*pro_1st_S* Kira *pro_3rd_S* ginilah, *pro_1st_S* minta *pro_2nd_DO* dua ringgit lagilah *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* dua puluh tujuh.
 A37:	*pro_3rd_S* Satu ringgit sudahlah, itupun *pro_3rd_S* mahal dah tu.
 B38:	Kak nak yang mana?
 B39:	*pro_3rd_S* Mahal apa lagi kak, yang ni tiga puluh lima, itu yang kecil tu.

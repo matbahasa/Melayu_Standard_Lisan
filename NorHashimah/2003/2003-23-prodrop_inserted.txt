@@ -14,7 +14,7 @@ B13:	*pro_3rd_S* Seratus lapan puluh ringgit, *pro_1st_S* boleh kurang *pro_3rd_
 A14:	Yang ni berapa *pro_2nd_S* boleh bagi *pro_1st_DO* kalau *pro_1st_S* nak beli ni?
 B15:	Adik nak berapa helai---*pro_2nd_S* cakaplah---harga tu *pro_2nd_S* jangan bimbang, *pro_1st_S* boleh kurang lagi.
 A16:	Berapa kak nak bagi?
-B17:	Ginilah kak bagi *pro_2nd_IO* *pro_3rd_DO* tiga puluh ringgit.
+B17:	Ginilah kak bagi *pro_2nd_IO* tiga puluh ringgit.
 A18:	*pro_1st_S* Tak naklah dua puluh lapan ringgit boleh?
 B19:	Ginilah dik---*pro_1st_S* bagi *pro_3rd_IO* tiga puluh ringgit.
 A20:	*pro_3rd_S* Dua puluh lapan ringgitlah.

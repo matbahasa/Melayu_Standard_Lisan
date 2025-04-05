@@ -9,7 +9,7 @@ A8:	*pro_2nd_S* Kuranglah *pro_3rd_DO* sikit, *pro_3rd_S* seluar---acu tengok.
 B9:	Yang ni *pro_3rd_S* padan?
 A10:	Berapa ni?
 B11:	Seluar ni lima belas ringgit---*pro_1st_S* boleh kurang lagi.
-B12:	Ginilah *pro_1st_S* bagi *pro_2nd_IO* *pro_3rd_DO* tiga belas ringgit setengah.
+B12:	Ginilah *pro_1st_S* bagi *pro_2nd_IO* tiga belas ringgit setengah.
 A13:	*pro_1st_S* Tak naklah mahal-mahal ni.
 B14:	*pro_3rd_S* Tak mahal dah mak cik.
 B15:	Yang ni ambo bagi lapan ringgit, yang ni tiga belas setengah---semuanya dua puluh satu ringgit setengah.
