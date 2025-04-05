@@ -1,0 +1,6 @@
+*.jsonl~
+*.txt~
+*.md~
+*.py~
+*.xml~
+*.gitignore~
