@@ -260,7 +260,7 @@ C253:	Tu kalau 11 ambil 6 lah, 6 dipanggil Angah.
 C254:	Tetapi silapnya Angah dah diambil untuk nombor 2 tu pada awal-awal lagi.
 C255:	Nak tukar tak boleh.
 C256:	Kalau kita nak tukar, nak adjust, dah tak boleh nak adjust dah.
-C257:	Jadi sebab tu, saya tak tabu nak buat macam mana.
+C257:	Jadi sebab tu, saya tak tahu nak buat macam mana.
 C258:	Dah cucu saya tanya, saya kena jawablah.
 C259:	Saya kira siapa dia 11 beradik, yang ke-3 tu anak.
 C260:	Dia kata macam mana ni Tok Wan.
