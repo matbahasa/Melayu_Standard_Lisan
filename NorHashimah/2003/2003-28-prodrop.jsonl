@@ -25,7 +25,7 @@
 {"id": 24, "text": "B25:\tAdik pilihlah yang mana adik nak.", "label": []}
 {"id": 25, "text": "B26:\tYang ni dik.", "label": []}
 {"id": 26, "text": "A27:\tTak naklah merah sangat.", "label": [[5, 8, "1st"], [5, 8, "S"], [16, 21, "3rd"], [16, 21, "DO"], [16, 21, "3rd2"], [16, 21, "S2"]]}
-{"id": 27, "text": "B28:\tNak yang mahal dik---ambik yang nilah Kak Dah bagi empat puluh lima ringgit.", "label": [[26, 31, "2nd"], [26, 31, "S"], [56, 61, "2nd"], [56, 61, "IO"], [56, 61, "3rd2"], [56, 61, "DO2"]]}
+{"id": 27, "text": "B28:\tNak yang mahal dik---ambik yang nilah Kak Dah bagi empat puluh lima ringgit.", "label": [[26, 31, "2nd"], [26, 31, "S"], [56, 61, "2nd"], [56, 61, "IO"], [56, 61, "3rd2"], [56, 61, "DO2"], [5, 8, "2nd"], [5, 8, "S"]]}
 {"id": 28, "text": "A29:\tYang tu bunganya besar-besar.", "label": []}
 {"id": 29, "text": "B30:\tTengok saja macam ni.", "label": [[5, 11, "2nd"], [5, 11, "S"]]}
 {"id": 30, "text": "B31:\tBila dah jadi baju---lawa ni.", "label": [[10, 13, "3rd"], [10, 13, "S"], [26, 30, "3rd"], [26, 30, "S"]]}
